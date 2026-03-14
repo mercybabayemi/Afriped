@@ -10,7 +10,7 @@ python_version: "3.11"
 
 # AfriPed
 
-AI-powered educational content generation for Nigerian learners.
+AI-powered educational content generation for Nigerian learners and teachers.
 
 ## Four Pillars
 
