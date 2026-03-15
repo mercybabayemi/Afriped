@@ -1,0 +1,16 @@
+{
+  "generated": "English Language Lesson Plan\nSubject: English\nTopic: Essay Writing — Argumentative Essays\nClass: SSS3 | Duration: 40 minutes\n\nObjective: Students will remember the structure of an argumentative essay.\n\nMaterials: Textbooks, notebooks.\n\nActivity (25 min):\nThe teacher lists the parts of an argumentative essay on the board:\n1. Introduction\n2. Body paragraphs\n3. Conclusion\nStudents name each component. Adaeze and Tunde identify the thesis statement. The class recalls examples of transition words.\n\nAssessment (10 min):\nStudents list five transition words and define 'thesis statement' from memory.\n\nClosure:\nHomework: Define 'counterargument' and identify one in a newspaper article.",
+  "reference": "NERDC SSS3 English lesson on argumentative essay writing that asks students to analyse, evaluate and construct arguments — not just recall structure.",
+  "content_type": "LESSON_PLAN",
+  "subject": "english",
+  "topic": "Argumentative Essay Writing",
+  "education_level": "SSS3",
+  "curriculum_board": "NERDC",
+  "expected_bloom": "EVALUATE",
+  "expected_language": "en",
+  "expected_skills": ["Critical Thinking", "Communication"],
+  "detected_skills": [],
+  "ablation_condition": "no_raq",
+  "known_failures": ["bloom_verb_presence"],
+  "notes": "Bloom mismatch: EVALUATE expected but objective says 'remember', activity uses 'list', 'name', 'recall', 'identify' — all REMEMBER-level verbs. No evaluate/assess/justify/critique verbs present."
+}

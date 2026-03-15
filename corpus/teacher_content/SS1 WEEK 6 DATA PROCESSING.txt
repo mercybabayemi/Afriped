@@ -1,0 +1,103 @@
+ENGREG HIGH SCHOOL
+24, Bankole Street, Pedro, Shomolu, Lagos
+WEEK: 6 FIRST TERMSESSION: 2024/2025
+SUBJECT: DATA PROCESSING
+TOPIC: Digitalization of Data
+CLASS:  SS 1
+DATE: 14th – 18th October, 2024
+REFERENCE BOOKS:  A Textbook for Data Processing SS 1 by Adedapo F. O. et al Pages 16 - 17
+Data Processing Textbook for SS 1 by Aboyede Jegede 15 - 17
+LEARNING PURPOSE: To provide learners with a foundational knowledge on digitalization of data and its key concepts.
+LESSON PERIOD: 1
+DURATION: 40 MINS
+LEARNING OBJECTIVE:  By the end of the lesson, students will be able to:
+Explain Digitalization of Data.
+Explain the key concepts of digitalization of data.
+KEYWORDS:  Digitalization, Data, Analog, Digital, Conversion, Processing, Storage.
+PREVIOUS LEARNING: The students are familiar with the classification of computer.
+INSTRUCTIONAL MATERIALS:
+Interactive board, computer system, Internet
+LEARNING ACTIVITIES IN STEPS:
+Step 1: The teacher marks assignment and makes correction.
+Step 2: The teacher asks questions on previous knowledge
+Step 3: The teacher modifies students’ response and introduces the new topic
+Step 4: Students would be taken through the derailed explanation of the lesson content
+Step 5: Students ask questions on the content of the lesson
+Step 6: Students would be evaluated based on behavioural objectives
+Step 7: Students Assignments are given and notes and marked
+LEARNING TIME FOR EACH STEP:
+Step 1: 3mins
+Step 2: 2mins
+Step 3: 3mins
+Step 4: 20mins
+Step 5: 2mins
+Step 6: 7mins
+Step 7: 3mins
+LEARNING SKILLS:
+Critical thinking, creative thinking, communicating and leadership development
+ACTIVITY
+Define Digitalization of Data.
+Explain any three key concepts of digitalization of data.
+EVALUATIVE QUESTIONS:
+Explain Digitalization of Data.
+Explain the key concepts of digitalization of data.
+ASSIGNMENT
+List the stages of digitalization of data and explain and two of them.
+DIGITALIZATION OF DATA
+Digitalization of data refers to converting analog information (e.g., text, images, audio) into digital formats that can be processed, stored, and transmitted by computers. This transformation enables easier access, modification, sharing, and analysis through binary code (0s and 1s).
+KEY CONCEPTS
+Data Conversion: Converting analog data (e.g., paper documents, audio) into digital formats like PDFs or digitized signals.
+Storage: Digital data can be stored on hard drives, SSDs, cloud services, or databases, reducing physical storage needs.
+Processing and Analysis: Software enables quick processing and advanced analytics of digitized data (e.g., sorting, machine learning).
+Data Transmission: Digital data can be transmitted globally over networks (e.g., the internet) using various protocols.
+ENGREG HIGH SCHOOL
+24, Bankole Street, Pedro, Shomolu, Lagos
+WEEK: 6 FIRST TERMSESSION: 2024/2025
+SUBJECT: DATA PROCESSING
+TOPIC: Digitalization of Data
+CLASS:  SS 1
+DATE: 14th – 18th October, 2024
+REFERENCE BOOKS:  A Textbook for Data Processing SS 1 by Adedapo F. O. et al Pages 16 - 17
+Data Processing Textbook for SS 1 by Aboyede Jegede 15 - 17
+LEARNING PURPOSE: To provide learners with a foundational knowledge on the stages of the digitalization of data.
+LESSON PERIOD: 2
+DURATION: 40 MINS
+LEARNING OBJECTIVE:  By the end of the lesson, students will be able to:
+List the stages of Digitalization of Data.
+Explain the stages of Digitalization of Data.
+KEYWORDS:  Digitalization, Data, Analog, Digital, Conversion, Processing, Storage.
+PREVIOUS LEARNING: The students are familiar with the classification of computer.
+INSTRUCTIONAL MATERIALS:
+Interactive board, computer system, Internet
+LEARNING ACTIVITIES IN STEPS:
+Step 1: The teacher marks assignment and makes correction.
+Step 2: The teacher asks questions on previous knowledge
+Step 3: The teacher modifies students’ response and introduces the new topic
+Step 4: Students would be taken through the derailed explanation of the lesson content
+Step 5: Students ask questions on the content of the lesson
+Step 6: Students would be evaluated based on behavioural objectives
+Step 7: Students Assignments are given and notes and marked
+LEARNING TIME FOR EACH STEP:
+Step 1: 3mins
+Step 2: 2mins
+Step 3: 3mins
+Step 4: 20mins
+Step 5: 2mins
+Step 6: 7mins
+Step 7: 3mins
+LEARNING SKILLS:
+Critical thinking, creative thinking, communicating and leadership development
+ACTIVITY
+List the six stages of Digitalization of Data.
+EVALUATIVE QUESTIONS:
+List the stages of Digitalization of Data.
+Explain the stages of Digitalization of Data.
+ASSIGNMENT
+Explain the first five stages of Digitalization of Data.
+STAGES OF DIGITALIZATION
+Data Collection: This is the initial stage where information is gathered from various sources. The quality and completeness of data gathered at this stage impact the entire digitalization process.
+Data Conversion: In this phase, analog or physical data is converted into a digital format. This could involve scanning paper documents, or digitizing audio/video content.
+Data Storage: This involves saving the data on local servers, external hard drives, or in the cloud. Data storage solutions are chosen based on factors like security, accessibility, and storage capacity.
+Data Processing: At this stage, the digitized data is manipulated, analyzed, or interpreted through various software tools and algorithms.
+Data Sharing: After data is processed, it often needs to be shared with others. Data sharing requires secure protocols to protect privacy and ensure that the right data reaches the right users efficiently.
+Data Utilization: The final step involves using the processed and shared data for its intended purpose, such as decision-making, reporting, automating workflows, or providing real-time insights.

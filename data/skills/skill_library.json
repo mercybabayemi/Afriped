@@ -1,0 +1,620 @@
+{
+  "version": "1.0.0",
+  "source": "Skill Library",
+  "domains": {
+    "technical": {
+      "description": "Technical and domain-specific skills",
+      "skills": [
+        {
+          "skill_name": "Programming and Software Development",
+          "skill_domain": "technical",
+          "parent_skill": null,
+          "description": "Core skills for writing, testing, and deploying software"
+        },
+        {
+          "skill_name": "Algorithms and Data Structures",
+          "skill_domain": "technical",
+          "parent_skill": "Programming and Software Development",
+          "description": "Design and analysis of algorithms and data organisation"
+        },
+        {
+          "skill_name": "Testing and QA",
+          "skill_domain": "technical",
+          "parent_skill": "Programming and Software Development",
+          "description": "Software testing methodologies and quality assurance practices"
+        },
+        {
+          "skill_name": "Version Control",
+          "skill_domain": "technical",
+          "parent_skill": "Programming and Software Development",
+          "description": "Managing code changes with tools such as Git"
+        },
+        {
+          "skill_name": "Secure Development",
+          "skill_domain": "technical",
+          "parent_skill": "Programming and Software Development",
+          "description": "Building software with security best practices"
+        },
+        {
+          "skill_name": "API Design",
+          "skill_domain": "technical",
+          "parent_skill": "Programming and Software Development",
+          "description": "Designing and documenting REST or GraphQL APIs"
+        },
+        {
+          "skill_name": "Data Analysis and Statistical Methods",
+          "skill_domain": "technical",
+          "parent_skill": null,
+          "description": "Extracting insights from data using statistical approaches"
+        },
+        {
+          "skill_name": "Statistical Analysis",
+          "skill_domain": "technical",
+          "parent_skill": "Data Analysis and Statistical Methods",
+          "description": "Applying statistical techniques to interpret data"
+        },
+        {
+          "skill_name": "Data Visualization",
+          "skill_domain": "technical",
+          "parent_skill": "Data Analysis and Statistical Methods",
+          "description": "Representing data graphically to communicate findings"
+        },
+        {
+          "skill_name": "SQL",
+          "skill_domain": "technical",
+          "parent_skill": "Data Analysis and Statistical Methods",
+          "description": "Querying and managing relational databases with SQL"
+        },
+        {
+          "skill_name": "Machine Learning Fundamentals",
+          "skill_domain": "technical",
+          "parent_skill": "Data Analysis and Statistical Methods",
+          "description": "Core concepts of supervised, unsupervised, and reinforcement learning"
+        },
+        {
+          "skill_name": "Project Management",
+          "skill_domain": "technical",
+          "parent_skill": null,
+          "description": "Planning, executing, and closing projects effectively"
+        },
+        {
+          "skill_name": "Scope Management",
+          "skill_domain": "technical",
+          "parent_skill": "Project Management",
+          "description": "Defining and controlling what is and is not included in a project"
+        },
+        {
+          "skill_name": "Schedule Management",
+          "skill_domain": "technical",
+          "parent_skill": "Project Management",
+          "description": "Creating and maintaining project timelines"
+        },
+        {
+          "skill_name": "Risk Management",
+          "skill_domain": "technical",
+          "parent_skill": "Project Management",
+          "description": "Identifying, assessing, and mitigating project risks"
+        },
+        {
+          "skill_name": "Stakeholder Management",
+          "skill_domain": "technical",
+          "parent_skill": "Project Management",
+          "description": "Engaging and managing expectations of project stakeholders"
+        },
+        {
+          "skill_name": "Financial Management and Accounting",
+          "skill_domain": "technical",
+          "parent_skill": null,
+          "description": "Managing financial records, budgets, and reports"
+        },
+        {
+          "skill_name": "Financial Reporting",
+          "skill_domain": "technical",
+          "parent_skill": "Financial Management and Accounting",
+          "description": "Preparing and interpreting financial statements"
+        },
+        {
+          "skill_name": "Budgeting",
+          "skill_domain": "technical",
+          "parent_skill": "Financial Management and Accounting",
+          "description": "Planning and controlling financial resources"
+        },
+        {
+          "skill_name": "Auditing",
+          "skill_domain": "technical",
+          "parent_skill": "Financial Management and Accounting",
+          "description": "Systematic examination of financial accounts and processes"
+        },
+        {
+          "skill_name": "Information Security and Cybersecurity",
+          "skill_domain": "technical",
+          "parent_skill": null,
+          "description": "Protecting digital assets from threats and vulnerabilities"
+        },
+        {
+          "skill_name": "Risk Assessment",
+          "skill_domain": "technical",
+          "parent_skill": "Information Security and Cybersecurity",
+          "description": "Evaluating security risks and their potential impact"
+        },
+        {
+          "skill_name": "Identity and Access Management",
+          "skill_domain": "technical",
+          "parent_skill": "Information Security and Cybersecurity",
+          "description": "Controlling who can access systems and data"
+        },
+        {
+          "skill_name": "Incident Response",
+          "skill_domain": "technical",
+          "parent_skill": "Information Security and Cybersecurity",
+          "description": "Detecting, containing, and recovering from security incidents"
+        },
+        {
+          "skill_name": "Digital Marketing Strategy",
+          "skill_domain": "technical",
+          "parent_skill": null,
+          "description": "Planning and executing digital marketing campaigns"
+        },
+        {
+          "skill_name": "SEO",
+          "skill_domain": "technical",
+          "parent_skill": "Digital Marketing Strategy",
+          "description": "Optimising content for search engine visibility"
+        },
+        {
+          "skill_name": "Marketing Analytics",
+          "skill_domain": "technical",
+          "parent_skill": "Digital Marketing Strategy",
+          "description": "Measuring and analysing marketing campaign performance"
+        },
+        {
+          "skill_name": "Supply Chain and Operations Management",
+          "skill_domain": "technical",
+          "parent_skill": null,
+          "description": "Managing the flow of goods, services, and information"
+        },
+        {
+          "skill_name": "Inventory Management",
+          "skill_domain": "technical",
+          "parent_skill": "Supply Chain and Operations Management",
+          "description": "Tracking and optimising stock levels"
+        },
+        {
+          "skill_name": "Process Optimization",
+          "skill_domain": "technical",
+          "parent_skill": "Supply Chain and Operations Management",
+          "description": "Improving operational workflows for efficiency"
+        },
+        {
+          "skill_name": "Product Management",
+          "skill_domain": "technical",
+          "parent_skill": null,
+          "description": "Guiding products from conception through launch"
+        },
+        {
+          "skill_name": "Product Strategy",
+          "skill_domain": "technical",
+          "parent_skill": "Product Management",
+          "description": "Defining product vision, goals, and roadmap"
+        },
+        {
+          "skill_name": "Product Discovery",
+          "skill_domain": "technical",
+          "parent_skill": "Product Management",
+          "description": "Researching and validating product ideas with users"
+        },
+        {
+          "skill_name": "Agile and Scrum",
+          "skill_domain": "technical",
+          "parent_skill": "Product Management",
+          "description": "Applying Agile frameworks to manage iterative development"
+        }
+      ]
+    },
+    "behavioral": {
+      "description": "Interpersonal, leadership, and professional conduct skills",
+      "skills": [
+        {
+          "skill_name": "Communication",
+          "skill_domain": "behavioral",
+          "parent_skill": null,
+          "description": "Exchanging information clearly and effectively"
+        },
+        {
+          "skill_name": "Active Listening",
+          "skill_domain": "behavioral",
+          "parent_skill": "Communication",
+          "description": "Fully concentrating on and understanding what others say"
+        },
+        {
+          "skill_name": "Written Communication",
+          "skill_domain": "behavioral",
+          "parent_skill": "Communication",
+          "description": "Conveying ideas clearly through written text"
+        },
+        {
+          "skill_name": "Public Speaking",
+          "skill_domain": "behavioral",
+          "parent_skill": "Communication",
+          "description": "Delivering speeches and presentations to audiences"
+        },
+        {
+          "skill_name": "Persuasion",
+          "skill_domain": "behavioral",
+          "parent_skill": "Communication",
+          "description": "Influencing others through reasoned argument and evidence"
+        },
+        {
+          "skill_name": "Leadership",
+          "skill_domain": "behavioral",
+          "parent_skill": null,
+          "description": "Guiding and inspiring individuals or teams toward goals"
+        },
+        {
+          "skill_name": "Decision Making",
+          "skill_domain": "behavioral",
+          "parent_skill": "Leadership",
+          "description": "Selecting the best course of action from available options"
+        },
+        {
+          "skill_name": "Delegation",
+          "skill_domain": "behavioral",
+          "parent_skill": "Leadership",
+          "description": "Assigning tasks to team members appropriately"
+        },
+        {
+          "skill_name": "Coaching and Mentorship",
+          "skill_domain": "behavioral",
+          "parent_skill": "Leadership",
+          "description": "Supporting others' growth through guidance and feedback"
+        },
+        {
+          "skill_name": "Conflict Resolution",
+          "skill_domain": "behavioral",
+          "parent_skill": "Leadership",
+          "description": "Resolving disagreements constructively"
+        },
+        {
+          "skill_name": "Collaboration and Teamwork",
+          "skill_domain": "behavioral",
+          "parent_skill": null,
+          "description": "Working effectively with others toward shared goals"
+        },
+        {
+          "skill_name": "Empathy",
+          "skill_domain": "behavioral",
+          "parent_skill": "Collaboration and Teamwork",
+          "description": "Understanding and sharing the feelings of others"
+        },
+        {
+          "skill_name": "Accountability",
+          "skill_domain": "behavioral",
+          "parent_skill": "Collaboration and Teamwork",
+          "description": "Taking responsibility for one's actions and results"
+        },
+        {
+          "skill_name": "Adaptability",
+          "skill_domain": "behavioral",
+          "parent_skill": null,
+          "description": "Adjusting effectively to changing circumstances"
+        },
+        {
+          "skill_name": "Learning Agility",
+          "skill_domain": "behavioral",
+          "parent_skill": "Adaptability",
+          "description": "Rapidly acquiring new knowledge and skills"
+        },
+        {
+          "skill_name": "Stress Management",
+          "skill_domain": "behavioral",
+          "parent_skill": "Adaptability",
+          "description": "Maintaining performance under pressure"
+        },
+        {
+          "skill_name": "Professional Ethics",
+          "skill_domain": "behavioral",
+          "parent_skill": null,
+          "description": "Adhering to moral principles in professional settings"
+        },
+        {
+          "skill_name": "Integrity",
+          "skill_domain": "behavioral",
+          "parent_skill": "Professional Ethics",
+          "description": "Acting with honesty and strong moral principles"
+        },
+        {
+          "skill_name": "Ethical Decision Making",
+          "skill_domain": "behavioral",
+          "parent_skill": "Professional Ethics",
+          "description": "Evaluating options through an ethical framework"
+        },
+        {
+          "skill_name": "Time Management",
+          "skill_domain": "behavioral",
+          "parent_skill": null,
+          "description": "Using time efficiently to achieve goals"
+        },
+        {
+          "skill_name": "Prioritization",
+          "skill_domain": "behavioral",
+          "parent_skill": "Time Management",
+          "description": "Ordering tasks by importance and urgency"
+        },
+        {
+          "skill_name": "Productivity Planning",
+          "skill_domain": "behavioral",
+          "parent_skill": "Time Management",
+          "description": "Structuring work to maximise output"
+        },
+        {
+          "skill_name": "Emotional Intelligence",
+          "skill_domain": "behavioral",
+          "parent_skill": null,
+          "description": "Recognising and managing emotions in oneself and others"
+        },
+        {
+          "skill_name": "Self Awareness",
+          "skill_domain": "behavioral",
+          "parent_skill": "Emotional Intelligence",
+          "description": "Understanding one's own emotions, strengths, and weaknesses"
+        },
+        {
+          "skill_name": "Emotional Regulation",
+          "skill_domain": "behavioral",
+          "parent_skill": "Emotional Intelligence",
+          "description": "Managing emotional responses effectively"
+        }
+      ]
+    },
+    "cognitive": {
+      "description": "Thinking, reasoning, and problem-solving aptitude",
+      "skills": [
+        {
+          "skill_name": "Critical Thinking",
+          "skill_domain": "cognitive",
+          "parent_skill": null,
+          "description": "Analysing information objectively to form a reasoned judgement"
+        },
+        {
+          "skill_name": "Logical Reasoning",
+          "skill_domain": "cognitive",
+          "parent_skill": "Critical Thinking",
+          "description": "Drawing valid conclusions from premises using formal logic"
+        },
+        {
+          "skill_name": "Deductive Reasoning",
+          "skill_domain": "cognitive",
+          "parent_skill": "Critical Thinking",
+          "description": "Applying general principles to reach specific conclusions"
+        },
+        {
+          "skill_name": "Inductive Reasoning",
+          "skill_domain": "cognitive",
+          "parent_skill": "Critical Thinking",
+          "description": "Forming general conclusions from specific observations"
+        },
+        {
+          "skill_name": "Problem Solving",
+          "skill_domain": "cognitive",
+          "parent_skill": null,
+          "description": "Finding effective solutions to complex challenges"
+        },
+        {
+          "skill_name": "Root Cause Analysis",
+          "skill_domain": "cognitive",
+          "parent_skill": "Problem Solving",
+          "description": "Identifying the underlying cause of a problem"
+        },
+        {
+          "skill_name": "Systems Thinking",
+          "skill_domain": "cognitive",
+          "parent_skill": "Problem Solving",
+          "description": "Understanding how parts of a system interact as a whole"
+        },
+        {
+          "skill_name": "Numerical Reasoning",
+          "skill_domain": "cognitive",
+          "parent_skill": null,
+          "description": "Working effectively with numbers and quantitative data"
+        },
+        {
+          "skill_name": "Quantitative Analysis",
+          "skill_domain": "cognitive",
+          "parent_skill": "Numerical Reasoning",
+          "description": "Using mathematical methods to analyse numerical data"
+        },
+        {
+          "skill_name": "Statistical Interpretation",
+          "skill_domain": "cognitive",
+          "parent_skill": "Numerical Reasoning",
+          "description": "Making sense of statistical results and their significance"
+        },
+        {
+          "skill_name": "Verbal Reasoning",
+          "skill_domain": "cognitive",
+          "parent_skill": null,
+          "description": "Understanding and reasoning with written language"
+        },
+        {
+          "skill_name": "Reading Comprehension",
+          "skill_domain": "cognitive",
+          "parent_skill": "Verbal Reasoning",
+          "description": "Understanding and interpreting written texts"
+        },
+        {
+          "skill_name": "Inference Drawing",
+          "skill_domain": "cognitive",
+          "parent_skill": "Verbal Reasoning",
+          "description": "Reaching conclusions not explicitly stated in a text"
+        },
+        {
+          "skill_name": "Spatial Reasoning",
+          "skill_domain": "cognitive",
+          "parent_skill": null,
+          "description": "Visualising and manipulating objects in space"
+        },
+        {
+          "skill_name": "Pattern Recognition",
+          "skill_domain": "cognitive",
+          "parent_skill": "Spatial Reasoning",
+          "description": "Identifying regularities and patterns in data or shapes"
+        },
+        {
+          "skill_name": "Attention to Detail",
+          "skill_domain": "cognitive",
+          "parent_skill": null,
+          "description": "Noticing and addressing fine details accurately"
+        },
+        {
+          "skill_name": "Working Memory",
+          "skill_domain": "cognitive",
+          "parent_skill": null,
+          "description": "Holding and manipulating information in mind over short periods"
+        },
+        {
+          "skill_name": "Decision Analysis",
+          "skill_domain": "cognitive",
+          "parent_skill": null,
+          "description": "Evaluating options systematically to make optimal decisions"
+        },
+        {
+          "skill_name": "Scenario Evaluation",
+          "skill_domain": "cognitive",
+          "parent_skill": "Decision Analysis",
+          "description": "Assessing different scenarios to anticipate outcomes"
+        },
+        {
+          "skill_name": "Active Learning",
+          "skill_domain": "cognitive",
+          "parent_skill": null,
+          "description": "Engaging deeply with new information to internalise understanding"
+        }
+      ]
+    },
+    "language": {
+      "description": "Communication proficiency across languages and registers",
+      "skills": [
+        {
+          "skill_name": "English Proficiency",
+          "skill_domain": "language",
+          "parent_skill": null,
+          "description": "Competency in using the English language across contexts"
+        },
+        {
+          "skill_name": "English Reading",
+          "skill_domain": "language",
+          "parent_skill": "English Proficiency",
+          "description": "Reading and comprehending English texts"
+        },
+        {
+          "skill_name": "English Writing",
+          "skill_domain": "language",
+          "parent_skill": "English Proficiency",
+          "description": "Producing clear and correct written English"
+        },
+        {
+          "skill_name": "English Listening",
+          "skill_domain": "language",
+          "parent_skill": "English Proficiency",
+          "description": "Understanding spoken English"
+        },
+        {
+          "skill_name": "English Speaking",
+          "skill_domain": "language",
+          "parent_skill": "English Proficiency",
+          "description": "Communicating fluently in spoken English"
+        },
+        {
+          "skill_name": "Grammar and Syntax",
+          "skill_domain": "language",
+          "parent_skill": "English Proficiency",
+          "description": "Understanding and applying grammatical rules"
+        },
+        {
+          "skill_name": "Vocabulary Development",
+          "skill_domain": "language",
+          "parent_skill": "English Proficiency",
+          "description": "Expanding range and accuracy of word usage"
+        },
+        {
+          "skill_name": "French Proficiency",
+          "skill_domain": "language",
+          "parent_skill": null,
+          "description": "Competency in using the French language"
+        },
+        {
+          "skill_name": "French Reading",
+          "skill_domain": "language",
+          "parent_skill": "French Proficiency",
+          "description": "Reading and comprehending French texts"
+        },
+        {
+          "skill_name": "French Writing",
+          "skill_domain": "language",
+          "parent_skill": "French Proficiency",
+          "description": "Producing clear and correct written French"
+        },
+        {
+          "skill_name": "Business Communication",
+          "skill_domain": "language",
+          "parent_skill": null,
+          "description": "Communicating professionally in workplace settings"
+        },
+        {
+          "skill_name": "Report Writing",
+          "skill_domain": "language",
+          "parent_skill": "Business Communication",
+          "description": "Structuring and writing formal reports"
+        },
+        {
+          "skill_name": "Presentation Delivery",
+          "skill_domain": "language",
+          "parent_skill": "Business Communication",
+          "description": "Delivering structured presentations to audiences"
+        },
+        {
+          "skill_name": "Professional Correspondence",
+          "skill_domain": "language",
+          "parent_skill": "Business Communication",
+          "description": "Writing emails, letters, and memos in a professional register"
+        },
+        {
+          "skill_name": "Technical Writing",
+          "skill_domain": "language",
+          "parent_skill": null,
+          "description": "Creating clear technical documents and manuals"
+        },
+        {
+          "skill_name": "Documentation Structuring",
+          "skill_domain": "language",
+          "parent_skill": "Technical Writing",
+          "description": "Organising technical content for clarity"
+        },
+        {
+          "skill_name": "Editing and Proofreading",
+          "skill_domain": "language",
+          "parent_skill": "Technical Writing",
+          "description": "Reviewing and correcting written content"
+        },
+        {
+          "skill_name": "Multilingual Communication",
+          "skill_domain": "language",
+          "parent_skill": null,
+          "description": "Communicating effectively across multiple languages"
+        },
+        {
+          "skill_name": "Cross-Cultural Communication",
+          "skill_domain": "language",
+          "parent_skill": "Multilingual Communication",
+          "description": "Adapting communication style across cultures"
+        },
+        {
+          "skill_name": "Translation Skills",
+          "skill_domain": "language",
+          "parent_skill": "Multilingual Communication",
+          "description": "Accurately translating content between languages"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,98 @@
+ENGREG HIGH SCHOOL
+24, Bankole Street, Pedro, Shomolu, Lagos
+WEEK: 8FIRST TERMSESSION: 2024/2025
+SUBJECT: DATA PROCESSING
+TOPIC: ENTITY RELATIONSHIP MODEL II
+CLASS:  SS 2
+DATE: 4th - 8th November, 2024
+REFERENCE BOOKS:  A Textbook for Data Processing SS 2 by Adedapo F. O. et al Pages 27 - 29
+LEARNING PURPOSE: To provide learners with a foundational understanding of relationships between entities.
+LESSON PERIOD: 1
+DURATION: 40 MINS
+LEARNING OBJECTIVE:  By the end of the lesson, students will be able to:
+1. Discuss relational model keys
+KEYWORDS: NULL
+PREVIOUS LEARNING: The students are familiar with data modelling
+INSTRUCTIONAL MATERIALS:
+Interactive board, computer system, Internet
+LEARNING ACTIVITIES IN STEPS:
+Step 1: The teacher marks assignment and makes correction.
+Step 2: The teacher asks questions on previous knowledge
+Step 3: The teacher modifies students’ response and introduces the new topic
+Step 4: Students would be taken through the derailed explanation of the lesson content
+Step 5: Students ask questions on the content of the lesson
+Step 6: Students would be evaluated based on behavioural objectives
+Step 7: Students Assignments are given and notes and marked
+LEARNING TIME FOR EACH STEP:
+Step 1: 3mins
+Step 2: 2mins
+Step 3: 3mins
+Step 4: 20mins
+Step 5: 2mins
+Step 6: 7mins
+Step 7: 3mins
+LEARNING SKILLS:
+Critical thinking, creative thinking, communicating and leadership development
+ACTIVITY
+What is candidate key?
+EVALUATIVE QUESTIONS:
+1. Define relational model keys
+ASSIGNMENT
+Differentiate between primary and secondary key
+Relational model keys
+1.       Candidate key: Candidate keys are defined as the minimal set of fields which can uniquely identify each record in the table. It is an attribute or a set of attributes that can act as a primary key for a table to uniquely identify each record in that table.
+2.       Primary key: is any candidate key that is most appropriate to be the main reference key for the table. It is used to establish relationship with other tables. It must never be null and must be unique.
+3.       Foreign key: is generally a primary key of one table that appears as a field in another where the first table has a relationship with the second. In other words, if we have a table A with a primary key X that is linked to a table B where X is a field in B, then X is a foreign key in B.
+4.       Secondary key or alternative key: a table may have one or more choices for the primary key. Collectively these are known as candidate keys as shown above. One is selected as the primary key. Those not selected are known as secondary keys or alternative keys.
+5.       Composite key is combination of two or more columns in a table that can be used to uniquely identify each row in a table
+ENGREG HIGH SCHOOL
+24, Bankole Street, Pedro, Shomolu, Lagos
+WEEK: 9FIRST TERMSESSION: 2024/2025
+SUBJECT: DATA PROCESSING
+TOPIC: DRAWBACKS OF RELATIONAL MODEL
+CLASS:  SS 2
+DATE: 4th - 8th November, 2024
+REFERENCE BOOKS:  A Textbook for Data Processing SS 2 by Adedapo F. O. et al Pages 27 - 29
+LEARNING PURPOSE: To provide learners with a foundational understanding with relational model
+LESSON PERIOD: 2
+DURATION: 40 MINS
+LEARNING OBJECTIVE:  By the end of the lesson, students will be able to:
+Discuss integrity constraints over relations
+KEYWORDS: referential, Domain
+PREVIOUS LEARNING: The students are familiar with relationships between entities
+INSTRUCTIONAL MATERIALS:
+Interactive board, computer system, Internet
+LEARNING ACTIVITIES IN STEPS:
+Step 1: The teacher marks assignment and makes correction.
+Step 2: The teacher asks questions on previous knowledge
+Step 3: The teacher modifies students’ response and introduces the new topic
+Step 4: Students would be taken through the derailed explanation of the lesson content
+Step 5: Students ask questions on the content of the lesson
+Step 6: Students would be evaluated based on behavioural objectives
+Step 7: Students Assignments are given and notes and marked
+LEARNING TIME FOR EACH STEP:
+Step 1: 3mins
+Step 2: 2mins
+Step 3: 3mins
+Step 4: 20mins
+Step 5: 2mins
+Step 6: 7mins
+Step 7: 3mins
+LEARNING SKILLS:
+Critical thinking, creative thinking, communicating and leadership development
+ACTIVITY
+Define this terms:
+1. Entity integrity
+2. Referential integrity
+EVALUATIVE QUESTIONS:
+I.  Define integrity constraints over relation
+ASSIGNMENT
+Define this terms:
+1. Domain integrity
+2. User-defined integrity
+Integrity Constraints over Relations
+Integrity constraints ensure data accuracy and consistency within a relational database. They govern the permissible values and relationships between data elements. The primary types include:
+1. Entity Integrity: Ensures that the primary key for a table is unique and not NULL. This guarantees that each entity in a table is distinguishable from others.
+2.Referential Integrity: Ensures that a foreign key in one table refers to a valid primary key in another table. It prevents orphaned records and maintains consistent links between tables.
+3. Domain Integrity: Enforces valid data values in columns by setting constraints such as data type, format, and range. For example, a column defined as an integer cannot store text.
+4. User-Defined Integrity: Allows for additional business-specific constraints that may not fall under standard integrity types. These are custom rules set by users to meet particular requirements, such as age restrictions or product price ranges.

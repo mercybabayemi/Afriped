@@ -1,0 +1,16 @@
+{
+  "generated": "Mathematics Lesson\nTopic: Quadratic Equations\nClass: SSS2\n\nObjective: Students will apply the quadratic formula and factorisation to solve equations.\n\nActivity (25 min):\nEmeka and Ngozi come to the board to try some examples. Tunde, please solve x²-5x+6=0. The teacher asks Chioma to factorise x²+7x+12.\n\nSolution: x²-5x+6 = (x-2)(x-3), so x=2 or x=3. Students apply the quadratic formula to verify.\n\nFor homework, Adaeze and Ibrahim should solve the following five equations from the textbook.\n\nAssessment: Students solve x²-x-12=0 and verify by substitution. Calculate two more examples independently.",
+  "reference": "NERDC SSS2 Mathematics lesson on quadratic equations with Nigerian student examples, structured objectives, activities, and assessment.",
+  "content_type": "LESSON_PLAN",
+  "subject": "mathematics",
+  "topic": "Quadratic Equations",
+  "education_level": "SSS2",
+  "curriculum_board": "NERDC",
+  "expected_bloom": "APPLY",
+  "expected_language": "en",
+  "expected_skills": ["Problem Solving", "Numerical Reasoning"],
+  "detected_skills": ["Problem Solving"],
+  "ablation_condition": "rules_only",
+  "rules_triggered": ["cultural_flag_check", "format_compliance", "bloom_verb_presence"],
+  "notes": "Rules-only correction: (1) Western names replaced with Nigerian names (Emeka, Ngozi, Tunde, Chioma, Adaeze, Ibrahim). (2) Objective/Activity/Assessment labels added. (3) 'apply/calculate' added for bloom. But revision is template-based — no judge score to assess quality of revision. Missing explicit step-by-step scaffolding that a full RAQ LLM revision would add."
+}

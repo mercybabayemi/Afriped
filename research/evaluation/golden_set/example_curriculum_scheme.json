@@ -1,0 +1,22 @@
+{
+  "generated": "## SSS1 Mathematics Scheme of Work — Term 1\n**Curriculum Board:** NERDC | **Education Level:** SSS1 | **Duration:** 13 Weeks\n\n### Learning Objectives\nStudents will:\n- Define algebraic expressions and identify variables, constants, and coefficients\n- Apply basic algebraic operations (addition, subtraction, multiplication, division) to simplify expressions\n- Solve linear equations with one unknown using inverse operations\n\n---\n\n| Week | Topic | Sub-topic | Learning Objectives | Activities | Assessment |\n|---|---|---|---|---|---|\n| Week 1 | Introduction to Algebra | Variables, constants, expressions | Define algebraic terms; identify components | Teacher introduces algebra using market pricing examples (₦ per kg of garri); students label expressions | Oral Q&A on definitions |\n| Week 2 | Algebraic Expressions | Simplifying like terms | Simplify algebraic expressions by combining like terms | Pair work: simplify 5 expressions; peer marking | Short quiz (5 questions) |\n| Week 3 | Algebraic Expressions | Expanding brackets | Apply the distributive law to expand brackets | Worked examples on board; group competition — who can expand fastest | Exit ticket |\n| Week 4 | Equations | Solving linear equations | Solve one-step and two-step linear equations | Emeka and Ngozi 'balance-scale' activity; physical balance metaphor | Written exercise |\n| Week 5 | Equations | Word problems | Translate word problems to equations and solve | Tunde has ₦450 after spending ₦x on transport — class solves together | Problem-solving worksheet |\n| 6–7 | Geometry | Angles and lines | Identify and calculate angles at a point, on a line, and in triangles | Protractor activities; measuring angles around Balogun Market-style junction diagrams | Practical assessment |\n| Week 8 | Geometry | Triangles | Apply angle sum properties of triangles | Group investigation: do all triangles have angle sum 180°? | Group report |\n| 9–10 | Number Theory | LCM and HCF | Calculate LCM and HCF using prime factorisation | Prime factorisation tree diagrams; LCM story problems using sharing of farm produce | Written test |\n| Week 11 | Statistics | Data collection | Collect, organise, and present data in frequency tables | Class survey: daily transport cost of students in ₦; frequency table construction | Peer review |\n| Week 12 | Statistics | Charts and graphs | Construct bar charts and pie charts from frequency tables | Graph paper activity; present findings to class | Poster display |\n| Week 13 | Revision & Assessment | All Term 1 topics | Recall and apply all Term 1 concepts | Past WAEC/NECO questions review; group quizzes | End-of-term examination |",
+  "reference": "NERDC SSS1 Mathematics Scheme of Work for Term 1 covering Algebra, Geometry, Number Theory, and Statistics with 13-week structure.",
+  "content_type": "SCHEME_OF_WORK",
+  "subject": "mathematics",
+  "topic": "SSS1 Term 1",
+  "education_level": "SSS1",
+  "curriculum_board": "NERDC",
+  "expected_bloom": "APPLY",
+  "expected_language": "en",
+  "expected_skills": ["Numerical Reasoning", "Problem Solving", "Critical Thinking"],
+  "detected_skills": ["Numerical Reasoning", "Problem Solving", "Critical Thinking"],
+  "validation": {
+    "status": "PASSED",
+    "rules_passed": ["length_check", "language_detection", "bloom_verb_presence", "cultural_flag_check", "no_hallucinated_dates", "no_explicit_content", "curriculum_alignment", "format_compliance"],
+    "rules_failed": [],
+    "judge_score": null,
+    "judge_dimensions": null,
+    "revision_count": 0,
+    "notes": []
+  }
+}

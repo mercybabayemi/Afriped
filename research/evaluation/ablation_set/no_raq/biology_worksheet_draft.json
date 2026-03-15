@@ -1,0 +1,16 @@
+{
+  "generated": "Biology Worksheet — Cell Structure\nSSS1 | NERDC\n\nFill in the blanks:\n1. The _______ is the control centre of the cell.\n2. The _______ produces energy for the cell.\n3. _______ is where protein synthesis occurs.\n\nMatch the organelle with its function:\nA. Nucleus      i. Controls what enters/exits the cell\nB. Mitochondria ii. Stores genetic material\nC. Cell membrane iii. Produces ATP\n\nDraw and label a plant cell.\n\nShort answer: Explain why plant cells have chloroplasts but animal cells do not.\n\nChallenge: Sarah and John are studying a mystery cell under the microscope. They see a cell wall and chloroplasts. Is this a plant or animal cell? How do they know?",
+  "reference": "NERDC SSS1 Biology worksheet on cell structure where students describe, classify, and compare plant and animal cell organelles — UNDERSTAND level cognition, West African student examples.",
+  "content_type": "LESSON_PLAN",
+  "subject": "biology",
+  "topic": "Cell Structure",
+  "education_level": "SSS1",
+  "curriculum_board": "NERDC",
+  "expected_bloom": "UNDERSTAND",
+  "expected_language": "en",
+  "expected_skills": ["Scientific Reasoning", "Inductive Reasoning"],
+  "detected_skills": ["Scientific Reasoning"],
+  "ablation_condition": "no_raq",
+  "known_failures": ["cultural_flag_check"],
+  "notes": "Cultural failure only: Sarah and John are Western names. Content structure is otherwise good — bloom verbs (explain, classify) present, format adequate for a worksheet. One soft rule failure."
+}

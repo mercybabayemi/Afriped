@@ -1,0 +1,31 @@
+{
+  "id": "gen_insights_REMEMBER_NABTEB_VOCATIONAL_ADVANCED_Electrical_Installation_0086",
+  "generated": "CONTENT ANALYSIS \u2014 Electrical Installation | VOCATIONAL_ADVANCED\n\nBloom Level Detected: REMEMBER\nCultural Authenticity: Nigerian names and contexts present (Aminu, Kemi, Okonkwo)\nReadability: Appropriate for VOCATIONAL_ADVANCED level\nFormat Compliance: All required sections present\nRecommendations: Content effectively requires students to state. Consider adding more open-ended questions targeting the EVALUATE level.",
+  "reference": "Insights: Electrical Installation content analysis for VOCATIONAL_ADVANCED level.\nBloom level detected: REMEMBER. Recommendation: add more define activities.",
+  "metadata": {
+    "content_type": "insights",
+    "bloom_level": "REMEMBER",
+    "board": "NABTEB",
+    "education_level": "VOCATIONAL_ADVANCED",
+    "subject": "Electrical Installation",
+    "output_language": "en",
+    "generation_method": "systematic_parameter_variation"
+  },
+  "expected": {
+    "bloom_level": "REMEMBER",
+    "output_language": "en",
+    "skill_tags": [
+      "content_analysis",
+      "bloom_classification",
+      "readability_assessment"
+    ],
+    "format_markers": [
+      "analysis",
+      "recommendation",
+      "level"
+    ]
+  },
+  "spot_check_required": true,
+  "human_validated": false,
+  "annotation_notes": ""
+}

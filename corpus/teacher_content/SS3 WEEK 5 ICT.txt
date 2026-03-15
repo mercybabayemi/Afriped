@@ -1,0 +1,145 @@
+ENGREG HIGH SCHOOL
+24, Bankole Street, Pedro, Shomolu, Lagos
+WEEK: 5FIRST TERMSESSION: 2024/2025
+SUBJECT: COMPUTER STUDIES
+TOPIC: DATABASE
+CLASS:  SS 3
+DATE: 7th – 11th October 2024
+REFERENCE BOOKS: New Computer Studies for SS 3 by J.O.E Otuka et al Pages 12-15
+Online with computers for SS 3 by Adedapo F. O. et al 19-22
+LEARNING PURPOSE: To provide foundational knowledge on Database, its examples and Operational Definitions.
+LESSON PERIOD: 1
+DURATION: 40 MINS
+LEARNING OBJECTIVE:  By the end of the lesson, students will be able to:
+Define Database
+Define DBMS
+List examples of database.
+Explain the operation definitions of Database
+State the steps to open MS. Access and create a query, form and report.
+KEYWORDS: Database, Field, Data, Record, File, Primary.
+PREVIOUS LEARNING:  The students were taught presentation packages in the last lesson.
+INSTRUCTIONAL MATERIALS:
+Interactive board, computer system, Internet
+LEARNING ACTIVITIES IN STEPS:
+Step 1: The teacher marks assignment and makes correction.
+Step 2: The teacher asks questions on previous knowledge
+Step 3: The teacher modifies students’ response and introduces the new topic
+Step 4: Students would be taken through the derailed explanation of the lesson content
+Step 5: Students ask questions on the content of the lesson
+Step 6: Students would be evaluated based on behavioural objectives
+Step 7: Students Assignments are given and notes are marked
+LEARNING TIME FOR EACH STEP:
+Step 1: 3mins
+Step 2: 2mins
+Step 3: 3mins
+Step 4: 20mins
+Step 5: 2mins
+Step 6: 7mins
+Step 7: 3mins
+LEARNING SKILLS:
+Critical thinking, creative thinking, communicating and leadership development
+ACTIVITY
+Define Database
+Define DBMS
+List three examples of database.
+EVALUATIVE QUESTIONS:
+Define Database
+Define DBMS
+List examples of database.
+Explain the operation definitions of Database
+State the steps to open MS. Access and create a query, form and report.
+ASSIGNMENT
+Explain five operation definitions of Database
+State the steps to open MS. Access and create a query, form and report.
+DATABASE
+A database is an organized collection of data stored and accessed electronically. Databases are structured in a way that allows for efficient storage, retrieval, and management of information.
+A database management system (DBMS) is a software package that allows for the creation, storage, maintenance, manipulation, and retrieval of large datasets distributed over one or more files.
+EXAMPLES OF DBMS
+Microsoft Access
+Dbase IV
+Oracle
+MYSQL
+FoxBASEPlus
+Operational Definitions
+Data: it is defined as raw facts or unprocessed facts or known facts.
+Field: The smallest unit of data in a database. It represents a single piece of information or attribute about a record, such as "Name" or "Age."
+Record: A collection of related fields that together represent a single data entry or entity in a database.
+File: A collection of related records. In modern databases, a file is equivalent to a table that holds multiple records of the same type.
+Key: A field (or a set of fields) used to uniquely identify records in a database table. Common types include:
+Primary Key: A unique identifier for each record in a table (e.g., Employee ID).
+Foreign Key: A field in one table that links to the primary key of another table, establishing a relationship between the two tables.
+Steps to open Microsoft Access
+Click the start menu
+Type Access and Double Click on the software.
+Select "Blank Database" to start a new database.
+Forms: Forms provide a user-friendly way to enter data into your tables.
+Create a Form
+In the "Create" tab, click on "Form Wizard."
+Select the "Books" table and add the fields you want to include in the form.
+Follow the wizard to set up the form layout and style.
+Name the form (e.g., "BookEntryForm") and finish.
+Create Queries: Queries allow you to retrieve specific data from your tables.
+Create a Basic Query
+In the "Create" tab, click on "Query Wizard"
+Add the tables you need for your query.
+Select the fields you want to display in the query result.
+Define criteria to filter the data.
+Save and name the query.
+Reports: Reports allow you to format and print data from your database.
+Create a Report
+In the "Create" tab, click on "Report Wizard."
+Select the query or table you want to base your report on.
+Follow the wizard to choose fields, grouping options, and layout.
+Name the report and finish.
+ENGREG HIGH SCHOOL
+24, Bankole Street, Pedro, Shomolu, Lagos
+WEEK: 5FIRST TERMSESSION: 2024/2025
+SUBJECT: COMPUTER STUDIES
+TOPIC: TYPES/FORMS OF DATABASE
+CLASS:  SS 3
+DATE: 7th – 11th October 2024
+REFERENCE BOOKS: New Computer Studies for SS 3 by J.O.E Otuka et al Pages 12-15
+Online with computers for SS 3 by Adedapo F. O. et al 19-22
+LEARNING PURPOSE: To provide foundational knowledge on the forms of database, its explanation and the tables of each form.
+LESSON PERIOD: 2
+DURATION: 40 MINS
+LEARNING OBJECTIVE:  By the end of the lesson, students will be able to:
+List the forms of database.
+Explain the Flat file, Hierarchical, Relational and Network Database.
+Identify the tables associated with the forms of Database.
+KEYWORDS: Database, Field, Data, Record, File, Primary, Hierarchical, Relational, Network.
+PREVIOUS LEARNING: The students were taught the definition of database and its examples in the last class.
+INSTRUCTIONAL MATERIALS:
+Interactive board, computer system, Internet
+LEARNING ACTIVITIES IN STEPS:
+Step 1: The teacher marks assignment and makes correction.
+Step 2: The teacher asks questions on previous knowledge
+Step 3: The teacher modifies students’ response and introduces the new topic
+Step 4: Students would be taken through the derailed explanation of the lesson content
+Step 5: Students ask questions on the content of the lesson
+Step 6: Students would be evaluated based on behavioural objectives
+Step 7: Students Assignments are given and notes are marked
+LEARNING TIME FOR EACH STEP:
+Step 1: 3mins
+Step 2: 2mins
+Step 3: 3mins
+Step 4: 20mins
+Step 5: 2mins
+Step 6: 7mins
+Step 7: 3mins
+LEARNING SKILLS:
+Critical thinking, creative thinking, communicating and leadership development
+ACTIVITY
+List the forms of database.
+Explain the Hierarchical and Network Database.
+EVALUATIVE QUESTIONS:
+List the forms of database.
+Explain the Flat file, Hierarchical, Relational and Network Database.
+Identify the tables associated with the forms of Database.
+ASSIGNMENT
+Illustrate the tables associated with the four forms of Database.
+TYPES/FORMS OF DATABASE
+Flat File Database: A simple database structure where data is stored in a single table or file. Often used for small-scale applications.
+Hierarchical Database: A database where data is organized in a tree-like structure with parent-child relationships. Each parent record can have multiple child records, but each child record has only one parent.
+Relational Database: A more flexible database model where data is stored in tables, and relationships between tables are established using keys. This allows for more complex queries and efficient data retrieval.
+Network Database: A network database is a type of database model that allows data to be organized in a graph-like structure, where each record can have multiple parent and child records. It allows for more complex, many-to-many relationships.

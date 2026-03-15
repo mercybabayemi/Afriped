@@ -1,0 +1,199 @@
+ENGREG HIGH SCHOOL
+24, Bankole Street, Pedro, Shomolu, Lagos
+WEEK: 7FIRST TERMSESSION: 2024/2025
+SUBJECT: DATA PROCESSING
+TOPIC: PARALLEL AND DISTRIBUTED DATABASE I
+CLASS:  SS 3
+DATE: 21th Octorber - 25th 2024
+REFERENCE BOOKS:  A Textbook for Data Processing SS 3 by Adedapo F. O. et al Pages 16 - 17
+LEARNING PURPOSE: To provide learners with a foundational understanding of parallel and distributed databases
+LESSON PERIOD: 1
+DURATION: 40 MINS
+LEARNING OBJECTIVE:  By the end of the lesson, students will be able to:
+Explain parallel database
+Discuss the architecture of parallel database
+Mention the advantages of parallel databases
+List disadvantages of parallel databases.
+KEYWORDS: architecture, parallelization,
+PREVIOUS LEARNING: The students are familiar with crash recovery
+INSTRUCTIONAL MATERIALS:
+Interactive board, computer system, Internet
+LEARNING ACTIVITIES IN STEPS:
+Step 1: The teacher marks assignment and makes correction.
+Step 2: The teacher asks questions on previous knowledge
+Step 3: The teacher modifies students’ response and introduces the new topic
+Step 4: Students would be taken through the derailed explanation of the lesson content
+Step 5: Students ask questions on the content of the lesson
+Step 6: Students would be evaluated based on behavioural objectives
+Step 7: Students Assignments are given and notes and marked
+LEARNING TIME FOR EACH STEP:
+Step 1: 3mins
+Step 2: 2mins
+Step 3: 3mins
+Step 4: 20mins
+Step 5: 2mins
+Step 6: 7mins
+Step 7: 3mins
+LEARNING SKILLS:
+Critical thinking, creative thinking, communicating and leadership development
+ACTIVITY
+Mention the three main architecture of DBMS
+EVALUATIVE QUESTIONS:
+Explain parallel databases
+Discuss architecture of parallel databases
+List 2 advantages of parallel databases
+List 2 disadvantages of parallel databases
+ASSIGNMENT
+What is shared memory system.
+PARALLEL AND DISTRIBUTED DATABASE
+Parallel database:
+Parallel Database improve processing and input/output speeds by using multiple CPU and disks in parallel. A Parallel Database system seeks to improve performance through parallelization of various operations, such as loading data, building indexes and evaluating queries. In Parallel processing, many operations are performed simultaneously, as opposed to serial processing, in which the computational steps are performed sequentially.
+Organizations of every size benefit from databases because they improve the management of information. The database has a server, a specialized program that oversees all user requests. Organization use parallel database approach for a large user base and millions of records to process. They are fast, flexible and reliable.
+ARCHITECTURE FOR PARALLEL DATABASE
+There are three main architectures for building parallel DBMS
+• Shared Memory
+• Shared Disk System
+• Shared Nothing System
+1. Shared Memory System: This is where multiple processors are attached to an interconnected network and access a common region of memory.
+Advantages
+1. It is closer to a conventional machine and easy to program.
+2. Overhead is low.
+3. OS Services are leveraged to utilized the additional CPU
+Disadvantages
+1. It leads to a bottleneck problem.
+2. Expensive to build.
+3. It is less sensitive to partitioning
+2. Shared disk system: where each processor has its own main memory, and direct access to all disks through an interconnected network.
+Advantages
+1. The same with shared memory
+Disadvantages
+1. More interference
+2. Increases N/ W bandwidth.
+3. The shared disk is less sensitive to partitioning.
+3. Shared nothing: This is where each processor has local main memory and disk space, but no two processors can access the same storage area and all communication between processor is through a network connection. It has its own mass storage as well as main memory.
+Advantages
+1. It provides a linear scale-up and linear speedup.
+2. Shared nothing benefit from "good" partitioning.
+3. Cheap to build.
+Disadvantages
+1. It is hard to program.
+2. Addition of new nodes requires reorganization.
+ADVANTAGES OF PARALLEL DATABASES
+A parallel database runs on many computers at the same time.
+1. High Performances
+2. Speed
+3. Reliability
+4. Capacity
+DISADVANTAGES OF PARALLEL DATABASE
+1. Implementation is highly expensive.
+2. Handling Parallel database simultaneously is difficult and complex.
+3. A lot of resources are needed to support and maintain the database.
+ENGREG HIGH SCHOOL
+24, Bankole Street, Pedro, Shomolu, Lagos
+WEEK: 7FIRST TERMSESSION: 2024/2025
+SUBJECT: DATA PROCESSING
+TOPIC: DISTRIBUTED DATABASE
+CLASS:  SS 3
+DATE: 21th Octorber - 25th 2024
+REFERENCE BOOKS:  A Textbook for Data Processing SS 3 by Adedapo F. O. et al Pages 16 - 17
+LEARNING PURPOSE: To provide learners with a foundational understanding of distributed databases
+LESSON PERIOD: 2
+DURATION: 40 MINS
+LEARNING OBJECTIVE:  By the end of the lesson, students will be able to:
+Define distributed databases
+Enumerate and explain types of distributed database
+Advantages of distributed database
+Disadvantages of distributed database
+Storing data in distributed Database
+Parallel database against distributed database
+KEYWORDS: WAL, Atomicity, dumps
+PREVIOUS LEARNING: The students are familiar with parallel databases
+INSTRUCTIONAL MATERIALS:
+Interactive board, computer system, Internet
+LEARNING ACTIVITIES IN STEPS:
+Step 1: The teacher marks assignment and makes correction.
+Step 2: The teacher asks questions on previous knowledge
+Step 3: The teacher modifies students’ response and introduces the new topic
+Step 4: Students would be taken through the derailed explanation of the lesson content
+Step 5: Students ask questions on the content of the lesson
+Step 6: Students would be evaluated based on behavioural objectives
+Step 7: Students Assignments are given and notes and marked
+LEARNING TIME FOR EACH STEP:
+Step 1: 3mins
+Step 2: 2mins
+Step 3: 3mins
+Step 4: 20mins
+Step 5: 2mins
+Step 6: 7mins
+Step 7: 3mins
+LEARNING SKILLS:
+Critical thinking, creative thinking, communicating and leadership development
+ACTIVITY
+1. List types of distributed database
+EVALUATIVE QUESTIONS:
+1. Define distributed databases
+2.Enumerate and explain types of distributed database
+3.List Advantages of distributed database
+4.Disadvantages of distributed database
+5.Explain the process of Storing data in distributed Database
+ASSIGNMENT:
+What is fragmentation?
+DISTRIBUTED DATABASE
+A Distributed database (DDB) is a collection of multiple, logical interrelated database distributed over a computer network.
+A Distributed database management system (DDBMS) is the software that manages the DDB and provides an access mechanism that makes this distribution transparent to the users. A distributed database system is a system that permits physical data storage across several sites and each site/node is managed by a DBMS that is capable of running independently of the other sites. It is a database in which storage devices are not all attached to a common processing unit as the CPU,controlled by a distributed database management system. It may be stored in multiple computers, located in the same physical location; or may be dispersed over a network of interconnected computers. System administrators can distribute collections of data (e. g in a
+database) across multiple physical locations. A distributed database can reside on network servers on the internet, on corporate intranets, or other company networks.
+Two processing ensure that the distributed database remain up- to date and current:
+• Replication: involves using specialized software that looks for changes in the distributed database. Once the changes have been identified, the replication process makes all the databases look the same. The replication process can be complex and time-consuming depending on the size and number of the distributed databases
+• Duplication: This process has less complexity, it basically identifies one database as a master and then duplicates that database. The duplication process is normally done at a set time hour. This is to ensure that each distributed location has the same data. In the duplication process, users may change only the master database, which ensures that local data will not be overwritten.
+A Distributed Database management system is designed for heterogeneous database platforms that focus on heterogeneous database management systems. The following property is considered desirable:
+1. Distributed Data Independence: Users should be able to ask queries without specifying where the referenced relations or copies or fragments of the relations are located.
+2. Distributed Transaction Atomicity: User should be able to write transactions that access and update at several sites just as they would write transactions over purely local data
+Types of distributed database
+There are two major types of distributed database systems: they are:
+1. Homogenous distributed database
+2. Heterogeneous distributed database.
+Homogenous distributed database:
+1. The following conditions must be satisfied for the homogeneous database:
+2. The operating system use, at each location, must be the same.
+3. the operating system, must, data structures and database application used at each location must be same or compatible.
+Heterogeneous distributed database:
+The following conditions must be satisfied for the heterogeneous database:
+1. Different sites may use different schema and software.
+2. In heterogeneous systems, different nodes may have different hardware, software and data structure at various nodes or locations.
+Advantages of distributed databases
+1. Data is stored at many sites, also referred to as nodes.
+2. The processors at nodes are interconnected by a computer network rather than a multiprocessor configuration.
+3. The distributed database is indeed a true database, not a collection of files that can be stored individually at each node.
+4. The overall system has the full functionality of a database management system.
+5. Reliable transactions due to the replication of database
+6. Hardware, operating system, network, fragmentation, DBMS, replication and location independence.
+7. Continuous operation, even if some nodes go offline.
+8. Distributed query processes can improve performance.
+9. Easier expansion.
+10. Local autonomy of site autonomy: a department can control the data about them.
+11. Protection of valuable data if there is a fire outbreak as a result of the distributed data in multiple sites.
+12. Modularity systems can be modified added and removed fro the distributed database without affecting other systems or modules.
+13. It is very economical.
+Disadvantages of distributed databases
+1. Data integrity is difficult to maintain.
+2. Distributed data is very complex in nature. For example, extra work must be done to maintain multiple disparate systems, instead of one big one.
+3. It is not really economical because a more extensive infrastructure implies extra labour costs.
+4. Absence of standards right.
+5. Additional software is needed.
+6. Complexity in database design.
+7. The operating system should support a distributed environment.
+Storing data in DDBS
+Data storage in a distributed database involve two concepts
+1. Fragmentation
+2. Replication
+3. Fragmentation: This is a process of splitting a relation into smaller relation or fragments, and storing the fragment possibly at different sites. In horizontal fragmentation, each fragment consists of a subset of rows of the original relation. While in vertical fragmentation, each fragment consists of a subset of columns of the original relations.
+4. Replication: This means that several copies of a relation or relation fragment can be stored. An entire relation can be replicated at one or more sites. Similarly, one or more fragments of a relation can be replicated at other sites. For example, if a relation R is fragmented into R1, R2 and R3, there might be just one copy of R1, whereas R2 is replicated at two other sites and R3 is replicated at all sites.
+Parallel DBMS against distributed DBMS
+• Parallel Distributed System: seeks to improve performance through parallelization of various operations, such as data loading, index building and query evaluating.
+• Distributed Database System: Data is physically stored across several sites, and each site is typically managed by a DBMS capable of running independently of the other sites. The distribution of data is governed by factors such as local ownership and increased availability.
+1. System component:
+Distributed DBMS consists of many Geo-distributed, low -bandwidth link connected, autonomic site. While parallel DBMS consists of tightly coupled, high- bandwidth link connected, non- autonomic node.
+2. Component role:
+Sites in distributed DBMS can work independently to handle local transaction or work together to handle global transactions. While nodes in parallel DBMS can only work together to handle global transactions.
+3. Design purposes:
+Distributed DBMS is for sharing data, local autonomy, high availability, while parallel DBMSA is for high- performance high availability.

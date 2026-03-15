@@ -1,0 +1,24 @@
+PIE CHART:
+A pie chart is a circular chart divided into sectors or slices, where each slice represents a proportion of the whole. It is useful for displaying percentage or proportional data.
+Example: Showing the percentage distribution of expenses in a monthly budget.
+Steps to create a pie chart:
+Collect data that represents parts of a whole (e.g., market share, survey responses).
+Calculate the percentage each category contributes to the total.
+Select the data and choose the "Pie Chart" option.
+Each slice will represent a percentage of the total data.
+Editing Pie Charts:
+Explode slices: Pull out one or more slices to emphasize particular segments of the pie chart.
+Change slice colors: Modify the colors of each slice to make it more distinct and easier to differentiate between categories.
+Adjust percentages: Display percentages or values on the slices to clarify the proportion each category represents.
+Add a title: Ensure the pie chart has a clear title explaining what the data represents.
+HISTOGRAM:
+A histogram is a type of bar chart that shows the distribution of a dataset. The bars represent ranges of data, and the height of each bar shows how many data points fall within that range.
+Example: Displaying the number of students who scored within certain grade ranges in a test.
+Steps to create a histogram:
+Collect and organize data into ranges (bins).
+Count the number of data points that fall within each bin.
+Plot these frequencies as bars where the height represents the number of data points in each bin.
+Editing Histograms:
+Adjust bin width: Change the number of bins or the width of each bin to provide a clearer view of the data distribution.
+Label bins: Ensure bins are properly labeled with the correct intervals.
+Change bar color: Adjust the colors of the bars to make the histogram more visually appealing or to highlight specific data categories.

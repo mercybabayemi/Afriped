@@ -1,0 +1,129 @@
+ENGREG HIGH SCHOOL
+24, Bankole Street, Pedro, Shomolu, Lagos
+WEEK: 7 FIRST TERMSESSION: 2024/2025
+SUBJECT: COMPUTER STUDIES
+TOPIC: ADDING FORMULAS AND PERFORMING CALCULATIONS IN EXCEL
+CLASS:  JSS 3
+DATE:  21st – 25th October, 2024
+REFERENCE BOOKS: New Computer Studies for JSS 3 by J.O.E Otuka et al Pages 19-21
+WABP ICT for JSS 3 by Vincent Hope et al Pages 20-23
+LEARNING PURPOSE: To provide foundational knowledge on the Use of Microsoft Excel, How to perform basic calculations and add formulas.
+LESSON PERIOD: 1
+DURATION: 40 MINS
+LEARNING OBJECTIVE:  By the end of the lesson, students will be able to:
+Identify and use basic formulas for calculations on MS. Excel.
+Identify the syntax of each function.
+KEYWORDS:  Formula, SUM, AVERAGE, COUNT, MIN, MAX
+PREVIOUS LEARNING: The students have been taught the Spreadsheet Package and its examples.
+INSTRUCTIONAL MATERIALS:
+Interactive board, computer system, Internet
+LEARNING ACTIVITIES IN STEPS:
+Step 1: The teacher marks assignment and makes correction.
+Step 2: The teacher asks questions on previous knowledge
+Step 3: The teacher modifies students’ response and introduces the new topic
+Step 4: Students would be taken through the derailed explanation of the lesson content
+Step 5: Students ask questions on the content of the lesson
+Step 6: Students would be evaluated based on behavioural objectives
+Step 7: Students Assignments are given and notes are marked
+LEARNING TIME FOR EACH STEP:
+Step 1: 3mins
+Step 2: 2mins
+Step 3: 3mins
+Step 4: 20mins
+Step 5: 2mins
+Step 6: 7mins
+Step 7: 3mins
+LEARNING SKILLS:
+Critical thinking, creative thinking, communicating and leadership development
+ACTIVITY
+List five in-built Excel formulas.
+EVALUATIVE QUESTIONS:
+Identify five basic formulas for calculations on MS. Excel.
+Identify the syntax of each function.
+ASSIGNMENT
+Identify the syntax for the SUM. MAX AVERAGE, COUNT and MIN function.
+ADDING FORMULAS AND PERFORMING CALCULATIONS IN EXCEL
+To indicate that you are entering a formula in Excel, you must start with a specific symbol. In Microsoft Excel, formulas always begin with the "=" sign.
+USING FUNCTIONS IN MICROSOFT EXCEL
+Excel offers various built-in functions to simplify calculations:
+SUM Function
+The SUM function adds up the values in a range of cells.
+Syntax: =SUM(First cell:Last cell)
+AVERAGE Function
+The AVERAGE function calculates the mean of values in a range of cells.
+Syntax: =AVERAGE(First cell:Last cell)
+COUNT Function
+The COUNT function counts the number of numeric entries in a specified range.
+Syntax: =COUNT(First cell:Last cell)
+MAX Function
+The MAX function returns the largest value from a set of values within a range of cells.
+Syntax: =MAX(First cell:Last cell)
+MIN Function
+The MIN function returns the smallest value from a set of values in a given range.
+Syntax: =MIN(First cell:Last cell)
+ENGREG HIGH SCHOOL
+24, Bankole Street, Pedro, Shomolu, Lagos
+WEEK: 7 FIRST TERMSESSION: 2024/2025
+SUBJECT: COMPUTER STUDIES
+TOPIC: HOW TO SUM NUMBERS ON MS EXCEL
+CLASS:  JSS 3
+DATE:  21st – 25th October, 2024
+REFERENCE BOOKS: New Computer Studies for JSS 3 by J.O.E Otuka et al Pages 19-21
+WABP ICT for JSS 3 by Vincent Hope et al Pages 20-23
+LEARNING PURPOSE: To provide foundational knowledge on the Use of Microsoft Excel, steps to perform basic calculations.
+LESSON PERIOD: 2
+DURATION: 40 MINS
+LEARNING OBJECTIVE:  By the end of the lesson, students will be able to:
+State the steps to Sum numbers.
+State the steps to divide numbers.
+State the steps to multiply numbers.
+State the steps to Subtract numbers.
+KEYWORDS:  Formula, SUM, PRODUCT.
+PREVIOUS LEARNING: The students have been taught the syntax to some basic functions in MS-Excel.
+INSTRUCTIONAL MATERIALS:
+Interactive board, computer system, Internet
+LEARNING ACTIVITIES IN STEPS:
+Step 1: The teacher marks assignment and makes correction.
+Step 2: The teacher asks questions on previous knowledge
+Step 3: The teacher modifies students’ response and introduces the new topic
+Step 4: Students would be taken through the derailed explanation of the lesson content
+Step 5: Students ask questions on the content of the lesson
+Step 6: Students would be evaluated based on behavioural objectives
+Step 7: Students Assignments are given and notes are marked
+LEARNING TIME FOR EACH STEP:
+Step 1: 3mins
+Step 2: 2mins
+Step 3: 3mins
+Step 4: 20mins
+Step 5: 2mins
+Step 6: 7mins
+Step 7: 3mins
+LEARNING SKILLS:
+Critical thinking, creative thinking, communicating and leadership development
+ACTIVITY
+State the steps to Sum numbers.
+State the steps to divide numbers.
+EVALUATIVE QUESTIONS:
+State the steps to Sum numbers.
+State the steps to divide numbers.
+State the steps to multiply numbers.
+State the steps to Subtract numbers.
+ASSIGNMENT
+State the steps to multiply numbers.
+State the steps to Subtract numbers.
+HOW TO SUM NUMBERS
+Open Excel and enter your numbers into cells. For example, enter numbers into cells A1, A2, A3, and A4.
+Select the Cell for the Sum: Click on the cell where you want the sum to appear. For instance, cell A5.
+Enter the SUM Function: In the selected cell, type =SUM(A1:A4)
+HOW TO FIND PRODUCT ON MS EXCEL
+Open Excel and enter your numbers into cells. For example, enter numbers into cells A1, A2, A3, and A4.
+Select the Cell for the Product: Click on the cell where you want the product to appear. For instance, cell A5.
+Enter the PRODUCT Function: In the selected cell, type =PRODUCT(A1:A4)
+HOW TO SUBTRACT ON MS EXCEL
+Open Excel and enter your numbers into cells. For example, enter a number into cell A1 and another number into cell A2.
+Select the Cell for the Result: Click on the cell where you want the result to appear. For instance, cell A3.
+Enter the Subtraction Formula: In the selected cell, type =A1 - A2.
+HOW TO DIVIDE ON MS EXCEL
+Open Excel and enter your numbers into cells. For example, enter a number into cell A1 and another number into cell A2.
+Select the Cell for the Result: Click on the cell where you want the result to appear. For instance, cell A3.
+Enter the Subtraction Formula: In the selected cell, type = A1/A2

@@ -1,0 +1,114 @@
+ENGREG HIGH SCHOOL
+24, Bankole Street, Pedro, Shomolu, Lagos
+WEEK: 2FIRST TERMSESSION: 2024/2025
+SUBJECT: DATA PROCESSING
+TOPIC: HISTORY OF COMPUTING
+CLASS:  SS 1
+DATE: 16th – 20th September, 2024
+REFERENCE BOOKS:  A Textbook for Data Processing SS 1 by Adedapo F. O. et al Pages 1-7
+Data Processing Textbook for SS 1 by Aboyede Jegede 1 - 8
+LEARNING PURPOSE: To provide learners with a foundational understanding of historical advancements and the core principles behind contemporary computer architecture.
+LESSON PERIOD: 1
+DURATION: 40 MINS
+LEARNING OBJECTIVE:  By the end of the lesson, students will be able to:
+Define Electro-Mechanical Counting Devices.
+List some examples of Electro-Mechanical Devices.
+State the year of invention and inventors of Electro-Mechanical Devices.
+KEYWORDS: History, Computer, Mechanical, Electro-Mechanical, Electronic, Modern.
+PREVIOUS LEARNING: The students are familiar with the mechanical counting devices.
+INSTRUCTIONAL MATERIALS:
+Interactive board, computer system, Internet
+LEARNING ACTIVITIES IN STEPS:
+Step 1: The teacher marks assignment and makes correction.
+Step 2: The teacher asks questions on previous knowledge
+Step 3: The teacher modifies students’ response and introduces the new topic
+Step 4: Students would be taken through the derailed explanation of the lesson content
+Step 5: Students ask questions on the content of the lesson
+Step 6: Students would be evaluated based on behavioural objectives
+Step 7: Students Assignments are given and notes and marked
+LEARNING TIME FOR EACH STEP:
+Step 1: 3mins
+Step 2: 2mins
+Step 3: 3mins
+Step 4: 20mins
+Step 5: 2mins
+Step 6: 7mins
+Step 7: 3mins
+LEARNING SKILLS:
+Critical thinking, creative thinking, communicating and leadership development
+ACTIVITY
+List three electro-mechanical devices you know stating their year of invention and inventor.
+EVALUATIVE QUESTIONS:
+Define Electro-Mechanical Devices.
+List two examples of Electro-Mechanical Devices.
+State the year of invention and inventors of two Electro-Mechanical Devices.
+ASSIGNMENT
+Explain why Charles Babbage is considered the Father of Computing.
+ELECTRO-MECHANICAL COUNTING DEVICES
+Electro-mechanical counting devices combine both electronic and mechanical principles to perform calculations. These devices marked significant advancements in computation, utilizing electricity to power mechanical systems for more efficient and versatile calculations.
+Notable examples include:
+John Napier’s Bones (1617): Invented by Scottish mathematician John Napier, this tool consists of eleven rods with four sides each, used to solve multiplication and division problems.
+Pascaline (1642): Blaise Pascal, a 19-year-old French mathematician, created the Pascaline, one of the earliest mechanical calculators. Made up of gears, it could perform addition and subtraction of up to 8-digit numbers.
+Stepped Reckoner (1671): German philosopher and mathematician Gottfried Wilhelm Von Leibniz designed this calculating machine, which could perform addition, subtraction, multiplication, division, and calculate square roots.
+Jacquard Loom (1801): 1804 Invented by Joseph Marie Jacquard, this loom used punched cards to control fabric-weaving patterns. It was the first machine to control a sequence of operations using punched cards.
+Babbage’s Machines (1822, 1833): Charles Babbage, an English mathematician and inventor, is known for designing two early mechanical computing devices that are considered precursors to modern computers:
+Difference Engine: Designed in the 1820s, this machine aimed to automate the calculation and printing of mathematical tables, particularly polynomial functions, using the method of finite differences. Although Babbage only partially completed it due to financial and technical issues, a working model was built in the 20th century.
+Analytical Engine: Developed in the 1830s, this was the first design for a general-purpose computer. It could perform any mathematical calculation and was programmable with punched cards. The machine featured components like an arithmetic logic unit (ALU), control flow with loops, and memory. Babbage is referred to as the "FATHER OF COMPUTING." His secretary, Ada Lovelace, wrote programs for the machine, earning her the title of the first computer programmer.
+ENGREG HIGH SCHOOL
+24, Bankole Street, Pedro, Shomolu, Lagos
+WEEK: 2FIRST TERMSESSION: 2024/2025
+SUBJECT: DATA PROCESSING
+TOPIC: HISTORY OF COMPUTING
+CLASS:  SS 1
+DATE: 16th – 20th September, 2024
+REFERENCE BOOKS:  A Textbook for Data Processing SS 1 by Adedapo F. O. et al Pages 1-7
+Data Processing Textbook for SS 1 by Aboyede Jegede 1 - 8
+LEARNING PURPOSE: To provide learners with a foundational understanding of historical advancements and the core principles behind contemporary computer architecture.
+LESSON PERIOD: 2
+DURATION: 40 MINS
+LEARNING OBJECTIVE:  By the end of the lesson, students will be able to:
+Define Electronic Counting Devices.
+List some examples of Electronic Devices.
+State the year of invention and inventors of Electronic Devices.
+KEYWORDS: History, Computer, Mechanical, Electro-Mechanical, Electronic, Modern.
+PREVIOUS LEARNING: The students are familiar with the electro-mechanical counting devices.
+INSTRUCTIONAL MATERIALS:
+Interactive board, computer system, Internet
+LEARNING ACTIVITIES IN STEPS:
+Step 1: The teacher marks assignment and makes correction.
+Step 2: The teacher asks questions on previous knowledge
+Step 3: The teacher modifies students’ response and introduces the new topic
+Step 4: Students would be taken through the derailed explanation of the lesson content
+Step 5: Students ask questions on the content of the lesson
+Step 6: Students would be evaluated based on behavioural objectives
+Step 7: Students Assignments are given and notes and marked
+LEARNING TIME FOR EACH STEP:
+Step 1: 3mins
+Step 2: 2mins
+Step 3: 3mins
+Step 4: 20mins
+Step 5: 2mins
+Step 6: 7mins
+Step 7: 3mins
+LEARNING SKILLS:
+Critical thinking, creative thinking, communicating and leadership development
+ACTIVITY
+List three examples of modern devices you know stating their year of invention.
+EVALUATIVE QUESTIONS:
+Define Electronic Counting Devices.
+List two examples of Electronic Devices.
+State the year of invention and inventors of two Electronic Devices.
+ASSIGNMENT
+What are the components of Von Neumann Machine?
+ELECTRONIC COUNTING DEVICES AND MODERN COMPUTERS.
+Electronic counting devices are mechanical tools enhanced by electrical circuits, crucial in the development of modern computing. Early systems like Jacquard's loom and Babbage's Analytical Engine led to stored-program computers based on the Von Neumann architecture.
+Notable Examples Include:
+Herman Hollerith's Punch Cards: Developed between 1882-1884, Hollerith's machine used punched cards to process the 1890 United States census, significantly reducing the time required to complete the task from ten years to three. Hollerith's machine used punched cards to encode personal data, such as age and sex. He later formed the Tabulating Machine Company in 1896, which eventually became part of IBM.
+The Von Neumann Machine: In the 1940s, John von Neumann introduced a computer architecture with components like input/output devices, a processing unit (with an arithmetic logic unit), a control unit, memory, and a bus system for data transmission. This design, with its stored-program concept, laid the foundation for modern computing, though it also introduced the "Von Neumann bottleneck," limiting processing speed.
+MODERN COMPUTERS
+Building on the Von Neumann architecture, various early computers were developed, including:
+ENIAC (Electronic Numerical Integrator and Computer): The first general-purpose programmable computer, operational in 1945.
+EDSAC(Electronic Delay Storage Automatic Calculator): Built at the University of Cambridge and ran its first program in 1949.
+EDVAC(Electronic Discrete Variable Automatic Computer): Successor to ENIAC, delivered in 1949.
+UNIVAC(Universal Automatic Computer): Created by Presper Eckert and John Mauchly, delivered to the U.S. Census Bureau in 1951.
+Modern devices such as laptops, desktops, tablets, smartphones, and calculators.

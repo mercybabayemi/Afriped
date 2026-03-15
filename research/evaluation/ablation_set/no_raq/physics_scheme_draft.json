@@ -1,0 +1,16 @@
+{
+  "generated": "SSS2 Physics — Mechanics\nThis scheme covers the mechanics topics for SSS2 Term 1.\n\nThe following topics will be taught:\n- Scalars and vectors\n- Newton's Laws of Motion  \n- Projectile motion\n- Work, energy and power\n- Simple machines\n\nTeachers should use practical demonstrations where possible. Assessment will be done through tests and examinations.\n\nStudents should be encouraged to participate actively in lessons and complete all assignments.",
+  "reference": "NERDC SSS2 Physics Scheme of Work for Term 1 covering Mechanics with weekly breakdown, topic-level learning objectives, activities, and assessments.",
+  "content_type": "SCHEME_OF_WORK",
+  "subject": "physics",
+  "topic": "Mechanics — Term 1",
+  "education_level": "SSS2",
+  "curriculum_board": "NERDC",
+  "expected_bloom": "ANALYZE",
+  "expected_language": "en",
+  "expected_skills": ["Analytical Thinking", "Problem Solving"],
+  "detected_skills": [],
+  "ablation_condition": "no_raq",
+  "known_failures": ["format_compliance", "bloom_verb_presence", "curriculum_alignment"],
+  "notes": "Three failures: (1) No Week markers (Week 1, Week 2...) — format_compliance fails for SCHEME_OF_WORK. (2) ANALYZE expected but uses no analyze/compare/contrast/examine verbs. (3) Missing structured table of objectives, activities, assessments per week — curriculum_alignment fails."
+}

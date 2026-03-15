@@ -1,0 +1,39 @@
+{
+  "generated": "LESSON PLAN\nSubject: Computer Science\nTopic: Algorithm Design and Flowcharts\nClass: SSS3 | Duration: 80 minutes (double period) | Board: NERDC\n\nObjective: By the end of this lesson, students will be able to:\n1. Design a step-by-step algorithm to solve a real-world problem (e.g. calculating school fees balance)\n2. Construct a flowchart using standard symbols (start/stop, process, decision, input/output)\n3. Develop a pseudocode translation of their flowchart\n4. Create a peer-review checklist for evaluating the correctness and efficiency of classmates' algorithms\n\nMaterials: Flowchart symbol cards, A3 paper, markers, ruler, NERDC Computer Science textbook SSS3.\n\nIntroduction (10 min):\nTeacher Biodun shows two ways to make jollof rice — a vague recipe and a precise step-by-step algorithm. He asks: 'Which would a robot follow without confusion?' Chidi says the precise one. Biodun introduces the term 'algorithm': a finite sequence of unambiguous instructions.\n\nMain Activity (55 min):\n1. Modelling (15 min): Biodun constructs a flowchart on the board for 'checking if a student has paid school fees': START → Input name and amount paid → Decision: Amount ≥ ₦50,000? → YES: Print 'Cleared' → NO: Calculate balance → Print 'Balance = ₦X' → END. Ngozi reads out the pseudocode version aloud.\n2. Guided design (15 min): In pairs, students design an algorithm for 'finding the highest score in a class of 40 students'. Tunde and Ibrahim draft pseudocode first, then construct the flowchart.\n3. Independent creation (20 min): Each student creates an original algorithm and flowchart for ONE of: (a) calculating change given to a customer in a market stall, (b) sorting names alphabetically, (c) a simple quiz with 3 questions and a score at the end. Aminu creates the quiz algorithm; Kemi produces the market stall algorithm.\n4. Peer review (5 min): Students develop a 5-item checklist: Does it start and end? Is every decision binary (YES/NO)? Are all paths complete? Is the output correct?\n\nAssessment (10 min):\nEach student produces one written test: design an algorithm to find whether a given number is odd or even, construct the flowchart, and write the pseudocode in 3 lines.\n\nClosure:\nClass votes on the most elegant algorithm created today. Homework: Develop an algorithm for a real process at home (cooking, fetching water, morning routine) and bring the flowchart next lesson.",
+  "reference": "NERDC SSS3 Computer Science lesson on algorithm design and flowcharts where students create, construct, and peer-review algorithms for Nigerian real-world problems.",
+  "content_type": "LESSON_PLAN",
+  "subject": "computer_science",
+  "topic": "Algorithm Design and Flowcharts",
+  "education_level": "SSS3",
+  "curriculum_board": "NERDC",
+  "expected_bloom": "CREATE",
+  "expected_language": "en",
+  "expected_skills": ["Problem Solving", "Analytical Thinking", "Creative Expression"],
+  "detected_skills": ["Problem Solving", "Analytical Thinking"],
+  "validation": {
+    "status": "FLAGGED",
+    "rules_passed": [
+      "length_check",
+      "language_detection",
+      "bloom_verb_presence",
+      "cultural_flag_check",
+      "no_hallucinated_dates",
+      "no_explicit_content",
+      "curriculum_alignment",
+      "format_compliance"
+    ],
+    "rules_failed": [],
+    "judge_score": 0.61,
+    "judge_dimensions": {
+      "accuracy": 0.70,
+      "relevance": 0.68,
+      "pedagogy": 0.52,
+      "cultural_fit": 0.63,
+      "format": 0.54
+    },
+    "revision_count": 0,
+    "notes": [
+      "Judge score 0.61 below soft threshold 0.70; flagged for human review. Pedagogy dimension low — lesson plan lacks explicit scaffolding steps for students who have never encountered flowcharts before. Consider adding a pre-activity on symbol recognition."
+    ]
+  }
+}

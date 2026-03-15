@@ -1,0 +1,32 @@
+{
+  "generated": "MATHEMATICS QUIZ — Quadratic Equations\nClass: SSS3 | Board: WAEC/NERDC | Time: 30 minutes\n\nQ1. [ANALYZE] [Bloom: ANALYZE] [Marks: 4]\nTwo students, Ngozi and Emeka, each solve the equation x² − 5x + 6 = 0.\nNgozi gets x = 2 and x = 3. Emeka gets x = −2 and x = −3.\nAnalyse both solutions and determine which is correct. Show your working using the factorisation method and compare the two results.\n\nQ2. [MULTIPLE_CHOICE] [Bloom: ANALYZE] [Marks: 2]\nThe discriminant of a quadratic equation ax² + bx + c = 0 is b² − 4ac = 0. Analyse what this tells us about the roots:\nA) The equation has two distinct real roots\nB) The equation has no real roots\nC) The equation has one repeated real root\nD) The equation has two complex roots\nAnswer: C\n\nQ3. [SHORT_ANSWER] [Bloom: ANALYZE] [Marks: 4]\nExamine the following three quadratic equations and distinguish which method (factorisation, completing the square, or quadratic formula) is most efficient for each. Justify your choice:\n   a) x² − 9 = 0\n   b) x² + 6x + 1 = 0\n   c) 2x² − 5x − 3 = 0\n\nQ4. [ANALYZE] [Bloom: ANALYZE] [Marks: 4]\nA rectangular farm in Benue State has an area of 60 m². Its length is 4 m more than its width. Tunde writes the equation: w(w + 4) = 60.\n   a) Expand and rearrange this into the standard form ax² + bx + c = 0.\n   b) Analyse whether this quadratic has real solutions using the discriminant.\n   c) Solve for the width and contrast the two roots — which is physically meaningful and why?\n\nQ5. [SHORT_ANSWER] [Bloom: ANALYZE] [Marks: 3]\nExamine the graph of y = x² − 4x + 3.\n   a) Compare the value of x at the points where the graph crosses the x-axis with the roots of x² − 4x + 3 = 0.\n   b) Distinguish between the roots and the vertex of the parabola.",
+  "reference": "NERDC/WAEC SSS3 Mathematics quiz on quadratic equations requiring analysis of solutions, discriminant interpretation, and method comparison using Nigerian contexts.",
+  "content_type": "QUIZ",
+  "subject": "mathematics",
+  "topic": "Quadratic Equations",
+  "education_level": "SSS3",
+  "curriculum_board": "WAEC",
+  "expected_bloom": "ANALYZE",
+  "expected_language": "en",
+  "expected_skills": ["Numerical Reasoning", "Analytical Thinking", "Problem Solving"],
+  "detected_skills": ["Numerical Reasoning", "Analytical Thinking", "Problem Solving"],
+  "validation": {
+    "status": "REVISED",
+    "rules_passed": [
+      "length_check",
+      "language_detection",
+      "bloom_verb_presence",
+      "cultural_flag_check",
+      "no_hallucinated_dates",
+      "no_explicit_content",
+      "curriculum_alignment"
+    ],
+    "rules_failed": ["format_compliance"],
+    "judge_score": null,
+    "judge_dimensions": null,
+    "revision_count": 1,
+    "notes": [
+      "Initial generation had no question numbering — presented as continuous prose without Q1/Q2 structure. Rule 'format_compliance' triggered revision for QUIZ content type. Content revised to add Q1–Q5 numbered structure with Bloom and marks labels."
+    ]
+  }
+}

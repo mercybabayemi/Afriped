@@ -1,0 +1,31 @@
+{
+  "generated": "## Insights Analysis — SSS2 Chemistry: Equilibrium and Le Chatelier's Principle\n\n**Overall Quality Score:** 0.79\n\n### Bloom Analysis\n- Detected level: ANALYZE\n- Verbs found: analyse, compare, contrast, examine, distinguish\n- Confidence: 0.91\n- Assessment: Content strongly targets ANALYZE level. Three of five questions require multi-step reasoning comparing equilibrium states. Suitable for SSS2 pre-WAEC preparation.\n\n### Readability\n- Flesch-Kincaid Grade: 9.1\n- Complexity band: senior_secondary\n- Assessment: Slightly above average for SSS2 but appropriate given the technical chemistry content. Vocabulary is domain-specific and appropriate for WAEC preparation.\n\n### Cultural Analysis\n- Local name ratio: 0.75 (Ibrahim, Ngozi, Aminu present; one generic 'the student')\n- Local example count: 2 (Haber process referenced in context of fertiliser production in Kaduna; contact process linked to Lagos chemical industry)\n- Flags: Consider replacing 'the student' with a named Nigerian student for full cultural immersion.\n\n### Skill Gap Analysis\n- Expected skills: Analytical Thinking, Problem Solving, Inductive Reasoning\n- Detected skills: Analytical Thinking, Problem Solving\n- Missing: Inductive Reasoning\n- Recommendation: Add at least one question where students observe a pattern across three equilibrium scenarios and draw a general conclusion (inductive task).\n\n### Curriculum Alignment\n- Board: NERDC/WAEC\n- Keywords found: equilibrium (6), concentration (4), temperature (5), Le Chatelier (3)\n- WAEC syllabus coverage: 87% — minor gap: reversible reactions at the macroscopic level not illustrated\n\n### Recommendations\n1. Add a visual: a concentration vs time graph showing the system reaching equilibrium — students should examine and interpret the graph.\n2. Include an industrial case: contrast the Haber process conditions (high pressure, moderate temperature, catalyst) and ask students to analyse why temperature is kept moderate despite yield implications.\n3. Replace 'the student' with a named character (e.g., Aminu observes...) for consistency with cultural immersion policy.\n4. Add an inductive reasoning task: give students data from 3 different equilibrium experiments and ask them to distinguish the pattern and state Le Chatelier's Principle from the data alone.",
+  "reference": "Insights analysis of an SSS2 Chemistry lesson set on Le Chatelier's Principle — identifying Bloom gaps, readability, cultural anchoring, and curriculum alignment.",
+  "content_type": "INSIGHTS_ANALYSIS",
+  "subject": "chemistry",
+  "topic": "Chemical Equilibrium and Le Chatelier's Principle",
+  "education_level": "SSS2",
+  "curriculum_board": "NERDC",
+  "expected_bloom": "ANALYZE",
+  "expected_language": "en",
+  "expected_skills": ["Analytical Thinking", "Problem Solving", "Inductive Reasoning"],
+  "detected_skills": ["Analytical Thinking", "Problem Solving"],
+  "validation": {
+    "status": "PASSED",
+    "rules_passed": [
+      "length_check",
+      "language_detection",
+      "bloom_verb_presence",
+      "cultural_flag_check",
+      "no_hallucinated_dates",
+      "no_explicit_content",
+      "curriculum_alignment",
+      "format_compliance"
+    ],
+    "rules_failed": [],
+    "judge_score": null,
+    "judge_dimensions": null,
+    "revision_count": 0,
+    "notes": []
+  }
+}

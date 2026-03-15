@@ -1,0 +1,150 @@
+ENGREG HIGH SCHOOL
+24, Bankole Street, Pedro, Shomolu, Lagos
+SS 2 COMPUTER STUDIES SCHEME OF WORK
+2024/2025 SESSION
+FIRST TERM
+WEEKS
+TOPIC
+SUB-TOPIC
+ONE
+Central Processing Unit I
+Introduction, Definition, Examples
+TWO
+Central Processing Unit II
+Introduction, Structure, Components
+THREE
+Memory Unit I
+Definition, Computer Memory, Types
+FOUR
+Memory Unit II
+Units of Storage, Conversion
+FIVE
+Logic Circuit I
+Logic Gates - Definition, Types, Symbols, Truth Tables, Uses
+SIX
+Logic Circuit II
+Alternative Logic Gates - Definition, Types, Symbols, Truth Tables, Uses
+SEVEN
+Logic Circuit III
+IEC symbols, Comparator
+EIGHT
+Register
+Definition, Types, Functions
+NINE
+Word Processing I
+Definition, Software examples, Uses, Features
+TEN
+Word Processing II
+Creating, Editing of Documents
+ELEVEN
+Revision
+TWELVE
+Examination
+ENGREG HIGH SCHOOL
+24, Bankole Street, Pedro, Shomolu, Lagos
+WEEK: 1FIRST TERMSESSION: 2024/2025
+SUBJECT: COMPUTER STUDIES
+TOPIC: CENTRAL PROCESSING UNIT I
+CLASS:  SS 2
+DATE: 9th – 13th September, 2024
+REFERENCE BOOKS: New Computer Studies for SS 2 by J.O.E Otuka et al Pages 1-9
+Online with computers for SS 2 by Adedapo F. O. et al 1 - 15
+LEARNING PURPOSE: To provide foundational knowledge on the computer and to gain insight into the core processes that enable computing.
+LESSON PERIOD: 1
+DURATION: 40 MINS
+LEARNING OBJECTIVE:  By the end of the lesson, students will be able to:
+Identify the parts that make up a computer hardware.
+Draw a diagram of the structure of computer.
+KEYWORDS:
+CPU, Computer, Hardware, ALU, Registers.
+PREVIOUS LEARNING: The students are familiar with the computer.
+INSTRUCTIONAL MATERIALS:
+Interactive board, computer system, Internet
+LEARNING ACTIVITIES IN STEPS:
+Step 1: The teacher marks assignment and makes correction.
+Step 2: The teacher asks questions on previous knowledge
+Step 3: The teacher modifies students’ response and introduces the new topic
+Step 4: Students would be taken through the derailed explanation of the lesson content
+Step 5: Students ask questions on the content of the lesson
+Step 6: Students would be evaluated based on behavioural objectives
+Step 7: Students Assignments are given and notes and marked
+LEARNING TIME FOR EACH STEP:
+Step 1: 3mins
+Step 2: 2mins
+Step 3: 3mins
+Step 4: 20mins
+Step 5: 2mins
+Step 6: 7mins
+Step 7: 3mins
+LEARNING SKILLS:
+Critical thinking, creative thinking, communicating and leadership development
+ACTIVITY
+Explain the parts that make up a computer hardware.
+EVALUATIVE QUESTIONS:
+Identify the parts that make up a computer hardware.
+Draw a diagram of the structure of computer.
+ASSIGNMENT
+Draw a diagram of the structure of computer.
+INTRODUCTION
+A modern computer system consists of a CPU, primary storage, secondary storage, input devices, output devices and communication devices.
+THE STRUCTURE OF A COMPUTER SYSTEM
+The parts making up the computer hardware can be classified into:
+Input Devices: Input devices provide data and control signals to a computer. Examples include Keyboard, Mouse, Scanner, Microphone, Webcam, Joystick, and Touchscreen
+Output Devices: Output devices translate data from the computer into a form humans can understand. Examples include Monitor, Printer, Speaker, Projector, Headphones
+Storage Devices: Storage devices store data permanently or temporarily. Examples include Hard Disk Drive (HDD), CDs, DVDs, USB, Flash Drive, and Memory Card
+Processing Devices: Processing devices interpret and execute instructions. The CPU, considered the brain of the computer, includes CPU, Motherboard, Sound Card, and Network Card.
+THE STRUCTURE OF A COMPUTER SYSTEM
+ENGREG HIGH SCHOOL
+24, Bankole Street, Pedro, Shomolu, Lagos
+WEEK: 1FIRST TERMSESSION: 2024/2025
+SUBJECT: COMPUTER STUDIES
+TOPIC: CENTRAL PROCESSING UNIT I
+CLASS:  SS 2
+DATE: 9th – 13th September, 2024
+REFERENCE BOOKS: New Computer Studies for SS 2 by J.O.E Otuka et al Pages 1-9
+Online with computers for SS 2 by Adedapo F. O. et al 1 - 15
+LEARNING PURPOSE: To provide foundational knowledge on the computer and to gain insight into the core processes that enable computing.
+LESSON PERIOD: 2
+DURATION: 40 MINS
+LEARNING OBJECTIVE:  By the end of the lesson, students will be able to:
+Define CPU.
+Explain how the CPU executes instructions.
+KEYWORDS:
+CPU, Computer, Hardware, ALU, Registers.
+PREVIOUS LEARNING: The students are familiar with the computer.
+INSTRUCTIONAL MATERIALS:
+Interactive board, computer system, Internet
+LEARNING ACTIVITIES IN STEPS:
+Step 1: The teacher marks assignment and makes correction.
+Step 2: The teacher asks questions on previous knowledge
+Step 3: The teacher modifies students’ response and introduces the new topic
+Step 4: Students would be taken through the derailed explanation of the lesson content
+Step 5: Students ask questions on the content of the lesson
+Step 6: Students would be evaluated based on behavioural objectives
+Step 7: Students Assignments are given and notes and marked
+LEARNING TIME FOR EACH STEP:
+Step 1: 3mins
+Step 2: 2mins
+Step 3: 3mins
+Step 4: 20mins
+Step 5: 2mins
+Step 6: 7mins
+Step 7: 3mins
+LEARNING SKILLS:
+Critical thinking, creative thinking, communicating and leadership development
+ACTIVITY
+Why is the CPU considered the brain of the computer?
+EVALUATIVE QUESTIONS:
+Define CPU.
+Explain how the CPU executes instructions.
+ASSIGNMENT
+Explain how the CPU executes instructions.
+THE CENTRAL PROCESSING UNIT (CPU)
+The Central Processing Unit (CPU), often called the brain of the computer, is essential for interpreting and executing commands from hardware and software. It performs calculations, executes instructions, and manages data flow, directly impacting the computer's performance.
+CPUs are found in a variety of devices, including desktops, laptops, tablets, smartphones, and flat-screen TVs. They are also known as processors or microprocessors. Modern CPUs are small and square, with short metallic connectors or pins on the underside. They attach to the motherboard via a CPU socket.
+The clock speed of a CPU, measured in hertz (Hz), indicates how many instructions it can process per second. For instance, a 3.0 GHz CPU can process 3 billion instructions per second. CPUs can have multiple cores, such as single-core, dual-core, or quad-core, enhancing their processing capabilities.
+FUNCTIONS OF THE CPU
+The CPU executes instructions using a cycle known as the fetch-decode-execute cycle:
+Fetch: The CPU retrieves an instruction from memory.
+Decode: The control unit interprets the instruction.
+Execute: The Arithmetic Logic Unit (ALU) performs the required operation, and the result is stored in a register or memory.

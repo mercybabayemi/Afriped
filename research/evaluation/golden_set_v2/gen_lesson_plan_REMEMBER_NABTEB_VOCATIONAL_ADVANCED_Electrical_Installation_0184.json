@@ -1,0 +1,31 @@
+{
+  "id": "gen_lesson_plan_REMEMBER_NABTEB_VOCATIONAL_ADVANCED_Electrical_Installation_0184",
+  "generated": "LESSON PLAN\nSubject: Electrical Installation | Class: VOCATIONAL_ADVANCED | Board: NABTEB\n\nObjective: By the end of this lesson, students will be able to recall the key concepts in Electrical Installation as specified by the NABTEB curriculum.\n\nActivity: Students work in groups of four. Each group receives a scenario card based on a familiar Nigerian context. They must recall the relevant concept and present their findings to the class. Names used: Chidi, Fatima, Ngozi, Aminu, Taiwo, Adaeze.\n\nAssessment: Exit quiz of five questions. Students scoring below 40% receive guided practice. Marks allocated per NABTEB continuous assessment guidelines.",
+  "reference": "Lesson Plan: Electrical Installation | NABTEB | VOCATIONAL_ADVANCED\nObjective: Students will define key concepts in Electrical Installation.\nActivity: Guided class exercise with Nigerian context examples.\nAssessment: Short quiz to check understanding.",
+  "metadata": {
+    "content_type": "lesson_plan",
+    "bloom_level": "REMEMBER",
+    "board": "NABTEB",
+    "education_level": "VOCATIONAL_ADVANCED",
+    "subject": "Electrical Installation",
+    "output_language": "yo",
+    "generation_method": "systematic_parameter_variation"
+  },
+  "expected": {
+    "bloom_level": "REMEMBER",
+    "output_language": "yo",
+    "skill_tags": [
+      "lesson_planning",
+      "curriculum_design",
+      "pedagogical_structuring"
+    ],
+    "format_markers": [
+      "objective",
+      "activity",
+      "assessment"
+    ]
+  },
+  "spot_check_required": false,
+  "human_validated": false,
+  "annotation_notes": ""
+}

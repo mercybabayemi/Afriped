@@ -1,0 +1,31 @@
+{
+  "id": "gen_lesson_plan_ANALYZE_WAEC_SSS2_Mathematics_0075",
+  "generated": "LESSON PLAN\nSubject: Mathematics | Class: SSS2 | Board: WAEC\n\nObjective: By the end of this lesson, students will be able to contrast the key concepts in Mathematics as specified by the WAEC curriculum.\n\nActivity: Students work in groups of four. Each group receives a scenario card based on a familiar Nigerian context. They must contrast the relevant concept and present their findings to the class. Names used: Chidi, Fatima, Ngozi, Aminu, Taiwo, Adaeze.\n\nAssessment: Exit quiz of five questions. Students scoring below 40% receive guided practice. Marks allocated per WAEC continuous assessment guidelines.",
+  "reference": "Lesson Plan: Mathematics | WAEC | SSS2\nObjective: Students will analyse key concepts in Mathematics.\nActivity: Guided class exercise with Nigerian context examples.\nAssessment: Short quiz to check understanding.",
+  "metadata": {
+    "content_type": "lesson_plan",
+    "bloom_level": "ANALYZE",
+    "board": "WAEC",
+    "education_level": "SSS2",
+    "subject": "Mathematics",
+    "output_language": "yo",
+    "generation_method": "systematic_parameter_variation"
+  },
+  "expected": {
+    "bloom_level": "ANALYZE",
+    "output_language": "yo",
+    "skill_tags": [
+      "lesson_planning",
+      "curriculum_design",
+      "pedagogical_structuring"
+    ],
+    "format_markers": [
+      "objective",
+      "activity",
+      "assessment"
+    ]
+  },
+  "spot_check_required": false,
+  "human_validated": false,
+  "annotation_notes": ""
+}

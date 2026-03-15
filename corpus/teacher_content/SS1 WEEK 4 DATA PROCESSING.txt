@@ -1,0 +1,108 @@
+ENGREG HIGH SCHOOL
+24, Bankole Street, Pedro, Shomolu, Lagos
+WEEK: 4 FIRST TERMSESSION: 2024/2025
+SUBJECT: DATA PROCESSING
+TOPIC: CLASSIFICATIONS OF COMPUTERS
+CLASS:  SS 1
+DATE: 30th September – 4th October, 2024
+REFERENCE BOOKS:  A Textbook for Data Processing SS 1 by Adedapo F. O. et al Pages 8 - 15
+Data Processing Textbook for SS 1 by Aboyede Jegede 8 - 15
+LEARNING PURPOSE: To provide learners with a foundational knowledge on classification of computers based on their size, functionality, purpose, and generation.
+LESSON PERIOD: 1
+DURATION: 40 MINS
+LEARNING OBJECTIVE:  By the end of the lesson, students will be able to:
+Define computer.
+Identify the different classifications of computer.
+KEYWORDS:  Computer, Classification, Size, Purpose, Generation, Functionality.
+PREVIOUS LEARNING: The students are familiar with the overview of computer from previous lesson.
+INSTRUCTIONAL MATERIALS:
+Interactive board, computer system, Internet
+LEARNING ACTIVITIES IN STEPS:
+Step 1: The teacher marks assignment and makes correction.
+Step 2: The teacher asks questions on previous knowledge
+Step 3: The teacher modifies students’ response and introduces the new topic
+Step 4: Students would be taken through the derailed explanation of the lesson content
+Step 5: Students ask questions on the content of the lesson
+Step 6: Students would be evaluated based on behavioural objectives
+Step 7: Students Assignments are given and notes and marked
+LEARNING TIME FOR EACH STEP:
+Step 1: 3mins
+Step 2: 2mins
+Step 3: 3mins
+Step 4: 20mins
+Step 5: 2mins
+Step 6: 7mins
+Step 7: 3mins
+LEARNING SKILLS:
+Critical thinking, creative thinking, communicating and leadership development
+ACTIVITY
+Define computer.
+List the four different classifications of computer.
+EVALUATIVE QUESTIONS:
+Define computer.
+List the four different classifications of computer.
+ASSIGNMENT
+Explain how computer can be classified as size.
+CLASSIFICATIONS OF COMPUTERS
+A computer is an electronic device, which accepts data as an input, processed the input (data) and produces an output called information.
+Computers can be classified based on various criteria. These include the following:
+Classification based on size.
+Classification based on Functionality.
+Classification based on purpose.
+Classification based on generation
+ENGREG HIGH SCHOOL
+24, Bankole Street, Pedro, Shomolu, Lagos
+WEEK: 4 FIRST TERMSESSION: 2024/2025
+SUBJECT: DATA PROCESSING
+TOPIC:  CLASSIFICATION BASED ON SIZE
+CLASS:  SS 1
+DATE: 30th September – 4th October, 2024
+REFERENCE BOOKS:  A Textbook for Data Processing SS 1 by Adedapo F. O. et al Pages 8 - 15
+Data Processing Textbook for SS 1 by Aboyede Jegede 8 - 15
+LEARNING PURPOSE: To provide learners with a foundational knowledge on classification of computers based on their size, super, mini, micro and mainframe computers.
+LESSON PERIOD: 1
+DURATION: 40 MINS
+LEARNING OBJECTIVE:  By the end of the lesson, students will be able to:
+Explain
+Microcomputers
+Super Computers
+Mainframe
+Mini computers.
+KEYWORDS:  Computer, Classification, Size, Purpose, Generation, Functionality.
+PREVIOUS LEARNING: The students are familiar with the overview of computer from previous lesson.
+INSTRUCTIONAL MATERIALS:
+Interactive board, computer system, Internet
+LEARNING ACTIVITIES IN STEPS:
+Step 1: The teacher marks assignment and makes correction.
+Step 2: The teacher asks questions on previous knowledge
+Step 3: The teacher modifies students’ response and introduces the new topic
+Step 4: Students would be taken through the derailed explanation of the lesson content
+Step 5: Students ask questions on the content of the lesson
+Step 6: Students would be evaluated based on behavioural objectives
+Step 7: Students Assignments are given and notes and marked
+LEARNING TIME FOR EACH STEP:
+Step 1: 3mins
+Step 2: 2mins
+Step 3: 3mins
+Step 4: 20mins
+Step 5: 2mins
+Step 6: 7mins
+Step 7: 3mins
+LEARNING SKILLS:
+Critical thinking, creative thinking, communicating and leadership development
+ACTIVITY
+Define Microcomputers and Super Computers
+EVALUATIVE QUESTIONS:
+Explain
+Microcomputers
+Super Computers
+Mainframe
+Mini computers.
+ASSIGNMENT
+Explain Mainframe and Mini computers.
+CLASSIFICATION BASED ON SIZE
+There are four major sizes of computers, super, mainframe, mini and microcomputers.
+Supercomputers: The most powerful computers, designed for complex computations and processing large datasets. Used in scientific research, climate modeling, and simulations. Supercomputers are the largest, fastest and most expensive computers.
+Mainframe Computers: Large, powerful systems used by large organizations for bulk data processing, such as transaction processing and managing large databases. It has a very large memory size but less than that of supercomputers.
+Minicomputers: Mid-sized computers that are less powerful than mainframes but still capable of supporting multiple users simultaneously. Often used in business applications. They allow users to share access to the hardware through stations called TERMINALS.
+Microcomputers: Commonly known as personal computers (PCs), these are designed for individual use. They include desktops, laptops, tablets, and smartphones.

@@ -1,0 +1,32 @@
+{
+  "generated": "LESSON PLAN\nSubject: Geography\nTopic: Population Distribution in Nigeria\nClass: SSS1 | Duration: 40 minutes | Board: NERDC\n\nObjective: By the end of this lesson, students will be able to:\n1. Apply population density formula (people per km²) to calculate and compare densities in Lagos, Kano, and Benue states\n2. Use a population map of Nigeria to identify high- and low-density zones\n3. Demonstrate how push and pull factors explain rural-urban migration in Nigeria using Tunde's family as a case study\n\nMaterials: NERDC Geography textbook SSS1, population density maps of Nigeria, calculators, whiteboard.\n\nIntroduction (5 min):\nTeacher Aminu asks: 'How many of you moved from a village or smaller town to this city?' Hands go up. Aisha explains her family moved from Bauchi to Lagos for work. The class discusses why people move.\n\nMain Activity (25 min):\n1. Teacher introduces population density formula: Density = Population ÷ Area (km²).\n2. Students calculate densities using data: Lagos (14M people, 3,577 km²), Kano (13M people, 20,131 km²), Benue (5.7M people, 34,059 km²).\n3. Ngozi and Chidi use the population map to identify the Niger Delta and Middle Belt as areas of contrasting density.\n4. Class applies push-pull theory: Musa explains 'push' factors (drought, unemployment) and Halima explains 'pull' factors (jobs, schools, hospitals).\n5. Group activity: Each group of four uses population data to solve a real problem — which two states in Nigeria have the highest density and what challenges does that create?\n\nAssessment (10 min):\nStudents solve: The population of Ogun State is 6.9 million and its area is 16,762 km². Calculate its population density and compare it with Lagos State. Which state faces greater urban pressure? Justify your answer.\n\nClosure:\nRecap formula and key terms. Homework: Find the population and area of your home state and calculate its density.",
+  "reference": "NERDC SSS1 Geography lesson on population distribution in Nigeria covering density calculations, mapping, and push-pull migration factors with Nigerian names and data.",
+  "content_type": "LESSON_PLAN",
+  "subject": "geography",
+  "topic": "Population Distribution in Nigeria",
+  "education_level": "SSS1",
+  "curriculum_board": "NERDC",
+  "expected_bloom": "APPLY",
+  "expected_language": "en",
+  "expected_skills": ["Numerical Reasoning", "Problem Solving", "Critical Thinking"],
+  "detected_skills": ["Numerical Reasoning", "Problem Solving", "Critical Thinking"],
+  "validation": {
+    "status": "REVISED",
+    "rules_passed": [
+      "length_check",
+      "language_detection",
+      "bloom_verb_presence",
+      "no_hallucinated_dates",
+      "no_explicit_content",
+      "curriculum_alignment",
+      "format_compliance"
+    ],
+    "rules_failed": ["cultural_flag_check"],
+    "judge_score": null,
+    "judge_dimensions": null,
+    "revision_count": 1,
+    "notes": [
+      "Initial generation used Western names (John, Mary, Peter) with no West African cultural anchoring. Rule 'cultural_flag_check' triggered revision. Content revised to replace names with Aminu, Aisha, Ngozi, Chidi, Musa, Halima and use Nigerian state population data."
+    ]
+  }
+}

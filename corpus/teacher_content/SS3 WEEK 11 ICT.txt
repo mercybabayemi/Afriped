@@ -1,0 +1,1133 @@
+Overview of Number Bases
+Number Bases are numbers which arbitrarily make up the foundation numbers of a system. The
+common number systems used in computing are:
+(a) Base 10 is called Decimal Number System
+(b) Base 2 is called Binary Number System
+(c) Base 8 called Octal Number System
+(d) Base 16 is Hexadecimal
+BASES NAME DIGITS NO of Digits
+2 Binary 0, 1 2
+8 Octal 0, 1, 2, 3, 4, 5, 6, 7 8
+10 Decimal 0, 1, 2, 3, 4, 5, 6, 7, 8, 9 10
+12 Duo-Decimal 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A, B 12
+16 Hexadecimal 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, E, F
+Conversion in Number Bases
+Decimal to Binary
+Example 1:
+(a) Convert 1710 to Binary
+2 17
+2 8 r 1
+2 4 r 0
+2 2 r 0
+2 1 r 0
+2 0 r 1
+1710 = 100012
+(b) Convert 3110 to Binary
+2 31
+2 15 r 1
+2 7 r 1
+2 3 r 1
+2 1 r 1
+0 r 1
+3110 = 111112
+Binary to Decimal
+(c) Convert 10102 to base 10 (decimal)
+10102 = 13 0
+2 1
+1 0
+0
+1 x 23 + 0 x 22 + 1 x 21 + 0 x 20
+8 + 0 + 2 + 0 = 1010
+(d) Convert 111102
+to base 10 (decimal)
+11110 = 14 1
+3 1
+2 1
+1 0
+0
+1 x 24 + 1 x 23 + 1 x 22 + 1 x 21 + 0 x 20
+16 + 8 + 4 + 2 + 0 = 3010
+Octal to Decimal
+(e) Convert 17078 to decimal
+1707 = 13 7
+2 0
+1 7
+0
+1 x 83 + 7 x 82 + 0 x 81 + 7 x 80
+512 + 448 + 0 + 7 = 96710
+17078 = 96710
+(f) 473488 = 44 7
+3 3
+2 4
+1 8
+0
+4 x 84 + 7 x 83 + 3 x 82 + 4 x 81 + 8 x 80
+16384 + 3584 + 192 + 32 + 8
+=2020010
+Hexadecimal to Decimal
+(g) Convert 2C516 to base 10
+2C5 = 22 C1 5
+0
+, C = 12
+2 x 162 + 12 x 161 + 5 x 160
+512 + 192 + 5 = 79010
+2C516 = 70910
+Decimal to Hexadecimal
+(h) Convert 68710 to hexadecimal
+16 687
+16 42 R(15) F
+16 2 R(10) A
+0 R 2
+68710 = 2AF16
+Convert Base to Base
+This can be done first by converting the number to base ten. e.g
+The octal equivalent of the binary number 111011 is
+111011 = 15 1
+4 1
+3 0
+2 1
+1 1
+0
+1 x 25 + 1 x 24 + 1 x 23 + 0 x 22 + 1 x 21 + 1 x 20
+32 + 16 + 8 + 0 + 2 + 1 = 5910
+To octal base
+8 59
+7 r 3
+Number bases refer to the different ways numbers can be represented using different sets of symbols. The most commonly used base is base 10 (decimal), but there are many others, such as base 2 (binary), base 8 (octal), and base 16 (hexadecimal). Let's break down some key concepts:
+1. Conversion in Number Systems
+Base 10 (Decimal): The standard number system using digits 0-9.
+Base 2 (Binary): Used in computers, only uses digits 0 and 1.
+Base 8 (Octal): Uses digits from 0 to 7.
+Base 16 (Hexadecimal): Uses digits 0-9 and letters A-F (where A = 10, B = 11, etc.).
+Conversion Methods:
+Decimal to Binary: Repeated division by 2, noting remainders.
+Binary to Decimal: Multiply each bit by 2 raised to the power of its position.
+Binary to Hexadecimal: Group binary digits into sets of four, then convert each group to its hexadecimal equivalent.
+Hexadecimal to Decimal: Multiply each digit by 16 raised to the power of its position.
+2. Basic Arithmetic in Number Bases
+Arithmetic operations like addition, subtraction, multiplication, and division can be performed in any base. However, the rules vary slightly depending on the base being used.
+Addition: In binary, 1 + 1 results in 10 (carry 1).
+Subtraction: Uses borrowing, similar to decimal, but in the respective base.
+Multiplication: Follows similar rules as decimal multiplication but respects the base.
+Division: Can be done using long division in any base.
+Would you like to dive deeper into any of these topics or practice some problems?
+You said:
+Examples of conversion of bases
+ChatGPT said:
+ChatGPT
+Here are some examples of base conversions to help clarify the process:
+1. Decimal to Binary
+Example: Convert 25 (decimal) to binary.
+Method:
+Divide 25 by 2, noting the quotient and the remainder.
+Division by 2QuotientRemainder
+25 ÷ 2121
+12 ÷ 260
+6 ÷ 230
+3 ÷ 211
+1 ÷ 201
+Answer: The binary equivalent of 25 is read from bottom to top: 11001.
+2. Binary to Decimal
+Example: Convert 1011 (binary) to decimal.
+Method:
+Multiply each bit by 2 raised to the power of its position (starting from 0 on the right).
+(
+1
+×
+2
+3
+)
++
+(
+0
+×
+2
+2
+)
++
+(
+1
+×
+2
+1
+)
++
+(
+1
+×
+2
+0
+)
+=
+(
+8
+)
++
+(
+0
+)
++
+(
+2
+)
++
+(
+1
+)
+=
+11
+(1×2
+3
+)+(0×2
+2
+)+(1×2
+1
+)+(1×2
+0
+)=(8)+(0)+(2)+(1)=11
+Answer: The decimal equivalent of 1011 is 11.
+3. Decimal to Hexadecimal
+Example: Convert 156 (decimal) to hexadecimal.
+Method:
+Divide 156 by 16, noting the quotient and remainder.
+Division by 16QuotientRemainder
+156 ÷ 16912 (C)
+9 ÷ 1609
+Answer: The hexadecimal equivalent of 156 is read from bottom to top: 9C.
+4. Hexadecimal to Decimal
+Example: Convert 2A3 (hexadecimal) to decimal.
+Method:
+Multiply each digit by 16 raised to the power of its position (starting from 0 on the right).
+(
+2
+×
+1
+6
+2
+)
++
+(
+𝐴
+×
+1
+6
+1
+)
++
+(
+3
+×
+1
+6
+0
+)
+=
+(
+2
+×
+256
+)
++
+(
+10
+×
+16
+)
++
+(
+3
+×
+1
+)
+=
+512
++
+160
++
+3
+=
+675
+(2×16
+2
+)+(A×16
+1
+)+(3×16
+0
+)=(2×256)+(10×16)+(3×1)=512+160+3=675
+Answer: The decimal equivalent of 2A3 is 675.
+5. Binary to Hexadecimal
+Example: Convert 11011010 (binary) to hexadecimal.
+Method:
+Group the binary digits in sets of four (from right to left).
+1101
+1010
+1101 1010
+Convert each group to hexadecimal.
+1101
+=
+𝐷
+and
+1010
+=
+𝐴
+1101=Dand1010=A
+Answer: The hexadecimal equivalent of 11011010 is DA.
+6. Hexadecimal to Binary
+Example: Convert 7F (hexadecimal) to binary.
+Method:
+Convert each hex digit to its 4-bit binary equivalent.
+7
+=
+0111
+and
+𝐹
+=
+1111
+7=0111andF=1111
+Answer: The binary equivalent of 7F is 01111111.
+Number bases, also known as numeral systems, are methods of representing numbers using a specific set of symbols. The most common number base is the decimal system, which uses digits 0 through 9. However, there are various other bases used in mathematics and computing. Some important bases include:
+Binary (Base 2): Uses only 0 and 1.
+Octal (Base 8): Uses digits 0-7.
+Decimal (Base 10): Our everyday base, using digits 0-9.
+Hexadecimal (Base 16): Uses digits 0-9 and letters A-F to represent values 10-15.
+Now, let's explore basic arithmetic operations in different bases:
+Addition in Different Bases:
+Binary Addition: In binary, you add numbers much like in decimal. When you add 1 and 1, you get 10 (binary for 2). For example:
+1102 (Binary) + 1112 (Binary) = 11012 (Binary)
+1001 (Binary) + 1010 (Binary) = 10011 (Binary)
+Octal Addition: Octal addition is similar to binary or decimal addition, but it involves carrying over when the sum is greater than or equal to 8. For example:
+45 (Octal) + 45 (Octal) = 100 (Octal)
+77 (Octal) + 1 (Octal) = 100 (Octal)
+Subtraction in Different Bases:
+Binary Subtraction: Subtraction in binary works much like decimal subtraction. When you subtract 1 from 0, you might need to borrow from a higher place value. For example:
+11012 (Binary) - 1012 (Binary) = 10102 (Binary)
+11012 (Binary) - 10012 (Binary) = 10002 (Binary)
+Octal Subtraction: Octal subtraction is similar, but it involves borrowing when necessary to ensure that the subtraction doesn't result in negative octal numbers. For example:
+76 (Octal) - 23 (Octal) = 53 (Octal)
+100 (Octal) - 1 (Octal) = 77 (Octal)
+These are the basic principles of performing addition and subtraction in different number bases. The key is understanding the place values and carrying or borrowing when necessary, just as you do in the decimal system.
+OVER VIEW OF NUMBER BASES
+Number Bases are numbers which arbitrarily make up the foundation numbers of a system. The binary
+number system works like the decimal number system except that the binary number system uses Base
+2, and its digits are 0 and 1.
+The common number system used in computing are:
+• Base 10 is called Decimal Number System
+• Base 2 is called Binary Number system
+• Base 8 is called Octal Number System
+• Base 16 is Hexadecimal Number System
+Common terms of numbers systems
+1. Base: The base of a number indicates how many absolute values are used in the system. For
+example, in the decimal system there are ten absolute digits values represented by the digits
+(0,1,2,3,4,5,6,7).
+2. Absolute value: This denotes whole numbers by a symbol e.g., 6,7,8.
+3. Position: In the decimal system, the zero positional value 100 or 1
+Example: 1
+Position
+6 5 4 3 2 1 0
+Positional Value
+2
+6
+2
+5 2
+4 2
+3 2
+2 2
+1 2
+0
+Quantity represented by positional value
+62 32 16 8 4 2 1
+Number System/Digits
+BASES NAME DIGITS NO OF DIGITS
+2 Binary 0, 1. 2
+8 Octal 0, 1, 2, 3, 4, 5, 6, 7. 8
+10 Decimal 0, 1, 2, 3, 4, 5, 6, 7,8, 9. 10
+12 Duo-Decimal 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A, B. 12
+16 Hexadecimal 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C,
+D, E, F.
+16
+The binary number system comprises of two (2) digits which are 0 and 1. You are already familiar
+with simple decimal arithmetic (which involves multiplication, addition, subtraction and division).
+The following are binary equivalents of the decimal numbers 1 to 30
+Decimal Binary Decimal Binary Decimal Binary
+1 1 11 1011 21 10101
+2 10 12 1100 22 10110
+3 11 13 1101 23 10111
+4 100 14 1110 24 11000
+5 101 15 1111 25 11001
+6 110 16 10000 26 11010
+7 111 17 10001 27 11011
+8 1000 18 10010 28 11100
+9 1001 19 10011 29 11101
+10 1011 20 10100 30 11110
+Decimal and Binary number bases
+Conversion from Decimal to Binary
+In converting to decimal, we divide the decimal (whole number/integer) successfully by 2, recording
+the remainder from each division.
+Example 2
+Convert 17 to Binary Solutions
+2 17 remainder
+2 8 1
+2 4 0
+2 2 0
+2 1 0
+2 0 1
+1710 = 100012
+Conversion from Binary to decimal
+Here, positional values are assigned to the binary numbers as powers, with the right most digits as
+zero position.
+Example 3.
+Convert 100012 to base 10 (decimal)
+100012 = 1
+4 0
+3 0
+2 0
+1 1
+0
+1 x 2
+4 + 0 x 23 + 0 x 22 + 0 x 21 + 1 x 20
+= 16 + 0 + 0 + 0 + 1 = 1710
+Conversion of Numbers from One Base to Another
+Decimal to Others
+To convert from base 10 to any number system, the given number is divided continuously by the baase
+number being converted to, until its no longer divisible.
+Example 4.
+Convert 34510 to base 2
+2 345
+2 162 r 1
+2 81 r 0
+2 40 r 1
+2 20 r 0
+2 10 r 0
+2 5 r 0
+2 2 r 1
+2 1 r 0
+0 r 1
+34510 = 1010001012
+A computer or any digital system works in a binary manner. The main number systems used in digital hardware are as follows.
+DECIMAL NUMBER SYSTEM: The decimal number system (base10) number system has ten as it base. It uses various symbols called digit for ten distinct value (0,1,3,4,5,6,7,8 and 9) to represent numbers. It requires 10 different types of electronic pulse.
+The decimal system is a position number system. It has position for unit, tens, hundred e.t.c The position of each digit conveys the multiplier( a power of ten) to be used with the digit- each position has value to ten time of a position to its right. For example:
+275 = 2×100 + 7×10 + 5×1
+2x 102 + 7 + 101 + 5 x 100
+BINARY NUMBER
+The binary number (base 2) number system represents values using symbols typically 0 and 1. In other words, the binary number system is a position number system with a power of two (2). Owing to its relatively straightforward implementation in electronic circuitry, the binary is used internally by virtually in all modern computers.
+The numerals 0 and 1 have the same meaning in the decimal system, but a different interpretation is placed on the position occupied by a digit.
+In the binary number system, the  individual digit represent the coefficient of power 2 rather than 10 as in the decimal number system. For example, the decimal number system 19 is written in the binary representation as 10011
+14030211102 = 1 x 24 +0 x 23 + 0 x 22 + 1 x 21 + 1 x 20
+= 16 + 0 + 0 + 2 + 1.
+Let’s look at base-two, or binary, numbers. How would you write, for instance, 1210 (“twelve, base ten”) as a binary number? You would have to convert to base-two columns, the analogue of base-ten columns. In base ten, you have columns or “places” for 100 = 1, 101 = 10, 102 = 100, 103 = 1000, and so forth. Similarly in base two, you have columns or “places” for 20 = 1, 21 = 2, 22 = 4, 23 = 8, 24 = 16, and so forth.
+The first column in base-two math is the units column. But only “0” or “1” can go in the units column. When you get to “two”, you find that there is no single solitary digit that stands for “two” in base-two math. Instead, you put a “1” in the twos column and a “0” in the units column, indicating “1 two and 0 ones”. The base-ten “two” (210) is written in binary as 102.
+A “three” in base two is actually “1 two and 1 one”, so it is written as 112. “Four” is actually two-times-two, so we zero out the twos column and the units column, and put a “1” in the fours column; 410 is written in binary form as 1002. Here is a listing of the first few numbers:
+decimal
+(base 10)binary
+(base 2)
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+160
+1
+10
+11
+100
+101
+110
+111
+1000
+1001
+1010
+1011
+1100
+1101
+1110
+1111
+100000 ones
+1 one
+1 two and zero ones
+1 two and 1 one
+1 four, 0 twos, and 0 ones
+1 four, 0 twos, and 1 one
+1 four, 1 two, and 0 ones
+1 four, 1 two, and 1 one
+1 eight, 0 fours, 0 twos, and 0 ones
+1 eight, 0 fours, 0 twos, and 1 one
+1 eight, 0 fours, 1 two, and 0 ones
+1 eight, 0 fours, 1 two, and 1 one
+1 eight, 1 four, 0 twos, and 0 ones
+1 eight, 1 four, 0 twos, and 1 one
+1 eight, 1 four, 1 two, and 0 ones
+1 eight, 1 four, 1 two, and 1 one
+1 sixteen, 0 eights, 0 fours, 0 twos, and 0 ones
+Converting between binary and decimal numbers is fairly simple, as long as you remember that each digit in the binary number represents a power of two.
+Convert 1011001012 to the corresponding base-ten number.
+I will list the digits in order, and count them off from the RIGHT, starting with zero:
+digits:1  0   1  1  0  0  1  0  1
+numbering:8  7   6  5  4  3  2  1  0
+The first row above (labelled “digits”) contains the digits from the binary number; the second row (labelled ” numbering”) contains the power of 2 (the base) corresponding to each digits. I will use this listing to convert each digit to the power of two that it represents:
+1×28 + 0×27 + 1×26 + 1×25 + 0×24 + 0×23 + 1×22 + 0×21 + 1×20
+= 1×256 + 0×128 + 1×64 + 1×32 + 0×16 + 0×8 + 1×4 + 0×2 + 1×1
+= 256 + 64 + 32 + 4 + 1
+= 357
+DECIMALBINARY
+91001
+101010
+111011
+121100
+131101
+141110
+151111
+1000100100
+5121000000000
+= 19
+DECIMALBINARY
+00000
+10001
+20010
+30011
+40100
+50101
+60110
+70111
+81000
+OCTAL NUMBER SYSTEM
+The octal number system is a base 8 number system, and uses the digits from 0 to 7. Programs often display in an octal format because it can be translate relatively in binary format, each digit in the octal number system represents a power of base 8. For example the binary representation for decimal 74 is 1001010, which group into 1001010, so the octal representation is 112
+1128 = 1 x 82 + 1 x 81 + 2 x 80
+= (1 x 64) + (1 x 8) + (2 x 1)
+= 64 + 8 + 2
+= 74.
+So, the decimal equivalent of octal number 1128 is 7410. Since there are only 8 digit (0-8) in the octal number system, 3 bits are sufficient to represent an octal number in a binary digits.
+OCTALBINARY
+0000
+1001
+2101
+3011
+4100
+5101
+6110
+7111
+With this table, it is easy to translate octal and binary system for example
+658 = 110 1012
+178 = 001 1112
+HEXADECIMAL NUMBER SYSTEM
+In the hexadecimal number system is a number with a base of 16, usually written using symbols 0-9 and A-F. for example, the decimal number 79 whose binary representation is 01001111 can be written as 4F in hexadecimal ( 4 = 0100, F = 1111 ) for example 1FF16 = 1 x 132 + F x 161 + F x 160
+= 1 x 256 + 15 x 16 + 16 x 1
+= 511.
+Thus, the decimal equivalent of hexadecimal number 1FF16 is 51110. Since there are only 16 digits in the hexadecimal number system, 4 bits are sufficient to represent any hexadecimal number in binary.
+The current decimal number system was first introduced to the computing world in 1963 by international business machine (IBM). An early version that used the digit 0-9 and u-2 was introduced in 1956, in the Bendix G-15 computer
+The tale given below displays the binary and decimal equivalent of some hexadecimal numbers
+HEXADECIMALBINARYDECIMAL
+000000
+100011
+200102
+300113
+401004
+501015
+601106
+701117
+810008
+910019
+A101010
+B101111
+C110012
+D110113
+E111014
+F111115
+The hexadecimal number 4B3A translates the following binary number.
+A                      B              3                      A
+0100                        1011               0011               1010
+A number base is the number of digits or combination of digits that a system of counting uses to represent numbers. A base can be any whole number greater than 0. The most commonly used number system is the decimal system, commonly known as base 10. Its popularity as a system of counting is most likely due to the fact that we have 10 fingers.
+Example \(\PageIndex{1}\):
+The base of any number may be written beside the number. For example, 178 is read as 17 base 8, which is 15 in base 10.
+Conversion from decimal to other bases
+Example \(\PageIndex{2}\): Using positional notation
+Binary is the most commonly used non-base 10 system. It is used for coding in computers. Binary is also known as Base 2. This means it is composed of only 0's and 1's. For example 9 in binary/base 2 is 1001. Let's see how this works.
+Base 10Base 22423222120
+1100001
+9100101001
+161000010000
+Column 2 in the table above represents the binary representation of the decimal number shown in column 1. Columns 3-7 show the expansion of base 2. Note that leading zeros are not normally shown. The Binary system works similarly to the same way base 10 does, only smaller, therefore, requires more digits to make up the same number as in base 10. To illustrate, 1610 = 1(101) + 6(100) = 1(24) + 0(23) + 0(22) + 0(21) + 0(20).
+Example \(\PageIndex{3}\):using positional notation
+Look at Base 16, also known as the hexadecimal system, another common base when coding and using computer systems. In this case, we use the digits \(0-9\) and the letters representing two digits \(A(10), B(11), C(12), D(13), E(14), F(15).\)
+Base 10Base 16162161160
+100064064
+4202A02A (10)
+12407C07C (12)
+26910D10D (13)
+Example \(\PageIndex{4}\):Using division by base
+Convert \(1065\) into base \(12.\)
+Solution
+Notice that \begin{align*}1065 &=(88)(12)+9\\&\\ 88&=(7)(12)+4\\ 7&=(0)(12)+7\end{align*}.
+We write the remainders from bottom to top, \(1065=749_{12}\).
+Conversion from binary to  octal (base 8) and hexadecimal (base 16)
+Example \(\PageIndex{5}\)
+Convert \(1010\) into base \(8\) and \(16.\)
+Solution
+\(12_8\) and \(A_{16}\)
+Arithmetic in other bases
+Example \(\PageIndex{6}\):
+Addition in Base 2:
+Cheat Table to help with Addition:
+0+0=0
+0+1=1
+1+0=1
+1+1=10
+Let's try it:
+110
++ 101
+1011
+=====
+Check: 1102 = 610
+1012 = 510
+10112 = 1110
+Therefore our addition is correct as 6 + 5 = 11 in base 10.
+Let's try another one:
+101012
++ 111012
+1100102
+======
+Check: 101012 = 21
+111012 = 29
+1100102 = 50
+Therefore our addition in correct as 21 + 29 = 50 in base 10.
+Example \(\PageIndex{7}\):
+Subtraction in Base 2:
+Cheat table to help with subtraction:
+1-1=0
+0-0=0
+1-0=1
+0-1=1 * This requires a carry 10-1=1. As you will remember, 10 in base 2 is 2.
+Let's try it:
+101112
+- 101012
+000102
+=====
+Check: 101112 = 2310
+101012 = 2110
+000102 = 210
+Therefore, our subtraction is correct as 23 - 21 = in base 10.
+Example \(\PageIndex{8}\):
+Find \(203_5 + 124_5 \)
+\[ \begin{array}{ccc} &  2 & 0 & 3  \\ + & 1 & 2 & 4  \\ \hline & 3 & 3 & 2  \\ \end{array} \] Therefore, \[ 203_5 + 124_5 = 332_5. \]
+Let's explore the basic arithmetic operations—addition, subtraction, multiplication, and division—in different number bases.
+1. Addition in Number Bases
+Addition works similarly in all bases, but carrying over values depends on the base.
+Example 1: Binary Addition
+Let's add 1011 and 1101 (both in binary).
+101
+1
+2
++
+110
+1
+2
+−
+−
+−
+−
+−
+−
+1011
+2
+​
++   1101
+2
+​
+−−−−−−
+Add the rightmost digits:
+1
++
+1
+=
+1
+0
+2
+1+1=10
+2
+​
+(write 0, carry 1).
+Next,
+1
++
+0
++
+1
+=
+1
+0
+2
+1+0+1=10
+2
+​
+(write 0, carry 1).
+Next,
+0
++
+1
++
+1
+=
+1
+0
+2
+0+1+1=10
+2
+​
+(write 0, carry 1).
+Finally,
+1
++
+1
++
+1
+=
+1
+1
+2
+1+1+1=11
+2
+​
+(write 1, carry 1).
+Result:
+1100
+0
+2
+11000
+2
+​
+Example 2: Hexadecimal Addition
+Add A2 and 5F (both in hexadecimal).
+𝐴
+2
+16
++
+5
+𝐹
+16
+−
+−
+−
+−
+−
+−
+A2
+16
+​
++      5F
+16
+​
+−−−−−−
+Add rightmost digits:
+2
++
+𝐹
+=
+1
+1
+10
+=
+𝐵
+16
+2+F=11
+10
+​
+=B
+16
+​
+.
+Next,
+𝐴
+16
+(
+10
+)
++
+5
+=
+𝐹
+16
+(
+15
+)
+A
+16
+​
+(10)+5=F
+16
+​
+(15).
+Result:
+10
+1
+16
+101
+16
+​
+2. Subtraction in Number Bases
+Subtraction involves borrowing, just like in decimal, but the borrowing depends on the base.
+Example 1: Binary Subtraction
+Subtract 1010 from 1101 (both in binary).
+110
+1
+2
+−
+101
+0
+2
+−
+−
+−
+−
+−
+−
+1101
+2
+​
+−   1010
+2
+​
+−−−−−−
+Starting from the right,
+1
+−
+0
+=
+1
+1−0=1.
+Next,
+0
+−
+1
+0−1 (we need to borrow, so it becomes
+1
+0
+2
+−
+1
+=
+1
+10
+2
+​
+−1=1).
+Next,
+1
+−
+0
+=
+1
+1−0=1.
+Finally,
+1
+−
+1
+=
+0
+1−1=0.
+Result:
+001
+1
+2
+0011
+2
+​
+Example 2: Hexadecimal Subtraction
+Subtract 29 from A5 (both in hexadecimal).
+𝐴
+5
+16
+−
+2
+9
+16
+−
+−
+−
+−
+−
+−
+A5
+16
+​
+−     29
+16
+​
+−−−−−−
+Starting from the right,
+5
+−
+9
+5−9 (borrow, so
+1
+5
+16
+−
+9
+=
+𝐶
+16
+15
+16
+​
+−9=C
+16
+​
+).
+Next,
+𝐴
+16
+(
+10
+)
+−
+2
+=
+8
+16
+A
+16
+​
+(10)−2=8
+16
+​
+.
+Result:
+7
+𝐶
+16
+7C
+16
+​
+3. Multiplication in Number Bases
+Multiplication in any base is done digit by digit, similar to decimal multiplication.
+Example 1: Binary Multiplication
+Multiply 101 and 11 (both in binary).
+10
+1
+2
+×
+01
+1
+2
+−
+−
+−
+−
+−
+−
+101
+2
+​
+×  011
+2
+​
+−−−−−−
+Multiply the rightmost bit (1) with
+10
+1
+2
+101
+2
+​
+: result is
+10
+1
+2
+101
+2
+​
+.
+Shift one place to the left and multiply the next bit (1): result is
+101
+0
+2
+1010
+2
+​
+.
+Now, add:
+10
+1
+2
++
+101
+0
+2
+−
+−
+−
+−
+−
+−
+111
+1
+2
+101
+2
+​
++   1010
+2
+​
+−−−−−− 1111
+2
+​
+Result:
+111
+1
+2
+1111
+2
+​
+Example 2: Hexadecimal Multiplication
+Multiply A and 6 (both in hexadecimal).
+𝐴
+16
+(
+1
+0
+10
+)
+×
+6
+16
+=
+6
+0
+16
+(
+9
+6
+10
+)
+A
+16
+​
+(10
+10
+​
+)×6
+16
+​
+=60
+16
+​
+(96
+10
+​
+)
+Result:
+6
+0
+16
+60
+16
+​
+4. Division in Number Bases
+Division is similar to decimal division but works with the base rules.
+Example 1: Binary Division
+Divide 1100 by 10 (both in binary).
+110
+0
+2
+÷
+1
+0
+2
+1100
+2
+​
+÷10
+2
+​
+110
+0
+2
+1100
+2
+​
+divided by
+1
+0
+2
+10
+2
+​
+gives
+11
+0
+2
+110
+2
+​
+(since 12 in decimal divided by 2 gives 6).
+Result:
+11
+0
+2
+110
+2
+​
+Example 2: Hexadecimal Division
+Divide B4 by 4 (both in hexadecimal).
+𝐵
+4
+16
+÷
+4
+16
+B4
+16
+​
+÷4
+16
+​
+Convert to decimal:
+𝐵
+4
+16
+=
+18
+0
+10
+B4
+16
+​
+=180
+10
+​
+, and
+4
+16
+=
+4
+10
+4
+16
+​
+=4
+10
+​
+.
+180
+÷
+4
+=
+45
+180÷4=45, which is 2D in hexadecimal.
+Result:
+2
+𝐷
+16
+2D
+16
+​

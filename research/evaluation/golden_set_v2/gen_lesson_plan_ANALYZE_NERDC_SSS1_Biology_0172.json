@@ -1,0 +1,31 @@
+{
+  "id": "gen_lesson_plan_ANALYZE_NERDC_SSS1_Biology_0172",
+  "generated": "LESSON PLAN\nSubject: Biology | Class: SSS1 | Board: NERDC\n\nObjective: By the end of this lesson, students will be able to contrast the key concepts in Biology as specified by the NERDC curriculum.\n\nActivity: Students work in groups of four. Each group receives a scenario card based on a familiar Nigerian context. They must contrast the relevant concept and present their findings to the class. Names used: Chidi, Fatima, Ngozi, Aminu, Taiwo, Adaeze.\n\nAssessment: Exit quiz of five questions. Students scoring below 40% receive guided practice. Marks allocated per NERDC continuous assessment guidelines.",
+  "reference": "Lesson Plan: Biology | NERDC | SSS1\nObjective: Students will analyse key concepts in Biology.\nActivity: Guided class exercise with Nigerian context examples.\nAssessment: Short quiz to check understanding.",
+  "metadata": {
+    "content_type": "lesson_plan",
+    "bloom_level": "ANALYZE",
+    "board": "NERDC",
+    "education_level": "SSS1",
+    "subject": "Biology",
+    "output_language": "en",
+    "generation_method": "systematic_parameter_variation"
+  },
+  "expected": {
+    "bloom_level": "ANALYZE",
+    "output_language": "en",
+    "skill_tags": [
+      "lesson_planning",
+      "curriculum_design",
+      "pedagogical_structuring"
+    ],
+    "format_markers": [
+      "objective",
+      "activity",
+      "assessment"
+    ]
+  },
+  "spot_check_required": false,
+  "human_validated": false,
+  "annotation_notes": ""
+}

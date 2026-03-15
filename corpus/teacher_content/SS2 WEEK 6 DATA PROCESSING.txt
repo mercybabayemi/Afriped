@@ -1,0 +1,130 @@
+ENGREG HIGH SCHOOL
+24, Bankole Street, Pedro, Shomolu, Lagos
+WEEK: 6FIRST TERMSESSION: 2024/2025
+SUBJECT: DATA PROCESSING
+TOPIC: ENTITY RELATIONSHIP MODEL II
+CLASS:  SS 2
+DATE: 14th October - 18th October.
+REFERENCE BOOKS:  A Textbook for Data Processing SS 2 by Adedapo F. O. et al Pages 17 - 21
+LEARNING PURPOSE: To provide learners with a foundational understanding of relationships between entities.
+LESSON PERIOD: 1
+DURATION: 40 MINS
+LEARNING OBJECTIVE:  By the end of the lesson, students will be able to:
+1. Define terms like:
+i. Field
+ii. Tuple
+iii. Domain
+iv. The Degree
+v. Cardinality
+vi. Relational database
+Vii. Relational Schema
+2. Discuss relationships between entities
+KEYWORDS: ERM, cardinality
+PREVIOUS LEARNING: The students are familiar with data modelling
+INSTRUCTIONAL MATERIALS:
+Interactive board, computer system, Internet
+LEARNING ACTIVITIES IN STEPS:
+Step 1: The teacher marks assignment and makes correction.
+Step 2: The teacher asks questions on previous knowledge
+Step 3: The teacher modifies students’ response and introduces the new topic
+Step 4: Students would be taken through the derailed explanation of the lesson content
+Step 5: Students ask questions on the content of the lesson
+Step 6: Students would be evaluated based on behavioural objectives
+Step 7: Students Assignments are given and notes and marked
+LEARNING TIME FOR EACH STEP:
+Step 1: 3mins
+Step 2: 2mins
+Step 3: 3mins
+Step 4: 20mins
+Step 5: 2mins
+Step 6: 7mins
+Step 7: 3mins
+LEARNING SKILLS:
+Critical thinking, creative thinking, communicating and leadership development
+ACTIVITY
+What is meant by degree of entity
+EVALUATIVE QUESTIONS:
+Define the terms below:
+i. Field
+ii. Tuple
+iii. Domain
+iv. The Degree
+v. Cardinality
+vi. Relational database
+Vii. Relational Schema
+2. Discuss relationships between entities.
+ASSIGNMENT
+Differentiate between unitary relationship and binary relationship
+DEFINITION OF TERMS
+1.       Field: is a named column in the relation (table). There are five fields in the student relation above – Admission number, Surname, Last name, Age, Gender.
+2.       Tuple: is a record (i.e. a row of data in a relation). All tuples in a relation must be distinct.
+3.       Domain: is defined as the set of all unique values permitted for an attribute. For example, the domain of the field Gender as seen in the table above is M and F. Also the domain of the attribute Surname consist the combination of all possible letters in the alphabet. A domain is referred to in a relation schema by the domain name and has a set of values.
+4.       The Degree (also called arity) of a relation is the number of fields in it. The relation above is of degree 5.
+5.       The cardinality of a relation is the number of tuples in it. For example, the relation above contains 6 tuples and hence the cardinality is 6.
+6.       A relational database is a collection of relations with distinct names that can be linked together.
+7.       Relation schema describes the column heads of the table. The schema specifies the relation’s name, the name of the field (or attribute or column) and the domain of each field. For example the schema for the Student relation above is given below:
+Student (Admission number: integer, Surname: string, last name: string, Age: integer, Gender: string).
+Relationship
+Entities in an organization do not exist in isolation but are related to each other. Students take courses and each STUDENT entity is related to the COURSE entity. Faculty members teach courses and each FACULTY entity is also related to the COURSE entity. Consequently, the STUDENT entity is related to the FACULTY entity through the COURSE entity. In an E-R diagram, we represent relationship types with diamond-shaped boxes connected by straight lines to the rectangles that represent participating entity types. A relationship type is a given name that is displayed in this diamond-shaped box and typically takes the form of a present tense verb or verb phrase that describes the relationship. A relationship is an association among several entities. The figure below is an E-R diagram that shows a relationship between entities ACCOUNT and CUSTOMER.
+Degree of a relationship
+The number of entity sets that participate in a relationship is called the degree of relationship. The 3 most common degrees of relationship are unary (degree 1), binary (degree 2) and ternary (degree 3).
+Unary relationship: A unary relationship exists when there is an association between two instances of the same entity type. For example, in an organization, an employee will manage one or more employee.
+Binary relationship: A binary relationship exists when there is an association between two instances of two different entity types. For example, in a secondary school, a binary relationship exists between a Subject (SUBJECT entity) and a Teacher (TEACHER entity); a teacher teaches (a) subject.
+Ternary Relationship: A ternary relationship exists when there is an association between three instances of three different entity types. For example, consider a student using certain equipment for a project. In this case, the STUDENT, PROJECT, and EQUIPMENT entity types relate to each other with ternary relationships: a student checks out equipment for a project.
+Cardinality of a relationship
+The cardinality is the number of occurrences in one entity which are associated (or linked) to the number of occurrences in another entity. For example, if the entity types A and B are connected by a relationship, then the maximum cardinality represents the maximum number of instances of entity B that can be associated with any instance of entity A. There are three types of relationship:
+1. One-to-One Relationship:  In a one-to-one relationship, at most one instance of entity B can be associated with a given instance of entity A and vice versa.  For example an employee is assigned a parking space or an employee manages the department.
+.
+2. One-to-Many (or many-to-one) Relationship: In a one-to-many relationship, many instances of entity B can be associated with a given instance of entity A. However, only one instance of entity A can be associated with a given instance of entity B. For example, many employee works in a department or a school has many employees.
+3. Many-to-Many Relationship: In a many-to-many relationship, many instances of entity A can be associated with a given instance of entity B, and, likewise, many instances of entity B can be associated with a given instance of entity A. For example, many employees work on many projects.
+ENGREG HIGH SCHOOL
+24, Bankole Street, Pedro, Shomolu, Lagos
+WEEK: 6FIRST TERMSESSION: 2024/2025
+SUBJECT: DATA PROCESSING
+TOPIC: RELATIONAL MODEL
+CLASS:  SS 2
+DATE: 14th October - 18th October
+REFERENCE BOOKS:  A Textbook for Data Processing SS 2 by Adedapo F. O. et al Pages 17 - 21
+LEARNING PURPOSE: To provide learners with a foundational understanding with relational model
+LESSON PERIOD: 2
+DURATION: 40 MINS
+LEARNING OBJECTIVE:  By the end of the lesson, students will be able to:
+Define Relational Model
+Enumerate and explain relational model keys
+KEYWORDS: foreign key, composite key
+PREVIOUS LEARNING: The students are familiar with relationships between entities
+INSTRUCTIONAL MATERIALS:
+Interactive board, computer system, Internet
+LEARNING ACTIVITIES IN STEPS:
+Step 1: The teacher marks assignment and makes correction.
+Step 2: The teacher asks questions on previous knowledge
+Step 3: The teacher modifies students’ response and introduces the new topic
+Step 4: Students would be taken through the derailed explanation of the lesson content
+Step 5: Students ask questions on the content of the lesson
+Step 6: Students would be evaluated based on behavioural objectives
+Step 7: Students Assignments are given and notes and marked
+LEARNING TIME FOR EACH STEP:
+Step 1: 3mins
+Step 2: 2mins
+Step 3: 3mins
+Step 4: 20mins
+Step 5: 2mins
+Step 6: 7mins
+Step 7: 3mins
+LEARNING SKILLS:
+Critical thinking, creative thinking, communicating and leadership development
+ACTIVITY
+Relational model was invented by who?
+EVALUATIVE QUESTIONS:
+I.  Define Relational Model
+Ii. Enumerate and explain relational model keys
+ASSIGNMENT
+Differentiate between primary and secondary key
+RELATIONAL MODEL
+A relational model gives a simple way of representing data in form of a two-dimensional table called relation.  Relational model was invented by Edger Codd. The columns or fields in the table identify the attribute such as surname, lastname, age, gender, Admission number etc.  A tuple or row contains all the data of a single instance of the table such as a person named James Bond. In the relational model, every tuple must have a unique identification or key based on the data. In the table below, the Admission number is the key that uniquely identifies each tuple in the relation. Keys are often used to join data from two or more relations based on matching identification. Another concept used in a relational model is the foreign keys, which are primary keys in one relation that are kept in another relation to allow for the joining of data.
+Relational model keys
+1.       Candidate key: Candidate keys are defined as the minimal set of fields which can uniquely identify each record in the table. It is an attribute or a set of attributes that can act as a primary key for a table to uniquely identify each record in that table.
+2.       Primary key: is any candidate key that is most appropriate to be the main reference key for the table. It is used to establish relationship with other tables. It must never be null and must be unique.
+3.       Foreign key: is generally a primary key of one table that appears as a field in another where the first table has a relationship with the second. In other words, if we have a table A with a primary key X that is linked to a table B where X is a field in B, then X is a foreign key in B.
+4.       Secondary key or alternative key: a table may have one or more choices for the primary key. Collectively these are known as candidate keys as shown above. One is selected as the primary key. Those not selected are known as secondary keys or alternative keys.
+5.       Composite key is combination of two or more columns in a table that can be used to uniquely identify each row in a table

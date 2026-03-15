@@ -1,0 +1,39 @@
+{
+  "generated": "## SSS2 Physics Scheme of Work — Term 1: Mechanics\n**Curriculum Board:** NERDC | **Education Level:** SSS2 | **Duration:** 13 Weeks\n\n### Learning Objectives\nStudents will:\n- Analyse the relationship between force, mass, and acceleration using Newton's Laws\n- Compare linear and projectile motion using graphical methods\n- Distinguish between scalar and vector quantities\n- Examine real-world applications of mechanical principles in Nigerian infrastructure\n\n---\n\n| Week | Topic | Sub-topic | Learning Objectives | Activities | Assessment |\n|---|---|---|---|---|---|\n| Week 1 | Introduction to Mechanics | Scalars and vectors | Distinguish scalars from vectors; examine examples from daily life | Aminu and Ngozi sort cards: speed vs velocity, distance vs displacement | Class discussion |\n| Week 2 | Linear Motion | Equations of motion | Analyse motion graphs; compare uniform and non-uniform motion | Distance-time graph of danfo bus route Lagos–Ibadan | Short quiz |\n| Week 3 | Linear Motion | Velocity-time graphs | Examine acceleration from gradient; calculate area = displacement | Group plot velocity-time graphs from stopwatch data on school field | Worksheet |\n| Week 4 | Newton's Laws | First Law (inertia) | Analyse why passengers lurch forward during sudden braking of a bus | Demo: wooden block on paper tablecloth; Ibrahim explains inertia | Oral Q&A |\n| Week 5 | Newton's Laws | Second Law (F=ma) | Calculate force using F = ma; contrast heavy vs light objects | Trolley and pulley experiment; vary mass and compare accelerations | Lab report |\n| Week 6 | Newton's Laws | Third Law | Examine action-reaction pairs; analyse rocket propulsion | Balloon rocket demonstration; Chioma identifies action-reaction pairs | Written exercise |\n| Week 7 | Projectile Motion | Horizontal projection | Analyse horizontal and vertical components separately | Throw a ball horizontally from a table; measure range vs height | Practical |\n| Week 8 | Projectile Motion | Oblique projection | Compare ranges at different projection angles; examine max range at 45° | Computer simulation (if available) or scale drawings | Quiz |\n| Week 9 | Work, Energy, Power | Definitions and units | Distinguish work, energy, and power using Nigerian construction examples | Calculate work done lifting bags of cement; Tunde measures power output | Problem set |\n| Week 10 | Work, Energy, Power | Conservation of energy | Analyse energy transformations in a pendulum and a hydro dam | Pendulum experiment; examine energy flow in Kainji Dam (diagram) | Worksheet |\n| Week 11 | Machines | Simple machines | Examine mechanical advantage; contrast effort vs load in levers and pulleys | Practical station rotation: lever, pulley, inclined plane | Lab report |\n| Week 12 | Revision | All Term 1 topics | Analyse past WAEC questions; distinguish common misconceptions | Group problem-solving; peer teaching sessions | Mock test |\n| Week 13 | End-of-Term Assessment | All topics | Examine retention across all mechanics topics | Written examination | Term exam |",
+  "reference": "NERDC SSS2 Physics Scheme of Work for Term 1 covering Mechanics — scalars/vectors, Newton's Laws, projectile motion, and energy — with Nigerian real-world examples.",
+  "content_type": "SCHEME_OF_WORK",
+  "subject": "physics",
+  "topic": "Mechanics — Term 1",
+  "education_level": "SSS2",
+  "curriculum_board": "NERDC",
+  "expected_bloom": "ANALYZE",
+  "expected_language": "en",
+  "expected_skills": ["Analytical Thinking", "Problem Solving", "Numerical Reasoning"],
+  "detected_skills": ["Analytical Thinking", "Problem Solving"],
+  "validation": {
+    "status": "FLAGGED",
+    "rules_passed": [
+      "length_check",
+      "language_detection",
+      "bloom_verb_presence",
+      "cultural_flag_check",
+      "no_hallucinated_dates",
+      "no_explicit_content",
+      "curriculum_alignment",
+      "format_compliance"
+    ],
+    "rules_failed": [],
+    "judge_score": 0.63,
+    "judge_dimensions": {
+      "accuracy": 0.72,
+      "relevance": 0.68,
+      "pedagogy": 0.55,
+      "cultural_fit": 0.65,
+      "format": 0.56
+    },
+    "revision_count": 0,
+    "notes": [
+      "Judge score 0.63 below soft threshold 0.70; flagged for human review. Pedagogy dimension low — scheme lacks explicit differentiation strategies for mixed-ability SSS2 classes."
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "generated": "WORKSHEET: Fractions\nSubject: Mathematics | Class: Primary 6 | Board: NERDC/UBEC\n\nName: ________________  Date: ________________\n\n--- Section A: Definitions ---\n1. Define a fraction. Write your definition in your own words.\n\n2. Name the TWO parts of a fraction and state what each part tells us:\n   a) The top number is called the ________________ and it tells us ________________\n   b) The bottom number is called the ________________ and it tells us ________________\n\n3. List THREE types of fractions and give ONE example of each:\n   Type 1: ________________  Example: ________________\n   Type 2: ________________  Example: ________________\n   Type 3: ________________  Example: ________________\n\n--- Section B: Identify and Recall ---\n4. Identify which fractions below are proper fractions, improper fractions, or mixed numbers:\n   a) 3/4  ________________\n   b) 7/3  ________________\n   c) 2½   ________________\n   d) 1/8  ________________\n   e) 9/9  ________________\n\n5. Recall and state the rule for converting an improper fraction to a mixed number.\n   Rule: ________________\n\n6. Tunde shared his 8 pieces of plantain among 4 friends. Name the fraction each friend received.\n   Answer: ________________\n\n--- Section C: Matching ---\n7. Match each fraction to its equivalent (draw a line):\n   1/2          6/10\n   3/5          4/8\n   2/3          8/12\n\n--- Section D: True or False ---\n8. State whether each sentence is TRUE or FALSE:\n   a) 1/4 is greater than 1/2.          ________________\n   b) 2/4 and 1/2 are equivalent.       ________________\n   c) The denominator is the top number. ________________",
+  "reference": "A NERDC Primary 6 Mathematics worksheet on fractions covering definitions, identification, classification, and recall of fraction rules with Nigerian everyday examples.",
+  "content_type": "WORKSHEET",
+  "subject": "mathematics",
+  "topic": "Fractions",
+  "education_level": "PRIMARY_6",
+  "curriculum_board": "NERDC",
+  "expected_bloom": "REMEMBER",
+  "expected_language": "en",
+  "expected_skills": ["Numerical Reasoning", "Active Learning"],
+  "detected_skills": ["Numerical Reasoning", "Active Learning"],
+  "validation": {
+    "status": "PASSED",
+    "rules_passed": [
+      "length_check",
+      "language_detection",
+      "bloom_verb_presence",
+      "cultural_flag_check",
+      "no_hallucinated_dates",
+      "no_explicit_content",
+      "curriculum_alignment",
+      "format_compliance"
+    ],
+    "rules_failed": [],
+    "judge_score": null,
+    "judge_dimensions": null,
+    "revision_count": 0,
+    "notes": []
+  }
+}

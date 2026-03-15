@@ -1,0 +1,127 @@
+ENGREG HIGH SCHOOL
+24, Bankole Street, Pedro, Shomolu, Lagos
+WEEK: 6FIRST TERMSESSION: 2024/2025
+SUBJECT: COMPUTER STUDIES
+TOPIC: SPREADSHEET PACKAGE
+CLASS:  JSS 3
+DATE: 14th  - 18th October, 2024
+REFERENCE BOOKS: New Computer Studies for JSS 3 by J.O.E Otuka et al Pages 19-21
+WABP ICT for JSS 3 by Vincent Hope et al Pages 20-23
+LEARNING PURPOSE: To provide foundational knowledge on spreadsheet packages, its examples and uses.
+LESSON PERIOD: 1
+DURATION: 40 MINS
+LEARNING OBJECTIVE:  By the end of the lesson, students will be able to:
+Define spreadsheet package.
+List examples of spreadsheet package.
+State the uses of spreadsheet package.
+KEYWORDS: Spreadsheet, Calculations, rows, columns, Excel
+PREVIOUS LEARNING: The students were taught the Database software in the last class.
+INSTRUCTIONAL MATERIALS:
+Interactive board, computer system, Internet
+LEARNING ACTIVITIES IN STEPS:
+Step 1: The teacher marks assignment and makes correction.
+Step 2: The teacher asks questions on previous knowledge
+Step 3: The teacher modifies students’ response and introduces the new topic
+Step 4: Students would be taken through the derailed explanation of the lesson content
+Step 5: Students ask questions on the content of the lesson
+Step 6: Students would be evaluated based on behavioural objectives
+Step 7: Students Assignments are given and notes are marked
+LEARNING TIME FOR EACH STEP:
+Step 1: 3mins
+Step 2: 2mins
+Step 3: 3mins
+Step 4: 20mins
+Step 5: 2mins
+Step 6: 7mins
+Step 7: 3mins
+LEARNING SKILLS:
+Critical thinking, creative thinking, communicating and leadership development
+ACTIVITY
+Define spreadsheet package and list five examples.
+EVALUATIVE QUESTIONS:
+Define spreadsheet package.
+List four examples of spreadsheet package.
+State three uses of spreadsheet package.
+ASSIGNMENT
+State five uses of spreadsheet package.
+SPREADSHEET PACKAGE
+A spreadsheet package is application software that is made of horizontal (columns) and vertical (rows) which is used in data analysis and calculation.
+EXAMPLES OF SPREADSHEET
+Open Office Calc
+Microsoft Excel
+Lotus 1-2-3
+STATVIEW
+Quattro pro
+Easy Calc
+Super-Calc
+Apple numbers
+USES OF SPREADSHEET PACKAGES
+It is used for  preparation  of budget
+It is used for analysis of daily sales
+It is used for   preparation  of examination results
+It is used for  chart creation  (Bar chart and pie chart)
+It is used for managing inventory for a small  business
+ENGREG HIGH SCHOOL
+24, Bankole Street, Pedro, Shomolu, Lagos
+WEEK: 6FIRST TERMSESSION: 2024/2025
+SUBJECT: COMPUTER STUDIES
+TOPIC: SPREADSHEET FEATURES AND TERMINOLOGIES
+CLASS:  JSS 3
+DATE: 14th  - 18th October, 2024
+REFERENCE BOOKS: New Computer Studies for JSS 3 by J.O.E Otuka et al Pages 19-21
+WABP ICT for JSS 3 by Vincent Hope et al Pages 20-23
+LEARNING PURPOSE: To provide foundational knowledge on the features and terminologies of spreadsheet packages.
+LESSON PERIOD: 2
+DURATION: 40 MINS
+LEARNING OBJECTIVE:  By the end of the lesson, students will be able to:
+List and Explain the spreadsheet features.
+State the steps to open Microsoft Excel.
+State how to exit the Excel window.
+KEYWORDS: Spreadsheet, Calculations, rows, columns, range, worksheet, workbook, formular, function.
+PREVIOUS LEARNING: The students were taught the definition, examples and uses of spreadsheet package in the last class.
+INSTRUCTIONAL MATERIALS:
+Interactive board, computer system, Internet
+LEARNING ACTIVITIES IN STEPS:
+Step 1: The teacher marks assignment and makes correction.
+Step 2: The teacher asks questions on previous knowledge
+Step 3: The teacher modifies students’ response and introduces the new topic
+Step 4: Students would be taken through the derailed explanation of the lesson content
+Step 5: Students ask questions on the content of the lesson
+Step 6: Students would be evaluated based on behavioural objectives
+Step 7: Students Assignments are given and notes are marked
+LEARNING TIME FOR EACH STEP:
+Step 1: 3mins
+Step 2: 2mins
+Step 3: 3mins
+Step 4: 20mins
+Step 5: 2mins
+Step 6: 7mins
+Step 7: 3mins
+LEARNING SKILLS:
+Critical thinking, creative thinking, communicating and leadership development
+ACTIVITY
+State the steps to open Microsoft Excel.
+State how to exit the Excel window.
+EVALUATIVE QUESTIONS:
+List and Explain five spreadsheet features.
+State the steps to open Microsoft Excel.
+State how to exit the Excel window.
+ASSIGNMENT
+List five spreadsheet features and Explain any three of the features.
+SPREADSHEET FEATURES AND TERMINOLOGIES
+Column: A vertical range of cells labeled with letters (e.g., A, B, C).
+Row: A horizontal range of cells labeled with numbers (e.g., 1, 2, 3).
+Cell: The intersection of a row and a column, labeled by its column letter and row number (e.g., C3).
+Cell Address: The name of a cell (e.g., C3), identifying its position by column and row.
+Range: A group of selected cells, either adjacent or non-adjacent (e.g., A1).
+Worksheet: A single page within a workbook containing rows, columns, and cells.
+Workbook: A file containing multiple worksheets, often with links between them.
+Formula: A calculation or instruction to manipulate data in cells (e.g., +B1/B4).
+Function: A pre-defined formula for complex calculations (e.g., =SUM(B1)).
+HOW TO LOAD AND EXIT THE SPREADSHEET PACKAGE.
+To load a spreadsheet package like Microsoft Excel, you can follow these steps:
+Click on the Start button located at the bottom-left corner of the screen.
+Type Microsoft Excel in the search bar.
+Click on Microsoft Excel to launch the application.
+To exit a spreadsheet package like Microsoft Excel, you can follow these steps:
+Simply click the (X) button on the top right corner of your spreadsheet window.

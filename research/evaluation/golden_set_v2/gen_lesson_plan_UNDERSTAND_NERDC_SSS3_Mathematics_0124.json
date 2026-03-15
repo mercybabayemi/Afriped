@@ -1,0 +1,31 @@
+{
+  "id": "gen_lesson_plan_UNDERSTAND_NERDC_SSS3_Mathematics_0124",
+  "generated": "LESSON PLAN\nSubject: Mathematics | Class: SSS3 | Board: NERDC\n\nObjective: By the end of this lesson, students will be able to interpret the key concepts in Mathematics as specified by the NERDC curriculum.\n\nActivity: Students work in groups of four. Each group receives a scenario card based on a familiar Nigerian context. They must interpret the relevant concept and present their findings to the class. Names used: Chidi, Fatima, Ngozi, Aminu, Taiwo, Adaeze.\n\nAssessment: Exit quiz of five questions. Students scoring below 40% receive guided practice. Marks allocated per NERDC continuous assessment guidelines.",
+  "reference": "Lesson Plan: Mathematics | NERDC | SSS3\nObjective: Students will explain key concepts in Mathematics.\nActivity: Guided class exercise with Nigerian context examples.\nAssessment: Short quiz to check understanding.",
+  "metadata": {
+    "content_type": "lesson_plan",
+    "bloom_level": "UNDERSTAND",
+    "board": "NERDC",
+    "education_level": "SSS3",
+    "subject": "Mathematics",
+    "output_language": "en",
+    "generation_method": "systematic_parameter_variation"
+  },
+  "expected": {
+    "bloom_level": "UNDERSTAND",
+    "output_language": "en",
+    "skill_tags": [
+      "lesson_planning",
+      "curriculum_design",
+      "pedagogical_structuring"
+    ],
+    "format_markers": [
+      "objective",
+      "activity",
+      "assessment"
+    ]
+  },
+  "spot_check_required": false,
+  "human_validated": false,
+  "annotation_notes": ""
+}

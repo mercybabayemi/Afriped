@@ -1,0 +1,102 @@
+ENGREG HIGH SCHOOL
+24, Bankole Street, Pedro, Shomolu, Lagos
+WEEK: 5FIRST TERMSESSION: 2024/2025
+SUBJECT: DATA PROCESSING
+TOPIC: CRASH RECOVERY I
+CLASS:  SS 3
+DATE: 30th 7th Octorber - 11th 2024
+REFERENCE BOOKS:  A Textbook for Data Processing SS 3 by Adedapo F. O. et al Pages 15 - 21
+LEARNING PURPOSE: To provide learners with a foundational understanding of database Security
+LESSON PERIOD: 1
+DURATION: 40 MINS
+LEARNING OBJECTIVE:  By the end of the lesson, students will be able to:
+Explain Crash recovery in database
+State conditions that result in transaction failure
+Explain Log in crash recovery
+KEYWORDS: ARIES,Redo, Undo,LSN(Log Sequence Number)
+PREVIOUS LEARNING: The students are familiar with the database management system.
+INSTRUCTIONAL MATERIALS:
+Interactive board, computer system, Internet
+LEARNING ACTIVITIES IN STEPS:
+Step 1: The teacher marks assignment and makes correction.
+Step 2: The teacher asks questions on previous knowledge
+Step 3: The teacher modifies students’ response and introduces the new topic
+Step 4: Students would be taken through the derailed explanation of the lesson content
+Step 5: Students ask questions on the content of the lesson
+Step 6: Students would be evaluated based on behavioural objectives
+Step 7: Students Assignments are given and notes and marked
+LEARNING TIME FOR EACH STEP:
+Step 1: 3mins
+Step 2: 2mins
+Step 3: 3mins
+Step 4: 20mins
+Step 5: 2mins
+Step 6: 7mins
+Step 7: 3mins
+LEARNING SKILLS:
+Critical thinking, creative thinking, communicating and leadership development
+ACTIVITY
+Define crash recovery
+EVALUATIVE QUESTIONS:
+What's crash recovery
+List conditions that result in transaction failure
+What's "The Log" in crash recovery term.
+ASSIGNMENT
+State examples of database systems that uses crash recovery.
+Definition:
+Crash recovery is the process of restoring a database to a consistent and usable state after a system failure. This involves rolling back incomplete transactions and completing committed transactions that were still in memory when the crash occurred. A database is considered to be in a consistent state when it has reached a point of consistency.
+Conditions that can result in transaction failure:
+1. Power failure: A sudden loss of power can cause the database manager and its partitions to go down.
+2. Hardware failure: Issues with memory, disk, CPU, or network components can lead to database failures.
+3. Operating system errors: Serious errors in the operating system can cause the database to crash.
+THE LOG
+The Log, sometimes called Trail or journal, is a series of actions executed by the DBMS. Physically, the log is a file of records stored in a stable storage, which is assumed to survive crashes. Every log record  is given a unique ID called the Log Sequence Number.
+ENGREG HIGH SCHOOL
+24, Bankole Street, Pedro, Shomolu, Lagos
+WEEK: 5FIRST TERMSESSION: 2024/2025
+SUBJECT: DATA PROCESSING
+TOPIC: DATABASE SECURITY I
+CLASS:  SS 3
+DATE: 30th 7th Octorber - 11th 2024
+REFERENCE BOOKS:  A Textbook for Data Processing SS 3 by Adedapo F. O. et al Pages 15 - 21
+LEARNING PURPOSE: To provide learners with a foundational understanding of crash recovery
+LESSON PERIOD: 2
+DURATION: 40 MINS
+LEARNING OBJECTIVE:  By the end of the lesson, students will be able to:
+State the acronym of ARIES and explain
+Principles of aries recovery algorithm
+KEYWORDS: ARIES,Redo, Undo,LSN(Log Sequence Number
+PREVIOUS LEARNING: The students are familiar with crash recovery in database
+INSTRUCTIONAL MATERIALS:
+Interactive board, computer system, Internet
+LEARNING ACTIVITIES IN STEPS:
+Step 1: The teacher marks assignment and makes correction.
+Step 2: The teacher asks questions on previous knowledge
+Step 3: The teacher modifies students’ response and introduces the new topic
+Step 4: Students would be taken through the derailed explanation of the lesson content
+Step 5: Students ask questions on the content of the lesson
+Step 6: Students would be evaluated based on behavioural objectives
+Step 7: Students Assignments are given and notes and marked
+LEARNING TIME FOR EACH STEP:
+Step 1: 3mins
+Step 2: 2mins
+Step 3: 3mins
+Step 4: 20mins
+Step 5: 2mins
+Step 6: 7mins
+Step 7: 3mins
+LEARNING SKILLS:
+Critical thinking, creative thinking, communicating and leadership development
+ACTIVITY
+What's write-Ahead log protocol
+EVALUATIVE QUESTIONS:
+1.State the acronym of ARIES
+2. Explain the principles of ARIES
+ASSIGNMENT:
+What are media recoveries
+Introduction to ARIES (Algorithms for Recovery and Isolation Exploiting Semantics)
+ARIES is a recovery algorithm designed to work with a no-force, steal database approach. It is used by IBM DB2, MS SQL Server, and many other database systems.
+The three main principles that underlie the ARIES recovery algorithm are:
+1. Write-Ahead Logging: Any change to an object is first recorded in the log, and then the log must be written to stable storage before changes to the object are written to a disk.
+2. Repeating History during Redo: On restart after a crash, ARIES retraces the actions of a database before the crash to bring the system back to the exact state it was in before the crash. Then, it undoes the transactions still active at crash time.
+3. Logging Changes during Undo: Changes made to the database while undoing transactions are logged to ensure that such actions aren't repeated in the event of repeated restarts.

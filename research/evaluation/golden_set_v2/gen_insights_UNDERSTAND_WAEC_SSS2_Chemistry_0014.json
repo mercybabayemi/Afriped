@@ -1,0 +1,31 @@
+{
+  "id": "gen_insights_UNDERSTAND_WAEC_SSS2_Chemistry_0014",
+  "generated": "CONTENT ANALYSIS \u2014 Chemistry | SSS2\n\nBloom Level Detected: UNDERSTAND\nCultural Authenticity: Nigerian names and contexts present (Aminu, Kemi, Okonkwo)\nReadability: Appropriate for SSS2 level\nFormat Compliance: All required sections present\nRecommendations: Content effectively requires students to classify. Consider adding more open-ended questions targeting the EVALUATE level.",
+  "reference": "Insights: Chemistry content analysis for SSS2 level.\nBloom level detected: UNDERSTAND. Recommendation: add more explain activities.",
+  "metadata": {
+    "content_type": "insights",
+    "bloom_level": "UNDERSTAND",
+    "board": "WAEC",
+    "education_level": "SSS2",
+    "subject": "Chemistry",
+    "output_language": "ha",
+    "generation_method": "systematic_parameter_variation"
+  },
+  "expected": {
+    "bloom_level": "UNDERSTAND",
+    "output_language": "ha",
+    "skill_tags": [
+      "content_analysis",
+      "bloom_classification",
+      "readability_assessment"
+    ],
+    "format_markers": [
+      "analysis",
+      "recommendation",
+      "level"
+    ]
+  },
+  "spot_check_required": false,
+  "human_validated": false,
+  "annotation_notes": ""
+}

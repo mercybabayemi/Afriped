@@ -1,0 +1,135 @@
+ENGREG HIGH SCHOOL
+24, Bankole Street, Pedro, Shomolu, Lagos
+WEEK: 2FIRST TERMSESSION: 2024/2025
+SUBJECT: COMPUTER STUDIES
+TOPIC: NETWORK CABLES AND CONNECTORS
+CLASS:  SS 3
+DATE: 16th – 20th September, 2024
+REFERENCE BOOKS: New Computer Studies for SS 3 by J.O.E Otuka et al Pages 10-12
+Online with computers for SS 3 by Adedapo F. O. et al 16-18
+LEARNING PURPOSE: Students will Gain insight into how different cables and connectors’ influences network performance and how they support various networking functions.
+LESSON PERIOD: 1
+DURATION: 40 MINS
+LEARNING OBJECTIVE:  By the end of the lesson, students will be able to:
+Define Network Cables.
+Identify the different types of Network Cables.
+State factors to be considered when selecting a cable.
+KEYWORDS: Connectors, Cables, Coaxial, Fiber, USB, Ethernet
+PREVIOUS LEARNING:  The students are familiar with Networking from previous lesson.
+INSTRUCTIONAL MATERIALS:
+Interactive board, computer system, Internet
+LEARNING ACTIVITIES IN STEPS:
+Step 1: The teacher marks assignment and makes correction.
+Step 2: The teacher asks questions on previous knowledge
+Step 3: The teacher modifies students’ response and introduces the new topic
+Step 4: Students would be taken through the derailed explanation of the lesson content
+Step 5: Students ask questions on the content of the lesson
+Step 6: Students would be evaluated based on behavioural objectives
+Step 7: Students Assignments are given and notes are marked
+LEARNING TIME FOR EACH STEP:
+Step 1: 3mins
+Step 2: 2mins
+Step 3: 3mins
+Step 4: 20mins
+Step 5: 2mins
+Step 6: 7mins
+Step 7: 3mins
+LEARNING SKILLS:
+Critical thinking, creative thinking, communicating and leadership development
+ACTIVITY
+Explain any five-network cables.
+EVALUATIVE QUESTIONS:
+Define Network Cables.
+Identify four types of Network Cables.
+State two factors to be considered when selecting a cable.
+ASSIGNMENT
+Differentiate between twisted pair, coaxial, fiber optic cable.
+NETWORK CABLES AND CONNECTORS
+Network cables and connectors are vital components in network infrastructure, enabling the transfer of data between devices. They come in various types and are used for different purposes, depending on the network's requirements.
+NETWORK CABLES
+Network cables are essential for connecting and transferring data between devices in a network. The type of cable used depends on the network’s structure and requirements. Here are the main types of network cables:
+Twisted Pair Cables: Twisted pair cabling is the type of wring in which two conductors are twisted together for cancelling out electromagnetic interference (EMI) from external sources. Pair cables were invented by Alexander Graham Bell in 1881.There are two types of twisted pair cables
+Unshielded Twisted Pair (UTP): Commonly used in Ethernet networks; minimizes interference.
+Shielded Twisted Pair (STP): Includes extra shielding for environments with higher electronic noise.
+Coaxial Cables: Consist of a central conductor, insulating layer, metallic shield, and outer insulation. Used for TV, internet, and older Ethernet networks. English engineer and mathematician Oliver Heaviside in1880 invented coaxial cable.
+Fiber Optic Cables: Use light to transmit data, offering high bandwidth and long-distance capabilities. There are two main types:
+Single-Mode Fiber (SMF): Ideal for long-distance communication, such as in telecommunications.
+Multi-Mode Fiber (MMF): Used for shorter distances within buildings or campuses.
+Telephone Cables: Connect telephones to wiring; standards vary by country.
+Ethernet Cables:
+Cat5e: Up to 1 Gbps; basic network connections.
+Cat6: Up to 10 Gbps over short distances.
+Cat6a: Enhanced Cat6; maintains 10 Gbps over longer distances.
+Cat7: Up to 10 Gbps with additional shielding.
+Power over Ethernet (PoE) Cables: These Ethernet cables can carry both data and power; used for devices like IP cameras and access points.
+Patch Cables: Short Ethernet cables with connectors on both ends, used to connect devices to switches, routers, or wall outlets.
+USB (Universal Serial Bus) Cables: Connect peripherals like keyboards and external drives; versions include USB 2.0, 3.0, and 3.2.
+HDMI Cables: Transmit high-definition video and audio between devices like TVs, monitors, and gaming consoles.
+DisplayPort Cables: Provide a high-definition digital display interface, often used for connecting monitors.
+ENGREG HIGH SCHOOL
+24, Bankole Street, Pedro, Shomolu, Lagos
+WEEK: 2FIRST TERMSESSION: 2024/2025
+SUBJECT: COMPUTER STUDIES
+TOPIC: NETWORK CABLES AND CONNECTORS
+CLASS:  SS 3
+DATE: 16th – 20th September, 2024
+REFERENCE BOOKS: New Computer Studies for SS 3 by J.O.E Otuka et al Pages 10-12
+Online with computers for SS 3 by Adedapo F. O. et al 16-18
+LEARNING PURPOSE: Students will Gain insight into how different cables and connectors influences network performance and how they support various networking functions.
+LESSON PERIOD: 2
+DURATION: 40 MINS
+LEARNING OBJECTIVE:  By the end of the lesson, students will be able to:
+Define Network Connector.
+Identify the different Network Connectors.
+Explain the types of connectors.
+KEYWORDS: Connectors, Cables, Coaxial, Fiber, USB, Ethernet
+PREVIOUS LEARNING:  The students are familiar Network Cables.
+INSTRUCTIONAL MATERIALS:
+Interactive board, computer system, Internet
+LEARNING ACTIVITIES IN STEPS:
+Step 1: The teacher marks assignment and makes correction.
+Step 2: The teacher asks questions on previous knowledge
+Step 3: The teacher modifies students’ response and introduces the new topic
+Step 4: Students would be taken through the derailed explanation of the lesson content
+Step 5: Students ask questions on the content of the lesson
+Step 6: Students would be evaluated based on behavioural objectives
+Step 7: Students Assignments are given and notes and marked
+LEARNING TIME FOR EACH STEP:
+Step 1: 3mins
+Step 2: 2mins
+Step 3: 3mins
+Step 4: 20mins
+Step 5: 2mins
+Step 6: 7mins
+Step 7: 3mins
+LEARNING SKILLS:
+Critical thinking, creative thinking, communicating and leadership development
+ACTIVITY
+Why are cables and connectors vital components in Network infrastructure?
+EVALUATIVE QUESTIONS:
+Define Network Connector.
+Identify three different Network Connectors.
+Explain two types of connectors.
+ASSIGNMENT
+Differentiate between RJ45, BNC, SC/LC/ST connectors.
+NETWORK CONNECTORS
+Network connectors are crucial components that enable the physical connection of cables and devices within a network. Each type of connector is designed for specific cable types and applications. Here are some common network connectors
+RJ-45 Connector: Standard for Ethernet cables. It connects network devices such as computers, switches, routers, and access points.
+RJ-11 Connector: Used for telephone and DSL connections. It connects telephones to telephone lines.
+BNC: Connector for coaxial cables in video and radio frequency applications.
+SC/LC/ST Connector: Connectors for fiber optic cables.
+MTP/MPO Connector: High-density fiber optic connector supporting multiple fibers. Ideal for data centers and applications requiring high fiber density.
+USB Type-A/B/C: Universal connectors for peripherals and devices.
+HDMI Connector: Transmits high-definition video and audio.
+F-Connector: Used for cable TV and satellite connections. Connects coaxial cables with a threaded design for secure attachment.
+Power Connectors: Provides electrical power to networking devices.
+TYPES OF CONNECTORS:
+Male Connectors: Have pins that plug into female sockets.
+Female Connectors: Have sockets that receive male connectors.
+Male-to-Female Connectors: Connect a male and a female connector.
+Male-to-Male Connectors: Connect two male connectors.
+Female-to-Female Connectors: Connect two female connectors.
+SELECTION CONSIDERATIONS:
+Cable Type: Choose based on network speed and distance requirements (e.g., Cat 5e for basic needs, Cat 6a for higher speeds).
+Cable Length: Ensure cables are long enough to connect devices without excessive slack.
+Connector Compatibility: Match connectors with your equipment and cable standards to maintain optimal performance.

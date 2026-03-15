@@ -1,0 +1,253 @@
+ENGREG HIGH SCHOOL
+24, Bankole Street, Pedro, Shomolu, Lagos
+WEEK: 6FIRST TERMSESSION: 2024/2025
+SUBJECT: COMPUTER STUDIES
+TOPIC: ALTERNATIVE LOGIC GATES TRUTH TABLES
+CLASS:  SS 2
+DATE:  14th – 18th October, 2024.
+REFERENCE BOOKS: New Computer Studies for SS 2 by J.O.E Otuka et al Pages 14-16
+Online with computers for SS 2 by Adedapo F. O. et al 17 - 21
+LEARNING PURPOSE: To provide foundational knowledge on the uses of alternative logic gates and the truth table for alternative logic gates and derived logic gates.
+LESSON PERIOD: 1
+DURATION: 40 MINS
+LEARNING OBJECTIVE:  By the end of the lesson, students will be able to:
+Draw a 2,3 input truth table of Alternative Logic Gates.
+Draw a 2,3 input truth table of Derived Logic gates.
+State the uses of alternative logic gates.
+KEYWORDS:
+Logic Gates, Derived, Alternative, Symbol, Boolean Expression.
+PREVIOUS LEARNING: The students are familiar with the truth table and uses of Basic Logic Gates.
+INSTRUCTIONAL MATERIALS:
+Interactive board, computer system, Internet
+LEARNING ACTIVITIES IN STEPS:
+Step 1: The teacher marks assignment and makes correction.
+Step 2: The teacher asks questions on previous knowledge
+Step 3: The teacher modifies students’ response and introduces the new topic
+Step 4: Students would be taken through the derailed explanation of the lesson content
+Step 5: Students ask questions on the content of the lesson
+Step 6: Students would be evaluated based on behavioral objectives
+Step 7: Students Assignments are given and notes are marked
+LEARNING TIME FOR EACH STEP:
+Step 1: 3mins
+Step 2: 2mins
+Step 3: 3mins
+Step 4: 20mins
+Step 5: 2mins
+Step 6: 7mins
+Step 7: 3mins
+LEARNING SKILLS:
+Critical thinking, creative thinking, communicating and leadership development
+ACTIVITY
+Draw a 2 and 3 input truth table of the NOR and NAND Logic Gates.
+EVALUATIVE QUESTIONS:
+Draw a 2,3 input truth table of Alternative Logic Gates.
+Draw a 2,3 input truth table of Derived Logic gates.
+State five uses of alternative logic gates.
+ASSIGNMENT
+Draw a 2 and 3 input truth table of XOR and XNOR Logic gates.
+State three uses of alternative logic gates.
+ALTERNATIVE LOGIC GATES TRUTH TABLES
+Summary for all NOR 2-input gates
+A
+B
+P
+0
+0
+1
+0
+1
+0
+1
+0
+0
+1
+1
+0
+Summary for all NOR 3-input gates
+A
+B
+C
+P
+0
+0
+0
+1
+0
+0
+1
+0
+0
+1
+0
+0
+0
+1
+1
+0
+1
+0
+0
+0
+1
+0
+1
+0
+1
+1
+0
+0
+1
+1
+1
+0
+Summary for all NAND 2-input gates
+A
+B
+P
+0
+0
+1
+0
+1
+1
+1
+0
+1
+1
+1
+0
+Summary for all NAND 3-input gates
+A
+B
+C
+P
+0
+0
+0
+1
+0
+0
+1
+1
+0
+1
+0
+1
+0
+1
+1
+1
+1
+0
+0
+1
+1
+0
+1
+1
+1
+1
+0
+1
+1
+1
+1
+0
+USES OF ALTERNATIVE LOGIC GATES
+Reduce energy loss by recovering input states.
+Perform operations on qubits for advanced computations.
+Use light signals for faster data transmission.
+Process three logic states for improved data handling.
+Use biological molecules for computations in bioengineering.
+Apply mechanical components in decision-making systems for specialized environments.
+DERIVED LOGIC GATES TRUTH TABLES
+Summary for all XOR 2-input gates
+A
+B
+R
+0
+0
+0
+0
+1
+1
+1
+0
+1
+1
+1
+0
+Summary for all XNOR 2-input gates
+A
+B
+R
+0
+0
+1
+0
+1
+0
+1
+0
+0
+1
+1
+1
+ENGREG HIGH SCHOOL
+24, Bankole Street, Pedro, Shomolu, Lagos
+WEEK: 6FIRST TERMSESSION: 2024/2025
+SUBJECT: COMPUTER STUDIES
+TOPIC: IEC SYMBOLS
+CLASS:  SS 2
+DATE:  14th – 18th October, 2024.
+REFERENCE BOOKS: New Computer Studies for SS 2 by J.O.E Otuka et al Pages 14-16
+Online with computers for SS 2 by Adedapo F. O. et al 17 - 21
+LEARNING PURPOSE: To provide foundational knowledge on IEC symbols and Digital Comparators.
+LESSON PERIOD: 2
+DURATION: 40 MINS
+LEARNING OBJECTIVE:  By the end of the lesson, students will be able to:
+Explain the IEC symbol.
+Draw the IEC symbols for the logic gates.
+Explain Digital Comparator.
+Draw a Comparator Truth Table.
+KEYWORDS:
+Logic Gates, Derived, Alternative, Symbol, Boolean Expression, IEC, Comparator.
+PREVIOUS LEARNING: The students are familiar with the symbols and truth tables of the Logic gates.
+INSTRUCTIONAL MATERIALS:
+Interactive board, computer system, Internet
+LEARNING ACTIVITIES IN STEPS:
+Step 1: The teacher marks assignment and makes correction.
+Step 2: The teacher asks questions on previous knowledge
+Step 3: The teacher modifies students’ response and introduces the new topic
+Step 4: Students would be taken through the derailed explanation of the lesson content
+Step 5: Students ask questions on the content of the lesson
+Step 6: Students would be evaluated based on behavioral objectives
+Step 7: Students Assignments are given and notes are marked
+LEARNING TIME FOR EACH STEP:
+Step 1: 3mins
+Step 2: 2mins
+Step 3: 3mins
+Step 4: 20mins
+Step 5: 2mins
+Step 6: 7mins
+Step 7: 3mins
+LEARNING SKILLS:
+Critical thinking, creative thinking, communicating and leadership development
+ACTIVITY
+Explain the IEC symbol.
+Draw the IEC symbols for the OR, AND and NOR logic gates.
+EVALUATIVE QUESTIONS:
+Explain the IEC symbol.
+Draw the IEC symbols for the logic gates.
+Explain Digital Comparator.
+Draw a Comparator Truth Table.
+ASSIGNMENT
+Explain Digital Comparator.
+Draw a Comparator Truth Table for 2 input.
+IEC SYMBOLS
+IEC (International Electrotechnical Commission) symbols are standardized graphical symbols used to represent electrical and electronic components in diagrams and schematics.
+DIGITAL COMPARATOR
+A digital comparator is an electronic device that takes two numbers as input in binary form and determines whether one number is greater than, less than or equal to the other number.
+COMPARATOR TABLE
+Example One.
+EXAMPLE TWO

@@ -1,0 +1,127 @@
+ENGREG HIGH SCHOOL
+24, Bankole Street, Pedro, Shomolu, Lagos
+WEEK: 6FIRST TERMSESSION: 2024/2025
+SUBJECT: COMPUTER STUDIES
+TOPIC: HIGH-LEVEL LANGUAGE (HLL)
+CLASS:  SS 3
+DATE: 14th – 18th October 2024
+REFERENCE BOOKS: New Computer Studies for SS 3 by J.O.E Otuka et al Pages 12-15
+Online with computers for SS 3 by Adedapo F. O. et al 19-22
+LEARNING PURPOSE: To provide foundational knowledge on High Level Language, its Examples and Classifications.
+LESSON PERIOD: 1
+DURATION: 40 MINS
+LEARNING OBJECTIVE:  By the end of the lesson, students will be able to:
+Define High Level Language.
+List examples of High Level Languages.
+Classify High Level language by Purpose and By Translation.
+KEYWORDS: High Level Language, Classification, Purpose, Translation, Interpreter, Compiler.
+PREVIOUS LEARNING:  The students were taught data base software in the previous class.
+INSTRUCTIONAL MATERIALS:
+Interactive board, computer system, Internet
+LEARNING ACTIVITIES IN STEPS:
+Step 1: The teacher marks assignment and makes correction.
+Step 2: The teacher asks questions on previous knowledge
+Step 3: The teacher modifies students’ response and introduces the new topic
+Step 4: Students would be taken through the derailed explanation of the lesson content
+Step 5: Students ask questions on the content of the lesson
+Step 6: Students would be evaluated based on behavioural objectives
+Step 7: Students Assignments are given and notes are marked
+LEARNING TIME FOR EACH STEP:
+Step 1: 3mins
+Step 2: 2mins
+Step 3: 3mins
+Step 4: 20mins
+Step 5: 2mins
+Step 6: 7mins
+Step 7: 3mins
+LEARNING SKILLS:
+Critical thinking, creative thinking, communicating and leadership development
+ACTIVITY
+Define High Level Language.
+List five examples of High Level Languages.
+EVALUATIVE QUESTIONS:
+Define High Level Language.
+List examples of High Level Languages.
+Classify High Level language by Purpose and By Translation.
+ASSIGNMENT
+Explain the Classification of High Level language by Purpose and By Translation.
+HIGH-LEVEL LANGUAGE (HLL)
+A High-Level Language (HLL) is a computer programming language that is machine-independent and designed to solve problems by reflecting the requirements of a task.
+HLLs resemble natural language or mathematical notation, making them easier to read, write, and maintain compared to low-level languages.
+They require translators (compilers or interpreters) to convert their instructions into machine language.
+Examples of High Level Language
+BASIC, FORTRAN, ALGOL, PASCAL, LISP, COBOL, Python, Java, C++, JavaScript, Ruby, PHP, Swift, etc.
+CLASSIFICATION OF HIGH-LEVEL LANGUAGES
+By Purpose
+HLLs are categorized based on their intended application:
+General Purpose HLL: These languages are not designed for a specific problem or application and can be used across various domains. Examples include: C, Java, BASIC, PASCAL, PL/I.
+Special Purpose HLL: These languages are designed to address specific types of problems:
+Scientific HLL: Used for solving scientific problems, e.g., BASIC, FORTRAN, ALGOL.
+Commercial/Business HLL: Designed for business or commercial tasks, e.g., COBOL.
+Artificial Intelligence HLL: Used for AI and robotics, e.g., LISP, PROLOG.
+By Method of Translation
+HLLs can also be classified based on how they are translated into machine language:
+Interpreted Languages: These use an interpreter to convert code into machine language line-by-line during execution. Examples include BASIC, LISP, Python, Java, Ruby, Perl, MATLAB, PASCAL.
+Advantage: Faster development and testing.
+Disadvantage: Slower execution compared to compiled languages.
+Compiled Languages: These use a compiler to translate the entire program into machine language before execution. Examples include FORTRAN, COBOL, C.
+Advantage: Faster execution.
+Disadvantage: Takes more time to compile before running.
+ENGREG HIGH SCHOOL
+24, Bankole Street, Pedro, Shomolu, Lagos
+WEEK: 6FIRST TERMSESSION: 2024/2025
+SUBJECT: COMPUTER STUDIES
+TOPIC: ADVANTAGES OF (HLL) OVER (ML) AND (LLL)
+CLASS:  SS 3
+DATE: 14th – 18th October 2024
+REFERENCE BOOKS: New Computer Studies for SS 3 by J.O.E Otuka et al Pages 12-15
+Online with computers for SS 3 by Adedapo F. O. et al 19-22
+LEARNING PURPOSE: To provide foundational knowledge on the advantages of High Level Language over Machine Language and Low-Level Language.
+LESSON PERIOD: 2
+DURATION: 40 MINS
+LEARNING OBJECTIVE:  By the end of the lesson, students will be able to:
+State the advantages of High Level Language over Low Level and Machine Laguage.
+KEYWORDS: High Level Language, Classification, Purpose, Translation, Interpreter, Compiler, Low Level Language, Machine Language.
+PREVIOUS LEARNING:  The students were taught High Level Language, its Examples and Classifications in the previous class.
+INSTRUCTIONAL MATERIALS:
+Interactive board, computer system, Internet
+LEARNING ACTIVITIES IN STEPS:
+Step 1: The teacher marks assignment and makes correction.
+Step 2: The teacher asks questions on previous knowledge
+Step 3: The teacher modifies students’ response and introduces the new topic
+Step 4: Students would be taken through the derailed explanation of the lesson content
+Step 5: Students ask questions on the content of the lesson
+Step 6: Students would be evaluated based on behavioural objectives
+Step 7: Students Assignments are given and notes are marked
+LEARNING TIME FOR EACH STEP:
+Step 1: 3mins
+Step 2: 2mins
+Step 3: 3mins
+Step 4: 20mins
+Step 5: 2mins
+Step 6: 7mins
+Step 7: 3mins
+LEARNING SKILLS:
+Critical thinking, creative thinking, communicating and leadership development
+ACTIVITY
+State five advantages of High Level Language over Low Level and Machine Laguage.
+EVALUATIVE QUESTIONS:
+State the advantages of High Level Language over Low Level and Machine Laguage.
+ASSIGNMENT
+Mention three examples each of High Level, Low Level and Machine Language.
+ADVANTAGES OF HIGH-LEVEL LANGUAGES (HLL) OVER MACHINE LANGUAGE (ML) AND LOW-LEVEL LANGUAGES (LLL)
+Readability and Ease of Use:
+HLL: Easy to read and write, resembling natural languages.
+ML & LLL: Harder to understand, requiring hardware knowledge.
+Portability:
+HLL: Portable across different hardware with little modification.
+ML & LLL: Machine-dependent, requiring rewriting for different hardware.
+Development Speed:
+HLL: Faster development due to built-in libraries and abstractions.
+ML & LLL: Slower, as detailed hardware control is needed.
+Maintainability:
+HLL: Easier to maintain and modify with readable structure and tools.
+ML & LLL: More difficult to maintain due to complex syntax.
+Error Detection and Debugging:
+HLL: Advanced tools for error detection and debugging.
+ML & LLL: Debugging is harder due to proximity to machine instructions.

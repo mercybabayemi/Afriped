@@ -1,0 +1,51 @@
+DATA AND INFORMATION
+DATA
+Data are raw facts and figures collected which cannot be used instantly for any decision making until it is processed. Data is also defined as unprocessed information. Examples of data are alphabets, numbers, or symbols.
+TYPES OF DATA
+Numerical data: These are figures or numbers .Examples are  5, 6 and 10
+Alphabetic data: These are letters, names and places. Examples are A-Z, female.Adenike.
+Alpha-numeric data: These are combination of alphabets and numbers; Example. Home Address: 8, Babayemi Street, Agege Lagos state.
+Audio data: These are voice data.
+Graphic data or visual data or video data: These can be pictures, images, diagrams and camera image.
+SOURCES OF DATA
+Data can be obtained through the following sources:
+Interview: Data can be obtained through oral interview
+Observation: Data can be obtained through personal observation of things that happen around us.
+Document analysis: Data can be obtained through reading and breaking down of various records.
+INFORMATION
+Information can be defined processed, manipulated and organized data into meaningful and useful form.  Information = Data + process.
+For example, in a school, data in form of term examination scores are processed for each student to obtain information in form of first or second term result for individual student
+QUALITIES OF GOOD INFORMATION
+Relevant :It should be related to the matter in hand
+Accurate : It must be correct and free from errors
+Comprehensive: It must  complete and easy to understand
+Meaningful: It must be expressed in a language that the receiver will understand.
+Timely: It must be available at the right time when the users need it.
+Reliability: It must be unfailing.
+Suitable: It should be right for the purpose or occasion in which it is being made.
+CLASSIFICATION OF INFORMATION BASED ON THE FORM IN WHICH THE INFORMATION EXISTS
+Written information: This is written down formation such as magazine, newspapers.
+Oral information: This is communicated information by talking, speaking.
+Visual information: This is communicated through pictures, charts, graphs and video.
+Sensory information: This is communicated through the senses such as hearing, feeling, smelling.
+CLASSIFICATION OF INFORMATION BASED ON THE TIME OF OCCURRENCE
+Continuous information: e.g. inter-house sports competition.
+Hourly information: e.g. Radio news.
+Daily information : e.g. daily newspaper( Daily time, punch)
+Termly information: e.g. student’s card.
+Annual information: e.g. company’s annual report or budget.
+DIFFERENCE BETWEEN DATA AND INFORMATION
+DATA
+INFORMATION
+Unprocessed raw  facts
+Processed data
+It has no meaning
+It has meaning
+It cannot be used for decision making
+It can be used for decision making
+Data is normally disorganized and disjointed
+Information is properly arranged and organized.
+Examples are alphabet ,figures or symbol
+Examples are statement of account, statement of students’ result.
+Data is independent
+Information primarily depends on data for it to be complete.

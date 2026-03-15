@@ -1,0 +1,22 @@
+{
+  "generated": "## Insights Analysis — JSS2 Science Worksheet\n\n**Overall Quality Score:** 0.74\n\n### Bloom Analysis\n- Detected level: UNDERSTAND\n- Verbs found: explain, describe, identify, state\n- Confidence: 0.88\n- Assessment: Content targets UNDERSTAND level appropriately for JSS2; lacks APPLY-level tasks that would deepen engagement\n\n### Readability\n- Flesch-Kincaid Grade: 7.3\n- Complexity band: junior_secondary\n- Assessment: Appropriate reading level for JSS2 learners\n\n### Cultural Analysis\n- Local name ratio: 0.83 (Tunde, Ngozi, Fatima present)\n- Local example count: 3 (Harmattan season, Niger River ecosystem, local farm examples)\n- Flags: None — cultural anchoring is strong\n\n### Skill Gap Analysis\n- Expected skills: Critical Thinking, Problem Solving, Inductive Reasoning\n- Detected skills: Critical Thinking, Active Learning\n- Missing: Problem Solving, Inductive Reasoning\n\n### Curriculum Alignment\n- Board: NERDC\n- Alignment keywords found: objective (2), activity (3), assessment (1)\n- Assessment: Weakly aligned — assessment section is minimal; add at least 2 more assessment checkpoints\n\n### Recommendations\n1. Add at least 2 APPLY-level tasks (e.g., 'calculate', 'use', 'demonstrate') to elevate Bloom depth\n2. Include a Problem Solving activity — e.g., 'Tunde observes that plants near the Niger River grow faster in the dry season. Suggest two reasons.'\n3. Strengthen the assessment section: add a closing 5-question quiz aligned to the learning objectives\n4. Add Inductive Reasoning tasks: give students 3 observations and ask them to draw a general conclusion",
+  "reference": "Insights analysis of a JSS2 Science worksheet — identifying Bloom gaps, skill gaps, and cultural quality.",
+  "content_type": "INSIGHTS_ANALYSIS",
+  "subject": "basic_science",
+  "topic": "Plant Growth",
+  "education_level": "JSS2",
+  "curriculum_board": "NERDC",
+  "expected_bloom": "UNDERSTAND",
+  "expected_language": "en",
+  "expected_skills": ["Critical Thinking", "Problem Solving", "Inductive Reasoning"],
+  "detected_skills": ["Critical Thinking", "Active Learning"],
+  "validation": {
+    "status": "PASSED",
+    "rules_passed": ["length_check", "language_detection", "no_explicit_content"],
+    "rules_failed": [],
+    "judge_score": null,
+    "judge_dimensions": null,
+    "revision_count": 0,
+    "notes": []
+  }
+}

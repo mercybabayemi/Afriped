@@ -1,0 +1,69 @@
+# Web framework
+fastapi==0.112.4
+uvicorn[standard]==0.30.6
+
+# Data validation
+pydantic==2.9.2
+pydantic-settings==2.5.2
+
+# LLM / HuggingFace
+transformers==4.44.2
+accelerate==0.34.2
+bitsandbytes==0.43.3
+torch==2.5.1
+huggingface-hub>=0.30,<1.0
+sentencepiece
+
+# LangChain / LangGraph
+langchain==0.3.1
+langchain-community==0.3.1
+langchain-huggingface==0.1.0
+langgraph==0.2.20
+
+# RAG / vector store
+chromadb==0.5.5
+sentence-transformers==3.1.0
+
+# Explicit pins to prevent pip backtracking on chromadb's opentelemetry chain.
+# The HF base image pre-installs protobuf<4; these pins select a compatible set
+# of opentelemetry packages that satisfy both chromadb and that protobuf constraint.
+protobuf>=3.20.3,<4.0.0
+googleapis-common-protos==1.57.0
+opentelemetry-api==1.27.0
+opentelemetry-sdk==1.27.0
+opentelemetry-semantic-conventions==0.48b0
+opentelemetry-instrumentation==0.48b0
+opentelemetry-instrumentation-fastapi==0.48b0
+opentelemetry-instrumentation-asgi==0.48b0
+opentelemetry-exporter-otlp-proto-grpc==1.27.0
+opentelemetry-exporter-otlp-proto-common==1.27.0
+opentelemetry-proto==1.27.0
+opentelemetry-util-http==0.48b0
+importlib-metadata>=6.0,<8.8.0
+
+# Document ingestion
+pypdf==4.3.1
+
+# Language detection
+langdetect==1.0.9
+lingua-language-detector==2.1.1
+
+# UI
+gradio==4.44.1
+
+# HTTP / resilience
+httpx==0.27.2
+tenacity==8.5.0
+
+# Logging
+loguru==0.7.2
+
+# Evaluation
+rouge-score==0.1.2
+bert-score==0.3.13
+textstat==0.7.3
+
+# Research — dataset ingestion
+datasets>=2.14.0
+pandas>=2.0.0
+pyarrow>=12.0.0

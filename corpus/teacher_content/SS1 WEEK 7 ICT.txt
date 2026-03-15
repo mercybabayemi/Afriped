@@ -1,0 +1,138 @@
+ENGREG HIGH SCHOOL
+24, Bankole Street, Pedro, Shomolu, Lagos
+WEEK: 7FIRST TERMSESSION: 2024/2025
+SUBJECT: COMPUTER STUDIES
+TOPIC: INPUT DEVICES II
+CLASS:  SS 1
+DATE: 14th - 18th October, 2024
+REFERENCE BOOKS: New Computer Studies for SS 1 by J.O.E Otuka et al Pages
+Online with computers for SS 1 by Adedapo F. O. et al
+Essential Computer Studies For senior Secondary School O.O. ODUDIMU
+Pages: 57 - 61
+LEARNING PURPOSE: To provide foundational knowledge on the computer and it's input components
+LESSON PERIOD: 1
+DURATION: 40 MINS
+LEARNING OBJECTIVE:  By the end of the lesson, students will be able to:
+Define keyboard
+List and explain parts of a keyboard
+KEYWORDS: Stylus
+PREVIOUS LEARNING: The students are familiar with components of computer
+INSTRUCTIONAL MATERIALS:
+Interactive board, computer system, Internet
+LEARNING ACTIVITIES IN STEPS:
+Step 1: The teacher marks assignment and makes correction.
+Step 2: The teacher asks questions on previous knowledge
+Step 3: The teacher modifies students’ response and introduces the new topic
+Step 4: Students would be taken through the derailed explanation of the lesson content
+Step 5: Students ask questions on the content of the lesson
+Step 6: Students would be evaluated based on behavioural objectives
+Step 7: Students Assignments are given and notes and marked
+LEARNING TIME FOR EACH STEP:
+Step 1: 3mins
+Step 2: 2mins
+Step 3: 3mins
+Step 4: 20mins
+Step 5: 2mins
+Step 6: 7mins
+Step 7: 3mins
+LEARNING SKILLS:
+Critical thinking, creative thinking, communicating and leadership development
+ACTIVITY
+List 5 examples of input devices
+EVALUATIVE QUESTIONS:
+Define input devices
+List types of input devices
+ASSIGNMENT
+What are input devices
+Types of Input Devices:
+1. Keyboard:
+Description: A keyboard is a peripheral device consisting of keys that allow the user to input characters, symbols, and perform functions.
+Types:
+Mechanical Keyboard: Uses physical switches to register keystrokes.
+Membrane Keyboard: Uses pressure pads to sense keystrokes.
+Common Uses: Typing text, entering commands, gaming.
+2. Mouse:
+Description: A mouse is a pointing device used to interact with items on a screen, usually represented by a cursor.
+Types:
+Optical Mouse: Uses light sensors to detect movement.
+Laser Mouse: Uses a laser for more precise movement tracking.
+Common Uses: Selecting items, dragging files, navigating through interfaces.
+3. Touchpad:
+Description: A touch-sensitive surface that detects finger movements and translates them into cursor movement.
+Common Uses: Built into laptops as a mouse alternative for navigation and gestures.
+4. Touchscreen:
+Description: A display that also serves as an input device, allowing users to interact directly by touching the screen.
+Types:
+Resistive: Uses pressure to detect input.
+Capacitive: Uses the electrical conductivity of the human body to detect input.
+Common Uses: Smartphones, tablets, kiosks.
+5. Scanner:
+Description: A device that captures images or text from physical documents and converts them into a digital format
+Types:
+Flatbed Scanner: Scans documents one at a time.
+Sheet-fed Scanner: Feeds documents automatically for scanning.
+Common Uses: Digitizing documents, copying photographs.
+ENGREG HIGH SCHOOL
+24, Bankole Street, Pedro, Shomolu, Lagos
+WEEK: 7 FIRST TERMSESSION: 2024/2025
+SUBJECT: COMPUTER STUDIES
+TOPIC: INPUT DEVICES II
+CLASS:  SS 1
+DATE: DATE: 14th - 18th October, 2024
+REFERENCE BOOKS: New Computer Studies for SS 1 by J.O.E Otuka et al Pages 46- 51
+Online with computers for SS 1 by Adedapo F. O. et al 2
+46 - 51
+Essential Computer Studies For senior Secondary School O.O. ODUDIMU
+Pages: 57 - 61
+LEARNING PURPOSE: To provide foundational knowledge on the computer and it's components
+LESSON PERIOD: 2
+DURATION: 40 MINS
+LEARNING OBJECTIVE:  By the end of the lesson, students will be able to:
+I. List feature of input devices
+KEYWORDS: portability
+PREVIOUS LEARNING:
+To provide foundational knowledge on input devices
+INSTRUCTIONAL MATERIALS:
+Interactive board, computer system, Internet
+LEARNING ACTIVITIES IN STEPS:
+Step 1: The teacher marks assignment and makes correction.
+Step 2: The teacher asks questions on previous knowledge
+Step 3: The teacher modifies students’ response and introduces the new topic
+Step 4: Students would be taken through the derailed explanation of the lesson content
+Step 5: Students ask questions on the content of the lesson
+Step 6: Students would be evaluated based on behavioural objectives
+Step 7: Students Assignments are given and notes and marked
+LEARNING TIME FOR EACH STEP:
+Step 1: 3mins
+Step 2: 2mins
+Step 3: 3mins
+Step 4: 20mins
+Step 5: 2mins
+Step 6: 7mins
+Step 7: 3mins
+LEARNING SKILLS:
+Critical thinking, creative thinking, communicating and leadership development
+ACTIVITY
+What's a keyboard
+EVALUATIVE QUESTIONS:
+Discuss features of input devices
+ASSIGNMENT:
+List types of keyboard
+Microphone:
+Description: A device that captures sound and converts it into electrical signals for input into a computer.
+Common Uses: Voice recording, video conferencing, voice commands.
+7. Webcam:
+Description: A video input device used to capture live video footage, typically for video calls or streaming.
+Common Uses: Video conferencing, live streaming, security monitoring.
+8. Game Controller:
+Description: An input device specifically designed for interacting with video games.
+Types:
+Gamepad: A handheld controller with buttons and joysticks.
+Joystick: A stick-like controller for movement in games.
+Common Uses: Gaming, simulations, virtual reality.
+9. Stylus:
+Description: A pen-like input device used for writing or drawing on touchscreen devices.
+Common Uses: Drawing tablets, smartphones, tablets for digital art, note-taking.
+10. Barcode Reader:
+Description: A device that scans barcodes and inputs the data into a system.
+Common Uses: Retail checkout systems, inventory management.

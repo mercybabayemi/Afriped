@@ -1,0 +1,154 @@
+ENGREG HIGH SCHOOL
+24, Bankole Street, Pedro, Shomolu, Lagos
+WEEK:  FIRST TERMSESSION: 2024/2025
+SUBJECT: COMPUTER STUDIES
+TOPIC: COMPUTER GRAPHICS
+CLASS:  SS 3
+DATE: 4th – 8th November, 2024.
+REFERENCE BOOKS: New Computer Studies for SS 3 by J.O.E Otuka et al Pages 12-15
+Online with computers for SS 3 by Adedapo F. O. et al 19-22
+LEARNING PURPOSE: To provide foundational knowledge on the definition of graphic packages, its types, examples and uses.
+LESSON PERIOD: 1
+DURATION: 40 MINS
+LEARNING OBJECTIVE:  By the end of the lesson, students will be able to:
+Define Graphic Package.
+List examples of graphic packages.
+Explain the types of graphic packages.
+State the uses of graphic packages.
+KEYWORDS:   Graphics, Drawing, Painting, Images, Designs.
+PREVIOUS LEARNING:  The students were taught Database Packages in the last class.
+INSTRUCTIONAL MATERIALS:
+Interactive board, computer system, Internet
+LEARNING ACTIVITIES IN STEPS:
+Step 1: The teacher marks assignment and makes correction.
+Step 2: The teacher asks questions on previous knowledge
+Step 3: The teacher modifies students’ response and introduces the new topic
+Step 4: Students would be taken through the derailed explanation of the lesson content
+Step 5: Students ask questions on the content of the lesson
+Step 6: Students would be evaluated based on behavioural objectives
+Step 7: Students Assignments are given and notes are marked
+LEARNING TIME FOR EACH STEP:
+Step 1: 3mins
+Step 2: 2mins
+Step 3: 3mins
+Step 4: 20mins
+Step 5: 2mins
+Step 6: 7mins
+Step 7: 3mins
+LEARNING SKILLS:
+Critical thinking, creative thinking, communicating and leadership development
+ACTIVITY
+Define Graphic Package.
+List five examples of graphic packages.
+EVALUATIVE QUESTIONS:
+Define Graphic Package.
+List examples of graphic packages.
+Explain the types of graphic packages.
+State the uses of graphic packages.
+ASSIGNMENT
+Explain the two types of graphic packages.
+State five uses of graphic packages.
+COMPUTER GRAPHICS
+Computer Graphics are graphics created using computers and more generally, the representation and manipulation of image/pictorial data by a computer.
+Types of Graphic Packages
+Painting Packages: These are used for creating and editing bitmap images (raster graphics). They are ideal for tasks like photo editing, digital painting, and image manipulation.
+Drawing Packages: These focus on vector graphics, which use geometrical shapes like lines, curves, and polygons. They are perfect for logo design, typography, and illustrations.
+EXAMPLES OF GRAPHIC PACKAGES
+Common examples of graphic packages are:
+1.     Paint
+2.     Corel Draw
+3.     Adobe Photoshop
+4.     Harvard graphics
+5.     Print master
+6.     Ventura
+7.     Jasc’s Paint Shop Pro
+8.     Ps Paintbrush
+9.     Adobe Page Maker
+USES OF GRAPHIC PACKAGES
+It is user friendly. The built – in graphics provided with user interface use visual control items such as buttons, menus, icons, scroll bar e.t.c, which allow user to interact with computer only by mouse click.
+Computer graphic packages are extremely fast, able to redo work without starting over.
+They are inexpensive to store and duplicate work fast and easy to send to others even if they are far away.
+Graphic packages are used to do all aspects of creating, designing etc. from a single computer.
+It can be used to design letter, head paper, birthday card, invitation card, wedding card, complimentary card, and banner.
+They allow graphic artist to create several types of computer-generated art such as painting and drawing.
+It is used to manipulate images on a computer.
+It is used to create, edit, display and point graphic images.
+ENGREG HIGH SCHOOL
+24, Bankole Street, Pedro, Shomolu, Lagos
+WEEK:  FIRST TERMSESSION: 2024/2025
+SUBJECT: COMPUTER STUDIES
+TOPIC: COMPUTER GRAPHICS
+CLASS:  SS 3
+DATE: 4th – 8th November 2024.
+REFERENCE BOOKS: New Computer Studies for SS 3 by J.O.E Otuka et al Pages 12-15
+Online with computers for SS 3 by Adedapo F. O. et al 19-22
+LEARNING PURPOSE: To provide foundational knowledge on the components of graphic packages and basic tools in the graphic packages.
+LESSON PERIOD: 2
+DURATION: 40 MINS
+LEARNING OBJECTIVE:  By the end of the lesson, students will be able to:
+List some basic components of the graphic packages.
+Explain some tools in the graphic package.
+State the steps to create a flyer.
+KEYWORDS:   Graphics, Drawing, Painting, Images, Designs.
+PREVIOUS LEARNING:  The students have been taught definition of graphic packages, its types, examples and uses.
+INSTRUCTIONAL MATERIALS:
+Interactive board, computer system, Internet
+LEARNING ACTIVITIES IN STEPS:
+Step 1: The teacher marks assignment and makes correction.
+Step 2: The teacher asks questions on previous knowledge
+Step 3: The teacher modifies students’ response and introduces the new topic
+Step 4: Students would be taken through the derailed explanation of the lesson content
+Step 5: Students ask questions on the content of the lesson
+Step 6: Students would be evaluated based on behavioural objectives
+Step 7: Students Assignments are given and notes are marked
+LEARNING TIME FOR EACH STEP:
+Step 1: 3mins
+Step 2: 2mins
+Step 3: 3mins
+Step 4: 20mins
+Step 5: 2mins
+Step 6: 7mins
+Step 7: 3mins
+LEARNING SKILLS:
+Critical thinking, creative thinking, communicating and leadership development
+ACTIVITY
+List and explain five basic components of the graphic packages.
+EVALUATIVE QUESTIONS:
+List some basic components of the graphic packages.
+Explain some tools in the graphic package.
+State the steps to create a flyer.
+ASSIGNMENT
+Explain five tools in the graphic package.
+State the steps to create a flyer.
+COMPONENTS OF GRAPHIC PACKAGES
+Drawing Window: The area where all drawing activities are performed.
+Printable Page: Represents the layout and size of the printed output.
+Menu Bar: Contains commands like File, Edit, View, and Help for various tasks.
+Tool Bar: Icons providing quick access to related commands.
+Standard Tool Bar: Common commands like New, Open, Save, and Copy.
+Status Bar: Displays information about the selected object or current action.
+Colour Palette: Used to select outline and fill colors for objects.
+Ruler: Helps with accurate sizing and positioning of objects.
+Title Bar: Displays document title and window controls (minimize, maximize, close).
+BASIC TOOLS IN A GRAPHIC PACKAGE
+1. Selection Tool: Select and manipulate objects.
+2. Shape Tools: Create basic geometric shapes like rectangles, circles, polygons, and lines.
+3. Freehand and Bezier Tools: Draw freeform lines and shapes.
+4. Text Tool: Add and edit text in your design.
+5. Fill Tool: Apply colors, gradients, and patterns to objects.
+6. Outline Tool: Change the color, width, and style of an object's outline.
+7. Shape Editing Tool (Node/Shape Tool): Edit the shape of objects by manipulating nodes and paths.
+8. Zoom and Pan Tools: Navigate around your canvas.
+9. Eyedropper Tool: Sample and apply colors from one object to another.
+10. Eraser Tool: Remove parts of objects or images.
+Examples:
+Creating a Simple Logo:
+Use the Rectangle Tool to draw the background.
+Use the Ellipse Tool to create circular elements.
+Use the Text Tool to add the brand name.
+Adjust colors using the Fill Tool and Outline Tool.
+Designing a Flyer:
+Use the Rectangle Tool and Ellipse Tool to create shapes for images and text areas.
+Use the Text Tool to add headings, subheadings, and body text.
+Apply colors and gradients with the Fill Tool.
+Arrange elements using the Selection Tool and align them with snapping and guidelines.

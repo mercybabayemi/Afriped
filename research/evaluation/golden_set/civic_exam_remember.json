@@ -1,0 +1,31 @@
+{
+  "generated": "CIVIC EDUCATION EXAMINATION — Types of Government\nClass: SSS1 | Board: NERDC | Time: 40 minutes\n\nQ1. [MULTIPLE_CHOICE] [Bloom: REMEMBER] [Marks: 2]\nWhich of the following best defines democracy?\nA) A system in which one person rules for life\nB) A system in which government authority comes from the people\nC) A system in which the military controls the state\nD) A system in which only landowners can vote\nAnswer: B\n\nQ2. [SHORT_ANSWER] [Bloom: REMEMBER] [Marks: 4]\nList FOUR features of a federal system of government and state ONE example of a country that operates a federal system.\n\nQ3. [MULTIPLE_CHOICE] [Bloom: REMEMBER] [Marks: 2]\nThe document that contains the fundamental rules governing Nigeria as a state is called:\nA) The Electoral Act\nB) The Code of Conduct\nC) The Constitution\nD) The Civil Service Rules\nAnswer: C\n\nQ4. [SHORT_ANSWER] [Bloom: REMEMBER] [Marks: 4]\nIdentify the THREE arms of government in Nigeria and name the institution that heads each arm.\n   Arm 1: ________________  Headed by: ________________\n   Arm 2: ________________  Headed by: ________________\n   Arm 3: ________________  Headed by: ________________\n\nQ5. [SHORT_ANSWER] [Bloom: REMEMBER] [Marks: 4]\nKemi is studying for her civic education test. Help her by stating:\n(a) The name of Nigeria's current constitution and the year it was adopted\n(b) The number of states in Nigeria\n(c) The name of Nigeria's highest court\n(d) The two houses that make up the National Assembly\n\nQ6. [TRUE/FALSE] [Bloom: REMEMBER] [Marks: 4]\nState whether each sentence is TRUE or FALSE:\n(a) Nigeria operates a presidential system of government. ________________\n(b) The Governor is the head of the Federal Executive. ________________\n(c) Universal adult suffrage means every citizen above 18 can vote. ________________\n(d) A unitary system concentrates power at the central government. ________________",
+  "reference": "NERDC SSS1 Civic Education exam on types of government in Nigeria covering definitions, federal structure, arms of government, and constitutional facts.",
+  "content_type": "EXAM_QUESTIONS",
+  "subject": "civic_education",
+  "topic": "Types of Government in Nigeria",
+  "education_level": "SSS1",
+  "curriculum_board": "NERDC",
+  "expected_bloom": "REMEMBER",
+  "expected_language": "en",
+  "expected_skills": ["Active Learning", "Communication Skills"],
+  "detected_skills": ["Active Learning", "Communication Skills"],
+  "validation": {
+    "status": "PASSED",
+    "rules_passed": [
+      "length_check",
+      "language_detection",
+      "bloom_verb_presence",
+      "cultural_flag_check",
+      "no_hallucinated_dates",
+      "no_explicit_content",
+      "curriculum_alignment",
+      "format_compliance"
+    ],
+    "rules_failed": [],
+    "judge_score": null,
+    "judge_dimensions": null,
+    "revision_count": 0,
+    "notes": []
+  }
+}

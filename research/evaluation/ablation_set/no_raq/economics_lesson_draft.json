@@ -1,0 +1,16 @@
+{
+  "generated": "Economics Lesson — Supply and Demand\nClass: SSS2 | Duration: 40 minutes\n\nObjective: Students will understand supply and demand.\n\nActivity:\nThe teacher draws a supply-demand diagram on the board. Students state the law of demand. The teacher defines equilibrium price. Students name examples of goods whose demand is elastic.\n\nAmina asks about petrol prices. The teacher explains how OPEC decisions affect Nigerian fuel prices. Emeka mentions how tomato prices spike at Christmas.\n\nAssessment: Students define elastic and inelastic demand and list two examples of each.\n\nClosure: Review key terms. Homework: Identify a market in your area where price changes and explain using supply-demand theory.",
+  "reference": "NERDC SSS2 Economics lesson where students analyse and evaluate supply-demand relationships using Nigerian market examples — ANALYZE level cognition.",
+  "content_type": "LESSON_PLAN",
+  "subject": "economics",
+  "topic": "Supply and Demand",
+  "education_level": "SSS2",
+  "curriculum_board": "NERDC",
+  "expected_bloom": "ANALYZE",
+  "expected_language": "en",
+  "expected_skills": ["Analytical Thinking", "Critical Thinking"],
+  "detected_skills": ["Analytical Thinking"],
+  "ablation_condition": "no_raq",
+  "known_failures": ["bloom_verb_presence"],
+  "notes": "Bloom mismatch: ANALYZE expected but objective says 'understand' and activity uses 'state', 'define', 'name' — all REMEMBER/UNDERSTAND-level. No analyse/compare/contrast/examine/distinguish verbs. Cultural and format are fine (Amina, Emeka present; Objective/Activity/Assessment labelled)."
+}

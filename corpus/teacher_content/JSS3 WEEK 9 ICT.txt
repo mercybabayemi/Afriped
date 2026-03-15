@@ -1,0 +1,132 @@
+ENGREG HIGH SCHOOL
+24, Bankole Street, Pedro, Shomolu, Lagos
+WEEK: 9 FIRST TERMSESSION: 2024/2025
+SUBJECT: COMPUTER STUDIES
+TOPIC: GRAPH
+CLASS:  JSS 3
+DATE:  4th – 8th November, 2024.
+REFERENCE BOOKS: New Computer Studies for JSS 3 by J.O.E Otuka et al Pages 19-21
+WABP ICT for JSS 3 by Vincent Hope et al Pages 20-23
+LEARNING PURPOSE: To provide foundational knowledge on the Definition of Graph, Types of graph and steps to create a graph.
+LESSON PERIOD: 1
+DURATION: 40 MINS
+LEARNING OBJECTIVE:  By the end of the lesson, students will be able to:
+Define Graph.
+List the types of graph.
+State the steps to create a graph.
+Explain the bar chart.
+State the steps to create and edit a bar chart.
+KEYWORDS:  Graph, Line Graph, Bar Chart, Histogram, Pie Chart.
+PREVIOUS LEARNING: The students have been taught the spreadsheet package and its functions.
+INSTRUCTIONAL MATERIALS:
+Interactive board, computer system, Internet
+LEARNING ACTIVITIES IN STEPS:
+Step 1: The teacher marks assignment and makes correction.
+Step 2: The teacher asks questions on previous knowledge
+Step 3: The teacher modifies students’ response and introduces the new topic
+Step 4: Students would be taken through the derailed explanation of the lesson content
+Step 5: Students ask questions on the content of the lesson
+Step 6: Students would be evaluated based on behavioural objectives
+Step 7: Students Assignments are given and notes are marked
+LEARNING TIME FOR EACH STEP:
+Step 1: 3mins
+Step 2: 2mins
+Step 3: 3mins
+Step 4: 20mins
+Step 5: 2mins
+Step 6: 7mins
+Step 7: 3mins
+LEARNING SKILLS:
+Critical thinking, creative thinking, communicating and leadership development
+ACTIVITY
+Define Graph.
+List the types of graph.
+State the steps to create a graph.
+EVALUATIVE QUESTIONS:
+Define Graph.
+List the types of graph.
+State the steps to create a graph.
+Explain the bar chart.
+State the steps to create and edit a bar chart.
+ASSIGNMENT
+Explain the bar chart.
+State the steps to create and edit a bar chart.
+GRAPH
+A graph is a visual representation of data. It helps in illustrating relationships, trends, and comparisons between sets of data by converting numerical data into visual formats, making it easier to understand and analyze.
+Types of Graphs (Charts) in a Spreadsheet Package
+Bar Chart
+Pie Chart
+Line Graph
+Histogram
+How to Create a Graph in Excel
+Step 1: First, input the data into Excel.
+Step 2: Go to the 'Insert' tab and choose a graph type.
+Step 3: Select the data you want to use.
+Step 4: Click 'Insert' to add your chosen graph.
+BAR CHART:
+A bar chart represents data with rectangular bars. Each bar's length is proportional to the value it represents, and the bars can be plotted either horizontally or vertically.
+Example: Showing the number of students in different classes.
+Steps to create a bar chart
+Enter the data in Excel.
+Select the data range.
+Go to Insert → Bar Chart → Choose a chart type (e.g., Clustered Bar).
+Customize the chart title, axes, and legend.
+Change chart style and design if desired.
+ENGREG HIGH SCHOOL
+24, Bankole Street, Pedro, Shomolu, Lagos
+WEEK: 9 FIRST TERMSESSION: 2024/2025
+SUBJECT: COMPUTER STUDIES
+TOPIC: LINE GRAPH
+CLASS:  JSS 3
+DATE:  4th – 8th November, 2024.
+REFERENCE BOOKS: New Computer Studies for JSS 3 by J.O.E Otuka et al Pages 19-21
+WABP ICT for JSS 3 by Vincent Hope et al Pages 20-23
+LEARNING PURPOSE: To provide foundational knowledge on the definition of line graph and the steps to create and edit a line graph.
+LESSON PERIOD: 2
+DURATION: 40 MINS
+LEARNING OBJECTIVE:  By the end of the lesson, students will be able to:
+Explain the Line Graph.
+State the steps to create and edit a line graph.
+KEYWORDS:  Graph, Line Graph, Bar Chart, Histogram, Pie Chart.
+PREVIOUS LEARNING: The students have been taught the Definition of Graph, Types of graph and steps to create a graph.
+INSTRUCTIONAL MATERIALS:
+Interactive board, computer system, Internet
+LEARNING ACTIVITIES IN STEPS:
+Step 1: The teacher marks assignment and makes correction.
+Step 2: The teacher asks questions on previous knowledge
+Step 3: The teacher modifies students’ response and introduces the new topic
+Step 4: Students would be taken through the derailed explanation of the lesson content
+Step 5: Students ask questions on the content of the lesson
+Step 6: Students would be evaluated based on behavioural objectives
+Step 7: Students Assignments are given and notes are marked
+LEARNING TIME FOR EACH STEP:
+Step 1: 3mins
+Step 2: 2mins
+Step 3: 3mins
+Step 4: 20mins
+Step 5: 2mins
+Step 6: 7mins
+Step 7: 3mins
+LEARNING SKILLS:
+Critical thinking, creative thinking, communicating and leadership development
+ACTIVITY
+Explain the Line Graph.
+State the steps to create a line graph.
+EVALUATIVE QUESTIONS:
+Explain the Line Graph.
+State the steps to create and edit a line graph.
+ASSIGNMENT
+State the steps to edit a line graph.
+LINE CHART:
+A line chart displays data points connected by straight lines. It is useful for showing trends or changes over time.
+Example: Showing the temperature changes over a week or tracking a student’s grades over a semester.
+Steps to create a line graph:
+Organize your data into a table with rows for the X and Y variables.
+Choose your graphing tool
+Select the data and choose the "Line Chart" option to create the graph.
+Label the axes and title the chart appropriately.
+Editing Line Graphs:
+Change data range: Adjust the data series if you need to add or remove data points.
+Modify axes: Format the X and Y axes by adjusting scales, changing labels, or modifying the axis title for clarity.
+Add markers: Highlight specific data points with markers for better visualization.
+Add gridlines: Include or modify gridlines for easier interpretation of the data.

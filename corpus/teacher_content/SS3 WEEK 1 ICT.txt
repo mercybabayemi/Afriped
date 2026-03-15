@@ -1,0 +1,218 @@
+ENGREG HIGH SCHOOL
+24, Bankole Street, Pedro, Shomolu, Lagos
+SS 3 COMPUTER STUDIES SCHEME OF WORK
+2024/2025 SESSION
+FIRST TERM
+WEEKS
+TOPIC
+SUB-TOPIC
+ONE
+Networking
+Definition, Uses, Types, Network Topology, Network devices, Advantages and Disadvantages
+TWO
+Cables and Connectors
+Network and Computer cables and connectors, Power and Data Cables, Connectors
+THREE
+Introduction to world wide web
+Definition, History, Basic terms, Protocols, Uses and benefits. Software for web development
+FOUR
+Presentation Package
+Definition, Examples, Features.
+FIVE
+Database
+Definition, Examples, Basic Terms, Forms, Computer database format.
+SIX
+High Level Language
+Definition, Examples, Advantages of HLL over ML and LLL
+SEVEN
+Security and Ethics
+Definition, Sources, Preventive Measures, Legal issues
+EIGHT
+Computer Graphics
+Definition, Types, Examples, Features, Simple Designs
+NINE
+Data Representation
+Definition, Description of data representation
+TEN
+Number Bases
+Conversion in Number Systems, Basic Arithmetic in Number Bases
+ELEVEN
+Revision
+TWELVE
+Examination
+THIRTEEN
+ENGREG HIGH SCHOOL
+24, Bankole Street, Pedro, Shomolu, Lagos
+WEEK: 1FIRST TERMSESSION: 2024/2025
+SUBJECT: COMPUTER STUDIES
+TOPIC: NETWORKING
+CLASS:  SS 3
+DATE: 9th – 13th September, 2024
+REFERENCE BOOKS: New Computer Studies for SS 3 by J.O.E Otuka et al Pages 1-9
+Online with computers for SS 3 by Adedapo F. O. et al 1 - 15
+LEARNING PURPOSE: To provide foundational knowledge about how networks function, their various applications, and the devices that make them work.
+LESSON PERIOD: 1
+DURATION: 40 MINS
+LEARNING OBJECTIVE:  By the end of the lesson, students will be able to:
+Define Networking
+Identify the types of Networking.
+State uses of Networking
+Explain the advantages and Disadvantages of Networking.
+KEYWORDS:
+Networking, Devices, Resources, Modem, Router.
+PREVIOUS LEARNING:  The students are familiar with how files and resources are shared.
+INSTRUCTIONAL MATERIALS:
+Interactive board, computer system, Internet
+LEARNING ACTIVITIES IN STEPS:
+Step 1: The teacher marks assignment and makes correction.
+Step 2: The teacher asks questions on previous knowledge
+Step 3: The teacher modifies students’ response and introduces the new topic
+Step 4: Students would be taken through the derailed explanation of the lesson content
+Step 5: Students ask questions on the content of the lesson
+Step 6: Students would be evaluated based on behavioural objectives
+Step 7: Students Assignments are given and notes and marked
+LEARNING TIME FOR EACH STEP:
+Step 1: 3mins
+Step 2: 2mins
+Step 3: 3mins
+Step 4: 20mins
+Step 5: 2mins
+Step 6: 7mins
+Step 7: 3mins
+LEARNING SKILLS:
+Critical thinking, creative thinking, communicating and leadership development
+ACTIVITY
+Define networking and give two uses.
+EVALUATIVE QUESTIONS:
+Define Networking
+Identify four types of Networking.
+State three uses of Networking
+Explain two advantages and Disadvantages of Networking.
+ASSIGNMENT
+Identify the primary purpose of a computer network and its role in resource sharing.
+NETWORKING
+Networking is the practice of connecting computers and devices to share resources like data, applications, and internet access. This connectivity enables communication and collaboration over local or global distances. A computer network, or simply a network, is a group of interconnected devices linked by communication channels to facilitate resource sharing.
+USES OF NETWORKING
+File Sharing: Sharing files and data between computers.
+Resource Sharing: Sharing resources like printers and internet connections.
+Communication: Enabling communication via email, instant messaging, and video conferencing.
+Data Backup: Centralized data storage for backup and recovery.
+Remote Access: Accessing a computer or network from a remote location.
+TYPES OF NETWORKING
+Local Area Network (LAN): Connects devices within a small geographic area like a building or campus.
+Wide Area Network (WAN): Covers broad areas, such as cities or countries, often connecting multiple LANs.
+Metropolitan Area Network (MAN): Spans a city or large campus, linking multiple LANs within a metropolitan area.
+Personal Area Network (PAN): Connects personal devices over short distances, such as Bluetooth.
+Campus Area Network (CAN): Connects multiple buildings within a campus, extending LANs across a larger area.
+Home Area Network (HAN): Connects devices within a home, such as computers and smart devices.
+Global Area Network (GAN): Links multiple WANs and LANs globally for worldwide connectivity.
+NETWORK DEVICES
+Network devices, also known as nodes, are essential components in a network that facilitate connection and communication. The most common network devices include routers, switches, hubs, modems, and network interface cards. Each of these devices plays a specific role in ensuring the smooth operation of a network.
+Router: Directs data between different networks.
+Switch: Connects devices within a network and directs data to specific destinations.
+Hub: Broadcasts data to all devices in a network segment.
+Modem: Converts digital data to analog signals for internet access.
+NIC (Network Interface Card): Enables a computer to connect to a network.
+Bridge: Connects similar networks to function as one.
+Access Point: Provides wireless connectivity to a wired network.
+Firewall: Protects the network by controlling traffic based on security rules.
+ADVANTAGES OF NETWORKING
+Resource Sharing: Reduces costs by sharing resources.
+Improved Communication: Facilitates fast communication between users.
+Centralized Management: Simplifies data and resource management.
+Enhanced Connectivity: Promotes global collaboration.
+Data Sharing: Enables simultaneous access to shared data and applications.
+DISADVANTAGES OF NETWORKING
+Security Risks: Vulnerable to hacking and data breaches.
+Complexity: Requires technical expertise to set up and maintain.
+Cost: Can be expensive, especially for large networks.
+Reliability: Dependent on the performance of network devices, with potential for disruptions.
+ENGREG HIGH SCHOOL
+24, Bankole Street, Pedro, Shomolu, Lagos
+WEEK: 1FIRST TERMSESSION: 2024/2025
+SUBJECT: COMPUTER STUDIES
+TOPIC: NETWORKING
+CLASS:  SS 3
+DATE: 9th – 13th September, 2024
+REFERENCE BOOKS: New Computer Studies for SS 3 by J.O.E Otuka et al Pages 1-9
+Online with computers for SS 3 by Adedapo F. O. et al 1 - 15
+LEARNING PURPOSE: To provide students with a foundational understanding of network topologies, including their structures, advantages, and disadvantages.
+LESSON PERIOD: 2
+DURATION: 40 MINS
+LEARNING OBJECTIVE:  By the end of the lesson, students will be able to:
+Define Network Topology.
+Identify and Describe Basic Topologies.
+State the Advantages and Disadvantages of each topology.
+KEYWORDS:
+Networking, Devices, Resources, Modem, Router.
+PREVIOUS LEARNING:  The students are familiar with the definition of Networking, its uses and types.
+INSTRUCTIONAL MATERIALS:
+Interactive board, computer system, Internet
+LEARNING ACTIVITIES IN STEPS:
+Step 1: The teacher marks assignment and makes correction.
+Step 2: The teacher asks questions on previous knowledge
+Step 3: The teacher modifies students’ response and introduces the new topic
+Step 4: Students would be taken through the derailed explanation of the lesson content
+Step 5: Students ask questions on the content of the lesson
+Step 6: Students would be evaluated based on behavioural objectives
+Step 7: Students Assignments are given and notes and marked
+LEARNING TIME FOR EACH STEP:
+Step 1: 3mins
+Step 2: 2mins
+Step 3: 3mins
+Step 4: 20mins
+Step 5: 2mins
+Step 6: 7mins
+Step 7: 3mins
+LEARNING SKILLS:
+Critical thinking, creative thinking, communicating and leadership development
+ACTIVITY
+Discuss two benefits of each topology.
+EVALUATIVE QUESTIONS:
+Define Network Topology.
+Identify and Describe Basic Topologies.
+State the Advantages and Disadvantages of each topology.
+ASSIGNMENT
+Identify how combining multiple topologies can create a more adaptable network.
+NETWORK TOPOLOGY
+In computer networking, topology refers to the arrangement of connected devices within a network. Network topologies are categorized into several basic types:
+Bus Topology: In a bus topology, all devices are connected to a single central cable, known as the backbone. This backbone acts as a shared communication medium. Example: Ethernet.
+Advantages
+Easy to connect additional devices or peripherals.
+Requires less cable than star topology.
+Disadvantages
+The entire network shuts down if there is a break in the main cable.
+Troubleshooting network failures can be challenging.
+Star Topology: In a star topology, all devices are connected to a central hub, switch, or router, forming a star-like structure. Example ARCNET.
+Advantages
+Easy to install and wire.
+Faults are easy to detect and isolate.
+Disadvantages
+Requires more cable length than a bus topology.
+More expensive due to the cost of hubs and additional cabling.
+Ring Topology: In a ring topology, each device is connected to two other devices, forming a circular or ring-like structure. Example: IBM Token Ring.
+Advantage
+Simple data flow with predictable performance.
+Disadvantage
+A single failure can impact the entire network.
+Mesh Topology: Devices are interconnected with multiple paths for redundancy and reliability.
+Advantages
+Multiple paths for data ensure high reliability; failure of one device or connection doesn’t affect the network.
+Adding new devices is straightforward without disrupting existing connections.
+Disadvantages
+High cost due to extensive cabling and hardware.
+Troubleshooting is challenging because of the multiple data pathways.
+Tree Topology: A hierarchical structure with a central root node, from which branches of connected nodes extend, resembling a tree. This topology combines characteristics of both star and bus topologies.
+Advantages
+Adding new devices is simple and doesn't impact network performance.
+Centralized management allows for easier troubleshooting.
+Disadvantages
+Failure of the root or main branch node can disrupt communication for entire segments.
+More complex to configure and maintain compared to simpler topologies.
+Hybrid Topology: A hybrid topology in networking refers to a network structure that combines two or more different types of topologies, such as star, ring, bus, or mesh, to form a complex and more adaptable network design.
+Advantages
+Leverages the strengths of multiple topologies for a customized and resilient network.
+Provides redundancy and fault tolerance, keeping the network operational even if one part fails.
+Disadvantages
+Increases complexity, requiring advanced knowledge for setup and maintenance.
+Troubleshooting can be challenging due to the diverse and complex topology mix.

@@ -1,0 +1,21 @@
+COMPONENTS OF WINDOWS DESKTOP
+The computer desktop window is the area you see on a monitor once a computer has loaded its operating system. The desktop is made up of three parts; the icons, the task bar and the background.
+ICONS
+An icon is a symbol on a computer that can be used to represent an object, file or even a program, such as folders, Microsoft Word, or My Computer.
+TASKBAR
+A rectangular bar located at the bottom of the desktop, displaying icons for applications that are open on a computer.
+DESKTOP BACKGROUND
+The area behind the icons on the computer monitor, visible after the computer completes booting. It can be hidden by an open applications or program.
+STEPS TO CREATE AND RENAME A FOLDER ON DESKTOP
+How to create a folder on the Windows desktop:
+Right-click anywhere on the desktop to open the context menu.
+From the context menu, hover over "New" to reveal a submenu.
+Select "Folder" from the submenu.
+A new folder will be created on the desktop. Type the desired name for the folder.
+Once you have entered the folder name, press Enter on the keyboard.
+How to rename a folder on the Windows desktop:
+Locate the folder you want to rename on the desktop.
+Single-click on the folder icon to select it.
+Once the folder is selected, wait for a moment, then click on the folder name again (or press F2 on the keyboard). This action will highlight the folder name.
+Type the new name for the folder.
+Press Enter on the keyboard to save the new name.

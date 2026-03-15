@@ -1,0 +1,118 @@
+ENGREG HIGH SCHOOL
+24, Bankole Street, Pedro, Shomolu, Lagos
+WEEK: 5FIRST TERMSESSION: 2024/2025
+SUBJECT: DATA PROCESSING
+TOPIC: ENTITY RELATIONSHIP MODEL
+CLASS:  SS 2
+DATE: 7th October - 11 October.
+REFERENCE BOOKS:  A Textbook for Data Processing SS 2 by Adedapo F. O. et al Pages 17 - 21
+LEARNING PURPOSE: To provide learners with a foundational understanding of Data model
+LESSON PERIOD: 1
+DURATION: 40 MINS
+LEARNING OBJECTIVE:  By the end of the lesson, students will be able to:
+Define entity-Relatioship model
+What are entities
+How does entity differ to attributes
+Explain types of attributes
+KEYWORDS: ERM, object identifyer.
+PREVIOUS LEARNING: The students are familiar with how database management system works.
+INSTRUCTIONAL MATERIALS:
+Interactive board, computer system, Internet
+LEARNING ACTIVITIES IN STEPS:
+Step 1: The teacher marks assignment and makes correction.
+Step 2: The teacher asks questions on previous knowledge
+Step 3: The teacher modifies students’ response and introduces the new topic
+Step 4: Students would be taken through the derailed explanation of the lesson content
+Step 5: Students ask questions on the content of the lesson
+Step 6: Students would be evaluated based on behavioural objectives
+Step 7: Students Assignments are given and notes and marked
+LEARNING TIME FOR EACH STEP:
+Step 1: 3mins
+Step 2: 2mins
+Step 3: 3mins
+Step 4: 20mins
+Step 5: 2mins
+Step 6: 7mins
+Step 7: 3mins
+LEARNING SKILLS:
+Critical thinking, creative thinking, communicating and leadership development
+ACTIVITY
+What's a key attribute
+EVALUATIVE QUESTIONS:
+Define entity relationship model
+What are entities
+What are attributes
+Enumerate and explain types of attributes.
+ASSIGNMENT
+An entity-Relatioship model describe data in terms of what?
+ENTITY-RELATIOSHIP MODEL
+Entity-Relatioship model is a graphical approach to database design.
+An entity-relationship model describes data in terms of the following:
+1. Entities
+2. Relationship between entities
+3. Attributes of entities
+ERM is graphically represented using an entity-relationship diagram (E-R Diagram).
+Entities:
+Entities are the fundamental building blocks of an ERM. They represent real-world objects or concepts that have unique characteristics. Examples of entities include:
+Customers
+Products
+Orders
+Employees
+Departments
+ENGREG HIGH SCHOOL
+24, Bankole Street, Pedro, Shomolu, Lagos
+WEEK: 5FIRST TERMSESSION: 2024/2025
+SUBJECT: DATA PROCESSING
+TOPIC: ATTRIBUTES
+CLASS:  SS 2
+DATE: 7th October - 11 October
+REFERENCE BOOKS:  A Textbook for Data Processing SS 2 by Adedapo F. O. et al Pages 17 - 21
+LEARNING PURPOSE: To provide learners with a foundational understanding with Entity-Relatioship data modelling, its types and approaches.
+LESSON PERIOD: 2
+DURATION: 40 MINS
+LEARNING OBJECTIVE:  By the end of the lesson, students will be able to:
+Define attributes
+Saate types of attributes
+KEYWORDS: ERM, object identifyer.
+PREVIOUS LEARNING: The students are familiar with how database management system.
+INSTRUCTIONAL MATERIALS:
+Interactive board, computer system, Internet
+LEARNING ACTIVITIES IN STEPS:
+Step 1: The teacher marks assignment and makes correction.
+Step 2: The teacher asks questions on previous knowledge
+Step 3: The teacher modifies students’ response and introduces the new topic
+Step 4: Students would be taken through the derailed explanation of the lesson content
+Step 5: Students ask questions on the content of the lesson
+Step 6: Students would be evaluated based on behavioural objectives
+Step 7: Students Assignments are given and notes and marked
+LEARNING TIME FOR EACH STEP:
+Step 1: 3mins
+Step 2: 2mins
+Step 3: 3mins
+Step 4: 20mins
+Step 5: 2mins
+Step 6: 7mins
+Step 7: 3mins
+LEARNING SKILLS:
+Critical thinking, creative thinking, communicating and leadership development
+ACTIVITY
+List types of attributes
+EVALUATIVE QUESTIONS:
+Define attributes
+List and explain types of attributes
+ASSIGNMENT
+What's a key attribute or identifier?
+ATTRIBUTES
+Attributes are the properties or characteristics of an entity. They describe the entity in more detail. For example, attributes of a "Customer" entity might include:
+CustomerID
+CustomerName
+Address
+PhoneNumber
+TYPES OF ATTRIBUTES
+1. Simple or an atomic attribute, such as City or State, cannot be further divided into smaller components.
+2. Composite attribute can be divided into smaller subparts in which each subpart represents an independent attribute. Name and Address are the only composite attributes in the diagram above.
+3. Single-valued attribute: most attributes have a single value. For example, a student has only one date of birth and one identification number.
+4. Multi-valued attribute: have more than one value for an entity instance. For example, student attribute language above, which stores the name of languages a student can speak, is a multi-valued attribute.
+5. Stored attribute is an attribute whose value cannot be derived from the values of other attributes.
+6. Derived attribute: the value of a derived attribute can be determined by analyzing other attributes. For example in the figure above, Age is a derived attribute because its value can be derived from the current date and the attribute DateofBirth.
+7. A key attribute (or identifier) is a single attribute or a combination of attributes that uniquely identify an individual instance of an entity type. No two instances within an entity set can have the same key attribute value. StudentID is the key attribute in the picture above.

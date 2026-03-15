@@ -1,0 +1,31 @@
+{
+  "id": "gen_lesson_plan_EVALUATE_NERDC_JSS2_Chemistry_0001",
+  "generated": "LESSON PLAN\nSubject: Chemistry | Class: JSS2 | Board: NERDC\n\nObjective: By the end of this lesson, students will be able to argue the key concepts in Chemistry as specified by the NERDC curriculum.\n\nActivity: Students work in groups of four. Each group receives a scenario card based on a familiar Nigerian context. They must argue the relevant concept and present their findings to the class. Names used: Chidi, Fatima, Ngozi, Aminu, Taiwo, Adaeze.\n\nAssessment: Exit quiz of five questions. Students scoring below 40% receive guided practice. Marks allocated per NERDC continuous assessment guidelines.",
+  "reference": "Lesson Plan: Chemistry | NERDC | JSS2\nObjective: Students will evaluate key concepts in Chemistry.\nActivity: Guided class exercise with Nigerian context examples.\nAssessment: Short quiz to check understanding.",
+  "metadata": {
+    "content_type": "lesson_plan",
+    "bloom_level": "EVALUATE",
+    "board": "NERDC",
+    "education_level": "JSS2",
+    "subject": "Chemistry",
+    "output_language": "yo",
+    "generation_method": "systematic_parameter_variation"
+  },
+  "expected": {
+    "bloom_level": "EVALUATE",
+    "output_language": "yo",
+    "skill_tags": [
+      "lesson_planning",
+      "curriculum_design",
+      "pedagogical_structuring"
+    ],
+    "format_markers": [
+      "objective",
+      "activity",
+      "assessment"
+    ]
+  },
+  "spot_check_required": false,
+  "human_validated": false,
+  "annotation_notes": ""
+}

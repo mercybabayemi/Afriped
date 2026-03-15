@@ -1,0 +1,31 @@
+{
+  "id": "gen_lesson_plan_CREATE_NABTEB_VOCATIONAL_ADVANCED_Auto_Mechanics_0074",
+  "generated": "LESSON PLAN\nSubject: Auto Mechanics | Class: VOCATIONAL_ADVANCED | Board: NABTEB\n\nObjective: By the end of this lesson, students will be able to create the key concepts in Auto Mechanics as specified by the NABTEB curriculum.\n\nActivity: Students work in groups of four. Each group receives a scenario card based on a familiar Nigerian context. They must create the relevant concept and present their findings to the class. Names used: Chidi, Fatima, Ngozi, Aminu, Taiwo, Adaeze.\n\nAssessment: Exit quiz of five questions. Students scoring below 40% receive guided practice. Marks allocated per NABTEB continuous assessment guidelines.",
+  "reference": "Lesson Plan: Auto Mechanics | NABTEB | VOCATIONAL_ADVANCED\nObjective: Students will design key concepts in Auto Mechanics.\nActivity: Guided class exercise with Nigerian context examples.\nAssessment: Short quiz to check understanding.",
+  "metadata": {
+    "content_type": "lesson_plan",
+    "bloom_level": "CREATE",
+    "board": "NABTEB",
+    "education_level": "VOCATIONAL_ADVANCED",
+    "subject": "Auto Mechanics",
+    "output_language": "yo",
+    "generation_method": "systematic_parameter_variation"
+  },
+  "expected": {
+    "bloom_level": "CREATE",
+    "output_language": "yo",
+    "skill_tags": [
+      "lesson_planning",
+      "curriculum_design",
+      "pedagogical_structuring"
+    ],
+    "format_markers": [
+      "objective",
+      "activity",
+      "assessment"
+    ]
+  },
+  "spot_check_required": false,
+  "human_validated": false,
+  "annotation_notes": ""
+}

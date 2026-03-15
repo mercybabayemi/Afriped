@@ -1,0 +1,127 @@
+ENGREG HIGH SCHOOL
+24, Bankole Street, Pedro, Shomolu, Lagos
+WEEK:  9FIRST TERMSESSION: 2024/2025
+SUBJECT: COMPUTER STUDIES
+TOPIC: COMPUTER DATA CONVERSION
+CLASS:  SS 2
+DATE: 4th – 8th November, 2024.
+REFERENCE BOOKS: New Computer Studies for SS 2 by J.O.E Otuka et al Pages 14-16
+Online with computers for SS 2 by Adedapo F. O. et al 17 - 21
+LEARNING PURPOSE: To provide foundational knowledge on the computer Registers, Address and Bus.
+LESSON PERIOD: 1
+DURATION: 40 MINS
+LEARNING OBJECTIVE:  By the end of the lesson, students will be able to:
+Define data conversion
+Define Register, Bus and Address.
+Explain the types of Bus
+KEYWORDS: Register, Address, Bus, Data Conversion.
+PREVIOUS LEARNING: The students are familiar logic gates and truth table.
+INSTRUCTIONAL MATERIALS:
+Interactive board, computer system, Internet
+LEARNING ACTIVITIES IN STEPS:
+Step 1: The teacher marks assignment and makes correction.
+Step 2: The teacher asks questions on previous knowledge
+Step 3: The teacher modifies students’ response and introduces the new topic
+Step 4: Students would be taken through the derailed explanation of the lesson content
+Step 5: Students ask questions on the content of the lesson
+Step 6: Students would be evaluated based on behavioral objectives
+Step 7: Students Assignments are given and notes are marked
+LEARNING TIME FOR EACH STEP:
+Step 1: 3mins
+Step 2: 2mins
+Step 3: 3mins
+Step 4: 20mins
+Step 5: 2mins
+Step 6: 7mins
+Step 7: 3mins
+LEARNING SKILLS:
+Critical thinking, creative thinking, communicating and leadership development
+ACTIVITY
+Define
+Register
+Bus
+Address.
+EVALUATIVE QUESTIONS:
+Define data conversion
+Define Register, Bus and Address.
+Explain the types of Bus
+ASSIGNMENT
+Explain
+Address Bus
+Control Bus
+System Bus
+COMPUTER DATA CONVERSION
+Data Conversion in the conversion of computer dater from one format to another.
+REGISTER
+A register is a high-speed storage location within the CPU that holds data and addresses for processing. It may store a computer instruction, a storage address, or any data. The size of a register must match the instruction size of the computer, such as 32 bits for a 32-bit processor.
+Address:
+An address identifies a location in computer memory where data is stored. Each memory location, or storage box, has a unique number (address) used to access its contents.
+Bus:
+A bus is a communication pathway that allows multiple hardware components to exchange data. It reduces the need for separate communication lines by carrying all communications over a single channel.
+Types of Bus
+Address Bus: Carries memory addresses from the CPU to components like RAM and I/O devices, determining where data is read from or written to.
+Control Bus: Sends control signals between the CPU and other components to manage data transfers, indicating whether data should be read or written and coordinating timing.
+System Bus: A combination of the data, address, and control buses that transfers data, addresses, and control signals within the computer, connecting the CPU to main memory and internal components.
+ENGREG HIGH SCHOOL
+24, Bankole Street, Pedro, Shomolu, Lagos
+WEEK:  9FIRST TERMSESSION: 2024/2025
+SUBJECT: COMPUTER STUDIES
+TOPIC: COMPUTER DATA CONVERSION
+CLASS:  SS 2
+DATE: 4th – 8th November, 2024.
+REFERENCE BOOKS: New Computer Studies for SS 2 by J.O.E Otuka et al Pages 14-16
+Online with computers for SS 2 by Adedapo F. O. et al 17 - 21
+LEARNING PURPOSE: To provide foundational knowledge on the types of registers and differences between registers and memory.
+LESSON PERIOD: 2
+DURATION: 40 MINS
+LEARNING OBJECTIVE:  By the end of the lesson, students will be able to:
+Explain the types of registers.
+State differences between registers and main memory.
+Explain the factors affecting speed of data.
+KEYWORDS: Register, Address, Bus, Data Conversion.
+PREVIOUS LEARNING: The students are familiar with the definition of computer Registers, Address and Bus.
+INSTRUCTIONAL MATERIALS:
+Interactive board, computer system, Internet
+LEARNING ACTIVITIES IN STEPS:
+Step 1: The teacher marks assignment and makes correction.
+Step 2: The teacher asks questions on previous knowledge
+Step 3: The teacher modifies students’ response and introduces the new topic
+Step 4: Students would be taken through the derailed explanation of the lesson content
+Step 5: Students ask questions on the content of the lesson
+Step 6: Students would be evaluated based on behavioral objectives
+Step 7: Students Assignments are given and notes are marked
+LEARNING TIME FOR EACH STEP:
+Step 1: 3mins
+Step 2: 2mins
+Step 3: 3mins
+Step 4: 20mins
+Step 5: 2mins
+Step 6: 7mins
+Step 7: 3mins
+LEARNING SKILLS:
+Critical thinking, creative thinking, communicating and leadership development
+ACTIVITY
+Explain five types of registers.
+EVALUATIVE QUESTIONS:
+Explain the types of registers.
+State differences between registers and main memory.
+Explain the factors affecting speed of data.
+ASSIGNMENT
+State two differences between registers and main memory.
+Explain the two factors affecting speed of data.
+TYPES OF REGISTERS AND THEIR FUNCTIONS
+Memory Data Register (MDR): - Holds the data that is being transferred to or from memory. It acts as a buffer for data being fetched from or written to memory.
+Current Instruction Register (CIR): - Stores the instruction currently being executed or decoded by the CPU. It helps the control unit know which instruction to execute next.
+Memory Address Register (MAR): - Holds the memory address of the data that the CPU needs to access. It specifies the location from which data is to be fetched or to which data will be written.
+Program Counter (PC): - Keeps track of the address of the next instruction to be executed. It increments after each instruction fetch to point to the subsequent instruction.
+Accumulator (ACC): - A special register used to store intermediate results of arithmetic and logic operations performed by the Arithmetic Logic Unit (ALU).
+DIFFERENCE BETWEEN REGISTER AND MAIN MEMORY
+Register
+Main memory
+Registers are internal, i.e. they are located inside the processor
+Main memory is external, i.e. it is located outside the processor
+They are very fast
+It is slow
+FACTORS AFFECTING SPEED OF DATA TRANSFER
+Bus speed: The term "bus speed" refers to how quickly the system bus can move data from one computer component to the other. The faster the bus, the more data it can move within a given amount of time. It is measured in Hertz.
+Bus width: The size of a bus, known as its width, is important because it determines how much data can be transmitted at one time. For example, a 16-bit bus can transmit 16 bits of data, whereas a 32-bit bus can transmit 32 bits of data

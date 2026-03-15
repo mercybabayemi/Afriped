@@ -1,0 +1,31 @@
+{
+  "generated": "LESSON PLAN\nSubject: Biology\nTopic: Reproduction in Flowering Plants\nClass: JSS2 | Duration: 40 minutes | Board: NERDC\n\nObjective: By the end of this lesson, students will be able to:\n1. Explain the difference between sexual and asexual reproduction in plants\n2. Describe the structure of a flower and state the function of each part\n3. Classify the following as insect-pollinated or wind-pollinated plants: hibiscus, maize, mango, corn\n4. Interpret a diagram of double fertilisation in a flowering plant\n\nMaterials: Fresh hibiscus flowers (collected from school garden), hand lenses, NERDC Biology textbook JSS2, diagram cards.\n\nIntroduction (5 min):\nTeacher Chiamaka brings in a hibiscus flower. She asks Obiora: 'How do you think this flower makes new plants?' The class brainstorms. Nkechi mentions that her mother plants new pepper plants from seeds. Chidi says his uncle propagates plantain using suckers — 'no seeds needed.'\n\nMain Activity (25 min):\n1. Chiamaka explains the two types of reproduction:\n   - Sexual: involves seeds (flowers, pollen, fertilisation)\n   - Asexual: no seeds (e.g., plantain suckers, yam tubers, cassava cuttings)\n2. Students dissect hibiscus flowers: identify and label petals, sepals, stamens (anther + filament), pistil (stigma + style + ovary), receptacle.\n3. Chiamaka explains pollination: 'Transfer of pollen from anther to stigma.' Students classify: hibiscus (insect-pollinated: bright colour, sticky pollen) vs maize (wind-pollinated: feathery stigma, light pollen).\n4. Students interpret the double fertilisation diagram: one sperm fuses with egg → zygote; other fuses with polar nuclei → endosperm. Nkechi summarises in one sentence.\n\nAssessment (10 min):\nStudents complete a labelled diagram of the flower from memory and answer: 'Describe in 3 sentences how a mango seed is formed from the moment pollen lands on the stigma.'\n\nClosure:\nClassify four plants shown on flashcards. Homework: Collect one insect-pollinated and one wind-pollinated plant from your area and sketch both.",
+  "reference": "NERDC JSS2 Biology lesson on sexual and asexual reproduction in flowering plants, covering flower structure, pollination types, and fertilisation.",
+  "content_type": "LESSON_PLAN",
+  "subject": "biology",
+  "topic": "Reproduction in Flowering Plants",
+  "education_level": "JSS2",
+  "curriculum_board": "NERDC",
+  "expected_bloom": "UNDERSTAND",
+  "expected_language": "en",
+  "expected_skills": ["Critical Thinking", "Active Learning", "Inductive Reasoning"],
+  "detected_skills": ["Critical Thinking", "Active Learning", "Inductive Reasoning"],
+  "validation": {
+    "status": "PASSED",
+    "rules_passed": [
+      "length_check",
+      "language_detection",
+      "bloom_verb_presence",
+      "cultural_flag_check",
+      "no_hallucinated_dates",
+      "no_explicit_content",
+      "curriculum_alignment",
+      "format_compliance"
+    ],
+    "rules_failed": [],
+    "judge_score": null,
+    "judge_dimensions": null,
+    "revision_count": 0,
+    "notes": []
+  }
+}

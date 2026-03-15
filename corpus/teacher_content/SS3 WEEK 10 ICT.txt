@@ -1,0 +1,18 @@
+DATA REPRESENTATION
+Data representation refers to the methods used internally to represent information stored in a computer. Computer stores different types of information such as: Numbers, text, graphics of many varieties (still, video, animations), sound.
+Types of Data Representation
+Numbers: Represented in binary, decimal, hexadecimal.
+Characters: Encoded using ASCII, Unicode, or EBCDIC.
+Images: Represented as bitmaps, vectors, or compressed formats (e.g., JPEG, PNG).
+Audio & Video: Stored in digital formats like MP3, WAV (audio) and MP4, AVI (video).
+BITS
+In a computer system all types of information are stored internally in the same simple format i.e. a sequence of 0’s and 1’s. This is called a BIT. A bit means Binary digit which is represented by an either a zero or a one. Therefore the computer stores all our forms of information stored on it be it pictures, videos, numbers or alphabets in only 0s and 1s.
+BCD
+BCD means Binary Coded Decimal is a digital encoding method for decimal numbers in which each digits is represented by its own binary sequence. In BCD a numeral is usually represented by four bits which, in general represent the decimal range from 0 through 9.
+EBCDIC
+Extended Binary Coded decimal Interchange Code. Is a character encoding set used by IBM Mainframes. EBCDIC uses the full 8bits available to it, which is also known as a byte. It consist of 256 8-bits characters and are used for data representation and transfer. It also used to represent numbers and text.
+ASCII
+Text can be represented easily by assigning a unique numeric value for each symbol used in the text. For example the widely used ASCII code defines 128 different symbols (all character found on a standard keyboard, plus a few extra) and assigns to each a unique numeric code between 0 and 127.
+COMPUTER CHARACTER SETS
+Computer character sets is a defined list of characters recognized by the computer hardware and software. It is the set of characters represented in different data representation method. A number represents each character.
+The ASCII character set, for example, uses the number 0 through 127 to represent all English characters as well and special control characters.

@@ -1,0 +1,143 @@
+ENGREG HIGH SCHOOL
+24, Bankole Street, Pedro, Shomolu, Lagos
+WEEK: 4FIRST TERMSESSION: 2024/2025
+SUBJECT: COMPUTER STUDIES
+TOPIC: PRESENTATION PACKAGES
+CLASS:  SS 3
+DATE: 30th September – 4th October 2024
+REFERENCE BOOKS: New Computer Studies for SS 3 by J.O.E Otuka et al Pages 12-15
+Online with computers for SS 3 by Adedapo F. O. et al 19-22
+LEARNING PURPOSE: Students will Gain insight on the definition of the Presentation software, its examples and features.
+LESSON PERIOD: 1
+DURATION: 40 MINS
+LEARNING OBJECTIVE:  By the end of the lesson, students will be able to:
+Define Presentation Package.
+List examples of presentation package.
+State features of presentation packages.
+KEYWORDS:
+Presentation, Packages, Powerpoint, Features, Slideshow.
+PREVIOUS LEARNING:  The students are familiar with Application software and examples from previous lessons.
+INSTRUCTIONAL MATERIALS:
+Interactive board, computer system, Internet
+LEARNING ACTIVITIES IN STEPS:
+Step 1: The teacher marks assignment and makes correction.
+Step 2: The teacher asks questions on previous knowledge
+Step 3: The teacher modifies students’ response and introduces the new topic
+Step 4: Students would be taken through the derailed explanation of the lesson content
+Step 5: Students ask questions on the content of the lesson
+Step 6: Students would be evaluated based on behavioural objectives
+Step 7: Students Assignments are given and notes are marked
+LEARNING TIME FOR EACH STEP:
+Step 1: 3mins
+Step 2: 2mins
+Step 3: 3mins
+Step 4: 20mins
+Step 5: 2mins
+Step 6: 7mins
+Step 7: 3mins
+LEARNING SKILLS:
+Critical thinking, creative thinking, communicating and leadership development
+ACTIVITY
+Define Presentation Package.
+List four examples of presentation package.
+EVALUATIVE QUESTIONS:
+Define Presentation Package.
+List five examples of presentation package.
+State three features of presentation packages.
+ASSIGNMENT
+Explain any five features of presentation packages.
+PRESENTATION PACKAGES
+A presentation package is a software application used to create and display information in the form of a slideshow. It produces visual aids that are often used for educational, business, or informational purposes, aiming to effectively convey ideas to an audience.
+EXAMPLES OF PRESENTATION PACKAGES:
+Microsoft PowerPoint
+Macromedia Flash
+Windows Movie Maker
+Google Slides
+Apple Keynote
+Prezi
+Canva
+Adobe Persuasion
+Corel Presentation
+Harvard Graphics
+FEATURES OF A PRESENTATION PACKAGE
+Slide Creation: Organize content using slides, with pre-designed templates and customizable layouts.
+Multimedia Insertion: Add pictures, videos, and audio to enhance presentations.
+Animations and Transitions: Apply object animations and slide transitions for a dynamic presentation.
+Slideshow Mode: Preview and deliver presentations with slideshow and presenter view options.
+Graphics and Charts: Create shapes and charts (e.g., pie charts, bar graphs) to visualize data.
+Text Formatting: Customize fonts, add bullet points, and control text appearance with animations.
+Collaboration and Sharing: Enable real-time collaboration and share presentations via cloud services.
+Exporting and Cloud Integration: Save presentations in formats like PDF or video, with cloud storage access.
+ENGREG HIGH SCHOOL
+24, Bankole Street, Pedro, Shomolu, Lagos
+WEEK: 4FIRST TERMSESSION: 2024/2025
+SUBJECT: COMPUTER STUDIES
+TOPIC: GETTING STARTED WITH POWERPOINT
+CLASS:  SS 3
+DATE: 30th September – 4th October 2024
+REFERENCE BOOKS: New Computer Studies for SS 3 by J.O.E Otuka et al Pages 12-15
+Online with computers for SS 3 by Adedapo F. O. et al 19-22
+LEARNING PURPOSE: Students will Gain insight on opening PowerPoint, creating new presentation, adding animations, transitions and other contents to slides.
+LESSON PERIOD: 2
+DURATION: 40 MINS
+LEARNING OBJECTIVE:  By the end of the lesson, students will be able to:
+Open Microsoft PowerPoint.
+Create a New Presentation.
+Add new slides and contents.
+Run a slide show.
+KEYWORDS:
+Presentation, Packages, Powerpoint, Features, Slideshow.
+PREVIOUS LEARNING:  The students are familiar with presentation packages, its examples and features from previous class.
+INSTRUCTIONAL MATERIALS:
+Interactive board, computer system, Internet
+LEARNING ACTIVITIES IN STEPS:
+Step 1: The teacher marks assignment and makes correction.
+Step 2: The teacher asks questions on previous knowledge
+Step 3: The teacher modifies students’ response and introduces the new topic
+Step 4: Students would be taken through the derailed explanation of the lesson content
+Step 5: Students ask questions on the content of the lesson
+Step 6: Students would be evaluated based on behavioural objectives
+Step 7: Students Assignments are given and notes are marked
+LEARNING TIME FOR EACH STEP:
+Step 1: 3mins
+Step 2: 2mins
+Step 3: 3mins
+Step 4: 20mins
+Step 5: 2mins
+Step 6: 7mins
+Step 7: 3mins
+LEARNING SKILLS:
+Critical thinking, creative thinking, communicating and leadership development
+ACTIVITY
+State the steps to:
+Add a new slide.
+Insert image, audio or video.
+EVALUATIVE QUESTIONS:
+State the steps to:
+Open Microsoft PowerPoint.
+Create a New Presentation.
+Add new slides and contents.
+Run a slide show.
+ASSIGNMENT
+What is the difference between animations and transitions?
+GETTING STARTED WITH POWERPOINT
+Opening PowerPoint:
+Start > All Programs > Microsoft Office > PowerPoint.
+Create a New Presentation:
+Open PowerPoint and select Blank Presentation.
+Choose the Title Slide layout.
+Adding Content:
+Text: Click the title or subtitle areas to type.
+Graphics: Insert images or shapes via the Insert menu.
+Animating Content:
+Add motion effects to slides for dynamic presentations.
+Adding New Slides:
+Go to Home > New Slide and choose a layout.
+Saving the Presentation:
+Click File > Save As or Ctrl+S
+Choose a location and enter the file name.
+Running a Slide Show:
+Press F5 or click the Slide Show tab > From Beginning.
+ANIMATIONS AND TRANSITIONS.
+Animation: This refers to effects applied to individual elements within a slide, such as text, images, or shapes. Animations can make elements appear, disappear, or move in various ways, helping to emphasize or draw attention to specific content.
+Transition: This refers to the visual effects that occur between slides. Transitions control how one slide moves to the next, they help to create a smooth flow between different sections of your presentation.

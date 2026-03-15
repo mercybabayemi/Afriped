@@ -1,0 +1,110 @@
+ENGREG HIGH SCHOOL
+24, Bankole Street, Pedro, Shomolu, Lagos
+WEEK: FOURFIRST TERMSESSION: 2024/2025
+SUBJECT: COMPUTER STUDIES
+TOPIC: ELECTRONIC COUNTING DEVICES AND MODERN COMPUTERS
+CLASS:  SS 1
+DATE: 30th September - 4th October, 2024
+REFERENCE BOOKS: New Computer Studies for SS 1 by J.O.E Otuka et al Pages 18-24
+Online with computers for SS 1 by Adedapo F. O. et al 18 - 24
+LEARNING PURPOSE: To provide foundational knowledge on the computer and how computers have developed over the years
+LESSON PERIOD: 1
+DURATION: 40 MINS
+LEARNING OBJECTIVE:  By the end of the lesson, students will be able to:
+List examples of electronic counting devices and modern computers
+KEYWORDS:
+Pre-Computer, PC, ENIAC
+PREVIOUS LEARNING: The students are familiar with the development of computer
+INSTRUCTIONAL MATERIALS:
+Interactive board, computer system, Internet
+LEARNING ACTIVITIES IN STEPS:
+Step 1: The teacher marks assignment and makes correction.
+Step 2: The teacher asks questions on previous knowledge
+Step 3: The teacher modifies students’ response and introduces the new topic
+Step 4: Students would be taken through the derailed explanation of the lesson content
+Step 5: Students ask questions on the content of the lesson
+Step 6: Students would be evaluated based on behavioural objectives
+Step 7: Students Assignments are given and notes and marked
+LEARNING TIME FOR EACH STEP:
+Step 1: 3mins
+Step 2: 2mins
+Step 3: 3mins
+Step 4: 20mins
+Step 5: 2mins
+Step 6: 7mins
+Step 7: 3mins
+LEARNING SKILLS:
+Critical thinking, creative thinking, communicating and leadership development
+ACTIVITY
+Explain what you understand by Pre-Computer age
+EVALUATIVE QUESTIONS:
+List examples of electronic counting devices
+ASSIGNMENT
+State the full form of the acronym ENIAC
+ELECTRONIC COUNTING DEVICES AND MODERN COMPUTERS
+Electronic devices are devices that function using electronic principles. After electro-mechanical devices, electronic devices took center stage. These devices include:
+1. Herman Hollerith’s machine
+2. John Von Neumann Machine
+3. Electronic Numerical Integrator and Calculator (ENIAC)
+4. Mini Computers
+5. Micro Computers
+6. Personal Computer
+ENGREG HIGH SCHOOL
+24, Bankole Street, Pedro, Shomolu, Lagos
+WEEK: FOURFIRST TERMSESSION: 2024/2025
+SUBJECT: COMPUTER STUDIES
+TOPIC: HERMAN HOLLERITH’S MACHINE
+CLASS:  SS 1
+DATE: 30th September - 4th October, 2024
+REFERENCE BOOKS: New Computer Studies for SS 1 by J.O.E Otuka et al Pages 18-24
+Online with computers for SS 1 by Adedapo F. O. et al 18 - 24
+LEARNING OBJECTIVE:  By the end of the lesson, students will be able to:
+List and explain examples of electronic counting devices and modern computers
+KEYWORDS:
+Pre-Computer, technophobia, Calculator.
+PREVIOUS LEARNING:
+To provide foundational knowledge on the computer and how computers have developed over the years
+INSTRUCTIONAL MATERIALS:
+Interactive board, computer system, Internet
+LEARNING ACTIVITIES IN STEPS:
+Step 1: The teacher marks assignment and makes correction.
+Step 2: The teacher asks questions on previous knowledge
+Step 3: The teacher modifies students’ response and introduces the new topic
+Step 4: Students would be taken through the derailed explanation of the lesson content
+Step 5: Students ask questions on the content of the lesson
+Step 6: Students would be evaluated based on behavioural objectives
+Step 7: Students Assignments are given and notes and marked
+LEARNING TIME FOR EACH STEP:
+Step 1: 3mins
+Step 2: 2mins
+Step 3: 3mins
+Step 4: 20mins
+Step 5: 2mins
+Step 6: 7mins
+Step 7: 3mins
+LEARNING SKILLS:
+Critical thinking, creative thinking, communicating and leadership development
+ACTIVITY
+Write a short note of the development on Herman Hollerith Machine.
+EVALUATIVE QUESTIONS:
+List and explain 3 examples of electronic counting devices and modern computers
+ASSIGNMENT
+Write a short note on ENIAC
+1. Herman Hollerith’s machine
+An American called Herman Hollerith developed Herman Hollerith’s machine in the late 19th century. This machine was used to process census information in the U.S.A. in 1890.
+Hollerith formed a company to sell his machine but later merged with other companies to form the popular IBM (International Business Machine) Computer, which is the largest computer manufacturing company today.
+2. John Von Neumann Machine
+In 1945, a mathematician, John von Neumann developed the stored program concept in which a program could be read into computer memory for processing.
+John Vonn Neumann Architecture
+3. ENIAC
+This means Electronic Numerical Integrator and Computer. ENIAC was built at the University of Pennsylvania between 1943 and 1945 by two professors John Mauchly and Prosper Eckert. ENIAC filled a 20 by 40-foot room, weighed 30 tons, and used more than 18,000 vacuum tubes to generate waste heat like a light bulb and all this heat (174,000 watts of heat) meant that the computer could only be operated in a specially designed room with its heavy-duty air conditioning system.
+Note:
+Other computing devices invented by John Mauchly and Prosper Eckert include;
+i. UNIVAC (Universal Automatic Computer)
+ii. EDVAC (Electronic Discrete Variable Automatic Computer)
+4. Mini Computers
+Minicomputers were developed in the mid-1960s. They are a class of smaller general-purpose computers that are digital and generally used in multi-user systems. They have higher processing speed and higher storage capacity than microcomputers. Minicomputers can support up to 4 – 200 users simultaneously.
+5. Micro Computers
+Microcomputers became popular in the 1970s and 1980s. They are relatively small and low-cost. They consist of a CPU, an input unit, an output unit, a storage unit, and the software.
+6. Personal Computers
+The term home computer or personal computer became popular in the late 1970s and 1980s. A personal computer (PC) is a multi-purpose microcomputer whose size, capabilities, and price make it feasible for individual use.

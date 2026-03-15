@@ -1,0 +1,31 @@
+{
+  "id": "gen_exam_questions_ANALYZE_NABTEB_VOCATIONAL_ADVANCED_Electrical_Installation_0007",
+  "generated": "NABTEB EXAMINATION \u2014 Electrical Installation | VOCATIONAL_ADVANCED\n\nQuestion 1: Contrast the fundamental principles of Electrical Installation. Use examples relevant to the Nigerian context. [8 marks]\n\nQuestion 2: A student named Ngozi is studying Electrical Installation. She must contrast the relationship between two key concepts. Explain the steps she should follow and justify each step. [12 marks]\n\nQuestion 3: Evaluate the importance of Electrical Installation in the Nigerian secondary school curriculum. Support your answer with specific examples. [10 marks]",
+  "reference": "WAEC-style Electrical Installation questions at VOCATIONAL_ADVANCED.\n1. Analyse the key principles of Electrical Installation. [5 marks]\n2. Apply your knowledge to a Nigerian context scenario. [10 marks]",
+  "metadata": {
+    "content_type": "exam_questions",
+    "bloom_level": "ANALYZE",
+    "board": "NABTEB",
+    "education_level": "VOCATIONAL_ADVANCED",
+    "subject": "Electrical Installation",
+    "output_language": "en",
+    "generation_method": "systematic_parameter_variation"
+  },
+  "expected": {
+    "bloom_level": "ANALYZE",
+    "output_language": "en",
+    "skill_tags": [
+      "assessment_design",
+      "question_construction",
+      "bloom_alignment"
+    ],
+    "format_markers": [
+      "question",
+      "answer",
+      "mark"
+    ]
+  },
+  "spot_check_required": false,
+  "human_validated": false,
+  "annotation_notes": ""
+}

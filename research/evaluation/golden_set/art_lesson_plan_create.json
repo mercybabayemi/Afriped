@@ -1,0 +1,31 @@
+{
+  "generated": "LESSON PLAN\nSubject: Creative Arts\nTopic: West African Textile Patterns\nClass: JSS2 | Duration: 80 minutes (double period) | Board: NERDC\n\nObjective: By the end of this lesson, students will be able to:\n1. Create an original Adire or Kente-inspired textile pattern using paper and dye\n2. Design a repeating geometric motif that reflects a chosen cultural theme (e.g. harvest, community, celebration)\n3. Produce a short written description (3 sentences) explaining the cultural meaning of their design\n4. Develop a group mini-exhibition of all class designs\n\nMaterials: White cotton fabric squares (30×30 cm), fabric dye (blue, yellow, red), wax crayons, rubber stamps, rulers, brushes, washing buckets, Chioma's completed Adire sample (teacher reference).\n\nIntroduction (10 min):\nTeacher Biodun shows students photographs of Yoruba Adire cloth, Ghanaian Kente weaving, and Aso-oke fabric from Osun State. Students discuss: 'What patterns do you see? What do you think they mean?' Kemi volunteers that her grandmother weaves Aso-oke for weddings.\n\nMain Activity (55 min):\n1. Design phase (20 min): Each student sketches their motif on paper first. Tunde designs an interlocking diamond pattern; Abena designs a bird of peace motif.\n2. Production phase (30 min): Students transfer their design to fabric using wax resist or stamps, then apply dye. Obiora helps distribute dye buckets safely.\n3. Reflection phase (5 min): Each student writes three sentences: what they created, why they chose the pattern, and what West African tradition it connects to.\n\nAssessment (10 min):\nPeer gallery walk: Students attach name tags to their finished textile squares. Class votes on the design that best represents a West African cultural value. Teacher Biodun provides individual written feedback on each piece.\n\nClosure:\nStudents compose a class display title together. Homework: Bring one photo of a textile pattern from their home, market, or community to share next lesson.",
+  "reference": "A NERDC Creative Arts lesson plan for JSS2 where students design and produce original West African textile patterns with cultural reflection.",
+  "content_type": "LESSON_PLAN",
+  "subject": "creative_arts",
+  "topic": "West African Textile Patterns",
+  "education_level": "JSS2",
+  "curriculum_board": "NERDC",
+  "expected_bloom": "CREATE",
+  "expected_language": "en",
+  "expected_skills": ["Creative Expression", "Collaborative Learning", "Communication Skills"],
+  "detected_skills": ["Creative Expression", "Collaborative Learning", "Communication Skills"],
+  "validation": {
+    "status": "PASSED",
+    "rules_passed": [
+      "length_check",
+      "language_detection",
+      "bloom_verb_presence",
+      "cultural_flag_check",
+      "no_hallucinated_dates",
+      "no_explicit_content",
+      "curriculum_alignment",
+      "format_compliance"
+    ],
+    "rules_failed": [],
+    "judge_score": null,
+    "judge_dimensions": null,
+    "revision_count": 0,
+    "notes": []
+  }
+}

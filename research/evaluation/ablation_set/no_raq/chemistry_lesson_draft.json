@@ -1,0 +1,16 @@
+{
+  "generated": "Chemistry Lesson\nTopic: Acid-Base Reactions\nClass: SSS1\n\nThe teacher explains what acids and bases are. Students should know that acids have pH below 7 and bases have pH above 7.\n\nDavid helps distribute the pH indicator strips to the class. Sarah records results. Robert mixes solutions carefully.\n\nThe class identifies: lemon juice is acidic, soap is basic, water is neutral.\n\nStudents list common household acids and bases.\n\nHome work: Define neutralisation and identify three examples from everyday life.",
+  "reference": "NERDC SSS1 Chemistry lesson on acid-base reactions where students design and conduct experiments, construct pH scales, and create a neutralisation reference chart.",
+  "content_type": "LESSON_PLAN",
+  "subject": "chemistry",
+  "topic": "Acid-Base Reactions",
+  "education_level": "SSS1",
+  "curriculum_board": "NERDC",
+  "expected_bloom": "CREATE",
+  "expected_language": "en",
+  "expected_skills": ["Scientific Reasoning", "Critical Thinking"],
+  "detected_skills": [],
+  "ablation_condition": "no_raq",
+  "known_failures": ["bloom_verb_presence", "format_compliance", "cultural_flag_check"],
+  "notes": "Three failures: (1) CREATE expected but uses REMEMBER verbs (explain, know, identify, list, define) — no design/create/construct/develop verbs. (2) No Objective/Activity/Assessment labels — format_compliance fails. (3) Western names throughout (David, Sarah, Robert) — cultural_flag_check fails."
+}

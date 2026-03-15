@@ -1,0 +1,150 @@
+ENGREG HIGH SCHOOL
+24, Bankole Street, Pedro, Shomolu, Lagos
+WEEK: 3 FIRST TERMSESSION: 2024/2025
+SUBJECT: DATA PROCESSING
+TOPIC: GENERATIONS OF COMPUTER
+CLASS:  SS 1
+DATE: 23rd - 27th September, 2024
+REFERENCE BOOKS:  A Textbook for Data Processing SS 1 by Adedapo F. O. et al Pages 8 - 15
+Data Processing Textbook for SS 1 by Aboyede Jegede 8 - 15
+LEARNING PURPOSE: To provide learners with a foundational understanding of the first three generations of computer, the technology that were used and its characteristics.
+LESSON PERIOD: 1
+DURATION: 40 MINS
+LEARNING OBJECTIVE:  By the end of the lesson, students will be able to:
+List the first three generations of computer.
+State the technology involved and the year it was invented.
+Explain the characteristics of the first three generations of computer.
+KEYWORDS:  Generation, Vacuum Tubes, Transistors, Integrated Circuit.
+PREVIOUS LEARNING: The students are familiar with the classification of computer by size, purpose and function.
+INSTRUCTIONAL MATERIALS:
+Interactive board, computer system, Internet
+LEARNING ACTIVITIES IN STEPS:
+Step 1: The teacher marks assignment and makes correction.
+Step 2: The teacher asks questions on previous knowledge
+Step 3: The teacher modifies students’ response and introduces the new topic
+Step 4: Students would be taken through the derailed explanation of the lesson content
+Step 5: Students ask questions on the content of the lesson
+Step 6: Students would be evaluated based on behavioural objectives
+Step 7: Students Assignments are given and notes and marked
+LEARNING TIME FOR EACH STEP:
+Step 1: 3mins
+Step 2: 2mins
+Step 3: 3mins
+Step 4: 20mins
+Step 5: 2mins
+Step 6: 7mins
+Step 7: 3mins
+LEARNING SKILLS:
+Critical thinking, creative thinking, communicating and leadership development
+ACTIVITY
+State the technology involved in the first, second and third generation and the year it was invented.
+EVALUATIVE QUESTIONS:
+List the first three generations of computer.
+State the technology involved and the year it was invented.
+Explain the characteristics of the first three generations of computer.
+ASSIGNMENT
+State two characteristics of the 2nd and 3rd generation of computer.
+GENERATIONS OF COMPUTER
+The computer presently has five generations; each generation marks a significant leap in computing technology, often characterized by changes in hardware and software.
+First Generation (1940s - 1950s)
+Technology: Vacuum Tubes
+Examples: ENIAC, EDVAC, EDSAC, UNIVAC.
+Characteristics:
+Computers used vacuum tubes for circuitry and magnetic drums for memory.
+These computers were enormous.
+Second Generation (1950s - 1960s)
+Technology: Transistors
+Examples: IBM 7090, UNIVAC II, ATLAS
+Characteristics:
+Transistors replaced vacuum tubes, making computers smaller and more energy-efficient.
+Magnetic cores were used/
+Third Generation (1960s - 1970s)
+Technology: Integrated Circuits (ICs)
+Examples: IBM 360 series, PDP-8.
+Characteristics:
+Integrated Circuits (ICs) combined multiple transistors.
+Computers became more powerful and were able to support multiple users.
+ENGREG HIGH SCHOOL
+24, Bankole Street, Pedro, Shomolu, Lagos
+WEEK: 3 FIRST TERMSESSION: 2024/2025
+SUBJECT: DATA PROCESSING
+TOPIC: GENERATIONS OF COMPUTER (CONT’D)
+CLASS:  SS 1
+DATE: 23rd - 27th September, 2024
+REFERENCE BOOKS:  A Textbook for Data Processing SS 1 by Adedapo F. O. et al Pages 8 - 15
+Data Processing Textbook for SS 1 by Aboyede Jegede 8 - 15
+LEARNING PURPOSE: To provide learners with a foundational understanding of the 4th and 5th generations of computer, the technology that were used and its characteristics.
+LESSON PERIOD: 2
+DURATION: 40 MINS
+LEARNING OBJECTIVE:  By the end of the lesson, students will be able to:
+List the 4th and 5th generations of computer.
+State the technology involved and the year it was invented.
+Explain the characteristics of the 4th and 5th generations of computer.
+KEYWORDS:  Generation, Vacuum Tubes, Transistors, Integrated Circuit, Microprocessors, Artificial Intelligence.
+PREVIOUS LEARNING: The students are familiar with the first three generations of computer.
+INSTRUCTIONAL MATERIALS:
+Interactive board, computer system, Internet
+LEARNING ACTIVITIES IN STEPS:
+Step 1: The teacher marks assignment and makes correction.
+Step 2: The teacher asks questions on previous knowledge
+Step 3: The teacher modifies students’ response and introduces the new topic
+Step 4: Students would be taken through the derailed explanation of the lesson content
+Step 5: Students ask questions on the content of the lesson
+Step 6: Students would be evaluated based on behavioural objectives
+Step 7: Students Assignments are given and notes and marked
+LEARNING TIME FOR EACH STEP:
+Step 1: 3mins
+Step 2: 2mins
+Step 3: 3mins
+Step 4: 20mins
+Step 5: 2mins
+Step 6: 7mins
+Step 7: 3mins
+LEARNING SKILLS:
+Critical thinking, creative thinking, communicating and leadership development
+ACTIVITY
+State the technology involved in the 4th and 5th generation and the year it was invented.
+EVALUATIVE QUESTIONS:
+List the 4th and 5th generations of computer.
+State the technology involved and the year it was invented.
+Explain the characteristics of the 4th and 5th generations of computer.
+ASSIGNMENT
+State two characteristics of the 4th and 5th generation of computer.
+GENERATION OF COMPUTER (Cont’d)
+Fourth Generation (1970s - Present)
+Technology: Microprocessors
+Examples: Intel 4004 (first microprocessor), Apple Macintosh, IBM PC.
+Characteristics:
+Computers became even smaller, more powerful, and more affordable.
+Networking and the development of the Internet.
+Fifth Generation (Present and Beyond)
+Technology: Artificial Intelligence (AI)
+Examples: IBM Watson (AI), Google Quantum Computer.
+Characteristics:
+These computers can process natural language, recognize patterns, and solve complex problems much faster than traditional computers.
+Perform tasks using natural human interaction.
+TABULAR REPRESENTATION OF THE GENERATION OF COMPUTERS
+GENERATION
+YEAR
+TECHNOLOGY
+EXAMPLE
+FIRST
+1940-1956
+VACUUM TUBES
+EDVAC
+SECOND
+1956-1963
+TRANSISTORS
+UNIVAC II
+THIRD
+1964-1972
+INTEGRATED CIRCUITS
+IBM 360 series
+FOURTH
+1972- PRESENT
+MICRO PROCESSORS
+Apple Macintosh
+FIFTH
+PRESENT AND BEYOND
+ARTIFICIAL INTELLIGENCE
+IBM Watson

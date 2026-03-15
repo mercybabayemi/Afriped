@@ -1,0 +1,31 @@
+{
+  "generated": "WAEC Economics Examination — Supply and Demand\nClass: SSS3 | Board: WAEC | Time: 50 minutes\n\nQ1. [ESSAY] [Bloom: EVALUATE] [Marks: 10]\nIn 2023, the price of petrol in Nigeria rose sharply after fuel subsidy removal. Using a supply-demand diagram, evaluate the impact of this price increase on:\n(a) The quantity demanded of petrol by households in Lagos\n(b) The supply of transport services (danfo, keke napep)\n(c) The prices of goods transported from farms in Benue State to markets in Abuja\nJustify your reasoning at each step with reference to market forces.\n\nQ2. [STRUCTURED] [Bloom: EVALUATE] [Marks: 8]\nFatima argues that the government should fix a maximum price for rice to protect low-income households in Kano. Ibrahim argues this will create shortages.\n(a) Assess Fatima's argument using economic theory (4 marks)\n(b) Evaluate Ibrahim's concern using a price ceiling diagram (4 marks)\n\nQ3. [MULTIPLE_CHOICE] [Bloom: EVALUATE] [Marks: 2]\nWhich of the following best describes a situation of excess demand in the yam market in Onitsha?\nA) Price is above equilibrium; quantity supplied exceeds quantity demanded\nB) Price is below equilibrium; quantity demanded exceeds quantity supplied\nC) Price equals equilibrium; market clears\nD) Supply shifts right; price falls to new equilibrium\nAnswer: B\n\nQ4. [SHORT_ANSWER] [Bloom: EVALUATE] [Marks: 6]\nThe CBN raises interest rates. Argue whether this policy is more likely to reduce inflation or cause a recession in Nigeria's current economy. Support your argument with TWO economic concepts.\n\nQ5. [EVALUATE] [Bloom: EVALUATE] [Marks: 4]\nNgozi runs a small tailoring business in Aba. Critique the statement: 'A business should always raise its price when demand increases.' Is this always the best decision? Evaluate using the concept of price elasticity of demand.",
+  "reference": "WAEC SSS3 Economics exam on Supply and Demand requiring evaluation, diagrams, and argument using Nigerian market contexts (fuel subsidy, rice prices, CBN policy).",
+  "content_type": "EXAM_QUESTIONS",
+  "subject": "economics",
+  "topic": "Supply and Demand — Nigerian Markets",
+  "education_level": "SSS3",
+  "curriculum_board": "WAEC",
+  "expected_bloom": "EVALUATE",
+  "expected_language": "en",
+  "expected_skills": ["Critical Thinking", "Analytical Thinking", "Problem Solving"],
+  "detected_skills": ["Critical Thinking", "Analytical Thinking", "Problem Solving"],
+  "validation": {
+    "status": "PASSED",
+    "rules_passed": [
+      "length_check",
+      "language_detection",
+      "bloom_verb_presence",
+      "cultural_flag_check",
+      "no_hallucinated_dates",
+      "no_explicit_content",
+      "curriculum_alignment",
+      "format_compliance"
+    ],
+    "rules_failed": [],
+    "judge_score": null,
+    "judge_dimensions": null,
+    "revision_count": 0,
+    "notes": []
+  }
+}

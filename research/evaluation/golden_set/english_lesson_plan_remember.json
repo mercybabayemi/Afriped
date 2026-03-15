@@ -1,0 +1,31 @@
+{
+  "generated": "LESSON PLAN\nSubject: English Language\nTopic: Nouns and Pronouns\nClass: SSS1 | Duration: 40 minutes | Curriculum Board: NERDC\n\nObjective: By the end of this lesson, students will be able to:\n1. Define a noun and list the four main types (proper, common, collective, abstract)\n2. Identify pronouns and state the rules for pronoun-antecedent agreement\n3. Name at least five examples of each noun type from everyday Nigerian life\n\nMaterials: Whiteboard, markers, NERDC English Language Textbook SSS1, flashcards.\n\nIntroduction (5 min):\nMrs Adaeze writes the sentence 'Tunde kicked the ball' on the board and asks: 'Which word is a person? Which word is a thing?' Students identify 'Tunde' and 'ball'. She then asks Ngozi to define a noun in her own words.\n\nMain Activity (25 min):\n1. Teacher defines a noun: 'A noun is a word used to name a person, place, thing, or idea.'\n2. Students list examples on the board by category:\n   - Proper nouns: Kemi, Lagos, Benue River, Aso Rock\n   - Common nouns: teacher, market, book, yam\n   - Collective nouns: a herd of cattle, a bunch of plantain\n   - Abstract nouns: honesty, courage, intelligence\n3. Teacher introduces pronouns. Emeka reads the rule: 'A pronoun must agree with its antecedent in number and gender.'\n4. Chidi and Halima state three examples of pronoun use in sentences.\n5. Pair exercise: Students identify all nouns and replace them with pronouns in a 5-sentence passage about market day in Onitsha.\n\nAssessment (10 min):\nQuick written activity: Students name 10 nouns from the school environment, classify each by type, and rewrite three sentences replacing nouns with appropriate pronouns.\n\nClosure:\nRecap definitions. Homework: Textbook Exercise 3.1, questions 1–8.",
+  "reference": "A NERDC-aligned English Language lesson plan on Nouns and Pronouns for SSS1, covering definitions, classification, and pronoun agreement with Nigerian context.",
+  "content_type": "LESSON_PLAN",
+  "subject": "english_language",
+  "topic": "Nouns and Pronouns",
+  "education_level": "SSS1",
+  "curriculum_board": "NERDC",
+  "expected_bloom": "REMEMBER",
+  "expected_language": "en",
+  "expected_skills": ["Communication Skills", "Active Learning"],
+  "detected_skills": ["Communication Skills", "Active Learning", "Critical Thinking"],
+  "validation": {
+    "status": "PASSED",
+    "rules_passed": [
+      "length_check",
+      "language_detection",
+      "bloom_verb_presence",
+      "cultural_flag_check",
+      "no_hallucinated_dates",
+      "no_explicit_content",
+      "curriculum_alignment",
+      "format_compliance"
+    ],
+    "rules_failed": [],
+    "judge_score": null,
+    "judge_dimensions": null,
+    "revision_count": 0,
+    "notes": []
+  }
+}

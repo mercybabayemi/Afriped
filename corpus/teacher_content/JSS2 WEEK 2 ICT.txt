@@ -1,0 +1,161 @@
+ENGREG HIGH SCHOOL
+24, Bankole Street, Pedro, Shomolu, Lagos
+WEEK: 2FIRST TERMSESSION: 2024/2025
+SUBJECT: COMPUTER STUDIES
+TOPIC: CLASSIFICATION OF COMPUTERS
+CLASS:  JSS 2
+DATE: 9th – 13th September, 2024
+REFERENCE BOOKS: New Computer Studies for JSS 2 by J.O.E Otuka et al Pages 1-14
+WABP ICT for JSS 2 by Vincent Hope et al Pages 1-11
+LEARNING PURPOSE: To provide foundational knowledge on Identifying and distinguishing between various types of computers based on their size, functionality, purpose, and generation.
+LESSON PERIOD: 1
+DURATION: 40 MINS
+LEARNING OBJECTIVE:  By the end of the lesson, students will be able to:
+State the technology used in the first, second and third generation.
+State the year it was manufactured.
+Mention the characteristics.
+KEYWORDS:
+Classification, Computer, Generations.
+PREVIOUS LEARNING: The students are familiar with the classifications of computer based on size, purpose and functionality.
+INSTRUCTIONAL MATERIALS:
+Interactive board, computer system, Internet
+LEARNING ACTIVITIES IN STEPS:
+Step 1: The teacher marks assignment and makes correction.
+Step 2: The teacher asks questions on previous knowledge
+Step 3: The teacher modifies students’ response and introduces the new topic
+Step 4: Students would be taken through the derailed explanation of the lesson content
+Step 5: Students ask questions on the content of the lesson
+Step 6: Students would be evaluated based on behavioural objectives
+Step 7: Students Assignments are given and notes and marked
+LEARNING TIME FOR EACH STEP:
+Step 1: 3mins
+Step 2: 2mins
+Step 3: 3mins
+Step 4: 20mins
+Step 5: 2mins
+Step 6: 7mins
+Step 7: 3mins
+LEARNING SKILLS:
+Critical thinking, creative thinking, communicating and leadership development
+ACTIVITY
+List the technology used in the first, second and third generation.
+EVALUATIVE QUESTIONS:
+State the technology used in the first, second and third generation.
+State the year the third generation was manufactured.
+Mention two characteristics of the second generation.
+ASSIGNMENT
+State two characteristics of the third generation of computer.
+CLASSIFICATIONS OF COMPUTERS
+CLASSIFICATION BASED ON GENERATION
+Computers are also classified based on the generations of technological advancements they represent. Each generation marks a significant leap in computing technology, often characterized by changes in hardware and software.
+First Generation (1940s - 1950s)
+Technology: Vacuum Tubes
+Examples: ENIAC (Electronic Numerical Integrator and Computer), EDVAC (Electronic Discrete Variable Automatic Computer), EDSAC (electronic delay storage automatic calculator), UNIVAC (Universal Automatic Computer).
+Characteristics:
+Computers used vacuum tubes for circuitry and magnetic drums for memory.
+These computers were enormous, occupying entire rooms.
+Programming was done in machine language, which is the most basic form of language that the computer can understand directly.
+Second Generation (1950s - 1960s)
+Technology: Transistors
+Examples: IBM 7090, UNIVAC II, ATLAS
+Characteristics:
+Transistors replaced vacuum tubes, making computers smaller, faster, more reliable, and more energy-efficient.
+Magnetic cores were used as the primary memory, and magnetic tapes and disks were used for secondary storage.
+High-level programming languages like FORTRAN and COBOL were developed.
+Third Generation (1960s - 1970s)
+Technology: Integrated Circuits (ICs)
+Examples: IBM 360 series, PDP-8.
+Characteristics:
+Integrated Circuits (ICs) combined multiple transistors and other components on a single silicon chip, further reducing the size and cost of computers.
+Computers became more powerful and were able to support multiple users simultaneously through time-sharing.
+Keyboards and monitors began replacing punch cards and printouts as user interfaces.
+ENGREG HIGH SCHOOL
+24, Bankole Street, Pedro, Shomolu, Lagos
+WEEK: 2FIRST TERMSESSION: 2024/2025
+SUBJECT: COMPUTER STUDIES
+TOPIC: CLASSIFICATION OF COMPUTERS
+CLASS:  JSS 2
+DATE: 9th – 13th September, 2024
+REFERENCE BOOKS: New Computer Studies for JSS 2 by J.O.E Otuka et al Pages 1-14
+WABP ICT for JSS 2 by Vincent Hope et al Pages 1-11
+LEARNING PURPOSE: To provide foundational knowledge on Identifying and distinguishing between various types of computers based on their size, functionality, purpose, and generation.
+LESSON PERIOD: 2
+DURATION: 40 MINS
+LEARNING OBJECTIVE:  By the end of the lesson, students will be able to:
+State the technology used in the fourth and fifth generation.
+State the year the fourth and fifth generation was invented.
+Mention the characteristics of the fifth generation.
+KEYWORDS:
+Classification, Computer, Generations.
+PREVIOUS LEARNING: The students are familiar with the classifications of computer based on size, purpose and functionality..
+INSTRUCTIONAL MATERIALS:
+Interactive board, computer system, Internet
+LEARNING ACTIVITIES IN STEPS:
+Step 1: The teacher marks assignment and makes correction.
+Step 2: The teacher asks questions on previous knowledge
+Step 3: The teacher modifies students’ response and introduces the new topic
+Step 4: Students would be taken through the derailed explanation of the lesson content
+Step 5: Students ask questions on the content of the lesson
+Step 6: Students would be evaluated based on behavioural objectives
+Step 7: Students Assignments are given and notes and marked
+LEARNING TIME FOR EACH STEP:
+Step 1: 3mins
+Step 2: 2mins
+Step 3: 3mins
+Step 4: 20mins
+Step 5: 2mins
+Step 6: 7mins
+Step 7: 3mins
+LEARNING SKILLS:
+Critical thinking, creative thinking, communicating and leadership development
+ACTIVITY
+List the technology used in the fourth and fifth generation.
+EVALUATIVE QUESTIONS:
+State the technology used in the fourth and fifth generation.
+State the year the fourth and fifth generation was manufactured.
+Mention two characteristics of the fifth generation.
+ASSIGNMENT
+Draw a tabular representation of the five generations of computers stating, year, technology and example.
+CLASSIFICATION OF COMPUTERS
+CLASSIFICATION BASED ON GENERATION
+Fourth Generation (1970s - Present)
+Technology: Microprocessors
+Examples: Intel 4004 (first microprocessor), Apple Macintosh, IBM PC.
+Characteristics:
+The invention of the microprocessor (a single chip that could execute all the functions of a CPU) marked the beginning of the fourth generation.
+Computers became even smaller, more powerful, and more affordable, leading to the proliferation of personal computers (PCs).
+Graphical User Interfaces (GUIs), the mouse, and handheld devices like smartphones emerged.
+Networking and the development of the Internet became widespread during this period.
+Fifth Generation (Present and Beyond)
+Technology: Artificial Intelligence (AI)
+Examples: IBM Watson (AI), Google Quantum Computer.
+Characteristics:
+The fifth generation is characterized by advancements in AI, machine learning, and quantum computing.
+These computers can process natural language, recognize patterns, and solve complex problems much faster than traditional computers.
+Perform tasks using natural human interaction (voice recognition, natural language processing).
+Perform complex calculations at unprecedented speeds.
+TABULAR REPRESENTATION OF THE GENERATION OF COMPUTERS
+GENERATION
+YEAR
+TECHNOLOGY
+EXAMPLE
+FIRST
+1940-1956
+VACUUM TUBES
+EDVAC
+SECOND
+1956-1963
+TRANSISTORS
+UNIVAC II
+THIRD
+1964-1972
+INTEGRATED CIRCUITS
+IBM 360 series
+FOURTH
+1972- PRESENT
+MICRO PROCESSORS
+Apple Macintosh
+FIFTH
+PRESENT AND BEYOND
+ARTIFICIAL INTELLIGENCE
+IBM Watson

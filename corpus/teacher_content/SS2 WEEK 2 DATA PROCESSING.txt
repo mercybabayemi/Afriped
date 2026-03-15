@@ -1,0 +1,148 @@
+ENGREG HIGH SCHOOL
+24, Bankole Street, Pedro, Shomolu, Lagos
+WEEK: 2FIRST TERMSESSION: 2024/2025
+SUBJECT: DATA PROCESSING
+TOPIC: DATA MODELS
+CLASS:  SS 2
+DATE: 16th – 20th September, 2024
+REFERENCE BOOKS:  A Textbook for Data Processing SS 2 by Adedapo F. O. et al Pages 1-7
+Data Processing Textbook for SS 2 by Aboyede Jegede 1 - 8
+LEARNING PURPOSE: To provide learners with a foundational understanding of data modelling, its types and approaches.
+LESSON PERIOD: 1
+DURATION: 40 MINS
+LEARNING OBJECTIVE:  By the end of the lesson, students will be able to:
+Define Library Database
+Explain the basic database concepts.
+Distinguish between foreign and primary key.
+KEYWORDS: Data Model, Data Modelling, Hierarchical, Approaches.
+PREVIOUS LEARNING: The students are familiar with how database management system.
+INSTRUCTIONAL MATERIALS:
+Interactive board, computer system, Internet
+LEARNING ACTIVITIES IN STEPS:
+Step 1: The teacher marks assignment and makes correction.
+Step 2: The teacher asks questions on previous knowledge
+Step 3: The teacher modifies students’ response and introduces the new topic
+Step 4: Students would be taken through the derailed explanation of the lesson content
+Step 5: Students ask questions on the content of the lesson
+Step 6: Students would be evaluated based on behavioural objectives
+Step 7: Students Assignments are given and notes and marked
+LEARNING TIME FOR EACH STEP:
+Step 1: 3mins
+Step 2: 2mins
+Step 3: 3mins
+Step 4: 20mins
+Step 5: 2mins
+Step 6: 7mins
+Step 7: 3mins
+LEARNING SKILLS:
+Critical thinking, creative thinking, communicating and leadership development
+ACTIVITY
+Explain three database concepts.
+EVALUATIVE QUESTIONS:
+Define Library Database
+Explain five basic database concepts.
+State 3 differences between foreign and primary key.
+ASSIGNMENT
+State the major difference between the primary key and foreign key.
+CREATING A LIBRARY DATABASE
+A Library Database is a structured collection of data related to the resources and operations of a library. It typically includes records of books, journals, multimedia items, patrons, loans, and other relevant information. Entities in a Library Database:
+Books: Title, Author, ISBN, Genre, etc.
+Loans: Borrow Date, Return Date, Due Date.
+Basic Database Concepts.
+Table: A table is a collection of related data organized into rows and columns. Each row represents a single record or entity, and each column represents a field or attribute of that entity.
+Field Property: Field properties define the characteristics and constraints of the data stored in a field (or column) within a table. These properties control how data is entered, stored, and managed.
+Data Types: Data types specify the kind of data that can be stored in a field. Common Data Types: Text/String, Number, Date/Time, Boolean, Currency
+Table Relationship: Table relationships define how tables are related to each other within a database.
+Types of Relationships:
+One-to-One (1:1): Each record in one table corresponds to one record in another table.
+One-to-Many (1:N): A record in one table can be related to multiple records in another table.
+Many-to-Many (M:N): Records in one table can be related to multiple records in another table, and vice versa.
+Key: A key is a field or combination of fields that uniquely identifies a record within a table or establishes relationships between tables.
+Types of Keys:
+Primary Key: Uniquely identifies each record in a table and must have unique, non-null values.
+Foreign Key: Links records in one table to records in another table by referencing the primary key of the other table.
+Differences between the Primary and Foreign key.
+PRIMARY KEY
+FOREIGN KEY
+The primary key uniquely identifies records within its own table
+The foreign key creates a link between records in two different tables.
+The primary key is found in its own table
+The foreign key is located in a different table and references the primary key.
+Primary keys must be unique and cannot be null
+The foreign keys do not have to be unique and can be null, depending on the relationship.
+ENGREG HIGH SCHOOL
+24, Bankole Street, Pedro, Shomolu, Lagos
+WEEK: 2FIRST TERMSESSION: 2024/2025
+SUBJECT: DATA PROCESSING
+TOPIC: DATA MODELS
+CLASS:  SS 2
+DATE: 16th – 20th September, 2024
+REFERENCE BOOKS:  A Textbook for Data Processing SS 2 by Adedapo F. O. et al Pages 1-7
+Data Processing Textbook for SS 2 by Aboyede Jegede 1 - 8
+LEARNING PURPOSE: To provide learners with a foundational understanding of data modelling, its types and approaches.
+LESSON PERIOD: 2
+DURATION: 40 MINS
+LEARNING OBJECTIVE:  By the end of the lesson, students will be able to:
+State the steps to open Microsoft Access
+State the steps to create a form, query and report.
+State the significance of data model.
+KEYWORDS: Data Model, Data Modelling, Hierarchical, Approaches.
+PREVIOUS LEARNING: The students are familiar with how database management system.
+INSTRUCTIONAL MATERIALS:
+Interactive board, computer system, Internet
+LEARNING ACTIVITIES IN STEPS:
+Step 1: The teacher marks assignment and makes correction.
+Step 2: The teacher asks questions on previous knowledge
+Step 3: The teacher modifies students’ response and introduces the new topic
+Step 4: Students would be taken through the derailed explanation of the lesson content
+Step 5: Students ask questions on the content of the lesson
+Step 6: Students would be evaluated based on behavioural objectives
+Step 7: Students Assignments are given and notes and marked
+LEARNING TIME FOR EACH STEP:
+Step 1: 3mins
+Step 2: 2mins
+Step 3: 3mins
+Step 4: 20mins
+Step 5: 2mins
+Step 6: 7mins
+Step 7: 3mins
+LEARNING SKILLS:
+Critical thinking, creative thinking, communicating and leadership development
+ACTIVITY
+State the steps to create a form, query and report.
+EVALUATIVE QUESTIONS:
+State the steps to open Microsoft Access
+State the steps to create a form, query and report.
+State three significances of data model.
+ASSIGNMENT
+State five significances of data model.
+Steps to open Microsoft Access
+Click the start menu
+Type Access and Double Click on the software.
+Select "Blank Database" to start a new database.
+Forms: Forms provide a user-friendly way to enter data into your tables.
+Create a Form
+In the "Create" tab, click on "Form Wizard."
+Select the "Books" table and add the fields you want to include in the form.
+Follow the wizard to set up the form layout and style.
+Name the form (e.g., "BookEntryForm") and finish.
+Create Queries: Queries allow you to retrieve specific data from your tables.
+Create a Basic Query
+In the "Create" tab, click on "Query Wizard"
+Add the tables you need for your query.
+Select the fields you want to display in the query result.
+Define criteria to filter the data.
+Save and name the query.
+Reports: Reports allow you to format and print data from your database.
+Create a Report
+In the "Create" tab, click on "Report Wizard."
+Select the query or table you want to base your report on.
+Follow the wizard to choose fields, grouping options, and layout.
+Name the report and finish.
+Significance of Data Models
+Data models act as a bridge between stakeholders, developers, and database administrators, ensuring a shared understanding of the data structure.
+Data models reduce redundancy and maintain data integrity across the system.
+Well-structured data models optimize database performance, minimizing storage needs and improving query efficiency.
+Clear data models facilitate system expansion as data grows, making it easier to scale.
+Data models serve as a reference for system documentation, aiding in maintenance, updates, and onboarding new team members.
+Data models accurately reflect business requirements, ensuring that databases support organizational objectives and processes.

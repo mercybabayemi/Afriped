@@ -1,0 +1,129 @@
+ENGREG HIGH SCHOOL
+24, Bankole Street, Pedro, Shomolu, Lagos
+WEEK: 7FIRST TERMSESSION: 2024/2025
+SUBJECT: COMPUTER STUDIES
+TOPIC:  COMPUTER SYSTEM
+CLASS:  JSS 1
+DATE: 21st – 25th October, 2024
+REFERENCE BOOKS: New Computer Studies by J.O.E Otuka et al Pages 17-20.
+WABP ICT for JSS1 by Vincent Hope et al Pages 14-16.
+LEARNING PURPOSE: To provide foundational knowledge on the Computer System, its components and parts.
+LESSON PERIOD: 1
+DURATION: 40 MINS
+LEARNING OBJECTIVE:  By the end of the lesson, students will be able to:
+Define Computer System.
+Identify the components of the computer system.
+Explain the Hardware components and give examples.
+KEYWORDS: Computer, Hardware, Software, Human ware, System Unit, Peripherals
+PREVIOUS LEARNING: The students have been taught the Evolution of ICT and invention of Computer.
+INSTRUCTIONAL MATERIALS:
+Interactive board, computer system, Internet
+LEARNING ACTIVITIES IN STEPS:
+Step 1: The teacher marks assignment and makes correction.
+Step 2: The teacher asks questions on previous knowledge
+Step 3: The teacher modifies students’ response and introduces the new topic
+Step 4: Students would be taken through the derailed explanation of the lesson content
+Step 5: Students ask questions on the content of the lesson
+Step 6: Students would be evaluated based on behavioural objectives
+Step 7: Students Assignments are given and notes are marked
+LEARNING TIME FOR EACH STEP:
+Step 1: 3mins
+Step 2: 2mins
+Step 3: 3mins
+Step 4: 20mins
+Step 5: 2mins
+Step 6: 7mins
+Step 7: 3mins
+LEARNING SKILLS:
+Critical thinking, creative thinking, communicating and leadership development
+ACTIVITY
+Define Computer System.
+Identify the three components of the computer system.
+EVALUATIVE QUESTIONS:
+Define Computer System.
+Identify the components of the computer system.
+Explain the Hardware components and give examples.
+ASSIGNMENT
+Explain the Hardware components of a computer system and give five examples.
+COMPUTER SYSTEM
+A computer is an electronic device that accepts data, processes the data and supply the result in form of a meaningful information.
+A computer performs three major functions which are:
+It accepts data (input)
+It processes data
+It supplies data or information (output)
+COMPONENTS  OF COMPUTER
+Hardware
+Software
+Humanware
+COMPUTER HARDWARE
+The computer hardware is the part of a computer system that you touch, see and feel Computer Hardware is divided into two main categories namely:
+System Unit: The system unit is the main part of a computer, typically a rectangular box, containing essential components like the motherboard, CPU, RAM, and drives.
+Peripherals: Peripherals are external devices connected to a computer, such as input, output, storage, and communication devices like keyboards, monitors, printers, and modems.
+ENGREG HIGH SCHOOL
+24, Bankole Street, Pedro, Shomolu, Lagos
+WEEK: 7FIRST TERMSESSION: 2024/2025
+SUBJECT: COMPUTER STUDIES
+TOPIC:  COMPUTER SOFTWARE
+CLASS:  JSS 1
+DATE: 21st – 25th October, 2024
+REFERENCE BOOKS: New Computer Studies by J.O.E Otuka et al Pages 17-20.
+WABP ICT for JSS1 by Vincent Hope et al Pages 14-16.
+LEARNING PURPOSE: To provide foundational knowledge on the Computer software and human ware.
+LESSON PERIOD: 2
+DURATION: 40 MINS
+LEARNING OBJECTIVE:  By the end of the lesson, students will be able to:
+Define Computer Software.
+Expalin the system and Application Software.
+Define Humanware.
+State the characteristics of a computer system.
+KEYWORDS: Computer, Hardware, Software, Human ware, System Unit, Peripherals
+PREVIOUS LEARNING: The students have been taught the Computer system and its components.
+INSTRUCTIONAL MATERIALS:
+Interactive board, computer system, Internet
+LEARNING ACTIVITIES IN STEPS:
+Step 1: The teacher marks assignment and makes correction.
+Step 2: The teacher asks questions on previous knowledge
+Step 3: The teacher modifies students’ response and introduces the new topic
+Step 4: Students would be taken through the derailed explanation of the lesson content
+Step 5: Students ask questions on the content of the lesson
+Step 6: Students would be evaluated based on behavioural objectives
+Step 7: Students Assignments are given and notes are marked
+LEARNING TIME FOR EACH STEP:
+Step 1: 3mins
+Step 2: 2mins
+Step 3: 3mins
+Step 4: 20mins
+Step 5: 2mins
+Step 6: 7mins
+Step 7: 3mins
+LEARNING SKILLS:
+Critical thinking, creative thinking, communicating and leadership development
+ACTIVITY
+Define Computer Software.
+Expalin the system and Application Software and give three examples each.
+EVALUATIVE QUESTIONS:
+Define Computer Software.
+Expalin the system and Application Software.
+Define Humanware.
+State the characteristics of a computer system.
+ASSIGNMENT
+Define Humanware and give three examples.
+State five characteristics of a computer system.
+COMPUTER SOFTWARE
+Computer software is a collection of computer programs and related data that provide the instruction to a computer on what to do and how to do it.
+Types of Software
+Software is divided into two major classes:
+System Software: - System Software is computer software designed to operate the computer hardware and to provide and maintain a platform running application software. It includes a combination of the following
+Device drivers
+Operating system like windows
+Utilities
+Application software: - Application software is computer software designed to help the user to perform a singular or multiple related specific tasks.
+Examples of application Software are: Microsoft word, Microsoft Excel, Encarta Kids, Google Chrome, Candy Crush, etc.
+HUMANWARE
+Humanware refers to the individual using computer hardware and software. The user interacts with and gives directives to hardware using software to produce needed outputs. Examples include, Computer Engineer, System Analyst, Programmer, Software Engineer, etc.
+CHARACTERISTICS OF COMPUTER
+Computers operate at extremely high speeds, measured in nanoseconds and picoseconds.
+Computers produce accurate results when given correct input.
+Computers store large amounts of data in primary and secondary storage devices.
+Computers can perform a wide range of tasks, from simple to complex.
+Computers operate automatically with minimal human intervention.

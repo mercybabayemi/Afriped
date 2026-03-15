@@ -1,0 +1,107 @@
+ENGREG HIGH SCHOOL
+24, Bankole Street, Pedro, Shomolu, Lagos
+WEEK: 4FIRST TERMSESSION: 2024/2025
+SUBJECT: DATA PROCESSING
+TOPIC: DATABASE SECURITY II
+CLASS:  SS 3
+DATE: 30th September - 4th Octorber 2024
+REFERENCE BOOKS:  A Textbook for Data Processing SS 3 by Adedapo F. O. et al Pages 8-15
+Data Processing Textbook for SS 3 by Aboyede Jegede 8 - 15
+LEARNING PURPOSE: To provide learners with a foundational understanding of database Security
+LESSON PERIOD: 1
+DURATION: 40 MINS
+LEARNING OBJECTIVE:  By the end of the lesson, students will be able to:
+Explain database security
+List the roles of a database administrator
+KEYWORDS: access control, DAC, MAC, RBAC, encryption
+PREVIOUS LEARNING: The students are familiar with the database management system.
+INSTRUCTIONAL MATERIALS:
+Interactive board, computer system, Internet
+LEARNING ACTIVITIES IN STEPS:
+Step 1: The teacher marks assignment and makes correction.
+Step 2: The teacher asks questions on previous knowledge
+Step 3: The teacher modifies students’ response and introduces the new topic
+Step 4: Students would be taken through the derailed explanation of the lesson content
+Step 5: Students ask questions on the content of the lesson
+Step 6: Students would be evaluated based on behavioural objectives
+Step 7: Students Assignments are given and notes and marked
+LEARNING TIME FOR EACH STEP:
+Step 1: 3mins
+Step 2: 2mins
+Step 3: 3mins
+Step 4: 20mins
+Step 5: 2mins
+Step 6: 7mins
+Step 7: 3mins
+LEARNING SKILLS:
+Critical thinking, creative thinking, communicating and leadership development
+ACTIVITY
+Define database security
+EVALUATIVE QUESTIONS:
+List and explain the roles of Database Administrator
+ASSIGNMENT
+State the roles of database administrator
+DATABASE SECURITY II
+Database Security refers to the various techniques, tools, and measures used to protect a database from unauthorized access, misuse, data breaches, or other threats. Securing a database involves safeguarding the data's confidentiality, integrity, and availability. One of the key players in maintaining database security is the Database Administrator (DBA), and one of the most critical methods for protecting data is encryption.
+Role of Database Administrator (DBA)
+A Database Administrator (DBA) plays a crucial role in ensuring the security and overall management of the database. Their responsibilities include:
+1.   User Access Control: DBAs manage user permissions, ensuring that only authorized personnel can access specific data. They define roles, privileges, and monitor any access violations.
+2. Database Backup and Recovery: DBAs implement regular backups and establish disaster recovery plans to protect data in case of hardware failures or cyberattacks.
+3. Monitoring and Auditing: They regularly monitor database activity and perform audits to detect suspicious behavior or potential security breaches.
+4. Patch Management: DBAs ensure that the database software is always up-to-date by applying necessary security patches to prevent vulnerabilities.
+5. Security Configuration: They configure database settings to comply with organizational security policies and standards.
+ENGREG HIGH SCHOOL
+24, Bankole Street, Pedro, Shomolu, Lagos
+WEEK: 4FIRST TERMSESSION: 2024/2025
+SUBJECT: DATA PROCESSING
+TOPIC: DATABASE SECURITY I
+CLASS:  SS 3
+DATE: 30th September - 4th Octorber 2024
+REFERENCE BOOKS:  A Textbook for Data Processing SS 3 by Adedapo F. O. et al Pages 8 - 15
+Data Processing Textbook for SS 3 by Aboyede Jegede 8 - 15
+LEARNING PURPOSE: To provide learners with a foundational understanding of database Security
+LESSON PERIOD: 2
+DURATION: 40 MINS
+LEARNING OBJECTIVE:  By the end of the lesson, students will be able to:
+Define encryption
+List and explain types of encryption
+Explain the importance of encryption in database security.
+KEYWORDS:  access control, DAC, MAC, RBAC, encryption
+PREVIOUS LEARNING: The students are familiar with the database management system.
+INSTRUCTIONAL MATERIALS:
+Interactive board, computer system, Internet
+LEARNING ACTIVITIES IN STEPS:
+Step 1: The teacher marks assignment and makes correction.
+Step 2: The teacher asks questions on previous knowledge
+Step 3: The teacher modifies students’ response and introduces the new topic
+Step 4: Students would be taken through the derailed explanation of the lesson content
+Step 5: Students ask questions on the content of the lesson
+Step 6: Students would be evaluated based on behavioural objectives
+Step 7: Students Assignments are given and notes and marked
+LEARNING TIME FOR EACH STEP:
+Step 1: 3mins
+Step 2: 2mins
+Step 3: 3mins
+Step 4: 20mins
+Step 5: 2mins
+Step 6: 7mins
+Step 7: 3mins
+LEARNING SKILLS:
+Critical thinking, creative thinking, communicating and leadership development
+ACTIVITY
+Define encryption
+EVALUATIVE QUESTIONS:
+Define encryption
+List and explain types of encryption
+Explain the importance of encryption in database security.
+ASSIGNMENT
+List types of encryption
+Encryption
+Encryption is a method used to protect sensitive data by converting it into an unreadable format, known as ciphertext. Only users with the correct decryption key can convert the ciphertext back to its original, readable form.
+Types of Encryption
+1. Symmetric Encryption: In symmetric encryption, the same key is used for both encryption and decryption. While it is fast, managing and securely sharing the key can be challenging.
+2. Asymmetric Encryption: Asymmetric encryption uses two keys – a public key for encryption and a private key for decryption. This method is more secure for transmitting data but slower compared to symmetric encryption.
+Importance of Encryption in Database Security
+1.Data Protection: Even if unauthorized users gain access to the database, they cannot read or misuse the data without the decryption key.
+2. Compliance: Encryption helps organizations meet legal and regulatory requirements for protecting sensitive information, such as financial records or personal data.
+3.Data Integrity: Encryption ensures that data cannot be altered or tampered with without detection, preserving its integrity.

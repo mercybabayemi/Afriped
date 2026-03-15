@@ -1,0 +1,104 @@
+ENGREG HIGH SCHOOL
+24, Bankole Street, Pedro, Shomolu, Lagos
+WEEK: 7FIRST TERMSESSION: 2024/2025
+SUBJECT: DATA PROCESSING
+TOPIC: ENTITY RELATIONSHIP MODEL II
+CLASS:  SS 2
+DATE: 21th October - 25th October.
+REFERENCE BOOKS:  A Textbook for Data Processing SS 2 by Adedapo F. O. et al Pages 23 - 27
+LEARNING PURPOSE: To provide learners with a foundational understanding of relationships between entities.
+LESSON PERIOD: 1
+DURATION: 40 MINS
+LEARNING OBJECTIVE:  By the end of the lesson, students will be able to:
+1. Discuss the benefits of relational Models
+KEYWORDS: ERM, cardinality
+PREVIOUS LEARNING: The students are familiar with data modelling
+INSTRUCTIONAL MATERIALS:
+Interactive board, computer system, Internet
+LEARNING ACTIVITIES IN STEPS:
+Step 1: The teacher marks assignment and makes correction.
+Step 2: The teacher asks questions on previous knowledge
+Step 3: The teacher modifies students’ response and introduces the new topic
+Step 4: Students would be taken through the derailed explanation of the lesson content
+Step 5: Students ask questions on the content of the lesson
+Step 6: Students would be evaluated based on behavioural objectives
+Step 7: Students Assignments are given and notes and marked
+LEARNING TIME FOR EACH STEP:
+Step 1: 3mins
+Step 2: 2mins
+Step 3: 3mins
+Step 4: 20mins
+Step 5: 2mins
+Step 6: 7mins
+Step 7: 3mins
+LEARNING SKILLS:
+Critical thinking, creative thinking, communicating and leadership development
+ACTIVITY
+What does simplicity mean in relational model
+EVALUATIVE QUESTIONS:
+Discuss the benefits of relational model
+ASSIGNMENT
+How does relational model help with data integrity in database
+Benefits of the Relational Model
+- Simplicity: The relational model is a simple and intuitive model that is easy to understand and use.
+- Flexibility: The relational model is a flexible model that can be used to represent a wide variety of data.
+- Scalability: The relational model is a scalable model that can be used to store and manage large amounts of data.
+- Integrity: The relational model is a model that ensures the integrity of the data. This is because the relationships between tables are enforced by the database.
+- Security: The relational model is a model that can be used to secure the data. This is because the database can be configured to restrict access to certain tables and columns.
+ENGREG HIGH SCHOOL
+24, Bankole Street, Pedro, Shomolu, Lagos
+WEEK: 7FIRST TERMSESSION: 2024/2025
+SUBJECT: DATA PROCESSING
+TOPIC: DRAWBACKS OF RELATIONAL MODEL
+CLASS:  SS 2
+DATE: 21th October - 25th October
+REFERENCE BOOKS:  A Textbook for Data Processing SS 2 by Adedapo F. O. et al Pages 22 - 27
+LEARNING PURPOSE: To provide learners with a foundational understanding with relational model
+LESSON PERIOD: 2
+DURATION: 40 MINS
+LEARNING OBJECTIVE:  By the end of the lesson, students will be able to:
+Drawbacks of relational model
+List examples of relational model
+KEYWORDS: foreign key, composite key
+PREVIOUS LEARNING: The students are familiar with relationships between entities
+INSTRUCTIONAL MATERIALS:
+Interactive board, computer system, Internet
+LEARNING ACTIVITIES IN STEPS:
+Step 1: The teacher marks assignment and makes correction.
+Step 2: The teacher asks questions on previous knowledge
+Step 3: The teacher modifies students’ response and introduces the new topic
+Step 4: Students would be taken through the derailed explanation of the lesson content
+Step 5: Students ask questions on the content of the lesson
+Step 6: Students would be evaluated based on behavioural objectives
+Step 7: Students Assignments are given and notes and marked
+LEARNING TIME FOR EACH STEP:
+Step 1: 3mins
+Step 2: 2mins
+Step 3: 3mins
+Step 4: 20mins
+Step 5: 2mins
+Step 6: 7mins
+Step 7: 3mins
+LEARNING SKILLS:
+Critical thinking, creative thinking, communicating and leadership development
+ACTIVITY
+Give one drawback of relational model
+EVALUATIVE QUESTIONS:
+I.  Discuss the drawbacks of relational model
+2. Give examples of relational model
+ASSIGNMENT
+Use an example to explain rational model
+Drawbacks of the Relational Model
+- Performance: The relational model can be slow to perform complex queries on large datasets.
+- Complexity: The relational model can be complex to design and implement.
+- Cost: The relational model can be expensive to implement and maintain.
+Example of the Relational Model
+Consider a database that stores information about employees. The database might have three tables: Employee, Department, and Project.
+The Employee table might have columns for Employee ID, Name, Address, and Salary.
+The Department table might have columns for Department ID, Name, and Location.
+The Project table might have columns for Project ID, Name, Start Date, and End Date.
+The relationships between the tables might be as follows:
+- Each employee belongs to exactly one department.
+- Each project is assigned to one or more departments.
+- Each employee can be assigned to one or more projects.
+These relationships can be represented using foreign keys. For example, the Employee table might have a foreign key that references the Department ID column in the Department table.

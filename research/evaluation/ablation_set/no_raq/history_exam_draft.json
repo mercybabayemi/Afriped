@@ -1,0 +1,16 @@
+{
+  "generated": "History Exam — Colonial Nigeria\nSSS2 | WAEC Preparation\n\nThis exam covers the colonial period of Nigerian history.\n\nThe student should know about British colonisation. Define the term 'colonialism'. List three reasons why Britain colonised Nigeria. Name the first Governor-General. State the date of Nigerian independence.\n\nRemember to write neatly. You have 30 minutes to complete this test.\n\nStudents who finish early can recall additional details about the colonial economy.\n\nMark scheme: 2 marks per correct definition, 1 mark per reason listed.",
+  "reference": "WAEC-style SSS2 History exam on Colonial Nigeria requiring students to evaluate and critique the impact of colonisation using evidence — EVALUATE level cognition.",
+  "content_type": "EXAM_QUESTIONS",
+  "subject": "history",
+  "topic": "Colonial Nigeria",
+  "education_level": "SSS2",
+  "curriculum_board": "WAEC",
+  "expected_bloom": "EVALUATE",
+  "expected_language": "en",
+  "expected_skills": ["Critical Thinking", "Historical Reasoning"],
+  "detected_skills": [],
+  "ablation_condition": "no_raq",
+  "known_failures": ["bloom_verb_presence", "format_compliance", "curriculum_alignment"],
+  "notes": "Three failures: (1) EVALUATE expected but uses REMEMBER verbs (define, list, name, state, recall, know, remember) — no evaluate/justify/assess/critique verbs. (2) No question numbers (Q1, Q2...) — format_compliance fails. (3) Missing WAEC structural markers."
+}

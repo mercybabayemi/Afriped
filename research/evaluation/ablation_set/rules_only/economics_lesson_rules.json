@@ -1,0 +1,16 @@
+{
+  "generated": "Economics Lesson — Supply and Demand\nClass: SSS2 | Duration: 40 minutes\n\nObjective: Students will analyse supply-demand relationships and evaluate price changes in Nigerian markets.\n\nActivity:\nThe teacher draws a supply-demand diagram on the board. Students analyse the diagram components. Amina examines how OPEC decisions affect Nigerian fuel prices. Emeka contrasts tomato prices at Christmas vs. dry season. Students compare elastic and inelastic demand by examining two Nigerian goods.\n\nAssessment: Students analyse a price change scenario and evaluate whether the market response aligns with supply-demand theory. Justify your conclusion using the diagram.\n\nClosure: Review key terms. Homework: Identify a market in your area where price changes. Analyse using supply-demand theory and evaluate what intervention (if any) would stabilise prices.",
+  "reference": "NERDC SSS2 Economics lesson where students analyse and evaluate supply-demand relationships using Nigerian market examples — ANALYZE level cognition.",
+  "content_type": "LESSON_PLAN",
+  "subject": "economics",
+  "topic": "Supply and Demand",
+  "education_level": "SSS2",
+  "curriculum_board": "NERDC",
+  "expected_bloom": "ANALYZE",
+  "expected_language": "en",
+  "expected_skills": ["Analytical Thinking", "Critical Thinking"],
+  "detected_skills": ["Analytical Thinking"],
+  "ablation_condition": "rules_only",
+  "rules_triggered": ["bloom_verb_presence"],
+  "notes": "Rules-only correction: ANALYZE-level verbs inserted (analyse, compare, contrast, examine, evaluate). Objective rewritten to use target-level language. Cultural names (Amina, Emeka) were already present. Missing the explicit scaffolding progression (lower-order to higher-order tasks) that LLM revision would construct."
+}

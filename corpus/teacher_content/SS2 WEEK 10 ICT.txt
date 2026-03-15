@@ -1,0 +1,31 @@
+DEFINITION OF TERMS
+Word Processing: Word processing refers to the creation, editing, formatting, and printing of documents using specialized software on a computer.
+Word Processor: A word processor is a software application specifically designed for creating, editing, and formatting text-based documents.
+EXAMPLES OF WORD PROCESSORS:
+Microsoft Word
+Google Docs
+Apple Pages
+LibreOffice Writer
+WPS Office Writer
+Zoho Writer
+AbiWord
+USES OF WORD PROCESSOR
+Allows users to input, delete, and modify text within a document.
+Provides options for font selection, size adjustment, text alignment, indentation, and line spacing.
+Identifies and corrects spelling and grammatical errors in the document.
+Allows users to adjust margins, page orientation, page size, and insert headers and footers.
+Enables insertion and manipulation of images, charts, and other graphical elements within the document.
+Supports the creation and formatting of tables and columns for organizing information.
+MICROSOFT WORD:
+Microsoft Word is a word processing software developed by Microsoft Corporation. It is part of the Microsoft Office suite of productivity applications. Word is widely used for creating, editing, formatting, and printing documents such as letters, reports, resumes, and manuscripts. It offers a wide range of features including text formatting, spell checking, grammar checking, templates, collaboration tools, and more, making it one of the most popular word processing applications globally.
+SCREEN COMPONENTS OF MICROSOFT WORD
+Title Bar: Located at the top of the Word window, it displays the name of the document and the name of the program (Microsoft Word).
+Ribbon: The Ribbon is a panel that contains tabs, each with groups of commands. It is located below the Title Bar and provides access to various tools and features for editing and formatting documents.
+Quick Access Toolbar: Positioned above the Ribbon, it contains shortcuts to frequently used commands such as Save, Undo, and Redo.
+Working/Document Area: The main area in the middle of the Word window where you can create, edit, and view your document.
+Status Bar: Located at the bottom of the Word window, it displays information about the document, such as the page number, word count, and language.
+Hidden vertical /horizontal Scroll Bars: Vertical and horizontal bars located along the right side and bottom of the Document Area, respectively, which allow you to scroll through the document.
+Zoom Slider: Found at the bottom-right corner of the Word window, it allows you to adjust the zoom level of the document.
+View Buttons: Located at the bottom-right corner of the Word window, these buttons allow you to switch between different document views, such as Print Layout, Read Mode, and Web Layout.
+Insertion Point: A blinking vertical line that indicates where text will be inserted when you start typing.
+Customize group option/Mini Toolbar: A small floating toolbar that appears when you select text, providing quick access to commonly used formatting options such as font style, size, and color.

@@ -1,0 +1,31 @@
+{
+  "id": "gen_scheme_of_work_UNDERSTAND_NERDC_SSS3_Mathematics_0035",
+  "generated": "SCHEME OF WORK: Mathematics | NERDC | SSS3\n\nTerm 1, Week 1: Introduction to Mathematics. Objective: Students explain core definitions.\nTerm 1, Week 2: Principles and theories. Objective: Students explain key frameworks.\nTerm 1, Week 3: Application. Objective: Students apply concepts to Nigerian scenarios.\nTerm 1, Week 4: Analysis. Objective: Students compare and contrast approaches.\nTerm 1, Week 5: Evaluation. Objective: Students justify their reasoning.\nTerm 1, Week 6: Revision and assessment. Objective: Students demonstrate full understanding.",
+  "reference": "Scheme of Work: Mathematics | NERDC | SSS3\nWeek 1: Introduction. Week 2: Core concepts. Week 3: Application.\nTerm objective: Students will explain all major topics.",
+  "metadata": {
+    "content_type": "scheme_of_work",
+    "bloom_level": "UNDERSTAND",
+    "board": "NERDC",
+    "education_level": "SSS3",
+    "subject": "Mathematics",
+    "output_language": "en",
+    "generation_method": "systematic_parameter_variation"
+  },
+  "expected": {
+    "bloom_level": "UNDERSTAND",
+    "output_language": "en",
+    "skill_tags": [
+      "curriculum_planning",
+      "term_structuring",
+      "scope_and_sequence"
+    ],
+    "format_markers": [
+      "week",
+      "term",
+      "objective"
+    ]
+  },
+  "spot_check_required": false,
+  "human_validated": false,
+  "annotation_notes": ""
+}

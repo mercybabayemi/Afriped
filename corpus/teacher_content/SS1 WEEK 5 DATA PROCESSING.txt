@@ -1,0 +1,125 @@
+ENGREG HIGH SCHOOL
+24, Bankole Street, Pedro, Shomolu, Lagos
+WEEK: 5 FIRST TERMSESSION: 2024/2025
+SUBJECT: DATA PROCESSING
+TOPIC: CLASSIFICATION BASED ON FUNCTIONALITY
+CLASS:  SS 1
+DATE: 7th – 11th October, 2024
+REFERENCE BOOKS:  A Textbook for Data Processing SS 1 by Adedapo F. O. et al Pages 8 - 15
+Data Processing Textbook for SS 1 by Aboyede Jegede 8 - 15
+LEARNING PURPOSE: To provide learners with a foundational knowledge on classification of computers based on their functionality.
+LESSON PERIOD: 1
+DURATION: 40 MINS
+LEARNING OBJECTIVE:  By the end of the lesson, students will be able to:
+Explain Analog, Digital and Hybrid computers.
+Give examples of the Analog and Digital Devices.
+KEYWORDS:  Computer, Classification, Functionality, Hybrid, Analog, Digital.
+PREVIOUS LEARNING: The students are familiar with the classification of computers by size.
+INSTRUCTIONAL MATERIALS:
+Interactive board, computer system, Internet
+LEARNING ACTIVITIES IN STEPS:
+Step 1: The teacher marks assignment and makes correction.
+Step 2: The teacher asks questions on previous knowledge
+Step 3: The teacher modifies students’ response and introduces the new topic
+Step 4: Students would be taken through the derailed explanation of the lesson content
+Step 5: Students ask questions on the content of the lesson
+Step 6: Students would be evaluated based on behavioural objectives
+Step 7: Students Assignments are given and notes and marked
+LEARNING TIME FOR EACH STEP:
+Step 1: 3mins
+Step 2: 2mins
+Step 3: 3mins
+Step 4: 20mins
+Step 5: 2mins
+Step 6: 7mins
+Step 7: 3mins
+LEARNING SKILLS:
+Critical thinking, creative thinking, communicating and leadership development
+ACTIVITY
+State three examples each of the Analog and Digital Devices.
+EVALUATIVE QUESTIONS:
+Explain Analog, Digital and Hybrid computers.
+Give two examples of the Analog and Digital Devices.
+ASSIGNMENT
+Explain Analog, Digital and Hybrid computers.
+CLASSIFICATION BASED ON FUNCTIONALITY
+There are three types depending on the way they present information such as analog, digital and hybrid computers.
+Analog Computers: These computers process data in continuous form, typically used for scientific and engineering purposes. Examples include early mechanical devices like the slide rule, car speedometer, rotating clock.
+Digital Computers: Most modern computers fall into this category, processing data in binary form or discrete numbers of decimal. They include all types of PCs, servers, GSM, phone, digital radio, etc.
+Hybrid Computers: Combining features of both analog and digital computers, hybrid computers can process both continuous and discrete data. They are often used in specialized fields like medical equipment.
+ENGREG HIGH SCHOOL
+24, Bankole Street, Pedro, Shomolu, Lagos
+WEEK: 5 FIRST TERMSESSION: 2024/2025
+SUBJECT: DATA PROCESSING
+TOPIC: CLASSIFICATION BASED ON FUNCTIONALITY
+CLASS:  SS 1
+DATE: 7th – 11th October, 2024
+REFERENCE BOOKS:  A Textbook for Data Processing SS 1 by Adedapo F. O. et al Pages 8 - 15
+Data Processing Textbook for SS 1 by Aboyede Jegede 8 - 15
+LEARNING PURPOSE: To provide learners with a foundational knowledge on classification of computers based on their purpose and generation.
+LESSON PERIOD: 2
+DURATION: 40 MINS
+LEARNING OBJECTIVE:  By the end of the lesson, students will be able to:
+Explain the General and Specific Purpose computers.
+State the inventions of the generations of computer and the year they were invented.
+KEYWORDS:  Computer, Classification, Generation, transistors, vacuum tubes, integrated circuit, processors, artificial intelligence, general, specific.
+PREVIOUS LEARNING: The students are familiar with the classification of computers by functionality.
+INSTRUCTIONAL MATERIALS:
+Interactive board, computer system, Internet
+LEARNING ACTIVITIES IN STEPS:
+Step 1: The teacher marks assignment and makes correction.
+Step 2: The teacher asks questions on previous knowledge
+Step 3: The teacher modifies students’ response and introduces the new topic
+Step 4: Students would be taken through the derailed explanation of the lesson content
+Step 5: Students ask questions on the content of the lesson
+Step 6: Students would be evaluated based on behavioural objectives
+Step 7: Students Assignments are given and notes and marked
+LEARNING TIME FOR EACH STEP:
+Step 1: 3mins
+Step 2: 2mins
+Step 3: 3mins
+Step 4: 20mins
+Step 5: 2mins
+Step 6: 7mins
+Step 7: 3mins
+LEARNING SKILLS:
+Critical thinking, creative thinking, communicating and leadership development
+ACTIVITY
+Explain the General and Specific Purpose computers.
+EVALUATIVE QUESTIONS:
+Explain the General and Specific Purpose computers.
+State the inventions of the generations of computer
+State the year of invention of the five generations of computer.
+ASSIGNMENT
+In a tabular form, list the technology and year of invention of the five generations of computer.
+CLASSIFICATION BASED ON PURPOSE
+Computers are made for either two purposes, namely, special or general purpose.
+General-Purpose Computers: Designed to perform a variety of tasks. These are the most common computers, including desktops, laptops, and servers.
+Special-Purpose Computers: Built for a specific task or application. Examples include embedded systems in devices like ATMs, GPS units, or medical equipment.
+CLASSIFICATION BASED ON GENERATION
+The computer presently has five generations; each generation marks a significant leap in computing technology, often characterized by changes in hardware and software.
+TABULAR REPRESENTATION OF THE GENERATION OF COMPUTERS
+GENERATION
+YEAR
+TECHNOLOGY
+EXAMPLE
+FIRST
+1940-1956
+VACUUM TUBES
+EDVAC
+SECOND
+1956-1963
+TRANSISTORS
+UNIVAC II
+THIRD
+1964-1971
+INTEGRATED CIRCUITS
+IBM 360 series
+FOURTH
+1972- PRESENT
+MICRO PROCESSORS
+Apple Macintosh
+FIFTH
+PRESENT AND BEYOND
+ARTIFICIAL INTELLIGENCE
+IBM Watson

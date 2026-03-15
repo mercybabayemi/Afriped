@@ -1,0 +1,107 @@
+ENGREG HIGH SCHOOL
+24, Bankole Street, Pedro, Shomolu, Lagos
+WEEK:  7FIRST TERMSESSION: 2024/2025
+SUBJECT: COMPUTER STUDIES
+TOPIC: PRODUCING TRUTH TABLES AND BOOLEAN EXPRESSIONS.
+CLASS:  SS 2
+DATE: 21st – 25th October, 2024.
+REFERENCE BOOKS: New Computer Studies for SS 2 by J.O.E Otuka et al Pages 14-16
+Online with computers for SS 2 by Adedapo F. O. et al 17 - 21
+LEARNING PURPOSE: To provide foundational knowledge on producing truth tables and Boolean expressions from logic gates.
+LESSON PERIOD: 1
+DURATION: 40 MINS
+LEARNING OBJECTIVE:  By the end of the lesson, students will be able to:
+Produce a truth table from a Logic Gate.
+Produce a Boolean expression from a logic gate.
+KEYWORDS: Truth Table, Logic Gates, Boolean expression.
+PREVIOUS LEARNING: The students are familiar the two-three input logic gates and truth table, they are also familiar with the symbols.
+INSTRUCTIONAL MATERIALS:
+Interactive board, computer system, Internet
+LEARNING ACTIVITIES IN STEPS:
+Step 1: The teacher marks assignment and makes correction.
+Step 2: The teacher asks questions on previous knowledge
+Step 3: The teacher modifies students’ response and introduces the new topic
+Step 4: Students would be taken through the derailed explanation of the lesson content
+Step 5: Students ask questions on the content of the lesson
+Step 6: Students would be evaluated based on behavioral objectives
+Step 7: Students Assignments are given and notes are marked
+LEARNING TIME FOR EACH STEP:
+Step 1: 3mins
+Step 2: 2mins
+Step 3: 3mins
+Step 4: 20mins
+Step 5: 2mins
+Step 6: 7mins
+Step 7: 3mins
+LEARNING SKILLS:
+Critical thinking, creative thinking, communicating and leadership development
+ACTIVITY
+EVALUATIVE QUESTIONS:
+Produce a truth table from a Logic Gate.
+Produce a Boolean expression from a logic gate.
+ASSIGNMENT
+Produce the logic gates and truth table of the following Boolean expression.
+X=(A+B).(A+B)
+Y=(A.B)+(A.B)
+PRODUCING TRUTH TABLES AND BOOLEAN EXPRESSIONS
+ACTIVITIES
+Produce the Truth Table and Boolean of the following logic gates.
+EXAMPLE ONE
+EXAMPLE TWO
+CLASS ACTIVITY
+ENGREG HIGH SCHOOL
+24, Bankole Street, Pedro, Shomolu, Lagos
+WEEK:  7FIRST TERMSESSION: 2024/2025
+SUBJECT: COMPUTER STUDIES
+TOPIC: PRODUCING TRUTH TABLES AND LOGIC GATES.
+CLASS:  SS 2
+DATE: 21st – 25th October, 2024.
+REFERENCE BOOKS: New Computer Studies for SS 2 by J.O.E Otuka et al Pages 14-16
+Online with computers for SS 2 by Adedapo F. O. et al 17 - 21
+LEARNING PURPOSE: To provide foundational knowledge on producing truth tables and gates from logic gates.
+LESSON PERIOD: 2
+DURATION: 40 MINS
+LEARNING OBJECTIVE:  By the end of the lesson, students will be able to:
+Produce a truth table from a Boolean Expression.
+Produce a Logic Gate from a Boolean Expression.
+KEYWORDS: Truth Table, Logic Gates, Boolean expression.
+PREVIOUS LEARNING: The students are familiar the two-three input logic gates and truth table, they are also familiar with the symbols.
+INSTRUCTIONAL MATERIALS:
+Interactive board, computer system, Internet
+LEARNING ACTIVITIES IN STEPS:
+Step 1: The teacher marks assignment and makes correction.
+Step 2: The teacher asks questions on previous knowledge
+Step 3: The teacher modifies students’ response and introduces the new topic
+Step 4: Students would be taken through the derailed explanation of the lesson content
+Step 5: Students ask questions on the content of the lesson
+Step 6: Students would be evaluated based on behavioral objectives
+Step 7: Students Assignments are given and notes are marked
+LEARNING TIME FOR EACH STEP:
+Step 1: 3mins
+Step 2: 2mins
+Step 3: 3mins
+Step 4: 20mins
+Step 5: 2mins
+Step 6: 7mins
+Step 7: 3mins
+LEARNING SKILLS:
+Critical thinking, creative thinking, communicating and leadership development
+ACTIVITY
+Produce the logic gates and truth table of the following Boolean expression.
+X=(A+B).(A+B)
+Y=(A.B)+(A.B)
+EVALUATIVE QUESTIONS:
+Produce a truth table from a Boolean Expression.
+Produce a Logic Gate from a Boolean Expression.
+ASSIGNMENT
+PRODUCING TRUTH TABLES AND LOGIC GATES.
+Produce the Truth Table and Logic gates of the following Boolean.
+EXAMPLE ONE
+X=(A+B).(A+B)
+EXAMPLE TWO
+Y=({(A+B).(C+D)}+(E+F))
+CLASS ACTIVITY
+Z=(A+(B.A)).(A+B)
+ASSIGNMENT
+Produce the Truth Table and Boolean of the following logic gates.
+Produce the Truth Table and Logic gates of the following Boolean.

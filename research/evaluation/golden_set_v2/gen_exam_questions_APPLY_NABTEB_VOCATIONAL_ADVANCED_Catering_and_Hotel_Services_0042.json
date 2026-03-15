@@ -1,0 +1,31 @@
+{
+  "id": "gen_exam_questions_APPLY_NABTEB_VOCATIONAL_ADVANCED_Catering_and_Hotel_Services_0042",
+  "generated": "NABTEB EXAMINATION \u2014 Catering and Hotel Services | VOCATIONAL_ADVANCED\n\nQuestion 1: Demonstrate the fundamental principles of Catering and Hotel Services. Use examples relevant to the Nigerian context. [8 marks]\n\nQuestion 2: A student named Ngozi is studying Catering and Hotel Services. She must demonstrate the relationship between two key concepts. Explain the steps she should follow and justify each step. [12 marks]\n\nQuestion 3: Evaluate the importance of Catering and Hotel Services in the Nigerian secondary school curriculum. Support your answer with specific examples. [10 marks]",
+  "reference": "WAEC-style Catering and Hotel Services questions at VOCATIONAL_ADVANCED.\n1. Solve the key principles of Catering and Hotel Services. [5 marks]\n2. Apply your knowledge to a Nigerian context scenario. [10 marks]",
+  "metadata": {
+    "content_type": "exam_questions",
+    "bloom_level": "APPLY",
+    "board": "NABTEB",
+    "education_level": "VOCATIONAL_ADVANCED",
+    "subject": "Catering and Hotel Services",
+    "output_language": "en",
+    "generation_method": "systematic_parameter_variation"
+  },
+  "expected": {
+    "bloom_level": "APPLY",
+    "output_language": "en",
+    "skill_tags": [
+      "assessment_design",
+      "question_construction",
+      "bloom_alignment"
+    ],
+    "format_markers": [
+      "question",
+      "answer",
+      "mark"
+    ]
+  },
+  "spot_check_required": false,
+  "human_validated": false,
+  "annotation_notes": ""
+}

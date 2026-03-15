@@ -1,0 +1,9 @@
+{
+  "generated": "WAEC Biology Examination Questions\nTopic: Photosynthesis | Class: SSS2 | Difficulty: MEDIUM\n\nQ1. [MULTIPLE_CHOICE] [Bloom: UNDERSTAND] [Difficulty: MEDIUM] [Skills: Critical Thinking]\nWhich of the following is NOT a product of photosynthesis?\nA) Oxygen  B) Glucose  C) Carbon dioxide  D) Water\nAnswer: C\nExplanation: CO₂ is a reactant in photosynthesis, not a product.\nMarks: 2\n\nQ2. [SHORT_ANSWER] [Bloom: ANALYZE] [Difficulty: MEDIUM] [Skills: Critical Thinking, Inductive Reasoning]\nKofi notices that plants in his school garden in Accra grow faster during the rainy season. Suggest TWO reasons why this might occur in relation to photosynthesis.\nAnswer: (1) More water available as a raw material; (2) Higher humidity reduces water loss through transpiration.\nMarks: 4\n\nQ3. [MULTIPLE_CHOICE] [Bloom: REMEMBER] [Difficulty: EASY] [Skills: Active Learning]\nThe green pigment in leaves responsible for absorbing sunlight is called:\nA) Chlorophyll  B) Carotene  C) Anthocyanin  D) Xanthophyll\nAnswer: A\nMarks: 2",
+  "reference": "WAEC-style Biology questions on Photosynthesis for SSS2 with Bloom tags and local West African context.",
+  "content_type": "EXAM_QUESTIONS",
+  "expected_bloom": "ANALYZE",
+  "expected_language": "en",
+  "expected_skills": ["Critical Thinking", "Inductive Reasoning"],
+  "detected_skills": ["Critical Thinking", "Inductive Reasoning", "Active Learning"]
+}

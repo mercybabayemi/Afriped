@@ -1,0 +1,124 @@
+ENGREG HIGH SCHOOL
+24, Bankole Street, Pedro, Shomolu, Lagos
+WEEK: 7FIRST TERMSESSION: 2024/2025
+SUBJECT: COMPUTER STUDIES
+TOPIC: OPERATING SYSTEM
+CLASS:  JSS 2
+DATE: 21th October - October 25th, 2024
+REFERENCE BOOKS: New Computer Studies for JSS 2 by J.O.E Otuka et al Pages 21 - 25
+WABP ICT for JSS 2 by Vincent Hope et al Pages 21 - 25
+LEARNING PURPOSE:
+By studying the definition and components of a operating system students will be able to: explain operating system and why it's the most important software in the computer.
+LESSON PERIOD: 1
+DURATION: 40 MINS
+LEARNING OBJECTIVE:  By the end of the lesson, students will be able to:
+Define operating system
+List examples of operating system
+Enumerate and explain types of operating system
+KEYWORDS:
+Computer,  processor
+PREVIOUS LEARNING: The students are familiar with computer software
+INSTRUCTIONAL MATERIALS:
+Interactive board, computer system, Internet
+LEARNING ACTIVITIES IN STEPS:
+Step 1: The teacher marks assignment and makes correction.
+Step 2: The teacher asks questions on previous knowledge
+Step 3: The teacher modifies students’ response and introduces the new topic
+Step 4: Students would be taken through the derailed explanation of the lesson content
+Step 5: Students ask questions on the content of the lesson
+Step 6: Students would be evaluated based on behavioural objectives
+Step 7: Students Assignments are given and notes and marked
+LEARNING TIME FOR EACH STEP:
+Step 1: 3mins
+Step 2: 2mins
+Step 3: 3mins
+Step 4: 20mins
+Step 5: 2mins
+Step 6: 7mins
+Step 7: 3mins
+LEARNING SKILLS:
+Critical thinking, creative thinking, communicating and leadership development
+ACTIVITY
+1.Define operating system
+EVALUATIVE QUESTIONS:
+Define operating system
+List 5 examples of operating system
+Enumerate and explain types operating system
+ASSIGNMENT
+1.  List examples of OS
+OPERATING SYSTEM
+An operating system is software consisting of programs and data that runs on computers, manage computer hardware resources and provides common services for the execution of various application software.
+It controls and coordinates all activities within the computer system. It plays the role of a manager in the computer. Without OS (operating system), you cannot communicate with the computer.
+Examples of operating systems include:
+1. Microsoft Windows
+2. Linux
+3. Unix
+4. iOS
+5. Android
+6. Chrome OS
+7. Mac OS
+Types of Operating Systems
+There are several types of operating systems, each with its own strengths and weaknesses:
+1. Desktop Operating Systems: These are designed for personal computers and laptops. Examples include Windows, macOS, and Linux.
+2.Server Operating Systems: These are designed to handle large workloads and multiple users simultaneously. Examples include Windows Server, Linux Server, and IBM AIX.
+3.Mobile Operating Systems: These are designed for smartphones and tablets. Examples include Android, iOS, and Windows Phone.
+4.Embedded Operating Systems: These are designed for specific devices and appliances, such as cars, medical equipment, and industrial robots. Examples include VxWorks, QNX, and FreeRTOS.
+ENGREG HIGH SCHOOL
+24, Bankole Street, Pedro, Shomolu, Lagos
+WEEK: 7FIRST TERMSESSION: 2024/2025
+SUBJECT: COMPUTER STUDIES
+TOPIC: FUNCTIONS OPERATING SYSTEM
+CLASS:  JSS 2
+DATE: 21th October - October 25th, 202
+REFERENCE BOOKS: New Computer Studies for JSS 2 by J.O.E Otuka et al Pages 21 - 25
+WABP ICT for JSS 2 by Vincent Hope et al Pages 21 - 25
+LEARNING PURPOSE: The learners will be able to understand the concept of peopleware and computer professionals and computer users
+LESSON PERIOD: 2
+DURATION: 40 MINS
+LEARNING OBJECTIVE:  By the end of the lesson, students will be able to:
+1. Services the OS does for the application
+2. Functions of OS
+KEYWORDS: Boot, resources
+PREVIOUS LEARNING: The students are familiar with the components of a computer hardware.
+INSTRUCTIONAL MATERIALS:
+Interactive board, computer system, Internet
+LEARNING ACTIVITIES IN STEPS:
+Step 1: The teacher marks assignment and makes correction.
+Step 2: The teacher asks questions on previous knowledge
+Step 3: The teacher modifies students’ response and introduces the new topic
+Step 4: Students would be taken through the derailed explanation of the lesson content
+Step 5: Students ask questions on the content of the lesson
+Step 6: Students would be evaluated based on behavioural objectives
+Step 7: Students Assignments are given and notes and marked
+LEARNING TIME FOR EACH STEP:
+Step 1: 3mins
+Step 2: 2mins
+Step 3: 3mins
+Step 4: 20mins
+Step 5: 2mins
+Step 6: 7mins
+Step 7: 3mins
+LEARNING SKILLS:
+Critical thinking, creative thinking, communicating and leadership development
+ACTIVITY
+Mention the services the operating system
+EVALUATIVE QUESTIONS:
+1. List functions of operating system
+ASSIGNMENT
+List 5 examples of OS
+An operating system performs these services for applications:
+1. The OS determines which applications should run in what order and how much time should be allowed for each application before giving another application a turn during multitasking.
+2. The OS manages the sharing of internal memory among multiple applications.
+3. It handles input and output to and from attached hardware devices, such as hard disks, printers, and dial-up ports.
+4. The OS sends messages to each application or interactive user (or to a system operator) about the status of operation and any errors that may have occurred.
+5. It can offload the management of what are called batch jobs (for example, printing) so that the initiating application is freed from this work.
+Functions of an Operating System
+1. Boot process: When the computer is switched on, the boot program that is resided in ROM initialize the setup of the computer, the then load the rest of the OS from the banking storage (hardware) in the RAM.
+2. The OS does the work of sharing and accounting of the computer resources.
+3. It handles the input and output of data and information.
+4. The OS handles the management of memory.
+5. It handles the management of the hardware.
+6. The OS handles multitasking and multiprogramming.
+7. It handles protection and error trending.
+8. The operating system acts as an interface between the user and the computer
+9. It controls interaction and program control

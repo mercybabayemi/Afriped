@@ -1,0 +1,122 @@
+ENGREG HIGH SCHOOL
+24, Bankole Street, Pedro, Shomolu, Lagos
+WEEK: THREEFIRST TERMSESSION: 2024/2025
+SUBJECT: COMPUTER STUDIES
+TOPIC: HISTORICAL DEVELOPMENT OF COMPUTING DEVICES I (Pre-Computer age to 19th century.)
+CLASS:  SS 1
+DATE: 23rd – 27th September, 2024
+REFERENCE BOOKS: New Computer Studies for SS 1 by J.O.E Otuka et al Pages 18-24
+Online with computers for SS 1 by Adedapo F. O. et al 18 - 24
+LEARNING PURPOSE: To provide foundational knowledge on the computer and how computers have developed over the years
+LESSON PERIOD: 1
+DURATION: 40 MINS
+LEARNING OBJECTIVE:  By the end of the lesson, students will be able to:
+Explain the meaning of pre-computer age
+State the stages in the history of computer
+List early counting devices tool
+State the major problems associated with early counting devices
+KEYWORDS:
+Pre-Computer, technophobia, Calculator.
+PREVIOUS LEARNING: The students are familiar with the definition of computer and its components.
+INSTRUCTIONAL MATERIALS:
+Interactive board, computer system, Internet
+LEARNING ACTIVITIES IN STEPS:
+Step 1: The teacher marks assignment and makes correction.
+Step 2: The teacher asks questions on previous knowledge
+Step 3: The teacher modifies students’ response and introduces the new topic
+Step 4: Students would be taken through the derailed explanation of the lesson content
+Step 5: Students ask questions on the content of the lesson
+Step 6: Students would be evaluated based on behavioural objectives
+Step 7: Students Assignments are given and notes are marked
+LEARNING TIME FOR EACH STEP:
+Step 1: 3mins
+Step 2: 2mins
+Step 3: 3mins
+Step 4: 20mins
+Step 5: 2mins
+Step 6: 7mins
+Step 7: 3mins
+LEARNING SKILLS:
+Critical thinking, creative thinking, communicating and leadership development
+ACTIVITY
+Explain what you understand by Pre-Computer age
+EVALUATIVE QUESTIONS:
+Write a short note on Blaie Pascal's calculator.
+Advantage of pascal Calculator
+ASSIGNMENT
+Write a short note on slide rule.
+HISTORICAL DEVELOPMENT OF COMPUTING DEVICES I (PRE-COMPUTER AGE TO 19TH CENTURY)
+STAGES IN THE HISTORY OF COMPUTERS
+The evolution of the computer is divided into several stages. These are:
+Stage 1: Early Counting Devices
+Stage 2: Mechanical Counting Devices
+Stage 3: Electro-mechanical Counting Devices
+Stage 4: Electronic Counting Devices and Modern Computers
+EARLY COUNTING DEVICES
+Long ago, people used different and easily available and affordable counting methods such as fingers, toes, stones, sticks, pebbles, cowries, writing on the wall, etc. to solve different counting needs. Some of these early counting devices are examined below.
+1. Fingers and toes
+2. Pebbles and grains
+3. Cowries
+4. Sticks
+5. Writing on the wall
+Major Problems Associated with the Use of Early Counting Devices
+The major problems with these devices are:
+a. They cannot be used for counting large numbers efficiently.
+b. They also occupy large spaces.
+c. They waste time.
+d. They are not always available
+e. They are not always accurate.
+f. They were not very versatile i.e. they could only be used to perform a limited number of calculations.
+MANUAL DEVICES
+Abacus: It is one of the earliest computing devices and is still in use today for basic calculations.
+Slide Rule: The slide rule, invented by William Oughtred in the 17th century, is a manual analog device used for logarithmic calculations, multiplication, division, and more.
+ENGREG HIGH SCHOOL
+24, Bankole Street, Pedro, Shomolu, Lagos
+WEEK: THREEFIRST TERMSESSION: 2024/2025
+SUBJECT: COMPUTER STUDIES
+TOPIC: OVERVIEW OF COMPUTER SYSTEM
+CLASS:  SS 1
+DATE: 23rd – 27th September, 2024
+REFERENCE BOOKS: New Computer Studies for SS 1 by J.O.E Otuka et al Pages 18-24
+Online with computers for SS 1 by Adedapo F. O. et al 18 - 24
+LEARNING PURPOSE: To provide foundational knowledge on the computer and how computers have developed over the years
+LEARNING OBJECTIVE:  By the end of the lesson, students will be able to:
+List electromechanical devices
+LESSON PERIOD: 2
+DURATION: 40 MINS
+KEYWORDS:
+Pre-Computer, technophobia, Calculator.
+PREVIOUS LEARNING:
+To provide foundational knowledge on the computer and how computers have developed over the years
+INSTRUCTIONAL MATERIALS:
+Interactive board, computer system, Internet
+LEARNING ACTIVITIES IN STEPS:
+Step 1: The teacher marks assignment and makes correction.
+Step 2: The teacher asks questions on previous knowledge
+Step 3: The teacher modifies students’ response and introduces the new topic
+Step 4: Students would be taken through the derailed explanation of the lesson content
+Step 5: Students ask questions on the content of the lesson
+Step 6: Students would be evaluated based on behavioural objectives
+Step 7: Students Assignments are given and notes and marked
+LEARNING TIME FOR EACH STEP:
+Step 1: 3mins
+Step 2: 2mins
+Step 3: 3mins
+Step 4: 20mins
+Step 5: 2mins
+Step 6: 7mins
+Step 7: 3mins
+LEARNING SKILLS:
+Critical thinking, creative thinking, communicating and leadership development
+ACTIVITY
+Write a short note of the development on Napier bones
+EVALUATIVE QUESTIONS:
+State examples of electro-mechanical devices
+ASSIGNMENT
+Write a short note on slide rule.
+ELECTRO-MECHANICAL DEVICES
+John Napier’s Bone
+Gottfried Leibniz, Machine
+Joseph Jacquard’s Loom
+Charles Babbage’s Analytical Machine
+Pascaline

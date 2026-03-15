@@ -1,0 +1,31 @@
+{
+  "generated": "WORKSHEET: Ohm's Law and Electrical Circuits\nSubject: Physics | Class: SSS2 | Board: NERDC\n\nName: ________________  Date: ________________\n\n--- Section A: Apply the Formula ---\nOhm's Law: V = IR (Voltage = Current × Resistance)\n\n1. A torch used by Aminu during a power outage has a resistance of 40 Ω and carries a current of 0.3 A.\n   a) Apply Ohm's Law to calculate the voltage of the battery.\n   b) Use your answer to identify a standard battery size that would power this torch.\n\n2. The main hall of Ibrahim's school has a lighting circuit with a voltage of 240 V. If the total resistance is 1200 Ω, calculate the current flowing through the circuit.\n\n3. A generator in Ngozi's house supplies 220 V to a fan. If the current drawn is 2 A:\n   a) Calculate the resistance of the fan's motor.\n   b) Demonstrate how doubling the voltage (to 440 V) would affect the current if resistance stays the same.\n\n--- Section B: Solve Circuit Problems ---\n4. Fatima connects three resistors in series: R₁ = 10 Ω, R₂ = 20 Ω, R₃ = 30 Ω.\n   a) Calculate the total resistance.\n   b) If the battery voltage is 60 V, use Ohm's Law to find the current flowing through the circuit.\n   c) Apply the result to calculate the voltage across R₂ alone.\n\n5. Tunde connects two resistors in parallel: R₁ = 6 Ω, R₂ = 12 Ω.\n   a) Calculate the effective resistance of the parallel combination.\n   b) The battery is 12 V. Use Ohm's Law to find the total current from the battery.\n   c) Carry out the calculation to find the current through each resistor individually.\n\n--- Section C: Real-World Application ---\n6. A PHCN engineer in Abuja needs to design a circuit that carries exactly 5 A from a 100 V supply.\n   Apply Ohm's Law to demonstrate the total resistance the circuit must have.\n\n7. Demonstrate why connecting too many electrical appliances to one socket is dangerous, using Ohm's Law and the concept of total current.",
+  "reference": "NERDC SSS2 Physics worksheet on Ohm's Law requiring students to apply V=IR in Nigerian household and school electrical contexts, including series and parallel circuits.",
+  "content_type": "WORKSHEET",
+  "subject": "physics",
+  "topic": "Ohm's Law and Electrical Circuits",
+  "education_level": "SSS2",
+  "curriculum_board": "NERDC",
+  "expected_bloom": "APPLY",
+  "expected_language": "en",
+  "expected_skills": ["Numerical Reasoning", "Problem Solving", "Analytical Thinking"],
+  "detected_skills": ["Numerical Reasoning", "Problem Solving", "Analytical Thinking"],
+  "validation": {
+    "status": "PASSED",
+    "rules_passed": [
+      "length_check",
+      "language_detection",
+      "bloom_verb_presence",
+      "cultural_flag_check",
+      "no_hallucinated_dates",
+      "no_explicit_content",
+      "curriculum_alignment",
+      "format_compliance"
+    ],
+    "rules_failed": [],
+    "judge_score": null,
+    "judge_dimensions": null,
+    "revision_count": 0,
+    "notes": []
+  }
+}

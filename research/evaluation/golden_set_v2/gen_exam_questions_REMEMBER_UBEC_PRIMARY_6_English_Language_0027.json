@@ -1,0 +1,31 @@
+{
+  "id": "gen_exam_questions_REMEMBER_UBEC_PRIMARY_6_English_Language_0027",
+  "generated": "UBEC EXAMINATION \u2014 English Language | PRIMARY_6\n\nQuestion 1: Recall the fundamental principles of English Language. Use examples relevant to the Nigerian context. [8 marks]\n\nQuestion 2: A student named Ngozi is studying English Language. She must recall the relationship between two key concepts. Explain the steps she should follow and justify each step. [12 marks]\n\nQuestion 3: Evaluate the importance of English Language in the Nigerian secondary school curriculum. Support your answer with specific examples. [10 marks]",
+  "reference": "WAEC-style English Language questions at PRIMARY_6.\n1. Define the key principles of English Language. [5 marks]\n2. Apply your knowledge to a Nigerian context scenario. [10 marks]",
+  "metadata": {
+    "content_type": "exam_questions",
+    "bloom_level": "REMEMBER",
+    "board": "UBEC",
+    "education_level": "PRIMARY_6",
+    "subject": "English Language",
+    "output_language": "en",
+    "generation_method": "systematic_parameter_variation"
+  },
+  "expected": {
+    "bloom_level": "REMEMBER",
+    "output_language": "en",
+    "skill_tags": [
+      "assessment_design",
+      "question_construction",
+      "bloom_alignment"
+    ],
+    "format_markers": [
+      "question",
+      "answer",
+      "mark"
+    ]
+  },
+  "spot_check_required": false,
+  "human_validated": false,
+  "annotation_notes": ""
+}

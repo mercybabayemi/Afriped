@@ -1,0 +1,177 @@
+ENGREG HIGH SCHOOL
+24, Bankole Street, Pedro, Shomolu, Lagos
+WEEK: 9FIRST TERMSESSION: 2024/2025
+SUBJECT: DATA PROCESSING
+TOPIC: NETWORKING
+CLASS:  SS 3
+DATE: 4th - 8th November, 2024
+REFERENCE BOOKS:  A Textbook for Data Processing SS 3 by Adedapo F. O. et al Pages 16 - 17
+LEARNING PURPOSE: To provide learners with a foundational understanding of interconnection of computers
+LESSON PERIOD: 1
+DURATION: 40 MINS
+LEARNING OBJECTIVE:  By the end of the lesson, students will be able to:
+Define networking
+Discuss the categories of networking
+Uses of networking
+KEYWORDS: workstations, clients,server, protocol
+PREVIOUS LEARNING: The students are familiar with computers sharing resources
+INSTRUCTIONAL MATERIALS:
+Interactive board, computer system, Internet
+LEARNING ACTIVITIES IN STEPS:
+Step 1: The teacher marks assignment and makes correction.
+Step 2: The teacher asks questions on previous knowledge
+Step 3: The teacher modifies students’ response and introduces the new topic
+Step 4: Students would be taken through the derailed explanation of the lesson content
+Step 5: Students ask questions on the content of the lesson
+Step 6: Students would be evaluated based on behavioural objectives
+Step 7: Students Assignments are given and notes and marked
+LEARNING TIME FOR EACH STEP:
+Step 1: 3mins
+Step 2: 2mins
+Step 3: 3mins
+Step 4: 20mins
+Step 5: 2mins
+Step 6: 7mins
+Step 7: 3mins
+LEARNING SKILLS:
+Critical thinking, creative thinking, communicating and leadership development
+ACTIVITY
+Define the term below;
+•workstation
+•server
+EVALUATIVE QUESTIONS:
+Define networking
+Discuss the categories of networking
+List uses of networking
+ASSIGNMENT
+Define protocol in networking
+NETWORKING
+A computer network is a system that connects two or more computers using a communication link. It describes a processing system with several independent, relatively low speed, online, simultaneously usable work stations. In a network, remotely located computer stations are connected to a centrally located sophisticated, high- speed processor via a communication link (telephone lines, microwave links, satellite) for purpose of sharing resources like printers, processor, programs and some other information.
+1. Work station/Client: Each computer in a network is often referred to as a work station or clients. Clients are the computers that can access the shared network resources provided by a server.
+2. Server: A server provides shared resources and data over a network. It is usually a high- performance micro-computer with several drives often given several gigabytes of capacity and perhaps a few CD-ROM drivers, the server allows all the microcomputer to have access to an external network via the network communication system.
+3. Media: The computers are linked to each other by hardware components such as cables (UTP, STP, coaxial and fibre optics)
+4. User: This is any person that uses a client to access resources on the network.
+5. Resources: These are files, printers, modem or other items that can be used by network users. These can be hardware or software resources.
+6. Protocol: They are written rules used for communication. They are the language that computers used to talk to each other over a network e.g. TCP/IP, AppleTalk.
+Categories of computer networks
+Computer networks are categorized according to how they are organized, how they are used, and the limit of distance covered in the area of operation. These include:
+1. Local Area Network (LAN).
+2. Wide Area Network (WAN)
+3. Metropolitan Area Network (MAN)
+4. Personal Area Network (PAN)
+5. WLAN (wireless Local Area Network)
+6. Virtual Private Network (VPN)
+1. LAN (Local Area Network):
+This is a popular form of the network which refers to the connection of computers within a limited geographical area or within the same building or different building on the same site. Several LANs can be connected by the use of bridges and routers.
+2. WAN (Wide Area Network):
+A WAN covers a large geographical area, connecting multiple LANs. The internet is the largest example of a WAN.
+Used by organizations to link remote offices or communicate globally.
+3. MAN (Metropolitan Area Network):
+A MAN spans a larger area than a LAN but is limited to a city or a group of buildings.
+Typically used by cities or campuses to connect different locations efficiently.
+4. PAN (Personal Area Network):
+A PAN is a small network created for personal devices such as smartphones, laptops, and wearables.
+Examples include Bluetooth or USB connections.
+5. WLAN (Wireless Local Area Network):
+A WLAN is a type of LAN that uses wireless technology, like Wi-Fi, to connect devices.
+6. VPN (Virtual Private Network):
+A VPN provides a secure way for users to access a private network over a public network like the internet.
+Often used by companies for secure remote work connections.
+Uses of Networking:
+File Sharing: Networks allow multiple users to share and access files and documents.
+Internet Sharing: Networking connects devices to the internet, allowing users to browse and communicate online.
+Resource Sharing: Printers, storage devices, and scanners can be shared across a network.
+Communication: Networking facilitates emails, video conferencing, instant messaging, and other communication forms.
+Remote Access: Networks enable users to access data and systems remotely, improving flexibility for businesses and individuals.
+ENGREG HIGH SCHOOL
+24, Bankole Street, Pedro, Shomolu, Lagos
+WEEK: 9FIRST TERMSESSION: 2024/2025
+SUBJECT: DATA PROCESSING
+TOPIC: NETWORK TOPOLOGY
+CLASS:  SS 3
+DATE: DATE: 4th - 8th November, 2024
+REFERENCE BOOKS:  A Textbook for Data Processing SS 3 by Adedapo F. O. et al Pages 16 - 17
+LEARNING PURPOSE: To provide learners with a foundational understanding of distributed databases
+LESSON PERIOD: 2
+DURATION: 40 MINS
+LEARNING OBJECTIVE:  By the end of the lesson, students will be able to:
+Define network Topology
+Mention and explain the types of network topology
+KEYWORDS: WAL, Atomicity, dumps
+PREVIOUS LEARNING: The students are familiar with database
+INSTRUCTIONAL MATERIALS:
+Interactive board, computer system, Internet
+LEARNING ACTIVITIES IN STEPS:
+Step 1: The teacher marks assignment and makes correction.
+Step 2: The teacher asks questions on previous knowledge
+Step 3: The teacher modifies students’ response and introduces the new topic
+Step 4: Students would be taken through the derailed explanation of the lesson content
+Step 5: Students ask questions on the content of the lesson
+Step 6: Students would be evaluated based on behavioural objectives
+Step 7: Students Assignments are given and notes and marked
+LEARNING TIME FOR EACH STEP:
+Step 1: 3mins
+Step 2: 2mins
+Step 3: 3mins
+Step 4: 20mins
+Step 5: 2mins
+Step 6: 7mins
+Step 7: 3mins
+LEARNING SKILLS:
+Critical thinking, creative thinking, communicating and leadership development
+ACTIVITY
+1.  Define bus Topology
+2. List 2 advantages and disadvantages of bus Topology
+EVALUATIVE QUESTIONS:
+1. Define Network Topology
+2. List and discuss types of network topology
+ASSIGNMENT:
+1. What's star Topology
+2. List 2 advantages and disadvantages of star Topology
+Network Topology
+Topology is the term used to describe the physical arrangement of computer in networks. A computer network can be arranged or configured in several different ways:
+Types of network topology
+• Star Topology
+• Bus Topology
+• Ring Topology
+• Hierarchical Topology
+Star topology:
+In a star network, many small computers are connected to the central resources usually called a host computer or file server. The star is a common arrangement for linking several microcomputers to a mainframe and providing a tine sharing system. This arrangement provides high security because every communication between work stations must be via the central node computer (servers)
+Advantages of star topology
+1. It is most reliable because if a node or a node cable fails it does not affect the other nodes.
+2. New nodes or devices can easily be connected without affecting the rest of the network.
+3. Performance of the network is dependent on the capacity of the central hub, adding further nodes do not greatly affect the overall performance.
+4. Existence of centralized management helps in monitoring the network.
+Disadvantages of star topology
+1. If the server or the link to the server fails, the whole network is bound to fail.
+2. The additional devices such as hubs or switch increase the overall cost.
+3. The addition of more nodes depends on the capacity of the central device.
+4. Reconfiguration, fault isolation and installation of new devices tend to be difficult.
+Bus topology:
+It has a common cable to which all the computers on the network are linked. The common cable usually terminated at each end. One or more of the station on the network acts as the file server. An example of the bus the ETHERNET.
+Advantages of the bus network
+1. Installation is very simple and cheap.
+2. It is suitable for a temporary network.
+3. The failure of one node does not affect the rest of the bus network.
+4. The flexibility of nodes is visible as they can be attached or detached without any problem.
+5. Troubleshoot is easier compared with ring topology.
+Advantages of the ring network
+1. This is an orderly network, where every device has access to token and the privilege to transmit and this helps to reduce chances of collisions.
+2. Equal access to the resource by each computer or node.
+3. The performance of the network is not affected by additional components
+4. Installation and reconfigure is made easy since the addition or deletion of a device requires moving just two components.
+5. No need of a central server to manage the connectivity between the computers or nodes.
+Disadvantages of the ring network
+1. The hardest of all topology to troubleshoot because it can be hard to track down where in the ring, the failure has occurred.
+2. Addition, changing and moving the nodes can affect the network.
+3. For the node to communicate with one another there is a need for all the nodes to be
+Ring topology:
+It uses one network cable to connect all the workstation in an arrangement that looks like a ring. Ring networks are less secure because data intended for a particular machine may have to pass by other machines before it gets to its destination in the network.
+Hierarchical topology:
+This is a specialized kind of bus topology, the terminals are connected in the same fashion as the branches of a tree. It is very easy to extend and if one of the branches fails, it can easily be removed.
+Advantages of the hierarchical network
+1. The failure of one segment does not affect the network.
+2. Easy to extend.
+Disadvantages
+1. It depends heavily on the hub and its failure affects the entire system.
+2. Maintenance is not easy and the cost is high.

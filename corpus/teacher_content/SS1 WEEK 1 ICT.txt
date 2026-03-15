@@ -1,0 +1,181 @@
+ENGREG HIGH SCHOOL
+24, Bankole Street, Pedro, Shomolu, Lagos
+SS 1 COMPUTER STUDIES SCHEME OF WORK
+2024/2025 SESSION
+FIRST TERM
+WEEKS
+TOPIC
+SUB-TOPIC
+ONE
+Overview of Computer System I
+Introduction, Definition, RAM and ROM
+TWO
+Overview of Computer System II
+Characteristics of a computer
+THREE
+Historical Development of Computing Devices I (Pre-Computer Age to 19th Century)
+Abacus, Napiers Bone, Pascaline
+FOUR
+Historical Development of Computing Devices II (Pre-Computer Age to 19th Century)
+Herman Hollerith, Charles Babbage, Gottfried Leibniz
+FIVE
+Historical Development of Computing Devices III (20th Century to Date)
+ENIAC, UNIVAC
+SIX
+Computer Input Devices I
+Definition, Examples, Features
+SEVEN
+Computer Input Devices II
+Mouse, Joystick, etc
+EIGHT
+Computer Output Devices I
+Definition, Examples
+NINE
+Computer Output Devices II
+Uses, Features
+TEN
+Data and Information
+Definition, Examples, Differences between data and information
+ELEVEN
+Revision
+TWELVE
+Examination
+ENGREG HIGH SCHOOL
+24, Bankole Street, Pedro, Shomolu, Lagos
+WEEK: 1FIRST TERMSESSION: 2024/2025
+SUBJECT: COMPUTER STUDIES
+TOPIC: OVERVIEW OF COMPUTER SYSTEM
+CLASS:  SS 1
+DATE: 9th – 13th September, 2024
+REFERENCE BOOKS: New Computer Studies for SS 1 by J.O.E Otuka et al Pages 1-9
+Online with computers for SS 1 by Adedapo F. O. et al 1 - 15
+LEARNING PURPOSE: To provide foundational knowledge on the computer and to learn how computers communicate information to the users.
+LESSON PERIOD: 1
+DURATION: 40 MINS
+LEARNING OBJECTIVE:  By the end of the lesson, students will be able to:
+Define Computer.
+Explain the concept of IPOS
+State the components of a computer system
+KEYWORDS:
+Computer, Components, Hardware, Software, ROM, RAM.
+PREVIOUS LEARNING: The students are familiar with the computer.
+INSTRUCTIONAL MATERIALS:
+Interactive board, computer system, Internet
+LEARNING ACTIVITIES IN STEPS:
+Step 1: The teacher marks assignment and makes correction.
+Step 2: The teacher asks questions on previous knowledge
+Step 3: The teacher modifies students’ response and introduces the new topic
+Step 4: Students would be taken through the derailed explanation of the lesson content
+Step 5: Students ask questions on the content of the lesson
+Step 6: Students would be evaluated based on behavioural objectives
+Step 7: Students Assignments are given and notes and marked
+LEARNING TIME FOR EACH STEP:
+Step 1: 3mins
+Step 2: 2mins
+Step 3: 3mins
+Step 4: 20mins
+Step 5: 2mins
+Step 6: 7mins
+Step 7: 3mins
+LEARNING SKILLS:
+Critical thinking, creative thinking, communicating and leadership development
+ACTIVITY
+Define Computer.
+State the three components of a computer system.
+EVALUATIVE QUESTIONS:
+Define Computer.
+Explain the concept of IPOS
+State the three components of a computer system
+ASSIGNMENT
+Explain
+Input
+Process
+Output
+OVERVIEW OF COMPUTER SYSTEM
+Definition of a Computer
+A computer can be defined as an electronic device which under the control of a stored program accepts data, stores the data, processes the data and brings out the results as meaningful information.
+COMPUTER AS AN IPOS SYSTEM
+Computer performs 4 key operations.
+a. Input b. Processing c. Output d. Storage
+Input: Data are entered into the computer through the input unit. Data are raw facts that are to be processed into meaningful form.
+Processing: Computer performs certain operations on data entered into it; the Central Processing Unit (CPU) handles this operation.
+Output: The result of what has been processed will be displayed by the output device such as the monitor.
+Storage: Inputted data and processed information are stored in the memory and permanent storage on the computer.
+CONSTITUENTS/COMPONENTS OF A COMPUTER SYSTEM
+There are 3 main constituents of the computer system, these are:
+The Hardware
+The Software
+The Humanware/Peopleware
+ENGREG HIGH SCHOOL
+24, Bankole Street, Pedro, Shomolu, Lagos
+WEEK: 1FIRST TERMSESSION: 2024/2025
+SUBJECT: COMPUTER STUDIES
+TOPIC: OVERVIEW OF COMPUTER SYSTEM
+CLASS:  SS 1
+DATE: 9th – 13th September, 2024
+REFERENCE BOOKS: New Computer Studies for SS 1 by J.O.E Otuka et al Pages 1-9
+Online with computers for SS 1 by Adedapo F. O. et al 1 - 15
+LEARNING PURPOSE: To provide foundational knowledge on the computer and to learn how computers communicate information to the users.
+LESSON PERIOD: 2
+DURATION: 40 MINS
+LEARNING OBJECTIVE:  By the end of the lesson, students will be able to:
+Define Hardware
+Explain the hardware components.
+Explain the functions of the CPU components.
+KEYWORDS:
+Computer, Components, Hardware, Software, ROM, RAM.
+PREVIOUS LEARNING: The students are familiar with the computer.
+INSTRUCTIONAL MATERIALS:
+Interactive board, computer system, Internet
+LEARNING ACTIVITIES IN STEPS:
+Step 1: The teacher marks assignment and makes correction.
+Step 2: The teacher asks questions on previous knowledge
+Step 3: The teacher modifies students’ response and introduces the new topic
+Step 4: Students would be taken through the derailed explanation of the lesson content
+Step 5: Students ask questions on the content of the lesson
+Step 6: Students would be evaluated based on behavioural objectives
+Step 7: Students Assignments are given and notes and marked
+LEARNING TIME FOR EACH STEP:
+Step 1: 3mins
+Step 2: 2mins
+Step 3: 3mins
+Step 4: 20mins
+Step 5: 2mins
+Step 6: 7mins
+Step 7: 3mins
+LEARNING SKILLS:
+Critical thinking, creative thinking, communicating and leadership development
+ACTIVITY
+Define Hardware
+Explain the three functions of the CPU components.
+EVALUATIVE QUESTIONS:
+Define Hardware
+Explain the four hardware components.
+Explain the three functions of the CPU components.
+ASSIGNMENT
+Explain and give two examples.
+Input devices
+Processing Devices
+Output Devices
+Storage Devices.
+HARDWARE
+Computer hardware consists of the physical components required to perform tasks and execute software.
+HARDWARE COMPONENTS
+The computer hardware components can be classified as:
+Input Devices: Input devices provide data and control signals to a computer. Examples include: Keyboard, Mouse, Scanner, Microphone, Webcam, Joystick, Touchscreen
+Output Devices: Output devices translate data from the computer into a form humans can understand. Examples include: Monitor, Printer, Speaker, Projector, Headphones
+Storage Devices: Storage devices store data permanently or temporarily. Examples include: Hard Disk Drive (HDD), CDs, DVDs, USB, Flash Drive, Memory Card
+Processing Devices: Processing devices interpret and execute instructions. The CPU, considered the brain of the computer, includes: CPU, Motherboard, Sound Card, Network Card
+CPU Components: - The CPU is divided into three main parts:
+Control Unit (CU)
+- Fetches, decodes, and directs instructions.
+- Manages data flow between the CPU, memory, and input/output devices.
+Arithmetic and Logic Unit (ALU)
+- Executes arithmetic operations (addition, subtraction, multiplication, division).
+- Performs logical operations (AND, OR, NOT, XOR) and comparisons.
+Memory Unit
+- Stores data and instructions temporarily or permanently.
+- Facilitates quick data access for the CPU.
+Main memory includes:
+Random Access Memory (RAM): Volatile, temporary storage for active tasks.
+Read-Only Memory (ROM): Non-volatile, permanent storage for essential firmware.

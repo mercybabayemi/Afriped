@@ -1,0 +1,104 @@
+ENGREG HIGH SCHOOL
+24, Bankole Street, Pedro, Shomolu, Lagos
+WEEK:  7        FIRST TERMSESSION: 2024/2025
+SUBJECT: DATA PROCESSING
+TOPIC: ADVANTAGES OF DIGITALIZATION OF DATA.
+CLASS:  SS 1
+DATE: 21st – 25th October, 2024.
+REFERENCE BOOKS:  A Textbook for Data Processing SS 1 by Adedapo F. O. et al Pages 16 - 17
+Data Processing Textbook for SS 1 by Aboyede Jegede 15 - 17
+LEARNING PURPOSE: To provide foundational knowledge on the advantages of digitalization of data.
+LESSON PERIOD: 1
+DURATION: 40 MINS
+LEARNING OBJECTIVE:  By the end of the lesson, students will be able to:
+Explain the advantages of digitalization of Data.
+KEYWORDS:  Efficiency, Accessibility, Remote Access, Preservation.
+PREVIOUS LEARNING: The students are familiar with the definition of digitalization of data.
+INSTRUCTIONAL MATERIALS:
+Interactive board, computer system, Internet
+LEARNING ACTIVITIES IN STEPS:
+Step 1: The teacher marks assignment and makes correction.
+Step 2: The teacher asks questions on previous knowledge
+Step 3: The teacher modifies students’ response and introduces the new topic
+Step 4: Students would be taken through the derailed explanation of the lesson content
+Step 5: Students ask questions on the content of the lesson
+Step 6: Students would be evaluated based on behavioural objectives
+Step 7: Students Assignments are given and notes and marked
+LEARNING TIME FOR EACH STEP:
+Step 1: 3mins
+Step 2: 2mins
+Step 3: 3mins
+Step 4: 20mins
+Step 5: 2mins
+Step 6: 7mins
+Step 7: 3mins
+LEARNING SKILLS:
+Critical thinking, creative thinking, communicating and leadership development
+ACTIVITY
+Explain five advantages of digitalization of Data.
+EVALUATIVE QUESTIONS:
+Explain five advantages of digitalization of Data.
+ASSIGNMENT
+State three challenges and applications of Digitalization of Data.
+ADVANTAGES OF DATA DIGITALIZATION
+Increased Efficiency and Faster Retrieval: Digital systems enable quick access to large amounts of data, which can be searched, sorted, and retrieved far more efficiently than paper-based systems. This speeds up workflows and reduces the time required for decision-making.
+Improved Accessibility and Remote Access: With digital data, users can access information from anywhere, provided they have an internet connection. This is especially useful for remote work, telemedicine, or online education, where physical presence isn’t required.
+Cost Savings from Reduced Physical Storage: Digital storage reduces the need for physical space and resources, such as paper, filing cabinets, and warehouses. Over time, this results in significant cost savings in terms of storage, maintenance, and operational expenses.
+Data Preservation through Backups: Digital data can be easily backed up, ensuring that valuable information is not lost due to accidents or disasters. This provides greater data protection and the ability to recover files after system failures.
+Enhanced Analysis through Digital Tools: Data can be analyzed more thoroughly with digital tools, such as data analytics software and AI. This allows for better insights, more accurate predictions, and more informed decision-making.
+Scalability for Handling Large Datasets: Digital systems are easily scalable, meaning they can handle increasing amounts of data without a corresponding increase in costs or complexity. This is particularly valuable for industries that need to store and process big data.
+ENGREG HIGH SCHOOL
+24, Bankole Street, Pedro, Shomolu, Lagos
+WEEK:  7FIRST TERMSESSION: 2024/2025
+SUBJECT: DATA PROCESSING
+TOPIC: ADVANTAGES OF DIGITALIZATION OF DATA.
+CLASS:  SS 1
+DATE: 21st – 25th October, 2024.
+REFERENCE BOOKS:  A Textbook for Data Processing SS 1 by Adedapo F. O. et al Pages 16 - 17
+Data Processing Textbook for SS 1 by Aboyede Jegede 15 - 17
+LEARNING PURPOSE: To provide foundational knowledge on the advantages of digitalization of data.
+LESSON PERIOD: 2
+DURATION: 40 MINS
+LEARNING OBJECTIVE:  By the end of the lesson, students will be able to:
+State the challenges of Digitalization of Data.
+Explain the Applications of Data Digitalization.
+KEYWORDS:  Efficiency, Accessibility, Remote Access, Presevation, Data Security, Management, Digital Divide.
+PREVIOUS LEARNING: The students are familiar with the advantages of Digitalization of data.
+INSTRUCTIONAL MATERIALS:
+Interactive board, computer system, Internet
+LEARNING ACTIVITIES IN STEPS:
+Step 1: The teacher marks assignment and makes correction.
+Step 2: The teacher asks questions on previous knowledge
+Step 3: The teacher modifies students’ response and introduces the new topic
+Step 4: Students would be taken through the derailed explanation of the lesson content
+Step 5: Students ask questions on the content of the lesson
+Step 6: Students would be evaluated based on behavioural objectives
+Step 7: Students Assignments are given and notes and marked
+LEARNING TIME FOR EACH STEP:
+Step 1: 3mins
+Step 2: 2mins
+Step 3: 3mins
+Step 4: 20mins
+Step 5: 2mins
+Step 6: 7mins
+Step 7: 3mins
+LEARNING SKILLS:
+Critical thinking, creative thinking, communicating and leadership development
+ACTIVITY
+State four challenges of Digitalization of Data.
+EVALUATIVE QUESTIONS:
+State the challenges of Digitalization of Data.
+Explain the Applications of Data Digitalization.
+ASSIGNMENT
+Explain five Applications of Data Digitalization.
+CHALLENGES OF DIGITALIZATION
+Data Security: Vulnerability to cyberattacks.
+Privacy: Ensuring compliance with data protection regulations.
+Management: Handling large volumes of data efficiently.
+Digital Divide: Inequalities in access to digital tools.
+APPLICATIONS
+Healthcare: Electronic Health Records (EHRs) and Medical Imaging: Healthcare providers use digitized records to store patient information, making it easier to access, share, and update medical histories. Digital medical imaging also improves diagnosis and treatment options.
+Education: E-learning Platforms and Digitized Libraries: Schools and universities use digital tools to offer remote learning, online courses, and access to vast libraries of digitized books and research materials.
+Business: Digital Financial Records and Customer Data Management: Companies use digital systems to track finances, customer information, and inventory. This leads to more efficient operations, better customer service, and improved business intelligence.
+Government: E-governance Services Like Tax Filing: Governments use digitization to offer online services such as tax filings, license renewals, and other administrative tasks. This simplifies the process for citizens and increases transparency.
+Media: Digital Photography and Content Distribution: The media industry benefits from digital photography and video, allowing instant sharing, editing, and distribution of content. Digital platforms have also revolutionized how content is delivered and consumed.

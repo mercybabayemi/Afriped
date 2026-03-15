@@ -1,0 +1,16 @@
+{
+  "generated": "Biology Worksheet — Cell Structure\nSSS1 | NERDC\n\nFill in the blanks:\n1. The _______ is the control centre of the cell.\n2. The _______ produces energy for the cell.\n3. _______ is where protein synthesis occurs.\n\nMatch the organelle with its function:\nA. Nucleus      i. Controls what enters/exits the cell\nB. Mitochondria ii. Stores genetic material\nC. Cell membrane iii. Produces ATP\n\nDraw and label a plant cell.\n\nShort answer: Explain why plant cells have chloroplasts but animal cells do not. Describe the function of each chloroplast component.\n\nChallenge: Chioma and Emeka are studying a mystery cell under the microscope. They see a cell wall and chloroplasts. Classify it as plant or animal and justify your answer.",
+  "reference": "NERDC SSS1 Biology worksheet on cell structure where students describe, classify, and compare plant and animal cell organelles — UNDERSTAND level cognition, West African student examples.",
+  "content_type": "LESSON_PLAN",
+  "subject": "biology",
+  "topic": "Cell Structure",
+  "education_level": "SSS1",
+  "curriculum_board": "NERDC",
+  "expected_bloom": "UNDERSTAND",
+  "expected_language": "en",
+  "expected_skills": ["Scientific Reasoning", "Inductive Reasoning"],
+  "detected_skills": ["Scientific Reasoning"],
+  "ablation_condition": "rules_only",
+  "rules_triggered": ["cultural_flag_check"],
+  "notes": "Rules-only correction: Western names (Sarah, John) replaced with Nigerian names (Chioma, Emeka). Single rule failure — minimal correction required. Result is nearly identical to no_raq condition except name substitution."
+}

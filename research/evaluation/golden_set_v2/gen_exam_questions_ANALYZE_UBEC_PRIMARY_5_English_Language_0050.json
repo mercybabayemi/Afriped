@@ -1,0 +1,31 @@
+{
+  "id": "gen_exam_questions_ANALYZE_UBEC_PRIMARY_5_English_Language_0050",
+  "generated": "UBEC EXAMINATION \u2014 English Language | PRIMARY_5\n\nQuestion 1: Contrast the fundamental principles of English Language. Use examples relevant to the Nigerian context. [8 marks]\n\nQuestion 2: A student named Ngozi is studying English Language. She must contrast the relationship between two key concepts. Explain the steps she should follow and justify each step. [12 marks]\n\nQuestion 3: Evaluate the importance of English Language in the Nigerian secondary school curriculum. Support your answer with specific examples. [10 marks]",
+  "reference": "WAEC-style English Language questions at PRIMARY_5.\n1. Analyse the key principles of English Language. [5 marks]\n2. Apply your knowledge to a Nigerian context scenario. [10 marks]",
+  "metadata": {
+    "content_type": "exam_questions",
+    "bloom_level": "ANALYZE",
+    "board": "UBEC",
+    "education_level": "PRIMARY_5",
+    "subject": "English Language",
+    "output_language": "ha",
+    "generation_method": "systematic_parameter_variation"
+  },
+  "expected": {
+    "bloom_level": "ANALYZE",
+    "output_language": "ha",
+    "skill_tags": [
+      "assessment_design",
+      "question_construction",
+      "bloom_alignment"
+    ],
+    "format_markers": [
+      "question",
+      "answer",
+      "mark"
+    ]
+  },
+  "spot_check_required": false,
+  "human_validated": false,
+  "annotation_notes": ""
+}

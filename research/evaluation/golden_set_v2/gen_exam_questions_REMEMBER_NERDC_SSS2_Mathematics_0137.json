@@ -1,0 +1,31 @@
+{
+  "id": "gen_exam_questions_REMEMBER_NERDC_SSS2_Mathematics_0137",
+  "generated": "NERDC EXAMINATION \u2014 Mathematics | SSS2\n\nQuestion 1: State the fundamental principles of Mathematics. Use examples relevant to the Nigerian context. [8 marks]\n\nQuestion 2: A student named Ngozi is studying Mathematics. She must state the relationship between two key concepts. Explain the steps she should follow and justify each step. [12 marks]\n\nQuestion 3: Evaluate the importance of Mathematics in the Nigerian secondary school curriculum. Support your answer with specific examples. [10 marks]",
+  "reference": "WAEC-style Mathematics questions at SSS2.\n1. Define the key principles of Mathematics. [5 marks]\n2. Apply your knowledge to a Nigerian context scenario. [10 marks]",
+  "metadata": {
+    "content_type": "exam_questions",
+    "bloom_level": "REMEMBER",
+    "board": "NERDC",
+    "education_level": "SSS2",
+    "subject": "Mathematics",
+    "output_language": "en",
+    "generation_method": "systematic_parameter_variation"
+  },
+  "expected": {
+    "bloom_level": "REMEMBER",
+    "output_language": "en",
+    "skill_tags": [
+      "assessment_design",
+      "question_construction",
+      "bloom_alignment"
+    ],
+    "format_markers": [
+      "question",
+      "answer",
+      "mark"
+    ]
+  },
+  "spot_check_required": false,
+  "human_validated": false,
+  "annotation_notes": ""
+}

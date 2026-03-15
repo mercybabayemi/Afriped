@@ -1,0 +1,140 @@
+# Nigerian Education Dataset Registry
+# Used for RAG corpus ingestion and research evaluation
+# All datasets indexed into ChromaDB via: python research/datasets/download_hf_datasets.py
+
+datasets:
+
+  vocational:
+    hf_id: electricsheepafrica/nigerian_education_vocational_technical
+    url: https://huggingface.co/datasets/electricsheepafrica/nigerian_education_vocational_technical
+    name: Nigerian Education — Vocational & Technical
+    rag_role: curriculum_content
+    board: NABTEB
+    subject: trade_skill
+    level: VOCATIONAL_ADVANCED
+    format: CSV/Parquet
+    text_fields: [content, text, passage, description, material]
+    subject_field: subject
+    topic_fields: [topic, category, subtopic]
+    notes: >
+      Curriculum Q&A and categorical subjects. Acts as content corpus for retrieval
+      of vocational and technical education material. Synthetic but structured for
+      educational modeling.
+
+  continuous_assessment:
+    hf_id: Ben-45/nigerian_education_continuous_assessment
+    url: https://huggingface.co/datasets/Ben-45/nigerian_education_continuous_assessment
+    name: Nigerian Education — Continuous Assessment
+    rag_role: difficulty_calibration
+    board: NERDC
+    subject: general
+    level: SSS1
+    format: CSV
+    text_fields: [comment, feedback, description, text, remarks]
+    combine_fields: [subject, score, grade, term]
+    subject_field: subject
+    topic_fields: [topic, assessment_type, subject]
+    notes: >
+      CA scores + attendance correlations. Useful for generating difficulty levels
+      and performance-based assessment calibration. Ideal for scaling questions
+      with empirical difficulty metadata.
+
+  digital_learning:
+    hf_id: electricsheepafrica/nigerian_education_digital_learning
+    url: https://huggingface.co/datasets/electricsheepafrica/nigerian_education_digital_learning
+    name: Nigerian Education — Digital Learning
+    rag_role: curriculum_content
+    board: NERDC
+    subject: digital_literacy
+    level: SSS1
+    format: CSV/Parquet
+    text_fields: [content, text, passage, material, description]
+    subject_field: subject
+    topic_fields: [topic, module, unit]
+    notes: >
+      Digital literacy content corpus. Useful for ICT and digital learning
+      topics across secondary education levels.
+
+  online_exams:
+    hf_id: electricsheepafrica/nigerian_education_online_exams
+    url: https://huggingface.co/datasets/electricsheepafrica/nigerian_education_online_exams
+    name: Nigerian Education — Online Exams
+    rag_role: assessment_qa_pairs
+    board: WAEC
+    subject: general
+    level: SSS2
+    format: CSV/Parquet
+    text_fields: [question, answer, content, text]
+    subject_field: subject
+    topic_fields: [topic, chapter, subject]
+    combine_qa: true   # question + answer combined into one retrieval chunk
+    notes: >
+      Exam Q&A pairs across multiple subjects. Primary corpus for assessment
+      generation retrieval. Combine question+answer into a single chunk so
+      the retriever surfaces full Q&A context.
+
+  learning_materials:
+    hf_id: electricsheepafrica/nigerian_education_learning_materials
+    url: https://huggingface.co/datasets/electricsheepafrica/nigerian_education_learning_materials
+    name: Nigerian Education — Learning Materials
+    rag_role: retrieval_context
+    board: NERDC
+    subject: general
+    level: JSS3
+    format: CSV/Parquet
+    text_fields: [content, material, text, passage, description]
+    subject_field: subject
+    topic_fields: [topic, title, chapter, unit]
+    notes: >
+      Broad learning materials corpus. Best general-purpose RAG retrieval source
+      for lesson plan and content generation.
+
+  teacher_training:
+    hf_id: electricsheepafrica/nigerian_education_teacher_training
+    url: https://huggingface.co/datasets/electricsheepafrica/nigerian_education_teacher_training
+    name: Nigerian Education — Teacher Training
+    rag_role: pedagogy_reference
+    board: NERDC
+    subject: general
+    level: TEACHER_TRAINING
+    format: CSV/Parquet
+    text_fields: [content, text, training_content, description, material]
+    subject_field: subject
+    topic_fields: [topic, module, skill, competency]
+    notes: >
+      Teacher training materials. Useful for pedagogical strategy retrieval
+      and teacher notes generation.
+
+  special_needs:
+    hf_id: electricsheepafrica/nigerian_education_special_needs
+    url: https://huggingface.co/datasets/electricsheepafrica/nigerian_education_special_needs
+    name: Nigerian Education — Special Needs Education
+    rag_role: inclusive_content
+    board: UBEC
+    subject: general
+    level: PRIMARY_4_6
+    format: CSV/Parquet
+    text_fields: [content, text, description, strategy, material, approach]
+    subject_field: subject
+    topic_fields: [topic, disability_type, category, intervention]
+    notes: >
+      Special needs and inclusive education content. Supports generation of
+      differentiated and accessible learning materials.
+
+# ── External benchmarks (not ingested into ChromaDB, used for evaluation only) ─
+
+external_benchmarks:
+
+  exams_qa:
+    name: EXAMS — Multi-subject High School QA
+    url: https://github.com/mhardalov/exams-qa
+    use: Baseline transfer tests (not Africa-specific); good for cross-domain benchmarking
+    format: JSON
+
+  nerdc_ecurriculum:
+    name: NERDC e-Curriculum Resources
+    url: https://nerdc.org.ng/eCurriculum/LearnersResources.aspx
+    use: >
+      Primary curriculum ground truth. Requires HTML scraping → text extraction →
+      CSV conversion. OCR needed for image-based PDFs (Tesseract recommended).
+    format: HTML → CSV (manual pipeline)

@@ -1,0 +1,31 @@
+{
+  "id": "gen_insights_APPLY_UBEC_PRIMARY_5_Basic_Science_0134",
+  "generated": "CONTENT ANALYSIS \u2014 Basic Science | PRIMARY_5\n\nBloom Level Detected: APPLY\nCultural Authenticity: Nigerian names and contexts present (Aminu, Kemi, Okonkwo)\nReadability: Appropriate for PRIMARY_5 level\nFormat Compliance: All required sections present\nRecommendations: Content effectively requires students to use. Consider adding more open-ended questions targeting the EVALUATE level.",
+  "reference": "Insights: Basic Science content analysis for PRIMARY_5 level.\nBloom level detected: APPLY. Recommendation: add more solve activities.",
+  "metadata": {
+    "content_type": "insights",
+    "bloom_level": "APPLY",
+    "board": "UBEC",
+    "education_level": "PRIMARY_5",
+    "subject": "Basic Science",
+    "output_language": "en",
+    "generation_method": "systematic_parameter_variation"
+  },
+  "expected": {
+    "bloom_level": "APPLY",
+    "output_language": "en",
+    "skill_tags": [
+      "content_analysis",
+      "bloom_classification",
+      "readability_assessment"
+    ],
+    "format_markers": [
+      "analysis",
+      "recommendation",
+      "level"
+    ]
+  },
+  "spot_check_required": true,
+  "human_validated": false,
+  "annotation_notes": ""
+}

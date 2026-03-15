@@ -1,0 +1,31 @@
+{
+  "generated": "WAEC English Literature Examination — Things Fall Apart\nClass: SSS3 | Board: WAEC | Time: 1 hour\n\nQ1. [CREATIVE_WRITING] [Bloom: CREATE] [Marks: 20]\nOkonkwo's story ends in tragedy. Using the characters, themes, and events from Chinua Achebe's 'Things Fall Apart', create an alternative ending in which Okonkwo chooses a different response to colonial rule. Your story should:\n- Be 250–350 words\n- Compose a convincing dialogue between Okonkwo and Obierika that reflects both their characters\n- Develop a resolution that is consistent with Igbo cultural values\n- Produce at least ONE symbolic image (e.g., the yam barn, the iron gun, the wrestling ground)\n\nQ2. [ESSAY] [Bloom: CREATE] [Marks: 15]\nDesign a reader's guide for a JSS3 student who is reading 'Things Fall Apart' for the first time. Your guide should:\n- Construct a chapter-by-chapter summary (Chapters 1–5 only, 3–4 sentences each)\n- Develop three discussion questions per chapter that would help a Nigerian teenager connect Achebe's themes to their own community\n- Produce a glossary of 10 Igbo words used in the novel with their meanings\n\nQ3. [STRUCTURED] [Bloom: CREATE] [Marks: 10]\nUsing evidence from the novel, compose a speech that Ezinma might deliver at a community gathering after her father's death, arguing that women deserve equal voice in Umuofia's governance.\nYour speech should:\n- Be 150–200 words\n- Create persuasive rhetorical techniques (repetition, direct address)\n- Produce an argument that uses Igbo proverbs for authority\n\nQ4. [SHORT_ANSWER] [Bloom: CREATE] [Marks: 5]\nDesign a book cover for a modern edition of 'Things Fall Apart' aimed at Nigerian secondary school students. Describe in writing (not draw):\n- The main image you would use and why\n- The colour palette and its symbolic meaning\n- One tagline (one sentence) that captures the novel's central theme",
+  "reference": "WAEC SSS3 Literature exam on Things Fall Apart by Chinua Achebe requiring students to create alternative endings, reader guides, speeches, and book cover designs.",
+  "content_type": "EXAM_QUESTIONS",
+  "subject": "english_literature",
+  "topic": "Things Fall Apart — Chinua Achebe",
+  "education_level": "SSS3",
+  "curriculum_board": "WAEC",
+  "expected_bloom": "CREATE",
+  "expected_language": "en",
+  "expected_skills": ["Creative Expression", "Communication Skills", "Critical Thinking"],
+  "detected_skills": ["Creative Expression", "Communication Skills", "Critical Thinking"],
+  "validation": {
+    "status": "PASSED",
+    "rules_passed": [
+      "length_check",
+      "language_detection",
+      "bloom_verb_presence",
+      "cultural_flag_check",
+      "no_hallucinated_dates",
+      "no_explicit_content",
+      "curriculum_alignment",
+      "format_compliance"
+    ],
+    "rules_failed": [],
+    "judge_score": null,
+    "judge_dimensions": null,
+    "revision_count": 0,
+    "notes": []
+  }
+}

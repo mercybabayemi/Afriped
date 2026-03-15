@@ -1,0 +1,126 @@
+ENGREG HIGH SCHOOL
+24, Bankole Street, Pedro, Shomolu, Lagos
+WEEK: 3FIRST TERMSESSION: 2024/2025
+SUBJECT: COMPUTER STUDIES
+TOPIC: MEMORY UNIT
+CLASS:  SS 2
+DATE: 23rd  – 27th September, 2024
+REFERENCE BOOKS: New Computer Studies for SS 2 by J.O.E Otuka et al Pages 10-13
+Online with computers for SS 2 by Adedapo F. O. et al 16 - 20
+LEARNING PURPOSE: To provide foundational knowledge on the memory unit, the types of memory and their examples.
+LESSON PERIOD: 1
+DURATION: 40 MINS
+LEARNING OBJECTIVE:  By the end of the lesson, students will be able to:
+Define the memory unit.
+List and explain the components of memory unit.
+State the two types of Primary Memory.
+KEYWORDS:
+Memory, Unit, ROM, RAM, Primary, Secondary, storage.
+PREVIOUS LEARNING: The students are familiar with the CPU, its definition and function.
+INSTRUCTIONAL MATERIALS:
+Interactive board, computer system, Internet
+LEARNING ACTIVITIES IN STEPS:
+Step 1: The teacher marks assignment and makes correction.
+Step 2: The teacher asks questions on previous knowledge
+Step 3: The teacher modifies students’ response and introduces the new topic
+Step 4: Students would be taken through the derailed explanation of the lesson content
+Step 5: Students ask questions on the content of the lesson
+Step 6: Students would be evaluated based on behavioural objectives
+Step 7: Students Assignments are given and notes are marked
+LEARNING TIME FOR EACH STEP:
+Step 1: 3mins
+Step 2: 2mins
+Step 3: 3mins
+Step 4: 20mins
+Step 5: 2mins
+Step 6: 7mins
+Step 7: 3mins
+LEARNING SKILLS:
+Critical thinking, creative thinking, communicating and leadership development
+ACTIVITY
+Define the memory unit.
+List the two components of memory unit.
+EVALUATIVE QUESTIONS:
+Define the memory unit.
+List the two components of memory unit and explain each..
+State the two types of Primary Memory.
+ASSIGNMENT
+Explain the Primary and Secondary Memory.
+Give 4 examples of Secondary Memory.
+MEMORY UNIT
+Memory is a device that has the capacity to store information. A memory unit is the amount of data that the memory can hold. Besides, we measure this storage capacity in terms of bytes. The computer memory is the storage location where data programs and information are stored.
+There are two types of memory.
+PRIMARY/MAIN MEMORY: The main memory is the internal storage area of the computer system. It is where information and programs are stored for immediate processing by the CPU.
+Two types of primary storage:
+ROM- It is a non-volatile memory that retains data stored on it even after the computer is powered off. The data inside the ROM cannot be changed. The operating system boot records are stored inside the ROM. There are three (3) different variations, this include:
+PROM that is Programmable ROM.
+EPROM that is Erasable Programmable ROM.
+EEPROM that is Electrically Erasable Programmable ROM.
+RAM- It is the part of the primary memory that holds the data and programs that the CPU is processing. The CPU reads and writes into the RAM as often as required. They are volatile because the content is lost when the computer is powered off.
+SECONDARY MEMORY: This is also called the auxiliary or external memory. This is any storage device that is used to store data, information and programs outside the primary memory. It is not directly accessible by the Central Processing Unit. The computer usually uses its input/output channels to access secondary storage. They are non-volatile. Examples of secondary storage:
+HDD (Hard Disk Drive): Magnetic storage for long-term data retention.
+SSD (Solid State Drive): Faster, non-volatile storage using flash memory.
+Optical Discs (CDs, DVDs): used for data storage.
+USB Flash Drives: Portable storage devices using flash memory.
+ENGREG HIGH SCHOOL
+24, Bankole Street, Pedro, Shomolu, Lagos
+WEEK: 3FIRST TERMSESSION: 2024/2025
+SUBJECT: COMPUTER STUDIES
+TOPIC: DIFFERENCES BETWEEN PRIMARY AND SECONDARY MEMORY
+CLASS:  SS 2
+DATE: 23rd  – 27th September, 2024
+REFERENCE BOOKS: New Computer Studies for SS 2 by J.O.E Otuka et al Pages 10-13
+Online with computers for SS 2 by Adedapo F. O. et al 16 - 20
+LEARNING PURPOSE: To provide foundational knowledge on the differences between the primary and secondary storage.
+LESSON PERIOD: 2
+DURATION: 40 MINS
+LEARNING OBJECTIVE:  By the end of the lesson, students will be able to:
+State the differences of the primary memory and the secondary memory.
+KEYWORDS:
+Memory, Unit, ROM, RAM, Primary, Secondary, storage.
+PREVIOUS LEARNING: The students are familiar with the CPU, its definition and function.
+INSTRUCTIONAL MATERIALS:
+Interactive board, computer system, Internet
+LEARNING ACTIVITIES IN STEPS:
+Step 1: The teacher marks assignment and makes correction.
+Step 2: The teacher asks questions on previous knowledge
+Step 3: The teacher modifies students’ response and introduces the new topic
+Step 4: Students would be taken through the derailed explanation of the lesson content
+Step 5: Students ask questions on the content of the lesson
+Step 6: Students would be evaluated based on behavioural objectives
+Step 7: Students Assignments are given and notes are marked
+LEARNING TIME FOR EACH STEP:
+Step 1: 3mins
+Step 2: 2mins
+Step 3: 3mins
+Step 4: 20mins
+Step 5: 2mins
+Step 6: 7mins
+Step 7: 3mins
+LEARNING SKILLS:
+Critical thinking, creative thinking, communicating and leadership development
+ACTIVITY
+State three differences of the primary memory and the secondary memory.
+EVALUATIVE QUESTIONS:
+State five differences of the primary memory and the secondary memory.
+ASSIGNMENT
+What is an alternative name for the primary and secondary memory?
+DIFFERENCES BETWEEN PRIMARY AND SECONDARY MEMORY
+PRIMARY MEMORY
+SECONDARY MEMORY
+It is considered as a main memory that is accessed directly by the computer
+It is considered as an additional or additional memory not directly accessed by the CPU
+The memory devices used for primary memory are semiconductor memories
+The memory devices are magnetic and optical memories
+These memories are also called internal memory
+These memories are also called external memory
+It is a type of temporary memory
+It can be used as a permanent memory
+It is directly accessed by the processor in a random manner
+It is not directly accessed by the processor, input/output channels are used to access the secondary memory
+It is embedded with two types of memory technologies – RAM and ROM
+It is embedded in the form of mass storage devices like pen drive, CD, DVD, etc
+It is classified as volatile (RAM) and nonvolatile (ROM) in nature
+It is generally non-volatile in nature
+They are connected to the computer through ‘slots’
+They are connected to the computer through drives and cables

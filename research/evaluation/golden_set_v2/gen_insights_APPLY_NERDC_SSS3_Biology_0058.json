@@ -1,0 +1,31 @@
+{
+  "id": "gen_insights_APPLY_NERDC_SSS3_Biology_0058",
+  "generated": "CONTENT ANALYSIS \u2014 Biology | SSS3\n\nBloom Level Detected: APPLY\nCultural Authenticity: Nigerian names and contexts present (Aminu, Kemi, Okonkwo)\nReadability: Appropriate for SSS3 level\nFormat Compliance: All required sections present\nRecommendations: Content effectively requires students to show. Consider adding more open-ended questions targeting the EVALUATE level.",
+  "reference": "Insights: Biology content analysis for SSS3 level.\nBloom level detected: APPLY. Recommendation: add more solve activities.",
+  "metadata": {
+    "content_type": "insights",
+    "bloom_level": "APPLY",
+    "board": "NERDC",
+    "education_level": "SSS3",
+    "subject": "Biology",
+    "output_language": "ha",
+    "generation_method": "systematic_parameter_variation"
+  },
+  "expected": {
+    "bloom_level": "APPLY",
+    "output_language": "ha",
+    "skill_tags": [
+      "content_analysis",
+      "bloom_classification",
+      "readability_assessment"
+    ],
+    "format_markers": [
+      "analysis",
+      "recommendation",
+      "level"
+    ]
+  },
+  "spot_check_required": false,
+  "human_validated": false,
+  "annotation_notes": ""
+}

@@ -1,0 +1,151 @@
+ENGREG HIGH SCHOOL
+24, Bankole Street, Pedro, Shomolu, Lagos
+SS 1 DATA PROCESSING SCHEME OF WORK
+2024/2025 SESSION
+FIRST TERM
+WEEKS
+TOPIC
+SUB-TOPIC
+ONE
+Revision of JSS Work/History of Computers I.
+Early Counting Devices, Mechanical Devices
+TWO
+History of Computers II
+Electro-Mechanical and Electronic Devices
+THREE
+History of Computers III
+Generations of computer
+FOUR
+Classification of Computer I
+Classification by types, size and Functionality
+FIVE
+Classification of Computer II
+Characteristics of each classification.
+SIX
+Digitalization of Data I
+Definition, History of Computer Development
+SEVEN
+CONTINUOUS ASSESSMENT
+EIGHT
+Digitalization of Data II
+Components of Computer, Types of Computer
+NINE
+ICT Applications in Everyday Life
+Definition, Uses of ICT, ICT and Society
+TEN
+Data and Information
+Definition of Terms, Different types of Data
+ELEVEN
+Revision
+TWELVE
+Examination
+ENGREG HIGH SCHOOL
+24, Bankole Street, Pedro, Shomolu, Lagos
+WEEK: 1FIRST TERMSESSION: 2024/2025
+SUBJECT: DATA PROCESSING
+TOPIC: HISTORY OF COMPUTING
+CLASS:  SS 1
+DATE: 9th – 13th September, 2024
+REFERENCE BOOKS:  A Textbook for Data Processing SS 1 by Adedapo F. O. et al Pages 1-7
+Data Processing Textbook for SS 1 by Aboyede Jegede 1 - 8
+LEARNING PURPOSE: To provide learners with a foundational understanding of historical advancements and the core principles behind contemporary computer architecture.
+LESSON PERIOD: 1
+DURATION: 40 MINS
+LEARNING OBJECTIVE:  By the end of the lesson, students will be able to:
+Explain the concept of history of computer.
+List early counting devices.
+State the limitations of early counting devices.
+KEYWORDS: History, Computer, Mechanical, Electro-Mechanical, Electronic, Modern.
+PREVIOUS LEARNING: The students are familiar with the computer.
+INSTRUCTIONAL MATERIALS:
+Interactive board, computer system, Internet
+LEARNING ACTIVITIES IN STEPS:
+Step 1: The teacher marks assignment and makes correction.
+Step 2: The teacher asks questions on previous knowledge
+Step 3: The teacher modifies students’ response and introduces the new topic
+Step 4: Students would be taken through the derailed explanation of the lesson content
+Step 5: Students ask questions on the content of the lesson
+Step 6: Students would be evaluated based on behavioural objectives
+Step 7: Students Assignments are given and notes and marked
+LEARNING TIME FOR EACH STEP:
+Step 1: 3mins
+Step 2: 2mins
+Step 3: 3mins
+Step 4: 20mins
+Step 5: 2mins
+Step 6: 7mins
+Step 7: 3mins
+LEARNING SKILLS:
+Critical thinking, creative thinking, communicating and leadership development
+ACTIVITY
+List three early counting devices.
+State two limitations of early counting devices.
+EVALUATIVE QUESTIONS:
+Explain the history of computer.
+List four early counting devices.
+State three limitations of early counting devices.
+ASSIGNMENT
+Explain why the early counting devices could not perform complex calculations.
+HISTORY OF COMPUTERS
+The history of computing dates back to ancient efforts to count large numbers, especially as societies shifted from barter to monetary systems. Early counting devices were vital for performing basic arithmetic operations like addition and subtraction, helping people manage quantities in trade before modern numerical systems and calculators were developed.
+EARLY COUNTING DEVICES
+Early counting devices were used by ancient civilizations to perform arithmetic operations. These tools helped people manage numbers during the early days of barter trade. Some of the earliest examples of such devices include:
+Fingers and Toes: The simplest form of counting, where people used their fingers and toes to count small numbers.
+Tally Sticks: Made from sticks or bones, these tools had notches carved into them to represent numbers or quantities.
+Pebbles or Stones: Small stones were used to represent numbers, often arranged in a system similar to the abacus, known as the "abacus of stones."
+LIMITATIONS OF EARLY COUNTING DEVICES:
+They were inefficient for counting large numbers.
+The process was physically demanding.
+They required significant human effort.
+Counting was time-consuming.
+Larger quantities required more devices to complete the task.
+ENGREG HIGH SCHOOL
+24, Bankole Street, Pedro, Shomolu, Lagos
+WEEK: 1FIRST TERMSESSION: 2024/2025
+SUBJECT: DATA PROCESSING
+TOPIC: HISTORY OF COMPUTING
+CLASS:  SS 1
+DATE: 9th – 13th September, 2024
+REFERENCE BOOKS:  A Textbook for Data Processing SS 1 by Adedapo F. O. et al Pages 1-7
+Data Processing Textbook for SS 1 by Aboyede Jegede 1 - 8
+LEARNING PURPOSE: To provide learners with a foundational understanding of historical advancements and the core principles behind contemporary computer architecture.
+LESSON PERIOD: 2
+DURATION: 40 MINS
+LEARNING OBJECTIVE:  By the end of the lesson, students will be able to:
+Define Mechanical Counting Devices.
+List and Explain the Mechanical Devices.
+KEYWORDS: History, Computer, Mechanical, Electro-Mechanical, Electronic, Modern.
+PREVIOUS LEARNING: The students are familiar with the early counting devices.
+INSTRUCTIONAL MATERIALS:
+Interactive board, computer system, Internet
+LEARNING ACTIVITIES IN STEPS:
+Step 1: The teacher marks assignment and makes correction.
+Step 2: The teacher asks questions on previous knowledge
+Step 3: The teacher modifies students’ response and introduces the new topic
+Step 4: Students would be taken through the derailed explanation of the lesson content
+Step 5: Students ask questions on the content of the lesson
+Step 6: Students would be evaluated based on behavioural objectives
+Step 7: Students Assignments are given and notes and marked
+LEARNING TIME FOR EACH STEP:
+Step 1: 3mins
+Step 2: 2mins
+Step 3: 3mins
+Step 4: 20mins
+Step 5: 2mins
+Step 6: 7mins
+Step 7: 3mins
+LEARNING SKILLS:
+Critical thinking, creative thinking, communicating and leadership development
+ACTIVITY
+List the two mechanical devices you know stating their year of invention and inventor.
+EVALUATIVE QUESTIONS:
+Define Mechanical Counting Devices.
+List and Explain two Mechanical Devices.
+ASSIGNMENT
+What is the advantage of Mechanical Counting Devices over the early counting devices?
+MECHANICAL COUNTING DEVICES
+Mechanical counting devices marked a major step forward in calculation and computation, offering more precise and efficient ways to perform arithmetic operations. Unlike early tools like tally sticks, these devices used gears, levers, and other components to automate counting and calculations. As counting large numbers became impractical with earlier methods, mechanical devices were developed to assist with calculations.
+Notable examples include:
+Abacus: One of the earliest mechanical counting devices, the abacus consists of beads strung on wires or rods within a rectangular frame. It was first used by the Chinese for arithmetic operations like addition and developed around 500 BCE.
+Logarithms: John Napier, a Scottish mathematician, introduced logarithms in 1614. Napier’s invention of logarithms was a significant advancement in mathematics, providing a powerful tool for simplifying complex calculations.
+Slide Rule: The slide rule was invented in 1632 by the English mathematician William Oughtred. He developed the device based on the concept of logarithms, which had been introduced earlier by John Napier in 1614. The slide rule is a mechanical device featuring a graduated scale that slides to perform calculations. It can be used for multiplication, division, and finding square roots.

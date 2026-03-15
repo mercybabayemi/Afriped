@@ -1,0 +1,16 @@
+{
+  "generated": "History Exam — Colonial Nigeria\nSSS2 | WAEC Preparation\n\nQ1. Evaluate the economic impact of British colonisation on Nigeria. Use specific examples to justify your argument. (10 marks)\n\nQ2. Assess the extent to which the amalgamation of 1914 served British rather than Nigerian interests. Critique two arguments on each side. (15 marks)\n\nQ3. Justify whether Nigerian resistance movements effectively challenged colonial authority before 1960. Use evidence to support your position. (15 marks)\n\nQ4. Evaluate how colonial educational policy shaped post-independence Nigerian society. Assess both intended and unintended outcomes. (10 marks)\n\nYou have 60 minutes. Justify your answers with historical evidence.",
+  "reference": "WAEC-style SSS2 History exam on Colonial Nigeria requiring students to evaluate and critique the impact of colonisation using evidence — EVALUATE level cognition.",
+  "content_type": "EXAM_QUESTIONS",
+  "subject": "history",
+  "topic": "Colonial Nigeria",
+  "education_level": "SSS2",
+  "curriculum_board": "WAEC",
+  "expected_bloom": "EVALUATE",
+  "expected_language": "en",
+  "expected_skills": ["Critical Thinking", "Historical Reasoning"],
+  "detected_skills": ["Critical Thinking"],
+  "ablation_condition": "rules_only",
+  "rules_triggered": ["bloom_verb_presence", "format_compliance", "curriculum_alignment"],
+  "notes": "Rules-only correction: (1) EVALUATE verbs added (evaluate, assess, critique, justify) to all questions. (2) Question numbers (Q1-Q4) added for format compliance. (3) WAEC-style mark allocation added. However, no judge verification that questions actually require genuinely evaluative thinking vs just using evaluative vocabulary."
+}

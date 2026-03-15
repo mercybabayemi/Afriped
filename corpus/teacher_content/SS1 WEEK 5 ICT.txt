@@ -1,0 +1,129 @@
+ENGREG HIGH SCHOOL
+24, Bankole Street, Pedro, Shomolu, Lagos
+WEEK: 5FIRST TERMSESSION: 2024/2025
+SUBJECT: COMPUTER STUDIES
+TOPIC: HISTORICAL DEVELOPMENT OF COMPUTING DEVICES I (Pre-Computer age to 19th century.
+CLASS:  SS 1
+DATE: 7th - 11th October, 2024
+REFERENCE BOOKS: New Computer Studies for SS 1 by J.O.E Otuka et al Pages 24-26
+Online with computers for SS 1 by Adedapo F. O. et al 24-26
+LEARNING PURPOSE: To provide foundational knowledge on the computer and how computers have developed over the years
+LESSON PERIOD: 1
+DURATION: 40 MINS
+LEARNING OBJECTIVE:  By the end of the lesson, students will be able to:
+Talk about the development of ENIAC
+State purpose of developing of ENIAC
+List characteristics of ENIAC.
+Expansiate on the significance of ENIAC
+KEYWORDS: Vacuum Tubes
+PREVIOUS LEARNING: The students are familiar with the historical development of computers.
+INSTRUCTIONAL MATERIALS:
+Interactive board, computer system, Internet
+LEARNING ACTIVITIES IN STEPS:
+Step 1: The teacher marks assignment and makes correction.
+Step 2: The teacher asks questions on previous knowledge
+Step 3: The teacher modifies students’ response and introduces the new topic
+Step 4: Students would be taken through the derailed explanation of the lesson content
+Step 5: Students ask questions on the content of the lesson
+Step 6: Students would be evaluated based on behavioural objectives
+Step 7: Students Assignments are given and notes and marked
+LEARNING TIME FOR EACH STEP:
+Step 1: 3mins
+Step 2: 2mins
+Step 3: 3mins
+Step 4: 20mins
+Step 5: 2mins
+Step 6: 7mins
+Step 7: 3mins
+LEARNING SKILLS:
+Critical thinking, creative thinking, communicating and leadership development
+ACTIVITY
+In what year was the ENIAC created?
+EVALUATIVE QUESTIONS:
+Discuss the development of ENIAC
+State the purpose of developing ENIAC
+List the characteristics of ENIAC
+ASSIGNMENT
+What's the purpose of the development of ENIAC
+Historical Development of Computing Devices III: ENIAC and UNIVAC
+ENIAC (Electronic Numerical Integrator and Computer)
+Development: Created in 1945 at the University of Pennsylvania.
+Purpose: Designed to calculate artillery firing tables for the US Army.
+Characteristics:
+* Massive size, weighing 30 tons and occupying 1,800 square feet of floor space.
+* Used vacuum tubes for computation, leading to high heat generation and frequent breakdowns.
+* Programmed using plugboards and switches, making it difficult to reprogram.
+Significance:
+* One of the first general-purpose electronic computers.
+* Pioneered the use of vacuum tubes for computation.
+* Demonstrated the potential of electronic computers for solving complex problems.
+UNIVAC (Universal Automatic Computer)
+Development:bCommercialized version of the ENIAC, introduced in 1951 by Remington Rand.
+Purpose:Designed for business and scientific applications.
+Characteristics:
+* Smaller and more reliable than the ENIAC.
+* Used magnetic tape for data storage, improving efficiency and flexibility.
+* Introduced the concept of a stored program, allowing for easier programming and modification.
+Significance:
+* First commercial computer widely adopted by businesses and organizations.
+* Played a crucial role in the development of the computer industry.
+* Demonstrated the practical applications of computers in various fields.
+Both ENIAC and UNIVAC were groundbreaking developments in the history of computing. They laid the foundation for the modern computer era and paved the way for future advancements in technology.
+ENGREG HIGH SCHOOL
+24, Bankole Street, Pedro, Shomolu, Lagos
+WEEK: 5FIRST TERMSESSION: 2024/2025
+SUBJECT: COMPUTER STUDIES
+TOPIC: OVERVIEW OF COMPUTER SYSTEM
+CLASS:  SS 1
+DATE: DATE: 7th - 11th October, 2024
+REFERENCE BOOKS: New Computer Studies for SS 1 by J.O.E Otuka et al Pages 24 - 26
+Online with computers for SS 1 by Adedapo F. O. et al 24 - 26
+LEARNING PURPOSE: To provide foundational knowledge on the computer and how computers have developed over the years
+LESSON PERIOD: 2
+DURATION: 40 MINS
+LEARNING OBJECTIVE:  By the end of the lesson, students will be able to:
+Talk about the development of UNIVAC
+State purpose of developing of UNIVAC
+List characteristics of UNIVAC
+Expansiate on the significance of UNIVAC
+KEYWORDS: transistors
+PREVIOUS LEARNING:
+To provide foundational knowledge on the ENIAC.
+INSTRUCTIONAL MATERIALS:
+Interactive board, computer system, Internet
+LEARNING ACTIVITIES IN STEPS:
+Step 1: The teacher marks assignment and makes correction.
+Step 2: The teacher asks questions on previous knowledge
+Step 3: The teacher modifies students’ response and introduces the new topic
+Step 4: Students would be taken through the derailed explanation of the lesson content
+Step 5: Students ask questions on the content of the lesson
+Step 6: Students would be evaluated based on behavioural objectives
+Step 7: Students Assignments are given and notes and marked
+LEARNING TIME FOR EACH STEP:
+Step 1: 3mins
+Step 2: 2mins
+Step 3: 3mins
+Step 4: 20mins
+Step 5: 2mins
+Step 6: 7mins
+Step 7: 3mins
+LEARNING SKILLS:
+Critical thinking, creative thinking, communicating and leadership development
+ACTIVITY
+In what year was the UNIVAC created?
+EVALUATIVE QUESTIONS:
+Discuss the development of ENIAC
+State the purpose of developing ENIAC
+List the characteristics of ENIAC
+ASSIGNMENT: what's the purpose of the development of UNIVAC
+UNIVAC (Universal Automatic Computer)
+Development:bCommercialized version of the ENIAC, introduced in 1951 by Remington Rand.
+Purpose:Designed for business and scientific applications.
+Characteristics:
+* Smaller and more reliable than the ENIAC.
+* Used magnetic tape for data storage, improving efficiency and flexibility.
+* Introduced the concept of a stored program, allowing for easier programming and modification.
+Significance:
+* First commercial computer widely adopted by businesses and organizations.
+* Played a crucial role in the development of the computer industry.
+* Demonstrated the practical applications of computers in various fields.

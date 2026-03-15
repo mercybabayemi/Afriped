@@ -1,0 +1,16 @@
+{
+  "generated": "Chemistry Lesson\nTopic: Acid-Base Reactions\nClass: SSS1 | Board: NERDC\n\nObjective: Students will design and construct a pH scale from household materials.\n\nActivity (25 min):\nChioma helps distribute the pH indicator strips. Nkechi records results on the board. Obinna mixes solutions carefully.\n\nThe class designs a procedure to test household substances: lemon juice, soap, water, baking soda.\nStudents construct their own pH reference chart. Each group creates a visual scale from 0-14.\n\nAssessment:\nStudents produce an annotated pH scale diagram and develop a conclusion about which substances are safe to mix.\n\nClosure:\nHomework: Design an experiment to test one more household substance and produce a prediction before testing.",
+  "reference": "NERDC SSS1 Chemistry lesson on acid-base reactions where students design and conduct experiments, construct pH scales, and create a neutralisation reference chart.",
+  "content_type": "LESSON_PLAN",
+  "subject": "chemistry",
+  "topic": "Acid-Base Reactions",
+  "education_level": "SSS1",
+  "curriculum_board": "NERDC",
+  "expected_bloom": "CREATE",
+  "expected_language": "en",
+  "expected_skills": ["Scientific Reasoning", "Critical Thinking"],
+  "detected_skills": ["Scientific Reasoning"],
+  "ablation_condition": "rules_only",
+  "rules_triggered": ["bloom_verb_presence", "format_compliance", "cultural_flag_check"],
+  "notes": "Rules-only correction: (1) CREATE verbs added (design, construct, create, produce, develop). (2) Objective/Activity/Assessment labels added. (3) Names replaced with Nigerian equivalents (Chioma, Nkechi, Obinna). Template-based corrections improve surface metrics but lesson is still less scaffolded than a full RAQ LLM revision would produce."
+}

@@ -1,0 +1,9 @@
+{
+  "generated": "LESSON PLAN\nSubject: Mathematics\nTopic: Pythagoras Theorem\nClass: JSS3 | Duration: 40 minutes\n\nObjective: Students will apply the Pythagoras theorem to solve problems involving right-angled triangles.\n\nMaterials: Textbook (MAN Mathematics JSS3), graph paper, rulers, set squares.\n\nIntroduction (5 min):\nTunde draws a right-angled triangle on the board. He asks Ngozi and Emeka to identify the hypotenuse.\n\nMain Activity (25 min):\n1. Demonstrate that in a right-angled triangle: a² + b² = c²\n2. Solve worked example: If a = 3 cm and b = 4 cm, calculate c.\n   c² = 9 + 16 = 25, therefore c = 5 cm.\n3. Group work: Each group solves 3 problems using triangles with sides given in metres.\n\nAssessment (10 min):\nStudents solve: A ladder leans against a wall. The foot is 6 m from the wall and the ladder is 10 m long. How high up the wall does it reach? (Answer: 8 m)\n\nClosure:\nRecap Pythagoras theorem. Homework: Exercise 7.4, questions 1–5.",
+  "reference": "A lesson plan on Pythagoras Theorem for JSS3 covering learning objectives, activities, and assessment using local Nigerian context.",
+  "content_type": "LESSON_PLAN",
+  "expected_bloom": "APPLY",
+  "expected_language": "en",
+  "expected_skills": ["Problem Solving", "Numerical Reasoning"],
+  "detected_skills": ["Problem Solving", "Numerical Reasoning", "Critical Thinking"]
+}

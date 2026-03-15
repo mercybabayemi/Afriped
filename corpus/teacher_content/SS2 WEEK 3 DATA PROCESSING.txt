@@ -1,0 +1,96 @@
+ENGREG HIGH SCHOOL
+24, Bankole Street, Pedro, Shomolu, Lagos
+WEEK: 3 FIRST TERMSESSION: 2024/2025
+SUBJECT: DATA PROCESSING
+TOPIC: DATA NORMALIZATION
+CLASS:  SS 2
+DATE: 23rd – 27th September, 2024
+REFERENCE BOOKS:  A Textbook for Data Processing SS 2 by Adedapo F. O. et al Pages 7-10
+Data Processing Textbook for SS 2 by Aboyede Jegede 11- 14
+LEARNING PURPOSE: To provide learners with a foundational understanding of Data normalization, definition of normal forms and types
+LESSON PERIOD: 1
+DURATION: 40 MINS
+LEARNING OBJECTIVE:  By the end of the lesson, students will be able to:
+Define data normalization
+State the goals of normalization
+KEYWORDS: Data Normalization, Normal form
+PREVIOUS LEARNING: The students are familiar with how database management system.
+INSTRUCTIONAL MATERIALS:
+Interactive board, computer system, Internet
+LEARNING ACTIVITIES IN STEPS:
+Step 1: The teacher marks assignment and makes correction.
+Step 2: The teacher asks questions on previous knowledge
+Step 3: The teacher modifies students’ response and introduces the new topic
+Step 4: Students would be taken through the derailed explanation of the lesson content
+Step 5: Students ask questions on the content of the lesson
+Step 6: Students would be evaluated based on behavioral objectives
+Step 7: Students Assignments are given and notes and marked
+LEARNING TIME FOR EACH STEP:
+Step 1: 3mins
+Step 2: 2mins
+Step 3: 3mins
+Step 4: 20mins
+Step 5: 2mins
+Step 6: 7mins
+Step 7: 3mins
+LEARNING SKILLS:
+Critical thinking, creative thinking, communicating and leadership development
+ACTIVITY
+Explain goals of Normalization
+EVALUATIVE QUESTIONS:
+Define normalization
+Define normal forms and list types of normal form.
+ASSIGNMENT
+Define normal form.
+DEFINITION OF DATA NORMALIZATION
+Data normalization is the process of organizing data in a database efficiently.
+GOALS OF NORMALIZATION
+The goals of Normalization are:
+Eliminating data redundancy i.e. duplicates of data
+To minimize or avoid redundancy i.e. duplicates of data
+To simplify queries.
+ENGREG HIGH SCHOOL
+24, Bankole Street, Pedro, Shomolu, Lagos
+WEEK: 3 FIRST TERMSESSION: 2024/2025
+SUBJECT: DATA PROCESSING
+TOPIC: NORMAL FORMS
+CLASS:  SS 2
+DATE: 23th – 27th September, 2024
+REFERENCE BOOKS:  A Textbook for Data Processing SS 2 by Adedapo F. O. et al Pages 1-7
+Data Processing Textbook for SS 2 by Aboyede Jegede 1 - 8
+LEARNING PURPOSE: To provide learners with a foundational understanding of data modelling, its types and approaches.
+LESSON PERIOD: 2
+DURATION: 40 MINS
+LEARNING OBJECTIVE:  By the end of the lesson, students will be able to:
+Define normal form
+KEYWORDS: Data Normalization, Normal form
+PREVIOUS LEARNING: The students are familiar with normalization.
+INSTRUCTIONAL MATERIALS:
+Interactive board, computer system, Internet
+LEARNING ACTIVITIES IN STEPS:
+Step 1: The teacher marks assignment and makes correction.
+Step 2: The teacher asks questions on previous knowledge
+Step 3: The teacher modifies students’ response and introduces the new topic
+Step 4: Students would be taken through the derailed explanation of the lesson content
+Step 5: Students ask questions on the content of the lesson
+Step 6: Students would be evaluated based on behavioral objectives
+Step 7: Students Assignments are given and notes and marked
+LEARNING TIME FOR EACH STEP:
+Step 1: 3mins
+Step 2: 2mins
+Step 3: 3mins
+Step 4: 20mins
+Step 5: 2mins
+Step 6: 7mins
+Step 7: 3mins
+LEARNING SKILLS:
+Critical thinking, creative thinking, communicating and leadership development
+ACTIVITY
+State the steps to create a form, query and report.
+EVALUATIVE QUESTIONS:
+Explain what you understand by normal form
+ASSIGNMENT
+State five the problem with the table in the first form(1NF)
+NORMAL FORM
+The normal form (NF) of relational database theory provide critical for determining a table’s degree of vulnerability to logical inconsistencies and anomalies. The higher the normal form applicable to a table, the less vulnerable it is. Each table has a “Highest Normal Form” (HNF): by definition, a table always meets the requirements of its HNF and all normal forms lower than its HNF; also by definition, a table fails to meet the requirement of any normal form higher than its HNF.
+Normal form theory deal with how to reduce the amount of redundancy of data within a given table. Each normal form represents a level. To satisfy each the requirements for a certain level, the requirements for the previous level must be met. To reach the optimal normal form for the tables within a database, the creator starts with a large list of all the data that is to be held in the database and then works through the normal forms until he can no longer break the data down into the smaller table.

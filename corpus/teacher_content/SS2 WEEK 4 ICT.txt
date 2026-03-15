@@ -1,0 +1,162 @@
+ENGREG HIGH SCHOOL
+24, Bankole Street, Pedro, Shomolu, Lagos
+WEEK: 4FIRST TERMSESSION: 2024/2025
+SUBJECT: COMPUTER STUDIES
+TOPIC:  UNITS OF STORAGE
+CLASS:  SS 2
+DATE:  30th September – 4th October 2024.
+REFERENCE BOOKS: New Computer Studies for SS 2 by J.O.E Otuka et al Pages 10-13
+Online with computers for SS 2 by Adedapo F. O. et al 16 - 20
+LEARNING PURPOSE: To provide foundational knowledge on the various units of storage, bits, bytes, nibbles, etc.
+LESSON PERIOD: 1
+DURATION: 40 MINS
+LEARNING OBJECTIVE:  By the end of the lesson, students will be able to:
+Identify the various units of storage.
+State the size of each unit of storage.
+KEYWORDS:
+Storage, Memory, Units, Size, Bytes, Bits, Nibble.
+PREVIOUS LEARNING: The students are familiar with the memory units.
+INSTRUCTIONAL MATERIALS:
+Interactive board, computer system, Internet
+LEARNING ACTIVITIES IN STEPS:
+Step 1: The teacher marks assignment and makes correction.
+Step 2: The teacher asks questions on previous knowledge
+Step 3: The teacher modifies students’ response and introduces the new topic
+Step 4: Students would be taken through the derailed explanation of the lesson content
+Step 5: Students ask questions on the content of the lesson
+Step 6: Students would be evaluated based on behavioural objectives
+Step 7: Students Assignments are given and notes are marked
+LEARNING TIME FOR EACH STEP:
+Step 1: 3mins
+Step 2: 2mins
+Step 3: 3mins
+Step 4: 20mins
+Step 5: 2mins
+Step 6: 7mins
+Step 7: 3mins
+LEARNING SKILLS:
+Critical thinking, creative thinking, communicating and leadership development
+ACTIVITY
+List seven units of storage.
+EVALUATIVE QUESTIONS:
+List five various units of storage.
+State the size of each unit of storage listed above.
+ASSIGNMENT
+State the size of the following units:
+Bytes
+Kilobytes
+Megabytes
+Gigabytes
+Terabytes
+UNITS OF STORAGE
+Memory storage is measured in various units, including:
+Binary Digit (BIT): This refers to the smallest basic unit of information that can be stored on a machine. It exists in one of two possible distinct states(0 or 1).
+NIBBLE: In computing, a nibble is a four-bit aggregation, or half a byte.
+Byte (B): The basic unit of digital data, consisting of 8 bits.
+Size: 1 byte = 8 bits.
+Kilobyte (KB): A unit of digital information storage equal to 1,024 bytes.
+Size: 1 KB = 1,024 bytes.
+Megabyte (MB): A unit of digital information storage equal to 1,024 kilobytes.
+Size: 1 MB = 1,024 KB or 1,048,576 bytes.
+Gigabyte (GB): A unit of digital information storage equal to 1,024 megabytes.
+Size: 1 GB = 1,024 MB or 1,073,741,824 bytes.
+Terabyte (TB): A unit of digital information storage equal to 1,024 gigabytes.
+Size: 1 TB = 1,024 GB or 1,099,511,627,776 bytes.
+UNITS CONVERSION
+NOTE:
+To convert from larger to smaller units, multiply
+To convert from smaller to larger units, divide
+ENGREG HIGH SCHOOL
+24, Bankole Street, Pedro, Shomolu, Lagos
+WEEK: 4FIRST TERMSESSION: 2024/2025
+SUBJECT: COMPUTER STUDIES
+TOPIC:  UNITS OF STORAGE
+CLASS:  SS 2
+DATE:  30th September – 4th October 2024.
+REFERENCE BOOKS: New Computer Studies for SS 2 by J.O.E Otuka et al Pages 10-13
+Online with computers for SS 2 by Adedapo F. O. et al 16 - 20
+LEARNING PURPOSE: To provide foundational knowledge on the conversion of various units of storage.
+LESSON PERIOD: 2
+DURATION: 40 MINS
+LEARNING OBJECTIVE:  By the end of the lesson, students will be able to:
+Convert from larger to smaller unit.
+Convert from smaller to larger unit.
+KEYWORDS:
+Bytes, Kilobytes, Megabytes, Bits, Gigabytes, Terabytes, Nibble.
+PREVIOUS LEARNING: The students are familiar with the various storage units and their sizes.
+INSTRUCTIONAL MATERIALS:
+Interactive board, computer system, Internet
+LEARNING ACTIVITIES IN STEPS:
+Step 1: The teacher marks assignment and makes correction.
+Step 2: The teacher asks questions on previous knowledge
+Step 3: The teacher modifies students’ response and introduces the new topic
+Step 4: Students would be taken through the derailed explanation of the lesson content
+Step 5: Students ask questions on the content of the lesson
+Step 6: Students would be evaluated based on behavioural objectives
+Step 7: Students Assignments are given and notes are marked
+LEARNING TIME FOR EACH STEP:
+Step 1: 3mins
+Step 2: 2mins
+Step 3: 3mins
+Step 4: 20mins
+Step 5: 2mins
+Step 6: 7mins
+Step 7: 3mins
+LEARNING SKILLS:
+Critical thinking, creative thinking, communicating and leadership development
+ACTIVITY
+Convert 2TB to MB
+Convert 12MB TO KB
+EVALUATIVE QUESTIONS:
+Convert from larger (15GB) to smaller unit (MB).
+Convert from smaller (320 bits) to larger unit (nibble).
+ASSIGNMENT
+Convert 12MB to bytes.
+Convert 15GB to KB
+Convert 20TB to GB
+Convert 144 bits to nibble.
+Convert 1,624 bits to bytes.
+CONVERSION OF UNITS
+EXAMPLES:
+Convert 108 bits to byte.
+8bits = 1 byte
+108 bits = ?
+Cross Multiply
+108x1 = 8
+Divide by 8
+108/8 = 13.5bytes
+Convert 320 bits to nibble.
+4bits = 1 nibble
+320bits = ?
+Cross Multiply
+320x1 = 4
+Divide by 4
+320/4 = 80nibbles
+Convert 15GB to MB
+1GB = 1024MB
+15GB = ?
+Cross Multiply
+15x1024 = 15,360MB
+ACTIVITY
+Convert 12MB TO KB
+1MB = 1024KB
+12MB = ?
+Cross Multiply
+1024x12 = 12,288KB
+Convert 2TB to MB
+First convert to Gigabyte
+1TB = 1024GB
+2TB = ?
+Cross Multiply
+2x1024 = 2048GB
+Convert from GB to MB
+1GB = 1024MB
+2048 = ?
+Cross Multiply
+2048x1024 = 2,097,152MB
+ASSIGNMENT
+Convert 12MB to bytes.
+Convert 15GB to KB
+Convert 20TB to GB
+Convert 144 bits to nibble.
+Convert 1,624 bits to bytes.

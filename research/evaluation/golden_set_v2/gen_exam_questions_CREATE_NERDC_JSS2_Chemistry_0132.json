@@ -1,0 +1,31 @@
+{
+  "id": "gen_exam_questions_CREATE_NERDC_JSS2_Chemistry_0132",
+  "generated": "NERDC EXAMINATION \u2014 Chemistry | JSS2\n\nQuestion 1: Create the fundamental principles of Chemistry. Use examples relevant to the Nigerian context. [8 marks]\n\nQuestion 2: A student named Ngozi is studying Chemistry. She must create the relationship between two key concepts. Explain the steps she should follow and justify each step. [12 marks]\n\nQuestion 3: Evaluate the importance of Chemistry in the Nigerian secondary school curriculum. Support your answer with specific examples. [10 marks]",
+  "reference": "WAEC-style Chemistry questions at JSS2.\n1. Design the key principles of Chemistry. [5 marks]\n2. Apply your knowledge to a Nigerian context scenario. [10 marks]",
+  "metadata": {
+    "content_type": "exam_questions",
+    "bloom_level": "CREATE",
+    "board": "NERDC",
+    "education_level": "JSS2",
+    "subject": "Chemistry",
+    "output_language": "yo",
+    "generation_method": "systematic_parameter_variation"
+  },
+  "expected": {
+    "bloom_level": "CREATE",
+    "output_language": "yo",
+    "skill_tags": [
+      "assessment_design",
+      "question_construction",
+      "bloom_alignment"
+    ],
+    "format_markers": [
+      "question",
+      "answer",
+      "mark"
+    ]
+  },
+  "spot_check_required": false,
+  "human_validated": false,
+  "annotation_notes": ""
+}

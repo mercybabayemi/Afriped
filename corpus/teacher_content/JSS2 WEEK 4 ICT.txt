@@ -1,0 +1,128 @@
+ENGREG HIGH SCHOOL
+24, Bankole Street, Pedro, Shomolu, Lagos
+WEEK: 4FIRST TERMSESSION: 2024/2025
+SUBJECT: COMPUTER STUDIES
+TOPIC: HARDWARE COMPONENTS
+CLASS:  JSS 2
+DATE: 30th September - 4th October, 2024
+REFERENCE BOOKS: New Computer Studies for JSS 2 by J.O.E Otuka et al Pages 6 - 15
+WABP ICT for JSS 2 by Vincent Hope et al Pages 6 - 15
+LEARNING PURPOSE: The Computer System would be to help students understand the foundational structure and functionality of a computer. By studying the definition and components of a computer system, students will be able to:
+1. Understand the concept of a computer system
+2. Identify the key components of a computer
+3. Recognize the relationship between hardware, software, and human interaction: Students will learn how the physical parts (hardware) and programs (software) work together with human input to perform tasks.
+LESSON PERIOD: 1
+DURATION: 40 MINS
+LEARNING OBJECTIVE:  By the end of the lesson, students will be able to:
+Define computer hardware components
+Identify types of hardware components
+Recognise examples of hardware components
+KEYWORDS:
+Computer,  Humanware
+PREVIOUS LEARNING: The students are familiar with the classifications of computer based on size, purpose and functionality.
+INSTRUCTIONAL MATERIALS:
+Interactive board, computer system, Internet
+LEARNING ACTIVITIES IN STEPS:
+Step 1: The teacher marks assignment and makes correction.
+Step 2: The teacher asks questions on previous knowledge
+Step 3: The teacher modifies students’ response and introduces the new topic
+Step 4: Students would be taken through the derailed explanation of the lesson content
+Step 5: Students ask questions on the content of the lesson
+Step 6: Students would be evaluated based on behavioural objectives
+Step 7: Students Assignments are given and notes are marked
+LEARNING TIME FOR EACH STEP:
+Step 1: 3mins
+Step 2: 2mins
+Step 3: 3mins
+Step 4: 20mins
+Step 5: 2mins
+Step 6: 7mins
+Step 7: 3mins
+LEARNING SKILLS:
+Critical thinking, creative thinking, communicating and leadership development
+ACTIVITY
+Define hardware components
+Define output devices
+EVALUATIVE QUESTIONS:
+Define input devices
+List examples of output devices
+ASSIGNMENT
+1. List examples of input devices
+HARDWARE COMPONENTS
+Hardware components are the physical, tangible parts of a computer system. They are the devices and equipment that make up the computer's structure.
+Types:
+1.  Input Devices: These devices allow users to input data into the computer. Examples include:
+Keyboard
+Mouse
+Scanner
+Microphone
+Webcam
+2. Output Devices: These devices display or present the processed data to the user. Examples include:
+Monitor
+Printer
+Speaker
+Projector
+3. Processing Unit (CPU): This is the "brain" of the computer, responsible for executing instructions and performing calculations.
+Memory: This stores data and instructions for the CPU to access. There are two main types:
+RAM (Random Access Memory): Temporary storage for data and instructions.
+ROM (Read-Only Memory): Permanent storage for essential system data.
+ENGREG HIGH SCHOOL
+24, Bankole Street, Pedro, Shomolu, Lagos
+WEEK: 4FIRST TERMSESSION: 2024/2025
+SUBJECT: COMPUTER STUDIES
+TOPIC: STORAGE DEVICES
+CLASS:  JSS 2
+DATE: 30th September - 4th October, 2024
+REFERENCE BOOKS: New Computer Studies for JSS 2 by J.O.E Otuka et al Pages 6 - 15
+WABP ICT for JSS 2 by Vincent Hope et al Pages 6-15
+LEARNING PURPOSE:  The Computer System would be to help students understand the foundational structure and functionality of a computer. By studying the definition and components of a computer system, students will be able to:
+1. Understand the concept of a computer system
+2. Identify the key components of a computer
+3. Recognize the relationship between hardware, software, and human interaction.
+LESSON PERIOD: 2
+DURATION: 40 MINS
+LEARNING OBJECTIVE:  By the end of the lesson, students will be able to:
+Define storage devices.
+Identify network components
+Recognise examples of storage devices.
+KEYWORDS:
+Computer, Storage, Network.
+PREVIOUS LEARNING: The students are familiar with the components of a computer hardware.
+INSTRUCTIONAL MATERIALS:
+Interactive board, computer system, Internet
+LEARNING ACTIVITIES IN STEPS:
+Step 1: The teacher marks assignment and makes correction.
+Step 2: The teacher asks questions on previous knowledge
+Step 3: The teacher modifies students’ response and introduces the new topic
+Step 4: Students would be taken through the derailed explanation of the lesson content
+Step 5: Students ask questions on the content of the lesson
+Step 6: Students would be evaluated based on behavioural objectives
+Step 7: Students Assignments are given and notes are marked
+LEARNING TIME FOR EACH STEP:
+Step 1: 3mins
+Step 2: 2mins
+Step 3: 3mins
+Step 4: 20mins
+Step 5: 2mins
+Step 6: 7mins
+Step 7: 3mins
+LEARNING SKILLS:
+Critical thinking, creative thinking, communicating and leadership development
+ACTIVITY
+Define storage devices and give 2 examples.
+EVALUATIVE QUESTIONS:
+Define storage devices.
+Identify network components
+List 4 examples of storage devices.
+ASSIGNMENT
+List 4 Examples of network components
+4. STORAGE DEVICES: These store data for long-term use. Examples include:
+Hard Disk Drive (HDD)
+Solid-State Drive (SSD)
+USB Flash Drive
+Optical Disc (CD, DVD, Blu-ray)
+5. NETWORK COMPONENTS: These devices enable computers to connect to each other and the internet. Examples include:
+Network Interface Card (NIC)
+Router
+Modem
+Switch

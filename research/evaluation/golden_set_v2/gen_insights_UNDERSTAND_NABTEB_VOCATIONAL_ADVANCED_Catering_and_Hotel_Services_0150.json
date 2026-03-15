@@ -1,0 +1,31 @@
+{
+  "id": "gen_insights_UNDERSTAND_NABTEB_VOCATIONAL_ADVANCED_Catering_and_Hotel_Services_0150",
+  "generated": "CONTENT ANALYSIS \u2014 Catering and Hotel Services | VOCATIONAL_ADVANCED\n\nBloom Level Detected: UNDERSTAND\nCultural Authenticity: Nigerian names and contexts present (Aminu, Kemi, Okonkwo)\nReadability: Appropriate for VOCATIONAL_ADVANCED level\nFormat Compliance: All required sections present\nRecommendations: Content effectively requires students to describe. Consider adding more open-ended questions targeting the EVALUATE level.",
+  "reference": "Insights: Catering and Hotel Services content analysis for VOCATIONAL_ADVANCED level.\nBloom level detected: UNDERSTAND. Recommendation: add more explain activities.",
+  "metadata": {
+    "content_type": "insights",
+    "bloom_level": "UNDERSTAND",
+    "board": "NABTEB",
+    "education_level": "VOCATIONAL_ADVANCED",
+    "subject": "Catering and Hotel Services",
+    "output_language": "en",
+    "generation_method": "systematic_parameter_variation"
+  },
+  "expected": {
+    "bloom_level": "UNDERSTAND",
+    "output_language": "en",
+    "skill_tags": [
+      "content_analysis",
+      "bloom_classification",
+      "readability_assessment"
+    ],
+    "format_markers": [
+      "analysis",
+      "recommendation",
+      "level"
+    ]
+  },
+  "spot_check_required": false,
+  "human_validated": false,
+  "annotation_notes": ""
+}

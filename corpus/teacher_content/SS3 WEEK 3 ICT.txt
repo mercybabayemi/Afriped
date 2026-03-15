@@ -1,0 +1,129 @@
+ENGREG HIGH SCHOOL
+24, Bankole Street, Pedro, Shomolu, Lagos
+WEEK: 3FIRST TERMSESSION: 2024/2025
+SUBJECT: COMPUTER STUDIES
+TOPIC: INTRODUCTION TO WORLD WIDE WEB
+CLASS:  SS 3
+DATE: 23rd  – 27th September, 2024
+REFERENCE BOOKS: New Computer Studies for SS 3 by J.O.E Otuka et al Pages 12-15
+Online with computers for SS 3 by Adedapo F. O. et al 19-22
+LEARNING PURPOSE: Students will Gain insight into when the world wide web was developed, its definition and basic terms associated with the www.
+LESSON PERIOD: 1
+DURATION: 40 MINS
+LEARNING OBJECTIVE:  By the end of the lesson, students will be able to:
+Define WWW
+State basic WWW terminologies.
+Describe the history of WWW
+KEYWORDS: WWW, HTML, Website, Webpage, Homepage.
+PREVIOUS LEARNING:  The students are familiar with Network cables from previous lesson.
+INSTRUCTIONAL MATERIALS:
+Interactive board, computer system, Internet
+LEARNING ACTIVITIES IN STEPS:
+Step 1: The teacher marks assignment and makes correction.
+Step 2: The teacher asks questions on previous knowledge
+Step 3: The teacher modifies students’ response and introduces the new topic
+Step 4: Students would be taken through the derailed explanation of the lesson content
+Step 5: Students ask questions on the content of the lesson
+Step 6: Students would be evaluated based on behavioural objectives
+Step 7: Students Assignments are given and notes are marked
+LEARNING TIME FOR EACH STEP:
+Step 1: 3mins
+Step 2: 2mins
+Step 3: 3mins
+Step 4: 20mins
+Step 5: 2mins
+Step 6: 7mins
+Step 7: 3mins
+LEARNING SKILLS:
+Critical thinking, creative thinking, communicating and leadership development
+ACTIVITY
+List and explain five basic WWW terminologies.
+EVALUATIVE QUESTIONS:
+Define WWW
+State three basic WWW terminologies.
+Describe the history of WWW
+ASSIGNMENT
+Write a brief history of the WWW.
+INTRODUCTION TO WORLD WIDE WEB
+World Wide Web Overview
+The World Wide Web (WWW) is a system of interlinked hypertext documents accessed via the internet. It allows users to read and write information on web pages through devices connected to the internet.
+Web development refers to the process of creating and maintaining websites. It involves coding, designing, and managing web applications to ensure they function properly online.
+HISTORY OF THE WORLD WIDE WEB
+1979 – 1991: Development phase led by Tim Berners-Lee at CERN. The web evolved from a project to enhance CERN communication into a global concept. 1989: Tim Berners-Lee proposed the web to facilitate file sharing at CERN.
+1992 – 1995: Growth phase, marked by an increase in websites and users. 1995: Introduction of the internet in Nigeria through RINAF, marking the start of widespread internet use in the country.
+1996 – 1998: Commercialization of the web led to the development of web technologies and widespread use.
+1999 – 2001: The dot-com boom and burst due to overvaluation of tech stocks.
+2002 – Present: The web becomes an integral part of everyday life and various industries.
+BASIC TERMINOLOGIES
+WWW: World Wide Web, the network of websites, resources, and users utilizing HTTP.
+Website: A set of related web pages served from a single web domain.
+Webpage: A document written in HTML, accessible through a browser.
+Homepage: The main or initial page of a website.
+Protocols: Rules governing communication between computers in a network (e.g., HTTP).
+HTML: The primary language used for creating web pages.
+Web Browser: Software that allows users to access and interact with web pages (e.g., Chrome, Firefox).
+ENGREG HIGH SCHOOL
+24, Bankole Street, Pedro, Shomolu, Lagos
+WEEK: 3FIRST TERMSESSION: 2024/2025
+SUBJECT: COMPUTER STUDIES
+TOPIC: USES OF THE WORLD WIDE WEB
+CLASS:  SS 3
+DATE: 23rd  – 27th September, 2024
+REFERENCE BOOKS: New Computer Studies for SS 3 by J.O.E Otuka et al Pages 12-15
+Online with computers for SS 3 by Adedapo F. O. et al 19-22
+LEARNING PURPOSE: Students will Gain insight into the uses of the world wide web and gain knowledge on some web development software.
+LESSON PERIOD: 2
+DURATION: 40 MINS
+LEARNING OBJECTIVE:  By the end of the lesson, students will be able to:
+State uses of the internet.
+List some softwares used for web development.
+KEYWORDS: WWW, HTML, Website, Webpage, Homepage.
+PREVIOUS LEARNING:  The students are familiar the world wide web, its definition and history.
+INSTRUCTIONAL MATERIALS:
+Interactive board, computer system, Internet
+LEARNING ACTIVITIES IN STEPS:
+Step 1: The teacher marks assignment and makes correction.
+Step 2: The teacher asks questions on previous knowledge
+Step 3: The teacher modifies students’ response and introduces the new topic
+Step 4: Students would be taken through the derailed explanation of the lesson content
+Step 5: Students ask questions on the content of the lesson
+Step 6: Students would be evaluated based on behavioural objectives
+Step 7: Students Assignments are given and notes are marked
+LEARNING TIME FOR EACH STEP:
+Step 1: 3mins
+Step 2: 2mins
+Step 3: 3mins
+Step 4: 20mins
+Step 5: 2mins
+Step 6: 7mins
+Step 7: 3mins
+LEARNING SKILLS:
+Critical thinking, creative thinking, communicating and leadership development
+ACTIVITY
+List three soft wares used for web development.
+EVALUATIVE QUESTIONS:
+State five uses of the internet.
+List three softwares used for web development.
+ASSIGNMENT
+State five uses of the internet.
+USES OF THE WORLD WIDE WEB
+Advertising: Offers a cheaper, more flexible option compared to traditional media.
+E-Learning: Facilitates learning through online platforms and courses.
+Market Expansion: Helps businesses reach global audiences.
+E-Commerce: Allows buying and selling of products online.
+Convenience: Provides access to information and services from anywhere.
+Growth and Revenue: Increases business sales and market reach.
+SOFTWARE FOR WEB DEVELOPMENT
+Code Editors:
+Visual Studio Code: Open-source editor with extensive features.
+Sublime Text: Fast, customizable text editor.
+Integrated Development Environments (IDEs):
+WebStorm: IDE for JavaScript and web development.
+Adobe Dreamweaver: Popular for web design.
+Frameworks and Libraries:
+React: JavaScript library for building user interfaces.
+Angular: TypeScript-based framework for dynamic web applications.
+Vue.js: Progressive framework for building user interfaces.
+Content Management Systems (CMS):
+WordPress: Widely used CMS for building websites and blogs.
+Joomla: Flexible CMS with customizable options.

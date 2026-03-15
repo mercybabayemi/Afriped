@@ -1,0 +1,127 @@
+ENGREG HIGH SCHOOL
+24, Bankole Street, Pedro, Shomolu, Lagos
+WEEK:  9        FIRST TERMSESSION: 2024/2025
+SUBJECT: DATA PROCESSING
+TOPIC: APPLICATION OF ICT IN EVERY DAY LIFE
+CLASS:  SS 1
+DATE: 4th – 8th November, 2024.
+REFERENCE BOOKS:  A Textbook for Data Processing SS 1 by Adedapo F. O. et al Pages 16 - 17
+Data Processing Textbook for SS 1 by Aboyede Jegede 15 - 17
+LEARNING PURPOSE: To provide foundational knowledge on the application of ICT in everyday life.
+LESSON PERIOD: 1
+DURATION: 40 MINS
+LEARNING OBJECTIVE:  By the end of the lesson, students will be able to:
+Define ICT.
+State the uses of ICT in different sectors.
+KEYWORDS: ICT, HEALTHCARE, EDUCATION, BUSINESS, FINANCE.
+PREVIOUS LEARNING: The students are familiar with the digitalization of data.
+INSTRUCTIONAL MATERIALS:
+Interactive board, computer system, Internet
+LEARNING ACTIVITIES IN STEPS:
+Step 1: The teacher marks assignment and makes correction.
+Step 2: The teacher asks questions on previous knowledge
+Step 3: The teacher modifies students’ response and introduces the new topic
+Step 4: Students would be taken through the derailed explanation of the lesson content
+Step 5: Students ask questions on the content of the lesson
+Step 6: Students would be evaluated based on behavioural objectives
+Step 7: Students Assignments are given and notes and marked
+LEARNING TIME FOR EACH STEP:
+Step 1: 3mins
+Step 2: 2mins
+Step 3: 3mins
+Step 4: 20mins
+Step 5: 2mins
+Step 6: 7mins
+Step 7: 3mins
+LEARNING SKILLS:
+Critical thinking, creative thinking, communicating and leadership development
+ACTIVITY
+Define ICT.
+List six sectors that use ICT.
+EVALUATIVE QUESTIONS:
+Define ICT.
+State the uses of ICT in different sectors.
+ASSIGNMENT
+State the uses of ICT in
+Education.
+Finance.
+Healthcare
+Entertainment.
+APPLICATION OF ICT IN EVERY DAY LIFE
+Information and Communication Technology (ICT) encompasses a broad range of technologies used to process, communicate, store, and retrieve information, including computers, software, telecommunications, networks, and mobile devices.
+ICT is fundamental in everyday life, enabling faster communication, access to information, and automation of tasks in various sectors.
+USES OF ICT IN EVERYDAY LIFE
+Education:
+Platforms like Coursera and virtual classrooms allow access to education anytime.
+Tools like smartboards and educational apps enhance learning experiences.
+Communication:
+Platforms like Facebook and WhatsApp enable global communication.
+Services like Gmail and Skype allow instant communication.
+Healthcare:
+Remote diagnosis and treatment via video conferencing.
+Digital storage of patient information improves healthcare efficiency.
+Business:
+Online shopping platforms like Amazon enable digital buying and selling.
+Businesses use cloud services for data storage and collaboration.
+Finance:
+Secure online transactions and bill payments.
+Blockchain technology supports digital currencies like Bitcoin.
+Entertainment:
+Instant access to movies and music via platforms like Netflix.
+Platforms like YouTube enable content creation and consumption.
+Government:
+Online services improve transparency and efficiency.
+ICT enhances surveillance and emergency response systems.
+ENGREG HIGH SCHOOL
+24, Bankole Street, Pedro, Shomolu, Lagos
+WEEK:  9        FIRST TERMSESSION: 2024/2025
+SUBJECT: DATA PROCESSING
+TOPIC: ICT AND THE SOCIETY
+CLASS:  SS 1
+DATE: 4th – 8th November, 2024.
+REFERENCE BOOKS:  A Textbook for Data Processing SS 1 by Adedapo F. O. et al Pages 16 - 17
+Data Processing Textbook for SS 1 by Aboyede Jegede 15 - 17
+LEARNING PURPOSE: To provide foundational knowledge on the impacts of ICT in the Society.
+LESSON PERIOD: 2
+DURATION: 40 MINS
+LEARNING OBJECTIVE:  By the end of the lesson, students will be able to:
+Explain different concepts in which ICT affects the society.
+KEYWORDS: ICT, Digital Divide, Social Change, Economic Impact, Privacy and Security.
+PREVIOUS LEARNING: The students are familiar with the application of ICT in everyday life.
+INSTRUCTIONAL MATERIALS:
+Interactive board, computer system, Internet
+LEARNING ACTIVITIES IN STEPS:
+Step 1: The teacher marks assignment and makes correction.
+Step 2: The teacher asks questions on previous knowledge
+Step 3: The teacher modifies students’ response and introduces the new topic
+Step 4: Students would be taken through the derailed explanation of the lesson content
+Step 5: Students ask questions on the content of the lesson
+Step 6: Students would be evaluated based on behavioural objectives
+Step 7: Students Assignments are given and notes and marked
+LEARNING TIME FOR EACH STEP:
+Step 1: 3mins
+Step 2: 2mins
+Step 3: 3mins
+Step 4: 20mins
+Step 5: 2mins
+Step 6: 7mins
+Step 7: 3mins
+LEARNING SKILLS:
+Critical thinking, creative thinking, communicating and leadership development
+ACTIVITY
+Explain how ICT impacts the society in the following terms.
+Digital Divide ii. Social Change
+EVALUATIVE QUESTIONS:
+Explain different concepts in which ICT affects the society.
+ASSIGNMENT
+Explain how ICT impacts the society in the following terms.
+Economic Impact ii. Privacy and Security
+ICT AND SOCIETY
+Economic Impact:
+ICT is a key driver of economic growth. It enables businesses to operate more efficiently, reach global markets, and offer new services like e-commerce. ICT has also created new industries, such as software development, digital marketing, and data analytics.
+Social Change:
+ICT enables individuals to share their opinions, join global movements, and advocate for social causes through social media. It also raises awareness of global issues like climate change, human rights, and public health.
+Digital Divide:
+Despite the positive impacts, ICT also creates a digital divide between those who have access to technology and those who don’t, particularly in developing countries or rural areas. This gap affects access to education, jobs, and information.
+Privacy and Security:
+With the rise of ICT, concerns about privacy and security have emerged. Cyberattacks, data breaches, and the misuse of personal information pose risks in both personal and professional contexts.

@@ -1,0 +1,16 @@
+{
+  "generated": "Geography Lesson Plan\nSubject: Geography\nTopic: Population Distribution in Nigeria\nClass: SSS1 | Duration: 40 minutes | Board: NERDC\n\nObjective: By the end of this lesson, students will be able to:\n1. Apply the population density formula to calculate densities for different states\n2. Use a population map to identify high- and low-density zones\n3. Explain push and pull factors of migration using a case study\n\nMaterials: NERDC Geography textbook SSS1, population maps, calculators, whiteboard.\n\nIntroduction (5 min):\nTeacher Aminu asks: 'How many of you have moved from a smaller town to this city?' Hands go up. Fatima explains her family moved from the countryside. The class discusses why people move.\n\nMain Activity (25 min):\n1. Teacher introduces population density formula: Density = Population ÷ Area (km²).\n2. Students calculate densities: Lagos, Kano, Benue.\n3. Ngozi and Ibrahim use the population map to identify patterns.\n4. Class discusses push-pull theory: Musa explains push factors, Zainab explains pull factors.\n5. Group activity: solve a real problem about population data.\n\nAssessment (10 min):\nStudents apply the formula and justify which state faces greater urban pressure.\n\nClosure:\nRecap formula. Homework: Calculate density for home state.",
+  "reference": "NERDC SSS1 Geography lesson on population distribution in Nigeria covering density calculations, mapping, and push-pull migration factors with Nigerian names and data.",
+  "content_type": "LESSON_PLAN",
+  "subject": "geography",
+  "topic": "Population Distribution in Nigeria",
+  "education_level": "SSS1",
+  "curriculum_board": "NERDC",
+  "expected_bloom": "APPLY",
+  "expected_language": "en",
+  "expected_skills": ["Numerical Reasoning", "Problem Solving", "Critical Thinking"],
+  "detected_skills": ["Numerical Reasoning", "Problem Solving"],
+  "ablation_condition": "rules_only",
+  "rules_triggered": ["cultural_flag_check"],
+  "notes": "Rules-only correction: Western names (John, Mary, Peter, James, Michael, Elizabeth) replaced with Nigerian names (Aminu, Fatima, Ngozi, Ibrahim, Musa, Zainab) via template substitution. Format and bloom already adequate. Rule-based name substitution works but doesn't add the rich Nigerian population data context (Lagos 14M, Kano 13M, Benue 5.7M) that the full RAQ revision added."
+}

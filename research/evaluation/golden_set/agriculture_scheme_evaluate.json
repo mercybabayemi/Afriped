@@ -1,0 +1,31 @@
+{
+  "generated": "## SSS1 Agricultural Science Scheme of Work — Term 2: Crop Production and Soil Management\n**Curriculum Board:** NERDC | **Education Level:** SSS1 | **Duration:** 13 Weeks\n\n### Learning Objectives\nStudents will:\n- Evaluate the suitability of different soil types for crop cultivation in Nigerian agro-ecological zones\n- Assess the effectiveness of fertiliser types (organic vs inorganic) for smallholder farming\n- Justify the use of crop rotation, intercropping, and mixed farming practices\n- Judge the environmental impact of land clearing methods (bush burning vs zero-tillage)\n\n---\n\n| Week | Topic | Sub-topic | Learning Objectives | Activities | Assessment |\n|---|---|---|---|---|---|\n| Week 1 | Soils and Cropping | Soil types in Nigeria | Evaluate sandy, loamy, and clay soils for yam, cassava, and maize cultivation | Soil texture test using samples from school garden; Ngozi records observations | Oral Q&A |\n| Week 2 | Soils and Cropping | Soil pH and nutrients | Assess soil pH requirements for common Nigerian food crops | pH strip test of three soil samples; Aminu records pH and suggests crops | Worksheet |\n| Week 3 | Fertilisers | Organic fertilisers | Evaluate compost and animal manure as alternatives to chemical inputs | Compost heap inspection; Ibrahim argues pros/cons vs synthetic fertiliser | Group debate |\n| Week 4 | Fertilisers | Inorganic fertilisers | Assess the role of N, P, K fertilisers in crop yield; evaluate over-application risks | Calculate N:P:K ratios on fertiliser bags; Tunde evaluates soil report data | Problem set |\n| Week 5 | Fertilisers | Comparative evaluation | Judge which fertiliser type is more appropriate for subsistence farmers in Benue State | Case study: two model farms — Biodun's organic vs commercial inorganic | Structured essay |\n| Week 6 | Land Preparation | Methods and tools | Evaluate manual, mechanical, and zero-tillage methods for different farm sizes | Field visit (or video): evaluate costs, yields, and environmental impact | Comparison chart |\n| Week 7 | Land Preparation | Bush burning debate | Critique bush burning as land preparation; assess the environmental damage vs traditional justification | Structured class debate: Kemi argues for, Halima argues against bush burning | Debate assessment |\n| Week 8 | Planting Systems | Monoculture vs intercropping | Evaluate the economic and nutritional advantages of intercropping over monoculture | Compare farm layout diagrams; assess yield data from IITA trial plots | Written comparison |\n| Week 9 | Planting Systems | Crop rotation | Justify crop rotation as a soil fertility management strategy | Design a 3-year rotation plan for a model farm in Plateau State | Practical design task |\n| Week 10 | Pests and Diseases | Identification | Identify common pests (stem borer, aphids) and assess economic damage thresholds | Specimen analysis; assess FMARD pest control guidelines | Identification test |\n| Week 11 | Pests and Diseases | Control methods | Evaluate biological, chemical, and cultural control — assess IPM as best practice | Compare control methods by cost, safety, and effectiveness for small farms | Assessment matrix |\n| Week 12 | Revision | All Term 2 topics | Judge the most critical factors for sustainable crop production in Nigeria | Group presentations: each group argues for their top-ranked practice | Peer-marked presentations |\n| Week 13 | End-of-Term Assessment | All topics | Evaluate overall understanding of crop production and soil management | Written examination | Term exam |",
+  "reference": "NERDC SSS1 Agricultural Science Scheme of Work for Term 2 covering soil types, fertilisers, land preparation, and pest management with evaluative thinking across Nigerian farming contexts.",
+  "content_type": "SCHEME_OF_WORK",
+  "subject": "agricultural_science",
+  "topic": "Crop Production and Soil Management — Term 2",
+  "education_level": "SSS1",
+  "curriculum_board": "NERDC",
+  "expected_bloom": "EVALUATE",
+  "expected_language": "en",
+  "expected_skills": ["Critical Thinking", "Analytical Thinking", "Problem Solving"],
+  "detected_skills": ["Critical Thinking", "Analytical Thinking", "Problem Solving"],
+  "validation": {
+    "status": "PASSED",
+    "rules_passed": [
+      "length_check",
+      "language_detection",
+      "bloom_verb_presence",
+      "cultural_flag_check",
+      "no_hallucinated_dates",
+      "no_explicit_content",
+      "curriculum_alignment",
+      "format_compliance"
+    ],
+    "rules_failed": [],
+    "judge_score": null,
+    "judge_dimensions": null,
+    "revision_count": 0,
+    "notes": []
+  }
+}

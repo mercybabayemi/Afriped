@@ -1,0 +1,148 @@
+ENGREG HIGH SCHOOL
+24, Bankole Street, Pedro, Shomolu, Lagos
+SS 2 DATA PROCESSING SCHEME OF WORK
+2024/2025 SESSION
+FIRST TERM
+WEEKS
+TOPIC
+SUB-TOPIC
+ONE
+Data Models
+Definition, Parts and types of Data Modelling.
+TWO
+Data Modelling
+Definition, approaches, Library Database, Significance of data model.
+THREE
+Normal Form I
+Data Normalization, Definition of Normal Form and its various types.
+FOUR
+Normal Form II
+Problems facing the first normal form, Example of tables in First, Second and Third Normal form.
+FIVE
+Entity Relationship Model I
+Definition, Entities, Attributes and its types
+SIX
+Entity Relationship Model II
+Relationship between entities.
+SEVEN
+Relational Model I
+Definition, Concepts,
+EIGHT
+Relational Model II
+Relational Model Keys, Integrity Constraints over Relations.
+NINE
+Relational Model III
+Creating a database, Querying a database,
+TEN
+Revision
+ELEVEN
+Examination
+ENGREG HIGH SCHOOL
+24, Bankole Street, Pedro, Shomolu, Lagos
+WEEK: 1FIRST TERMSESSION: 2024/2025
+SUBJECT: DATA PROCESSING
+TOPIC: DATA MODELS
+CLASS:  SS 2
+DATE: 9th – 13th September, 2024
+REFERENCE BOOKS:  A Textbook for Data Processing SS 2 by Adedapo F. O. et al Pages 1-7
+Data Processing Textbook for SS 2 by Aboyede Jegede 1 - 8
+LEARNING PURPOSE: To provide learners with a foundational understanding of data modelling, its types and approaches.
+LESSON PERIOD: 1
+DURATION: 40 MINS
+LEARNING OBJECTIVE:  By the end of the lesson, students will be able to:
+Define Data Model.
+Define Data Modelling.
+List the types of data modelling.
+KEYWORDS: Data Model, Data Modelling, Hierarchical, Approaches.
+PREVIOUS LEARNING: The students are familiar with how database management system.
+INSTRUCTIONAL MATERIALS:
+Interactive board, computer system, Internet
+LEARNING ACTIVITIES IN STEPS:
+Step 1: The teacher marks assignment and makes correction.
+Step 2: The teacher asks questions on previous knowledge
+Step 3: The teacher modifies students’ response and introduces the new topic
+Step 4: Students would be taken through the derailed explanation of the lesson content
+Step 5: Students ask questions on the content of the lesson
+Step 6: Students would be evaluated based on behavioural objectives
+Step 7: Students Assignments are given and notes and marked
+LEARNING TIME FOR EACH STEP:
+Step 1: 3mins
+Step 2: 2mins
+Step 3: 3mins
+Step 4: 20mins
+Step 5: 2mins
+Step 6: 7mins
+Step 7: 3mins
+LEARNING SKILLS:
+Critical thinking, creative thinking, communicating and leadership development
+ACTIVITY
+Define data model and modelling.
+EVALUATIVE QUESTIONS:
+Define Data Model.
+Define Data Modelling.
+List 5 types of data modelling.
+ASSIGNMENT
+Explain any two types of data models with the help of a diagram.
+DATA MODEL
+A data model focuses on representing data as the user in the real world perceives it, rather than how a database might interpret it. It remains independent of specific hardware or software constraints.
+Data modeling is the process of creating a visual blueprint that represents a system's data elements and their relationships. It organizes and structures data to support the design, management, and use of databases, ensuring efficient data storage and retrieval.
+Types of Data Models
+Flat- File Model: The flat model is the simplest and earliest data model, consisting of a single table with rows and columns. Data is stored in a flat file, which could be a plain text file or a binary file.
+Hierarchical Data Model: The hierarchical data model is optimized for hierarchical structures, such as an organizational chart. This model works well for representing one-to-many relationships, where data is structured in a tree-like format.
+Network Data Model: The network data model offers a more flexible way to represent objects and their relationships, using nodes and arcs in a graph. Unlike the hierarchical model, the network model allows for more complex many-to-many relationships.
+ENGREG HIGH SCHOOL
+24, Bankole Street, Pedro, Shomolu, Lagos
+WEEK: 1FIRST TERMSESSION: 2024/2025
+SUBJECT: DATA PROCESSING
+TOPIC: DATA MODELS
+CLASS:  SS 2
+DATE: 9th – 13th September, 2024
+REFERENCE BOOKS:  A Textbook for Data Processing SS 2 by Adedapo F. O. et al Pages 1-7
+Data Processing Textbook for SS 2 by Aboyede Jegede 1 - 8
+LEARNING PURPOSE: To provide learners with a foundational understanding of data modelling, its types and approaches.
+LESSON PERIOD: 2
+DURATION: 40 MINS
+LEARNING OBJECTIVE:  By the end of the lesson, students will be able to:
+Explain any two types of data models.
+List the three approaches to data modelling.
+Explain the three different approaches to data modelling.
+KEYWORDS: Data Model, Data Modelling, Hierarchical, Approaches.
+PREVIOUS LEARNING: The students are familiar with how database management system.
+INSTRUCTIONAL MATERIALS:
+Interactive board, computer system, Internet
+LEARNING ACTIVITIES IN STEPS:
+Step 1: The teacher marks assignment and makes correction.
+Step 2: The teacher asks questions on previous knowledge
+Step 3: The teacher modifies students’ response and introduces the new topic
+Step 4: Students would be taken through the derailed explanation of the lesson content
+Step 5: Students ask questions on the content of the lesson
+Step 6: Students would be evaluated based on behavioural objectives
+Step 7: Students Assignments are given and notes and marked
+LEARNING TIME FOR EACH STEP:
+Step 1: 3mins
+Step 2: 2mins
+Step 3: 3mins
+Step 4: 20mins
+Step 5: 2mins
+Step 6: 7mins
+Step 7: 3mins
+LEARNING SKILLS:
+Critical thinking, creative thinking, communicating and leadership development
+ACTIVITY
+Illustrate the Relational type of data model.
+EVALUATIVE QUESTIONS:
+Explain two types of data models.
+List three approaches to data modelling.
+Explain any two approaches to data modelling.
+ASSIGNMENT
+Explain the physical approach of data model.
+TYPES OF DATA MODEL
+Relational Data Model: The relational data model, organizes data into tables, each representing a single logical entity. Relationships between tables are established through columns containing unique identifiers. This model is highly efficient for managing large datasets.
+Entity-Relationship Data Model: The entity-relationship (ER) model is widely used in enterprise applications. It emphasizes minimal redundancy and clearly defined relationships between entities. The key components of the ER model are:
+Entities: Objects, events, people, or concepts represented in tables.
+Attributes: Unique characteristics of each entity, stored as data in columns.
+Relationships: Logical links between entities, representing business rules or constraints.
+Approaches to Data Modeling
+Conceptual Data Model: The conceptual data model provides a high-level overview of the system's key entities and their relationships. This model is independent of technology and application, serving as a foundation for further development.
+Logical Data Model: The logical data model adds more detail to the conceptual model by defining specific entities, attributes, and relationships. It clarifies the data structure, resolves many-to-many relationships, and defines keys, all while remaining independent of specific database technology.
+Physical Data Model: The physical data model translates the logical model into technical specifications for a specific database management system (DBMS). It defines data types, constraints, indexes, and storage details, ensuring that the database is optimized for performance and storage.

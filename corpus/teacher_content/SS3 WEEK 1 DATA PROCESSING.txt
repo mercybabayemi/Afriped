@@ -1,0 +1,161 @@
+ENGREG HIGH SCHOOL
+24, Bankole Street, Pedro, Shomolu, Lagos
+SS 3 DATA PROCESSING SCHEME OF WORK
+2024/2025 SESSION
+FIRST TERM
+WEEKS
+TOPIC
+SUB-TOPIC
+ONE
+Indexes I
+Definition. Clustered and Unclustered
+TWO
+Indexes II
+Primary and Secondary, Concentrated keys, Duplicates
+THREE
+Database Security I
+Introduction, Access Control
+FOUR
+Database Security II
+Role of Database administrator, Encryption.
+FIVE
+Crash Recovery I
+Introduction to Aries, The write-ahead log protocol
+SIX
+Crash Recovery II
+Check Pointing, Media recovery.
+SEVEN
+Parallel and Distributed databases
+Definition, Architecture, Distributed DBMS
+EIGHT
+Networking
+Definition, Types, Uses and Devices
+NINE
+Computer Virus
+Meaning, Types, Warning Signs, Anti-Virus
+TEN
+Career professions in Data Processing
+Computer professionals, Quality of a good professional.
+ELEVEN
+Revision
+TWELVE
+Examination
+ENGREG HIGH SCHOOL
+24, Bankole Street, Pedro, Shomolu, Lagos
+WEEK: 1FIRST TERMSESSION: 2024/2025
+SUBJECT: DATA PROCESSING
+TOPIC: DATA MODELS
+CLASS:  SS 3
+DATE: 9th – 13th September, 2024
+REFERENCE BOOKS:  A Textbook for Data Processing SS 3 by Adedapo F. O. et al Pages 1-7
+Data Processing Textbook for SS 3 by Aboyede Jegede 1 - 8
+LEARNING PURPOSE: To provide learners with a foundational understanding of indexes, types and characteristics.
+LESSON PERIOD: 1
+DURATION: 40 MINS
+LEARNING OBJECTIVE:  By the end of the lesson, students will be able to:
+Define Index.
+List the types of indexes.
+Explain the primary index, stating its types and characteristics.
+KEYWORDS: Index, Primary, Clustered, Secondary, Sparse, Dense.
+PREVIOUS LEARNING: The students are familiar with the database management system.
+INSTRUCTIONAL MATERIALS:
+Interactive board, computer system, Internet
+LEARNING ACTIVITIES IN STEPS:
+Step 1: The teacher marks assignment and makes correction.
+Step 2: The teacher asks questions on previous knowledge
+Step 3: The teacher modifies students’ response and introduces the new topic
+Step 4: Students would be taken through the derailed explanation of the lesson content
+Step 5: Students ask questions on the content of the lesson
+Step 6: Students would be evaluated based on behavioural objectives
+Step 7: Students Assignments are given and notes and marked
+LEARNING TIME FOR EACH STEP:
+Step 1: 3mins
+Step 2: 2mins
+Step 3: 3mins
+Step 4: 20mins
+Step 5: 2mins
+Step 6: 7mins
+Step 7: 3mins
+LEARNING SKILLS:
+Critical thinking, creative thinking, communicating and leadership development
+ACTIVITY
+List the types of indexes with the aid of a diagram.
+EVALUATIVE QUESTIONS:
+Define Index.
+List the types of indexes.
+Explain the primary index, stating its types and characteristics.
+ASSIGNMENT
+Define Primary index and state two characteristics.
+INDEXES
+An index in a database is a data structure designed to enhance the speed of data retrieval operations. It provides a fast lookup mechanism, much like an index in a book that allows you to find information quickly without reading every page. Indexes are particularly useful for speeding up queries, sorting data, and joining tables. An index typically consists of two main columns:
+Search Key: A copy of the primary or candidate key from the database table.
+Data Reference: Pointers to the disk blocks where the actual data records corresponding to the search key are stored.
+TYPES OF INDEXES
+PRIMARY INDEX
+A primary index is built on a table’s primary key, ensuring each entry uniquely corresponds to one row in the table. It determines the order of records on disk and is often a clustered index. The primary index contains records that are usually organized in sorted order.
+Types:
+Dense Index: Contains an index entry for every search key value in the database, making searches fast but requiring more storage space.
+Sparse Index: Stores index entries for only some search key values, reducing storage and maintenance but may be slower for searches.
+Characteristics:
+Guarantees uniqueness of primary key values.
+Often serves as a clustered index, though it does not have to be.
+ENGREG HIGH SCHOOL
+24, Bankole Street, Pedro, Shomolu, Lagos
+WEEK: 1FIRST TERMSESSION: 2024/2025
+SUBJECT: DATA PROCESSING
+TOPIC: DATA MODELS
+CLASS:  SS 3
+DATE: 9th – 13th September, 2024
+REFERENCE BOOKS:  A Textbook for Data Processing SS 3 by Adedapo F. O. et al Pages 1-7
+Data Processing Textbook for SS 3 by Aboyede Jegede 1 - 8
+LEARNING PURPOSE: To provide learners with a foundational understanding of indexes, types and characteristics.
+LESSON PERIOD: 2
+DURATION: 40 MINS
+LEARNING OBJECTIVE:  By the end of the lesson, students will be able to:
+Define Clustered index.
+Define Secondary index.
+State the characteristics of the clustered and non-clustered index.
+KEYWORDS: Index, Primary, Clustered, Secondary, Sparse, Dense.
+PREVIOUS LEARNING: The students are familiar with the database management system.
+INSTRUCTIONAL MATERIALS:
+Interactive board, computer system, Internet
+LEARNING ACTIVITIES IN STEPS:
+Step 1: The teacher marks assignment and makes correction.
+Step 2: The teacher asks questions on previous knowledge
+Step 3: The teacher modifies students’ response and introduces the new topic
+Step 4: Students would be taken through the derailed explanation of the lesson content
+Step 5: Students ask questions on the content of the lesson
+Step 6: Students would be evaluated based on behavioural objectives
+Step 7: Students Assignments are given and notes and marked
+LEARNING TIME FOR EACH STEP:
+Step 1: 3mins
+Step 2: 2mins
+Step 3: 3mins
+Step 4: 20mins
+Step 5: 2mins
+Step 6: 7mins
+Step 7: 3mins
+LEARNING SKILLS:
+Critical thinking, creative thinking, communicating and leadership development
+ACTIVITY
+State three characteristics of the clustered index.
+EVALUATIVE QUESTIONS:
+Define Clustered index.
+Define Secondary index.
+State two characteristics of the clustered and non-clustered index.
+ASSIGNMENT
+State two characteristics of the non-clustered index.
+CLUSTERED INDEX
+A clustered index determines the physical order of data in a table, meaning the rows are stored on disk in the same sequence as the index. Each table can have only one clustered index because the data can be sorted in only one way. Unlike non-clustered indexes, a clustered index organizes the actual data rows in the table itself, rather than just storing pointers to the data.
+Characteristics:
+Data is stored in the order of the clustered index key.
+Often, the primary key serves as the clustered index, but it can be set on any column.
+Insertions or updates may require rearranging the data to maintain the order, which can be resource-intensive.
+UNCLUSTERED (NON-CLUSTERED/SECONDARY) INDEX
+An unclustered index (also known as a non-clustered or secondary index) does not change the physical order of data in a table. Instead, it creates a separate structure with index entries that point to the actual data rows stored elsewhere on disk. Unlike a clustered index, it does not affect how the data is organized.
+Characteristics:
+Multiple unclustered indexes can exist per table.
+It contains pointers to data rows, requiring an additional lookup to retrieve the actual data.
+The physical arrangement of the table remains unchanged, allowing for flexible indexing.
+Can include duplicate values, unlike primary indexes.
+Provides alternative paths to access data, which can speed up queries on non-key columns.

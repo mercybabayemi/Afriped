@@ -1,0 +1,16 @@
+{
+  "generated": "SSS2 Physics — Mechanics | Term 1 Scheme of Work\nCurriculum Board: NERDC | Duration: 13 Weeks\n\n| Week | Topic | Objectives | Activities | Assessment |\n|---|---|---|---|---|\n| Week 1 | Scalars and Vectors | Distinguish scalars from vectors | Card sorting activity | Class quiz |\n| Week 2 | Linear Motion | Analyse motion graphs | Graph plotting | Short test |\n| Week 3 | Velocity-time graphs | Compare uniform vs non-uniform motion | Data collection | Worksheet |\n| Week 4 | Newton's First Law | Analyse inertia using demonstrations | Block demonstration | Oral Q&A |\n| Week 5 | Newton's Second Law | Calculate force using F=ma | Trolley experiment | Lab report |\n| Week 6 | Newton's Third Law | Examine action-reaction pairs | Balloon demonstration | Written exercise |\n| Week 7 | Projectile Motion (H) | Analyse horizontal and vertical components | Ball throw experiment | Practical |\n| Week 8 | Projectile Motion (O) | Compare ranges at different angles | Scale drawings | Quiz |\n| Week 9 | Work and Energy | Distinguish work, energy, power | Problem calculations | Problem set |\n| Week 10 | Conservation of Energy | Analyse energy transformations | Pendulum experiment | Worksheet |\n| Week 11 | Simple Machines | Examine mechanical advantage | Station rotation | Lab report |\n| Week 12 | Revision | Analyse past WAEC questions | Peer teaching | Mock test |\n| Week 13 | Assessment | Examine all topics | Written exam | Term exam |",
+  "reference": "NERDC SSS2 Physics Scheme of Work for Term 1 covering Mechanics with weekly breakdown, Nigerian real-world examples, and analysis-level learning objectives.",
+  "content_type": "SCHEME_OF_WORK",
+  "subject": "physics",
+  "topic": "Mechanics — Term 1",
+  "education_level": "SSS2",
+  "curriculum_board": "NERDC",
+  "expected_bloom": "ANALYZE",
+  "expected_language": "en",
+  "expected_skills": ["Analytical Thinking", "Problem Solving"],
+  "detected_skills": ["Analytical Thinking"],
+  "ablation_condition": "rules_only",
+  "rules_triggered": ["format_compliance", "bloom_verb_presence", "curriculum_alignment"],
+  "notes": "Rules-only correction: (1) Week markers added throughout table. (2) ANALYZE verbs inserted (analyse, compare, distinguish, examine). (3) Table structure added for NERDC alignment. Missing the rich Nigerian context (danfo bus, Kainji Dam, Nigerian student names) that full RAQ revision adds via LLM rewrite."
+}

@@ -1,0 +1,237 @@
+ENGREG HIGH SCHOOL
+24, Bankole Street, Pedro, Shomolu, Lagos
+WEEK: 5FIRST TERMSESSION: 2024/2025
+SUBJECT: COMPUTER STUDIES
+TOPIC: LOGIC GATES
+CLASS:  SS 2
+DATE:  7th – 11th September, 2024.
+REFERENCE BOOKS: New Computer Studies for SS 2 by J.O.E Otuka et al Pages 10-13
+Online with computers for SS 2 by Adedapo F. O. et al 16 - 20
+LEARNING PURPOSE: To provide foundational knowledge on logic gates and its types.
+LESSON PERIOD: 1
+DURATION: 40 MINS
+LEARNING OBJECTIVE:  By the end of the lesson, students will be able to:
+Define Logic Gates
+List the types of logic gates.
+Describe each logic gate.
+Identify the logic gates symbols and their Boolean expressions.
+KEYWORDS:
+Logic Gates, Derived, Alternative, Symbol, Boolean Expression.
+PREVIOUS LEARNING: The students are familiar with the
+INSTRUCTIONAL MATERIALS:
+Interactive board, computer system, Internet
+LEARNING ACTIVITIES IN STEPS:
+Step 1: The teacher marks assignment and makes correction.
+Step 2: The teacher asks questions on previous knowledge
+Step 3: The teacher modifies students’ response and introduces the new topic
+Step 4: Students would be taken through the derailed explanation of the lesson content
+Step 5: Students ask questions on the content of the lesson
+Step 6: Students would be evaluated based on behavioural objectives
+Step 7: Students Assignments are given and notes are marked
+LEARNING TIME FOR EACH STEP:
+Step 1: 3mins
+Step 2: 2mins
+Step 3: 3mins
+Step 4: 20mins
+Step 5: 2mins
+Step 6: 7mins
+Step 7: 3mins
+LEARNING SKILLS:
+Critical thinking, creative thinking, communicating and leadership development
+ACTIVITY
+Define Logic Gates
+List seven types of logic gate and describe any two.
+EVALUATIVE QUESTIONS:
+Define Logic Gates
+List seven types of logic gates.
+Describe three logic gate.
+Identify five logic gates symbols and their Boolean expressions.
+ASSIGNMENT
+In tabular form describe five logic gates stating the Boolean expression and symbol.
+LOGIC GATES
+A logic gate is a basic component of digital circuits, designed to perform logical operations. It takes one or more binary inputs and produces a single binary output.
+They rely on Boolean algebra to process logical operations and are essential in the functioning of digital systems such as computers, phones, and memory devices.
+TYPES OF LOGIC GATES
+The logic gates can be classified into the following major types:
+Basic Logic Gates: - There are three basic logic gates:
+AND Gate
+OR Gate
+NOT Gate
+Universal/Alternate Logic Gates: - In digital electronics, the following two logic gates are considered as universal logic gates:
+NOR Gate
+NAND Gate
+Derived Logic Gates: - The following two are the derived logic gates used in digital systems:
+XOR Gate
+XNOR Gate
+ENGREG HIGH SCHOOL
+24, Bankole Street, Pedro, Shomolu, Lagos
+WEEK: 5FIRST TERMSESSION: 2024/2025
+SUBJECT: COMPUTER STUDIES
+TOPIC: BASIC LOGIC GATES TRUTH TABLES
+CLASS:  SS 2
+DATE:  7th – 11th September, 2024.
+REFERENCE BOOKS: New Computer Studies for SS 2 by J.O.E Otuka et al Pages 10-13
+Online with computers for SS 2 by Adedapo F. O. et al 16 - 20
+LEARNING PURPOSE: To provide foundational knowledge on the truth table of basic logic gates(OR, AND and NOT)
+LESSON PERIOD: 2
+DURATION: 40 MINS
+LEARNING OBJECTIVE:  By the end of the lesson, students will be able to:
+Draw a truth table for a two/three input gates of the OR gate.
+Draw a truth table for a two/three input gates of the AND gate.
+Draw a truth table for the NOT gate.
+State the uses of the Logic gates.
+KEYWORDS:
+Logic Gates, Derived, Alternative, Symbol, Boolean Expression, Truth Table.
+PREVIOUS LEARNING: The students are familiar with the
+INSTRUCTIONAL MATERIALS:
+Interactive board, computer system, Internet
+LEARNING ACTIVITIES IN STEPS:
+Step 1: The teacher marks assignment and makes correction.
+Step 2: The teacher asks questions on previous knowledge
+Step 3: The teacher modifies students’ response and introduces the new topic
+Step 4: Students would be taken through the derailed explanation of the lesson content
+Step 5: Students ask questions on the content of the lesson
+Step 6: Students would be evaluated based on behavioural objectives
+Step 7: Students Assignments are given and notes are marked
+LEARNING TIME FOR EACH STEP:
+Step 1: 3mins
+Step 2: 2mins
+Step 3: 3mins
+Step 4: 20mins
+Step 5: 2mins
+Step 6: 7mins
+Step 7: 3mins
+LEARNING SKILLS:
+Critical thinking, creative thinking, communicating and leadership development
+ACTIVITY
+Draw a truth table for the NOT gate.
+State three uses of the Logic gates.
+EVALUATIVE QUESTIONS:
+Draw a truth table for a two/three input gates of the OR gate.
+Draw a truth table for a two/three input gates of the AND gate.
+Draw a truth table for the NOT gate.
+State the uses of the Logic gates.
+ASSIGNMENT
+Draw a truth table for a three input gates of the OR gate.
+Draw a truth table for a two input gates of the AND gate.
+BASIC LOGIC GATES TRUTH TABLES
+A truth table is a good way to show the function of a logic gate. It shows the output states for every possible combination of input states. The symbols 0 (false) and 1 (true) are usually used in truth tables.
+Summary for all AND 2-input gates
+A
+B
+Q
+0
+0
+0
+0
+1
+0
+1
+0
+0
+1
+1
+1
+Summary for all AND 3-input gates
+A
+B
+C
+Q
+0
+0
+0
+0
+0
+0
+1
+0
+0
+1
+0
+0
+0
+1
+1
+0
+1
+0
+0
+0
+1
+0
+1
+0
+1
+1
+0
+0
+1
+1
+1
+1
+Summary for all OR 2-input gates
+A
+B
+Q
+0
+0
+0
+0
+1
+1
+1
+0
+1
+1
+1
+1
+Summary for all OR 3-input gates
+A
+B
+C
+Q
+0
+0
+0
+0
+0
+0
+1
+1
+0
+1
+0
+1
+0
+1
+1
+1
+1
+0
+0
+1
+1
+0
+1
+1
+1
+1
+0
+1
+1
+1
+1
+1
+Truth table for NOT GATE
+Input A
+Output Q
+0
+1
+1
+0
+Uses of Logic Gates
+Logic gates are used to identify high and low voltage points in circuits.
+They assist technicians and engineers in determining and verifying output levels.
+Logic gates are crucial for designing electrical pathways in electronic components.
+They play a key role in decision-making processes by providing yes or no responses based on inputs.
+Logic gates are essential in constructing alarm systems for homes and vehicles.

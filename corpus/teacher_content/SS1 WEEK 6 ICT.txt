@@ -1,0 +1,108 @@
+ENGREG HIGH SCHOOL
+24, Bankole Street, Pedro, Shomolu, Lagos
+WEEK: 6FIRST TERMSESSION: 2024/2025
+SUBJECT: COMPUTER STUDIES
+TOPIC: INPUT DEVICES I
+CLASS:  SS 1
+DATE: 14th - 18th October, 2024
+REFERENCE BOOKS: New Computer Studies for SS 1 by J.O.E Otuka et al Pages 37-46
+Online with computers for SS 1 by Adedapo F. O. et al 37-46
+LEARNING PURPOSE: To provide foundational knowledge on the computer and it's components
+LESSON PERIOD: 1
+DURATION: 40 MINS
+LEARNING OBJECTIVE:  By the end of the lesson, students will be able to:
+Define input devices
+List examples of input devices
+KEYWORDS: Stylus
+PREVIOUS LEARNING: The students are familiar with components of computer
+INSTRUCTIONAL MATERIALS:
+Interactive board, computer system, Internet
+LEARNING ACTIVITIES IN STEPS:
+Step 1: The teacher marks assignment and makes correction.
+Step 2: The teacher asks questions on previous knowledge
+Step 3: The teacher modifies students’ response and introduces the new topic
+Step 4: Students would be taken through the derailed explanation of the lesson content
+Step 5: Students ask questions on the content of the lesson
+Step 6: Students would be evaluated based on behavioural objectives
+Step 7: Students Assignments are given and notes and marked
+LEARNING TIME FOR EACH STEP:
+Step 1: 3mins
+Step 2: 2mins
+Step 3: 3mins
+Step 4: 20mins
+Step 5: 2mins
+Step 6: 7mins
+Step 7: 3mins
+LEARNING SKILLS:
+Critical thinking, creative thinking, communicating and leadership development
+ACTIVITY
+List 5 examples of input devices
+EVALUATIVE QUESTIONS:
+Define input devices
+List types of input devices
+ASSIGNMENT
+What are input devices
+INPUT DEVICES
+Computer input devices are hardware components that allow users to enter data and instructions into a computer. They are essential for interacting with the computer and performing various tasks.
+Examples:
+- Keyboard
+- Mouse
+- Touchscreen
+- Scanner
+- Webcam
+- Microphone
+- Joystick
+- Gamepad
+- Trackball
+- Stylus and Lighten
+ENGREG HIGH SCHOOL
+24, Bankole Street, Pedro, Shomolu, Lagos
+WEEK: 6FIRST TERMSESSION: 2024/2025
+SUBJECT: COMPUTER STUDIES
+TOPIC: FEATURES OF INPUT DEVICES
+CLASS:  SS 1
+DATE: DATE: 14th - 18th October, 2024
+REFERENCE BOOKS: New Computer Studies for SS 1 by J.O.E Otuka et al Pages 37- 46
+Online with computers for SS 1 by Adedapo F. O. et al 2
+37 - 46
+LEARNING PURPOSE: To provide foundational knowledge on the computer and it's components
+LESSON PERIOD: 2
+DURATION: 40 MINS
+LEARNING OBJECTIVE:  By the end of the lesson, students will be able to:
+I. List the features of input devices
+KEYWORDS: portability
+PREVIOUS LEARNING:
+To provide foundational knowledge on input devices
+INSTRUCTIONAL MATERIALS:
+Interactive board, computer system, Internet
+LEARNING ACTIVITIES IN STEPS:
+Step 1: The teacher marks assignment and makes correction.
+Step 2: The teacher asks questions on previous knowledge
+Step 3: The teacher modifies students’ response and introduces the new topic
+Step 4: Students would be taken through the derailed explanation of the lesson content
+Step 5: Students ask questions on the content of the lesson
+Step 6: Students would be evaluated based on behavioural objectives
+Step 7: Students Assignments are given and notes and marked
+LEARNING TIME FOR EACH STEP:
+Step 1: 3mins
+Step 2: 2mins
+Step 3: 3mins
+Step 4: 20mins
+Step 5: 2mins
+Step 6: 7mins
+Step 7: 3mins
+LEARNING SKILLS:
+Critical thinking, creative thinking, communicating and leadership development
+ACTIVITY
+What's a keyboard
+EVALUATIVE QUESTIONS:
+Discuss features of input devices
+ASSIGNMENT:
+List types of keyboard
+Features of Input Devices
+- Input type: Keyboards and mice use physical buttons and movement, touchscreens use touch, scanners use light, and microphones use sound.
+- Interface: Input devices can be wired or wireless.
+- Accuracy and precision: Some input devices, like mice and trackballs, are more accurate and precise than others.
+- Speed: Some input devices, like keyboards, are faster than others.
+- Ease of use: Some input devices, like keyboards and mice, are easier to use than others.
+- Portability: Some input devices, like mice and keyboards, are portable.

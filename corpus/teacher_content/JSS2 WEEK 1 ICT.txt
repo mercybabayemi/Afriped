@@ -1,0 +1,156 @@
+ENGREG HIGH SCHOOL
+24, Bankole Street, Pedro, Shomolu, Lagos
+JSS2  COMPUTER STUDIES SCHEME OF WORK
+2024/2025 SESSION
+FIRST TERM
+WEEKS
+TOPIC
+SUB-TOPIC
+ONE
+Revision of JSS1 / Classification of Computers I
+Size, Purpose
+TWO
+Classification of Computers II
+Types, generations, make.
+THREE
+The Computer System
+Definition, Components
+FOUR
+Hardware Components
+Definition, Types and Examples.
+FIVE
+Software
+Definition, Types and Examples of Computer Software.
+SIX
+The Peopleware
+Definition, Examples
+SEVEN
+Continuous Assessment / Mid Term Break
+EIGHT
+Operating Systems
+Definitions, Examples and Funtions of Operating System.
+NINE
+Number Base
+Definition, Examples, Conversions
+TEN
+Units of Storage in Computer
+Nibble, Byte, Kilobyte, etc
+ELEVEN
+Revision
+TWELVE
+Examination
+ENGREG HIGH SCHOOL
+24, Bankole Street, Pedro, Shomolu, Lagos
+WEEK: 1FIRST TERMSESSION: 2024/2025
+SUBJECT: COMPUTER STUDIES
+TOPIC: CLASSIFICATION OF COMPUTERS
+CLASS:  JSS 2
+DATE: 9th – 13th September, 2024
+REFERENCE BOOKS: New Computer Studies for JSS 2 by J.O.E Otuka et al Pages 1-14
+WABP ICT for JSS 2 by Vincent Hope et al Pages 1-11
+LEARNING PURPOSE: To provide foundational knowledge on Identifying and distinguishing between various types of computers based on their size, functionality, purpose, and generation.
+LESSON PERIOD: 1
+DURATION: 40 MINS
+LEARNING OBJECTIVE:  By the end of the lesson, students will be able to:
+Define computer.
+Identify the different classifications of computer.
+State the four major sizes of computer.
+KEYWORDS:
+Classification, Computer, Size, Purpose, Functionality.
+PREVIOUS LEARNING: The students are familiar with the computer.
+INSTRUCTIONAL MATERIALS:
+Interactive board, computer system, Internet
+LEARNING ACTIVITIES IN STEPS:
+Step 1: The teacher marks assignment and makes correction.
+Step 2: The teacher asks questions on previous knowledge
+Step 3: The teacher modifies students’ response and introduces the new topic
+Step 4: Students would be taken through the derailed explanation of the lesson content
+Step 5: Students ask questions on the content of the lesson
+Step 6: Students would be evaluated based on behavioural objectives
+Step 7: Students Assignments are given and notes and marked
+LEARNING TIME FOR EACH STEP:
+Step 1: 3mins
+Step 2: 2mins
+Step 3: 3mins
+Step 4: 20mins
+Step 5: 2mins
+Step 6: 7mins
+Step 7: 3mins
+LEARNING SKILLS:
+Critical thinking, creative thinking, communicating and leadership development
+ACTIVITY
+Identify the four different classifications of computer.
+EVALUATIVE QUESTIONS:
+Define computer.
+List the four classifications of computer.
+State the four major sizes of computer.
+ASSIGNMENT
+Explain the Super and Mainframe Computers.
+CLASSIFICATIONS OF COMPUTERS
+A computer is an electronic device, which accepts data as an input, processed the input (data) and produces an output called information.
+Computers can be classified based on various criteria. These include the following:
+Classification based on size.
+Classification based on Functionality.
+Classification based on purpose.
+Classification based on generation.
+CLASSIFICATION BASED ON SIZE
+There are four major sizes of computers, super, mainframe, mini and microcomputers.
+Supercomputers: The most powerful computers, designed for complex computations and processing large datasets. Used in scientific research, climate modeling, and simulations. Supercomputers are the largest, fastest and most expensive computers.
+Mainframe Computers: Large, powerful systems used by large organizations for bulk data processing, such as transaction processing and managing large databases. It has a very large memory size but less than that of supercomputers.
+Minicomputers: Mid-sized computers that are less powerful than mainframes but still capable of supporting multiple users simultaneously. Often used in business applications. They allow users to share access to the hardware through stations called TERMINALS.
+Microcomputers: Commonly known as personal computers (PCs), these are designed for individual use. They include desktops, laptops, tablets, and smartphones.
+ENGREG HIGH SCHOOL
+24, Bankole Street, Pedro, Shomolu, Lagos
+WEEK: 1FIRST TERMSESSION: 2024/2025
+SUBJECT: COMPUTER STUDIES
+TOPIC: CLASSIFICATION OF COMPUTERS
+CLASS:  JSS 2
+DATE: 9th – 13th September, 2024
+REFERENCE BOOKS: New Computer Studies for JSS 2 by J.O.E Otuka et al Pages 1-14
+WABP ICT for JSS 2 by Vincent Hope et al Pages 1-11
+LEARNING PURPOSE: To provide foundational knowledge on Identifying and distinguishing between various types of computers based on their size, functionality, purpose, and generation.
+LESSON PERIOD: 2
+DURATION: 40 MINS
+LEARNING OBJECTIVE:  By the end of the lesson, students will be able to:
+Identify the classifications of computer based on purpose.
+Identify the classifications of computer based on functionality.
+KEYWORDS:
+Classification, Computer, Size, Purpose, Functionality.
+PREVIOUS LEARNING: The students are familiar with the computer.
+INSTRUCTIONAL MATERIALS:
+Interactive board, computer system, Internet
+LEARNING ACTIVITIES IN STEPS:
+Step 1: The teacher marks assignment and makes correction.
+Step 2: The teacher asks questions on previous knowledge
+Step 3: The teacher modifies students’ response and introduces the new topic
+Step 4: Students would be taken through the derailed explanation of the lesson content
+Step 5: Students ask questions on the content of the lesson
+Step 6: Students would be evaluated based on behavioural objectives
+Step 7: Students Assignments are given and notes and marked
+LEARNING TIME FOR EACH STEP:
+Step 1: 3mins
+Step 2: 2mins
+Step 3: 3mins
+Step 4: 20mins
+Step 5: 2mins
+Step 6: 7mins
+Step 7: 3mins
+LEARNING SKILLS:
+Critical thinking, creative thinking, communicating and leadership development
+ACTIVITY
+What do you understand by the term Hybrid Computers?
+EVALUATIVE QUESTIONS:
+Explain the two types of computers based on purpose.
+Identify the three types of computers based on functionality.
+ASSIGNMENT
+Explain the general and special purpose computers.
+CLASSIFICATION OF COMPUTERS
+CLASSIFICATION BASED ON FUNCTIONALITY
+There are three types depending on the way they present information such as analog, digital and hybrid computers.
+Analog Computers: These computers process data in continuous form, typically used for scientific and engineering purposes. Examples include early mechanical devices like the slide rule, car speedometer, rotating clock.
+Digital Computers: Most modern computers fall into this category, processing data in binary form or discrete numbers of decimal. They include all types of PCs, servers, GSM, phone, digital radio, etc.
+Hybrid Computers: Combining features of both analog and digital computers, hybrid computers can process both continuous and discrete data. They are often used in specialized fields like medical equipment.
+CLASSIFICATION BASED ON PURPOSE
+Computer can be made for either two purposes, namely, special or general purpose.
+General-Purpose Computers: Designed to perform a variety of tasks. These are the most common computers, including desktops, laptops, and servers.
+Special-Purpose Computers: Built for a specific task or application. Examples include embedded systems in devices like ATMs, GPS units, or medical equipment.

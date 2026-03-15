@@ -1,0 +1,16 @@
+{
+  "generated": "English Language Lesson Plan\nSubject: English\nTopic: Essay Writing — Argumentative Essays\nClass: SSS3 | Duration: 40 minutes\n\nObjective: Students will evaluate the strength of arguments in a sample essay.\n\nMaterials: Textbooks, notebooks, printed essay sample.\n\nActivity (25 min):\nThe teacher lists the parts of an argumentative essay on the board. Adaeze and Tunde evaluate which argument is stronger. The class assesses transition words for logical flow. Students justify their choices.\n\nAssessment (10 min):\nStudents evaluate a 2-paragraph essay excerpt and assess whether the thesis is justified.\n\nClosure:\nHomework: Critique one argument in a newspaper article and justify your assessment.",
+  "reference": "NERDC SSS3 English lesson on argumentative essay writing that asks students to analyse, evaluate and construct arguments — not just recall structure.",
+  "content_type": "LESSON_PLAN",
+  "subject": "english",
+  "topic": "Argumentative Essay Writing",
+  "education_level": "SSS3",
+  "curriculum_board": "NERDC",
+  "expected_bloom": "EVALUATE",
+  "expected_language": "en",
+  "expected_skills": ["Critical Thinking", "Communication"],
+  "detected_skills": ["Critical Thinking"],
+  "ablation_condition": "rules_only",
+  "rules_triggered": ["bloom_verb_presence"],
+  "notes": "Rules-only correction: bloom_verb_presence rule triggered insertion of EVALUATE-level verbs (evaluate, assess, justify, critique). Cultural names were already present (Adaeze, Tunde). Format already had labels. However, rule-based bloom correction inserts verbs mechanically without restructuring the pedagogical flow — the lesson still doesn't build up to evaluation systematically."
+}

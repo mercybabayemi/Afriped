@@ -1,0 +1,118 @@
+ENGREG HIGH SCHOOL
+24, Bankole Street, Pedro, Shomolu, Lagos
+WEEK: 3FIRST TERMSESSION: 2024/2025
+SUBJECT: DATA PROCESSING
+TOPIC: DATABASE SECURITY
+CLASS:  SS 3
+DATE: 23rd  – 27th September, 2024
+REFERENCE BOOKS:  A Textbook for Data Processing SS 3 by Adedapo F. O. et al Pages 8-12
+Data Processing Textbook for SS 3 by Aboyede Jegede 8 - 12
+LEARNING PURPOSE: To provide learners with a foundational understanding of database Security
+LESSON PERIOD: 1
+DURATION: 40 MINS
+LEARNING OBJECTIVE:  By the end of the lesson, students will be able to:
+Explain database security
+State the objective of database security
+List and explain types of access control
+KEYWORDS: access control, DAC, MAC, RBAC
+PREVIOUS LEARNING: The students are familiar with the database management system.
+INSTRUCTIONAL MATERIALS:
+Interactive board, computer system, Internet
+LEARNING ACTIVITIES IN STEPS:
+Step 1: The teacher marks assignment and makes correction.
+Step 2: The teacher asks questions on previous knowledge
+Step 3: The teacher modifies students’ response and introduces the new topic
+Step 4: Students would be taken through the derailed explanation of the lesson content
+Step 5: Students ask questions on the content of the lesson
+Step 6: Students would be evaluated based on behavioural objectives
+Step 7: Students Assignments are given and notes and marked
+LEARNING TIME FOR EACH STEP:
+Step 1: 3mins
+Step 2: 2mins
+Step 3: 3mins
+Step 4: 20mins
+Step 5: 2mins
+Step 6: 7mins
+Step 7: 3mins
+LEARNING SKILLS:
+Critical thinking, creative thinking, communicating and leadership development
+ACTIVITY
+Define database security
+EVALUATIVE QUESTIONS:
+State and explain the objectives of database security
+List types of access control.
+ASSIGNMENT
+State benefits of access control
+DATABASE SECURITY
+Database Security refers to the protective measures implemented to safeguard a database against unauthorized access, threats, and vulnerabilities. It involves ensuring the confidentiality, integrity, and availability of data stored within the system. This can be achieved through various methods, such as encryption, firewalls, authentication, and access control.
+Objectives of Database Security
+1. Confidentiality: Ensuring that only authorized users can access sensitive information.
+2. Integrity: Ensuring the accuracy and reliability of the data.
+3. Availability: Ensuring that the database and its resources are accessible to authorized users whenever needed.
+ACCESS CONTROL
+Access Control is a crucial aspect of database security that determines who can access and manipulate specific resources within the database. It involves defining permissions and restrictions for users to ensure that sensitive information is only available to those with the proper authorization.
+Types of Access Control:
+1. Discretionary Access Control (DAC):
+- In DAC, the owner of the data or administrator defines who can access the data and what operations they can perform (read, write, execute).
+- It is based on the identity of the user or group.
+2. Mandatory Access Control (MAC)
+- In MAC, access permissions are determined by the system according to policies defined by the administrator, not by the users.
+- Typically used in environments requiring high security, such as government databases.
+3. Role-Based Access Control (RBAC)
+- In RBAC, access is based on the roles assigned to users within the organization.
+- Permissions are granted based on roles rather than individual users, making it easier to manage access rights for a large number of users.
+ENGREG HIGH SCHOOL
+24, Bankole Street, Pedro, Shomolu, Lagos
+WEEK: 3 FIRST TERMSESSION: 2024/2025
+SUBJECT: DATA PROCESSING
+TOPIC: DATABASE SECURITY I
+CLASS:  SS 3
+DATE: 23rd - 27th September, 2024
+REFERENCE BOOKS:  A Textbook for Data Processing SS 3 by Adedapo F. O. et al Pages 8 - 15
+Data Processing Textbook for SS 3 by Aboyede Jegede 8 - 15
+LEARNING PURPOSE: To provide learners with a foundational understanding of database Security
+LESSON PERIOD: 2
+DURATION: 40 MINS
+LEARNING OBJECTIVE:  By the end of the lesson, students will be able to:
+State key components of access control
+Benefits of access control.
+KEYWORDS:  access control, DAC, MAC, RBAC
+PREVIOUS LEARNING: The students are familiar with database security
+INSTRUCTIONAL MATERIALS:
+Interactive board, computer system, Internet
+LEARNING ACTIVITIES IN STEPS:
+Step 1: The teacher marks assignment and makes correction.
+Step 2: The teacher asks questions on previous knowledge
+Step 3: The teacher modifies students’ response and introduces the new topic
+Step 4: Students would be taken through the derailed explanation of the lesson content
+Step 5: Students ask questions on the content of the lesson
+Step 6: Students would be evaluated based on behavioural objectives
+Step 7: Students Assignments are given and notes and marked
+LEARNING TIME FOR EACH STEP:
+Step 1: 3mins
+Step 2: 2mins
+Step 3: 3mins
+Step 4: 20mins
+Step 5: 2mins
+Step 6: 7mins
+Step 7: 3mins
+LEARNING SKILLS:
+Critical thinking, creative thinking, communicating and leadership development
+ACTIVITY
+Define database security
+EVALUATIVE QUESTIONS:
+State benefits of access control
+State key components of access control
+ASSIGNMENT
+What is the full form of
+I. RBAC
+II. MAC
+III. DAC
+Key Components of Access Control:
+1. Authentication: Verifying the identity of the user before granting access.
+2. Authorization: Granting permissions to authenticated users to perform specific actions on the database.
+3.Privileges: Specific rights or permissions assigned to users or roles, such as the ability to read, write, or delete data.
+Benefits of Access Control
+- Prevents unauthorized access to sensitive data.
+- Reduces the risk of data breaches by limiting access to critical resources.
+- Ensures compliance with regulations and organizational policies.

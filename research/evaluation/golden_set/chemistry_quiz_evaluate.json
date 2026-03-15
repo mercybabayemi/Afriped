@@ -1,0 +1,31 @@
+{
+  "generated": "CHEMISTRY QUIZ — Acids, Bases and Salts\nClass: SSS2 | Board: WAEC/NERDC | Time: 20 minutes\n\nQ1. [EVALUATE] [Bloom: EVALUATE] [Marks: 4]\nAminu pours lemon juice and then baking soda into separate beakers of water. He measures a pH of 3 for lemon juice and 9 for baking soda solution.\nEvaluate which substance is a stronger acid or base. Justify your answer using pH scale evidence and name TWO industries in Nigeria where each substance is used commercially.\n\nQ2. [MULTIPLE_CHOICE] [Bloom: EVALUATE] [Marks: 2]\nA student in Kano adds excess zinc to dilute hydrochloric acid. She argues the reaction will stop when the acid is used up. Assess whether her conclusion is correct:\nA) Correct — zinc reacts with HCl until HCl is exhausted\nB) Incorrect — the reaction stops when zinc is used up\nC) Correct — zinc reacts with HCl until zinc is exhausted\nD) Incorrect — the reaction never stops\nAnswer: A\nExplanation: Zinc is in excess; therefore HCl (limiting reagent) is used up first.\n\nQ3. [SHORT_ANSWER] [Bloom: EVALUATE] [Marks: 4]\nFatima argues that all salts are neutral. Critique this claim using named examples of acidic salts and basic salts found in everyday Nigerian households.\n\nQ4. [EVALUATE] [Bloom: EVALUATE] [Marks: 4]\nA factory in Port Harcourt discharges waste water with pH 2 into a local stream. Judge the environmental impact of this discharge and argue whether limestone (CaCO₃) would be an appropriate neutralising agent. Give your reasoning.\n\nQ5. [SHORT_ANSWER] [Bloom: EVALUATE] [Marks: 3]\nAssess the strengths and limitations of using litmus paper versus a pH meter for testing water quality in a Nigerian secondary school laboratory with limited resources.",
+  "reference": "A WAEC/NERDC Chemistry quiz on Acids, Bases and Salts for SSS2 requiring evaluation and justification using Nigerian industrial and environmental contexts.",
+  "content_type": "QUIZ",
+  "subject": "chemistry",
+  "topic": "Acids, Bases and Salts",
+  "education_level": "SSS2",
+  "curriculum_board": "WAEC",
+  "expected_bloom": "EVALUATE",
+  "expected_language": "en",
+  "expected_skills": ["Critical Thinking", "Analytical Thinking", "Problem Solving"],
+  "detected_skills": ["Critical Thinking", "Analytical Thinking", "Problem Solving"],
+  "validation": {
+    "status": "PASSED",
+    "rules_passed": [
+      "length_check",
+      "language_detection",
+      "bloom_verb_presence",
+      "cultural_flag_check",
+      "no_hallucinated_dates",
+      "no_explicit_content",
+      "curriculum_alignment",
+      "format_compliance"
+    ],
+    "rules_failed": [],
+    "judge_score": null,
+    "judge_dimensions": null,
+    "revision_count": 0,
+    "notes": []
+  }
+}

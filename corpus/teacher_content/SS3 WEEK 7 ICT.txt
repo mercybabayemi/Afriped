@@ -1,0 +1,119 @@
+ENGREG HIGH SCHOOL
+24, Bankole Street, Pedro, Shomolu, Lagos
+WEEK:  7FIRST TERMSESSION: 2024/2025
+SUBJECT: COMPUTER STUDIES
+TOPIC: COMPUTER SECURITY
+CLASS:  SS 3
+DATE: 21st – 25th October, 2024
+REFERENCE BOOKS: New Computer Studies for SS 3 by J.O.E Otuka et al Pages 12-15
+Online with computers for SS 3 by Adedapo F. O. et al 19-22
+LEARNING PURPOSE: To provide foundational knowledge on computer security, security breach and sources of security breach.
+LESSON PERIOD: 1
+DURATION: 40 MINS
+LEARNING OBJECTIVE:  By the end of the lesson, students will be able to:
+Define Computer Security.
+Explain the computer security breach.
+State the sources of Security breaches.
+KEYWORDS:  Computer Security, Breach, Virus, Worms, Hackers, Spammers, Scammers.
+PREVIOUS LEARNING:  The students were taught the high-level languages in the previous class.
+INSTRUCTIONAL MATERIALS:
+Interactive board, computer system, Internet
+LEARNING ACTIVITIES IN STEPS:
+Step 1: The teacher marks assignment and makes correction.
+Step 2: The teacher asks questions on previous knowledge
+Step 3: The teacher modifies students’ response and introduces the new topic
+Step 4: Students would be taken through the derailed explanation of the lesson content
+Step 5: Students ask questions on the content of the lesson
+Step 6: Students would be evaluated based on behavioural objectives
+Step 7: Students Assignments are given and notes are marked
+LEARNING TIME FOR EACH STEP:
+Step 1: 3mins
+Step 2: 2mins
+Step 3: 3mins
+Step 4: 20mins
+Step 5: 2mins
+Step 6: 7mins
+Step 7: 3mins
+LEARNING SKILLS:
+Critical thinking, creative thinking, communicating and leadership development
+ACTIVITY
+Define Computer Security.
+Define computer security breach.
+List two sources of Security breaches.
+EVALUATIVE QUESTIONS:
+Define Computer Security.
+Explain the computer security breach.
+State the sources of Security breaches.
+ASSIGNMENT
+List and explain 5 sources of security breach.
+COMPUTER SECURITY
+The protection of computer hardware, software, and data from unauthorized access. The need for computer security arises due to various security breaches.
+COMPUTER SECURITY BREACH
+A security breach occurs when security policies, practices, or procedures are violated, potentially leading to damage to files, failure of hardware components, or altered software programs. Common sources of security breaches include:
+Viruses, Worms, and Trojan Horses: These malicious software programs harm computers in different ways:
+Virus: Attaches itself to programs or files and spreads through user actions, like running an infected file.
+Worm: Spreads independently across computers by exploiting network or file-sharing features, without user interaction.
+Trojan Horse: Disguised as legitimate software, it allows unauthorized access to systems without self-replication, creating backdoor vulnerabilities.
+Poor Network Implementation: Inadequately managed networks leave security gaps, making it easier for attackers to access sensitive information or spread malware throughout the system.
+Weak or Non-existent ICT Policies: The absence or poor enforcement of security policies leads to disorganized system use and increases the likelihood of breaches, as there are no clear guidelines for safe operations.
+Carelessness: Users may unintentionally compromise security by sharing sensitive information online without proper safeguards, exposing themselves to threats.
+Hackers, Spammers, and Scammers: These individuals exploit system vulnerabilities to steal data, damage systems, or commit fraud. Hackers often create or spread malicious software to gain unauthorized access to computer networks.
+ENGREG HIGH SCHOOL
+24, Bankole Street, Pedro, Shomolu, Lagos
+WEEK:  7FIRST TERMSESSION: 2024/2025
+SUBJECT: COMPUTER STUDIES
+TOPIC: PREVENTIVE MEASURES AGAINST SECURITY BREACHES
+CLASS:  SS 3
+DATE: 21st – 25th October, 2024
+REFERENCE BOOKS: New Computer Studies for SS 3 by J.O.E Otuka et al Pages 12-15
+Online with computers for SS 3 by Adedapo F. O. et al 19-22
+LEARNING PURPOSE: To provide foundational knowledge on preventive measures against security breaches and some Legal issues that may occur.
+LESSON PERIOD: 2
+DURATION: 40 MINS
+LEARNING OBJECTIVE:  By the end of the lesson, students will be able to:
+State some preventive measures against Security Breaches.
+State Legal issues that may arise due to security breaches.
+KEYWORDS:  Computer Security, Anti-Virus, Firewalls, Encryption, Fraud, Theft.
+PREVIOUS LEARNING:  The students were taught Computer security and security breaches.
+INSTRUCTIONAL MATERIALS:
+Interactive board, computer system, Internet
+LEARNING ACTIVITIES IN STEPS:
+Step 1: The teacher marks assignment and makes correction.
+Step 2: The teacher asks questions on previous knowledge
+Step 3: The teacher modifies students’ response and introduces the new topic
+Step 4: Students would be taken through the derailed explanation of the lesson content
+Step 5: Students ask questions on the content of the lesson
+Step 6: Students would be evaluated based on behavioural objectives
+Step 7: Students Assignments are given and notes are marked
+LEARNING TIME FOR EACH STEP:
+Step 1: 3mins
+Step 2: 2mins
+Step 3: 3mins
+Step 4: 20mins
+Step 5: 2mins
+Step 6: 7mins
+Step 7: 3mins
+LEARNING SKILLS:
+Critical thinking, creative thinking, communicating and leadership development
+ACTIVITY
+Explain five preventive measures against Security Breaches.
+EVALUATIVE QUESTIONS:
+State some preventive measures against Security Breaches.
+State Legal issues that may arise due to security breaches.
+ASSIGNMENT
+State five Legal issues that may arise due to security breaches.
+PREVENTIVE MEASURES AGAINST SECURITY BREACHES
+Antivirus Software: Antivirus programs like Norton, McAfee, and Avast protect computers by detecting, scanning, and removing viruses. They help prevent infections and clean systems already affected by malware.
+Firewalls: A firewall is a hardware or software tool that filters incoming and outgoing data, allowing or blocking access to a network based on predefined rules. It helps prevent unauthorized access while enabling legitimate communication.
+Encryption: Encrypting data converts it into a format that unauthorized users cannot understand. Decryption restores the data to its original form for authorized access.
+Care with Personal Information: Exercise caution when sharing sensitive personal or financial information online to avoid falling victim to scams or hackers.
+Safe Email Practices: Be cautious when opening email attachments to prevent accidentally downloading malicious software.
+Proper Network Implementation and Policies: Ensure networks are properly implemented and maintain clear ICT policies to enhance security and reduce vulnerabilities.
+LEGAL ISSUES IN ICT
+Legal issues in ICT involve concerns related to the proper and improper use of technology. Some key issues include:
+Piracy: The illegal copying, distribution, or use of software, commonly referred to as software piracy.
+Cybercrime: Criminal activities carried out using computers or the internet, such as hacking, fraud, and data theft.
+Identity Theft: The unauthorized use of someone else's personal information for fraudulent purposes.
+Internet Fraud: Deceptive practices conducted online, including scams and financial fraud.
+Hacking: Unauthorized access to computer systems with the intent to steal, alter, or damage data.
+Intellectual Property Rights: These rights protect creations of the mind, giving individuals or companies exclusive control over their ideas, inventions, or creative works. Intellectual property includes copyrights, patents, trademarks, and trade secrets.

@@ -1,0 +1,98 @@
+ENGREG HIGH SCHOOL
+24, Bankole Street, Pedro, Shomolu, Lagos
+WEEK: 6FIRST TERMSESSION: 2024/2025
+SUBJECT: DATA PROCESSING
+TOPIC: CRASH RECOVERY II
+CLASS:  SS 3
+DATE: 14th Octorber - 18th 2024
+REFERENCE BOOKS:  A Textbook for Data Processing SS 3 by Adedapo F. O. et al Pages 16 - 17
+LEARNING PURPOSE: To provide learners with a foundational understanding of Crash Recovery
+LESSON PERIOD: 1
+DURATION: 40 MINS
+LEARNING OBJECTIVE:  By the end of the lesson, students will be able to:
+Outline recovery procedure after crash
+KEYWORDS: Analysis Phase, REDO, UNDO
+PREVIOUS LEARNING: The students are familiar with crash recovery
+INSTRUCTIONAL MATERIALS:
+Interactive board, computer system, Internet
+LEARNING ACTIVITIES IN STEPS:
+Step 1: The teacher marks assignment and makes correction.
+Step 2: The teacher asks questions on previous knowledge
+Step 3: The teacher modifies students’ response and introduces the new topic
+Step 4: Students would be taken through the derailed explanation of the lesson content
+Step 5: Students ask questions on the content of the lesson
+Step 6: Students would be evaluated based on behavioural objectives
+Step 7: Students Assignments are given and notes and marked
+LEARNING TIME FOR EACH STEP:
+Step 1: 3mins
+Step 2: 2mins
+Step 3: 3mins
+Step 4: 20mins
+Step 5: 2mins
+Step 6: 7mins
+Step 7: 3mins
+LEARNING SKILLS:
+Critical thinking, creative thinking, communicating and leadership development
+ACTIVITY
+Explain the analysis phase of recovery procedure
+EVALUATIVE QUESTIONS:
+Outline THREE recovery procedure after crash
+ASSIGNMENT
+Differentiate between REDO and UNDO phase
+RECOVERY PROCEDURE AFTER A CRASH
+The recovery works in three phases.
+1. Analysis Phase: The first phase, analysis, compute all the necessary information from the log file.
+2. REDO Phase: The Redo phase restores the database to the exact state at the crash, including all the changes of uncommitted transactions that were running at that point time.
+3. UNDO Phase: The undo phase then undoes all uncommitted changes, leaving the database in a consistent state. After the redo phase, the database reflects the exact state at the crash. However, the changes of uncommitted transactions have to be undone to restore the database to a consistent state.
+ENGREG HIGH SCHOOL
+24, Bankole Street, Pedro, Shomolu, Lagos
+WEEK: 6FIRST TERMSESSION: 2024/2025
+SUBJECT: DATA PROCESSING
+TOPIC: CRASH RECOVERY II
+CLASS:  SS 3
+DATE: 14th Octorber - 18th 2024
+REFERENCE BOOKS:  A Textbook for Data Processing SS 3 by Adedapo F. O. et al Pages 16 - 17
+LEARNING PURPOSE: To provide learners with a foundational understanding of crash recovery
+LESSON PERIOD: 2
+DURATION: 40 MINS
+LEARNING OBJECTIVE:  By the end of the lesson, students will be able to:
+Outline other recovery related to data structure
+KEYWORDS: WAL, Atomicity, dumps
+PREVIOUS LEARNING: The students are familiar with method of crash recovery.
+INSTRUCTIONAL MATERIALS:
+Interactive board, computer system, Internet
+LEARNING ACTIVITIES IN STEPS:
+Step 1: The teacher marks assignment and makes correction.
+Step 2: The teacher asks questions on previous knowledge
+Step 3: The teacher modifies students’ response and introduces the new topic
+Step 4: Students would be taken through the derailed explanation of the lesson content
+Step 5: Students ask questions on the content of the lesson
+Step 6: Students would be evaluated based on behavioural objectives
+Step 7: Students Assignments are given and notes and marked
+LEARNING TIME FOR EACH STEP:
+Step 1: 3mins
+Step 2: 2mins
+Step 3: 3mins
+Step 4: 20mins
+Step 5: 2mins
+Step 6: 7mins
+Step 7: 3mins
+LEARNING SKILLS:
+Critical thinking, creative thinking, communicating and leadership development
+ACTIVITY
+1. What's WAL
+2. Define Atomicity in crash recovery
+3. What do you understand by checking point
+4. How do you do media recovery on crash recovery.
+EVALUATIVE QUESTIONS:
+1. Outline other data crash recovery related to data structure
+ASSIGNMENT:
+The archive log contains what?
+OTHER RECOVERY RELATED TO DATA STRUCTURE
+1. The Write-Ahead Log Protocol: Write-Ahead Logging (WAL) is a family of techniques for providing atomicity and durability (two of the ACID properties) in database systems. In a system using WAL, all modifications are written to a log before they are applied. Usually, both redo and undo information is stored in the log. WAL allows updates of a database to be done in one place.
+2. Atomicity: This is the property of transaction processing whereby either all the operations of transactions are executed or none of them is executed (all-or-nothing)
+3. Durability: This is the ACID property which guarantees that transactions that have committed will survive permanently.
+4. Log: A transaction log (also transaction journal, database log, binary log or audit trail) is a history of actions executed by a database management system to guarantee ACID properties over crashes or hardware failure. Physically, a log is a file of updates done to the database, stored in stable storage.
+5. Check Pointing: Checkpointing basically consists of storing a snapshot of the current application state, and later on, use it for restarting the execution in case of failure. A checkpoint record is written into the log periodically at that point when the system writes out to the database on disk all DBMS buffers that have been modified. This is a periodic operation that can reduce the time for recovery from a crash. Checkpoints are used to make recovery more efficient and to control the reuse of primary and secondary log files. In the case of a crash, backup files will be used to recover the database to the point of crash.
+6. Media Recovery: Media recovery deals with the failure of the storage media holding the permanent database, in particular disk failures. The traditional database approach for media recovery uses archive copies (dumps) of the database as well as archive logs. Archive copies represent snapshots of the database and are periodically taken.
+The archive log contains the log records for all committed changes which are not yet reflected in the archive copy. In the event of a media failure, the current database can be reconstructed by using the latest archive copy and redoing all changes in chronological order from the archive log.

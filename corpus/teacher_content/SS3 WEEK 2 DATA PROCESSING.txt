@@ -1,0 +1,116 @@
+ENGREG HIGH SCHOOL
+24, Bankole Street, Pedro, Shomolu, Lagos
+WEEK: 2FIRST TERMSESSION: 2024/2025
+SUBJECT: DATA PROCESSING
+TOPIC: DATA MODELS
+CLASS:  SS 3
+DATE: 16th – 20th September, 2024
+REFERENCE BOOKS:  A Textbook for Data Processing SS 3 by Adedapo F. O. et al Pages 1-7
+Data Processing Textbook for SS 3 by Aboyede Jegede 1 - 8
+LEARNING PURPOSE: To provide learners with a foundational understanding of indexes, types and characteristics.
+LESSON PERIOD: 1
+DURATION: 40 MINS
+LEARNING OBJECTIVE:  By the end of the lesson, students will be able to:
+Explain the composite index.
+Define duplicate index.
+Explain how to handle duplicates.
+KEYWORDS: Index, Primary, Clustered, Secondary, Sparse, Dense, composite, duplicates.
+PREVIOUS LEARNING: The students are familiar with the database management system.
+INSTRUCTIONAL MATERIALS:
+Interactive board, computer system, Internet
+LEARNING ACTIVITIES IN STEPS:
+Step 1: The teacher marks assignment and makes correction.
+Step 2: The teacher asks questions on previous knowledge
+Step 3: The teacher modifies students’ response and introduces the new topic
+Step 4: Students would be taken through the derailed explanation of the lesson content
+Step 5: Students ask questions on the content of the lesson
+Step 6: Students would be evaluated based on behavioural objectives
+Step 7: Students Assignments are given and notes and marked
+LEARNING TIME FOR EACH STEP:
+Step 1: 3mins
+Step 2: 2mins
+Step 3: 3mins
+Step 4: 20mins
+Step 5: 2mins
+Step 6: 7mins
+Step 7: 3mins
+LEARNING SKILLS:
+Critical thinking, creative thinking, communicating and leadership development
+ACTIVITY
+State two characteristics of composite index.
+EVALUATIVE QUESTIONS:
+Explain the composite index.
+Define duplicate index.
+Explain how to handle duplicates.
+ASSIGNMENT
+Give two examples of handling duplicates.
+INDEXES
+COMPOSITE INDEX (CONCATENATED KEYS)
+A composite index (or concatenated key) is an index built on two or more columns of a table. It optimizes queries that filter or sort by multiple columns simultaneously. Composite indexes are useful for efficiently handling searches involving combinations of columns.
+Characteristics:
+The order of columns in the composite index is crucial for query optimization.
+Ideal for queries that use multiple columns for filtering or sorting.
+Enhances performance for complex queries involving multiple fields.
+DUPLICATE INDEXES
+Duplicate indexes occur when multiple entries in an index have the same key value, meaning several rows in the table share the same indexed value. This can lead to inefficiencies in index performance and storage.
+Handling Duplicates:
+Primary Indexes: Primary indexes are built on the primary key, which is unique by definition. Therefore, primary indexes do not allow duplicates as they enforce uniqueness in the table.
+Secondary Indexes: Secondary indexes can contain duplicate values since they are not bound by the uniqueness constraint. However, you can create a unique secondary index to prevent duplicates if needed.
+Examples of Handling Duplicates:
+A non-unique secondary index on "LastName" might list multiple entries for "Smith," reflecting multiple people with the same last name.
+A unique index on "Email" prevents duplicate entries, ensuring that each email address in the database is unique.
+ENGREG HIGH SCHOOL
+24, Bankole Street, Pedro, Shomolu, Lagos
+WEEK: 2FIRST TERMSESSION: 2024/2025
+SUBJECT: DATA PROCESSING
+TOPIC: DATA MODELS
+CLASS:  SS 3
+DATE: 16th – 20th September, 2024
+REFERENCE BOOKS:  A Textbook for Data Processing SS 3 by Adedapo F. O. et al Pages 1-7
+Data Processing Textbook for SS 3 by Aboyede Jegede 1 - 8
+LEARNING PURPOSE: To provide learners with a foundational understanding of indexes, types and characteristics.
+LESSON PERIOD: 2
+DURATION: 40 MINS
+LEARNING OBJECTIVE:  By the end of the lesson, students will be able to:
+State differences between clustered and non-clustered indexes.
+KEYWORDS: Index, Primary, Clustered, Secondary, Sparse, Dense, composite, duplicates.
+PREVIOUS LEARNING: The students are familiar with the database management system.
+INSTRUCTIONAL MATERIALS:
+Interactive board, computer system, Internet
+LEARNING ACTIVITIES IN STEPS:
+Step 1: The teacher marks assignment and makes correction.
+Step 2: The teacher asks questions on previous knowledge
+Step 3: The teacher modifies students’ response and introduces the new topic
+Step 4: Students would be taken through the derailed explanation of the lesson content
+Step 5: Students ask questions on the content of the lesson
+Step 6: Students would be evaluated based on behavioural objectives
+Step 7: Students Assignments are given and notes and marked
+LEARNING TIME FOR EACH STEP:
+Step 1: 3mins
+Step 2: 2mins
+Step 3: 3mins
+Step 4: 20mins
+Step 5: 2mins
+Step 6: 7mins
+Step 7: 3mins
+LEARNING SKILLS:
+Critical thinking, creative thinking, communicating and leadership development
+ACTIVITY
+State three differences between clustered and non-clustered indexes.
+EVALUATIVE QUESTIONS:
+State five differences between clustered and non-clustered indexes.
+ASSIGNMENT
+In your own words, explain clustered and non-clustered index.
+DIFFERENCES BETWEEN CLUSTERED INDEX AND NON- CLUSTERED INDEX
+CLUSTERED INDEX
+NON- CLUSTERED INDEX
+Clustered index is faster.
+Non-clustered index is slower.
+Clustered index requires less memory for operations.
+Non-Clustered index requires more memory for operations.
+In clustered index, index is the main data.
+In Non-Clustered index, index is the copy of data.
+A table can have only one clustered index.
+A table can have multiple non- clustered index.
+Clustered index store pointers to block not data.
+Non-Clustered index store both value and a pointer to actual row that holds data.

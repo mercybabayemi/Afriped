@@ -1,0 +1,16 @@
+{
+  "generated": "Mathematics Lesson\nTopic: Quadratic Equations\nClass: SSS2\n\nToday we will learn about quadratic equations. A quadratic equation is ax²+bx+c=0.\n\nJohn and Mary will come to the board to try some examples.\nPeter, please solve x²-5x+6=0.\nThe teacher asks James to factorise x²+7x+12.\n\nSolution: x²-5x+6 = (x-2)(x-3), so x=2 or x=3\n\nFor homework, William and Elizabeth should solve the following five equations from the textbook.\nRemember that Michael showed us this method last week.\n\nQuiz: Solve x²-x-12=0 and verify by substitution.",
+  "reference": "NERDC SSS2 Mathematics lesson on quadratic equations with Nigerian student examples, structured objectives, activities, and assessment.",
+  "content_type": "LESSON_PLAN",
+  "subject": "mathematics",
+  "topic": "Quadratic Equations",
+  "education_level": "SSS2",
+  "curriculum_board": "NERDC",
+  "expected_bloom": "APPLY",
+  "expected_language": "en",
+  "expected_skills": ["Problem Solving", "Numerical Reasoning"],
+  "detected_skills": ["Problem Solving"],
+  "ablation_condition": "no_raq",
+  "known_failures": ["cultural_flag_check", "format_compliance", "bloom_verb_presence"],
+  "notes": "Raw model output: uses Western names (John, Mary, Peter, James, William, Elizabeth, Michael), no labelled Objective/Activity/Assessment sections, uses 'learn/try' instead of APPLY-level verbs (solve/calculate/apply)."
+}

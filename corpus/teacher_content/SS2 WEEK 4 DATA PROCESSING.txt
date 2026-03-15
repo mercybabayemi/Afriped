@@ -1,0 +1,108 @@
+ENGREG HIGH SCHOOL
+24, Bankole Street, Pedro, Shomolu, Lagos
+WEEK: 4FIRST TERMSESSION: 2024/2025
+SUBJECT: DATA PROCESSING
+TOPIC: NORMAL FORMS II
+CLASS:  SS 2
+DATE: 30th September - 4th October, 2024
+REFERENCE BOOKS:  A Textbook for Data Processing SS 2 by Adedapo F. O. et al Pages 7-10
+Data Processing Textbook for SS 2 by Aboyede Jegede 11- 14
+LEARNING PURPOSE: To provide learners with a foundational understanding of Data normalisation, definition of normal forms and types
+LESSON PERIOD: 1
+DURATION: 40 MINS
+LEARNING OBJECTIVE:  By the end of the lesson, students will be able to:
+Define data normalization
+Explain the definition normal forms and types
+KEYWORDS: Data Normalization, Normal form,
+De-normlization
+PREVIOUS LEARNING: The students are familiar with how database management system works.
+INSTRUCTIONAL MATERIALS:
+Interactive board, computer system, Internet
+LEARNING ACTIVITIES IN STEPS:
+Step 1: The teacher marks assignment and makes correction.
+Step 2: The teacher asks questions on previous knowledge
+Step 3: The teacher modifies students’ response and introduces the new topic
+Step 4: Students would be taken through the derailed explanation of the lesson content
+Step 5: Students ask questions on the content of the lesson
+Step 6: Students would be evaluated based on behavioural objectives
+Step 7: Students Assignments are given and notes and marked
+LEARNING TIME FOR EACH STEP:
+Step 1: 3mins
+Step 2: 2mins
+Step 3: 3mins
+Step 4: 20mins
+Step 5: 2mins
+Step 6: 7mins
+Step 7: 3mins
+LEARNING SKILLS:
+Critical thinking, creative thinking, communicating and leadership development
+ACTIVITY
+What's normal form in database.
+EVALUATIVE QUESTIONS:
+Define normalization
+What is over-normalization
+ASSIGNMENT
+State the problems facing normal form
+Normal Form
+Normal Form is a set of rules and guidelines used in database design to reduce data redundancy and ensure data integrity. The process of organizing data into normal forms is known as Normalization. Normalization helps in structuring the database in a way that minimizes duplication of data, ensures dependencies are logical, and optimizes data retrieval.
+Problems Facing Normal Form
+While Normalization is essential for efficient database design, it also comes with certain challenges:
+Complexity: Moving data into higher normal forms (such as 3NF or beyond) can result in increased complexity, as it requires splitting tables into multiple smaller ones, which may make the database harder to understand and manage.
+Performance Issues:  Highly normalized databases may require more complex queries with multiple table joins. This can lead to slower performance in read-heavy operations since retrieving data from multiple tables can be resource-intensive.
+Over-normalization: In some cases, excessive normalization can cause unnecessary splitting of data, leading to too many small tables and increased difficulty in managing the database.
+De-normalization Requirements: Sometimes, denormalization (combining tables back into larger ones) is necessary to improve performance in real-world applications, especially in systems that require fast data retrieval.
+ENGREG HIGH SCHOOL
+24, Bankole Street, Pedro, Shomolu, Lagos
+WEEK: 4FIRST TERMSESSION: 2024/2025
+SUBJECT: DATA PROCESSING
+TOPIC: TYPES OF NORMAL FORMS
+CLASS:  SS 2
+DATE: 30th September - 4th Octorber, 2024
+REFERENCE BOOKS:  A Textbook for Data Processing SS 2 by Adedapo F. O. et al Pages 1-7
+Data Processing Textbook for SS 2 by Aboyede Jegede 1 - 8
+LEARNING PURPOSE: To provide learners with a foundational understanding of data modelling, its types and approaches.
+LESSON PERIOD: 2
+DURATION: 40 MINS
+LEARNING OBJECTIVE:  By the end of the lesson, students will be able to:
+Explain First Normal form (1NF)
+Explain second normal form (2NF)
+Explain Third normal form (3NF)
+KEYWORDS: Data Normalization, Normal form
+PREVIOUS LEARNING: The students are familiar with how database management system.
+INSTRUCTIONAL MATERIALS:
+Interactive board, computer system, Internet
+LEARNING ACTIVITIES IN STEPS:
+Step 1: The teacher marks assignment and makes correction.
+Step 2: The teacher asks questions on previous knowledge
+Step 3: The teacher modifies students’ response and introduces the new topic
+Step 4: Students would be taken through the derailed explanation of the lesson content
+Step 5: Students ask questions on the content of the lesson
+Step 6: Students would be evaluated based on behavioural objectives
+Step 7: Students Assignments are given and notes and marked
+LEARNING TIME FOR EACH STEP:
+Step 1: 3mins
+Step 2: 2mins
+Step 3: 3mins
+Step 4: 20mins
+Step 5: 2mins
+Step 6: 7mins
+Step 7: 3mins
+LEARNING SKILLS:
+Critical thinking, creative thinking, communicating and leadership development
+ACTIVITY
+State the steps to create a form, query and report.
+EVALUATIVE QUESTIONS:
+State the Rules of 1NF
+State the rules of 2NF
+State the rules of 3NF
+ASSIGNMENT
+State five the problem with the table in the first form(1NF)
+Examples of Tables in First, Second, and Third Normal Form
+1.  First Normal Form (1NF): A table is in 1NF if all the columns contain atomic (indivisible) values, and each entry in the column must contain only one value.
+Example:
+2.  Second Normal Form (2NF):
+A table is in 2NF if it is in 1NF and all non-key attributes are fully dependent on the entire primary key (no partial dependency on part of the primary key).
+Example
+3. Third Normal Form (3NF)
+A table is in 3NF if it is in 2NF and no transitive dependency exists (non-key attributes are not dependent on other non-key attributes).
+Example

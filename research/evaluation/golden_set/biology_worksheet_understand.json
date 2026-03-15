@@ -1,0 +1,31 @@
+{
+  "generated": "WORKSHEET: Cell Structure and Function\nSubject: Biology | Class: JSS3 | Duration: 30 minutes | Board: NERDC\n\nName: ________________  Date: ________________  Class: ________________\n\n--- Section A: Definitions ---\n1. Explain in your own words what a cell is and why it is called the basic unit of life.\n\n2. Describe the THREE main parts of an animal cell and state the function of each part.\n\n3. Classify the following as animal cell or plant cell only, giving ONE reason for each:\n   a) A cell with a cell wall\n   b) A cell with a large vacuole\n   c) A cell with chloroplasts\n\n--- Section B: Interpret the Diagram ---\n4. Study the diagram of a plant cell below (refer to your textbook, page 47).\n   a) Identify the part labelled X and explain its role in photosynthesis.\n   b) Describe how the cell wall is different from the cell membrane.\n\n--- Section C: Short Answer ---\n5. Ngozi says that all living things are made of cells. Obiora disagrees and says rocks are also living because they contain minerals. Explain why Ngozi is correct, using TWO facts about living organisms.\n\n6. Summarise how mitochondria contribute to cell activities in ONE sentence.\n\n--- Bonus ---\n7. Describe what would happen to a plant cell if it were placed in salty water. Use the term 'osmosis' in your answer.",
+  "reference": "A JSS3 Biology worksheet on cell structure covering definitions, classification of animal vs plant cells, and diagram interpretation with local context.",
+  "content_type": "WORKSHEET",
+  "subject": "biology",
+  "topic": "Cell Structure and Function",
+  "education_level": "JSS3",
+  "curriculum_board": "NERDC",
+  "expected_bloom": "UNDERSTAND",
+  "expected_language": "en",
+  "expected_skills": ["Critical Thinking", "Active Learning"],
+  "detected_skills": ["Critical Thinking", "Active Learning"],
+  "validation": {
+    "status": "PASSED",
+    "rules_passed": [
+      "length_check",
+      "language_detection",
+      "bloom_verb_presence",
+      "cultural_flag_check",
+      "no_hallucinated_dates",
+      "no_explicit_content",
+      "curriculum_alignment",
+      "format_compliance"
+    ],
+    "rules_failed": [],
+    "judge_score": null,
+    "judge_dimensions": null,
+    "revision_count": 0,
+    "notes": []
+  }
+}

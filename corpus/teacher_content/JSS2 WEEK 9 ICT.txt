@@ -1,0 +1,107 @@
+ENGREG HIGH SCHOOL
+24, Bankole Street, Pedro, Shomolu, Lagos
+WEEK: 9FIRST TERMSESSION: 2024/2025
+SUBJECT: COMPUTER STUDIES
+TOPIC: NUMBER BASE
+CLASS:  JSS 2
+DATE: 4th November - November 8th, 2024
+REFERENCE BOOKS: New Computer Studies for JSS 2 by J.O.E Otuka et al Pages 27 - 30
+WABP ICT for JSS 2 by Vincent Hope et al Pages 27 - 30
+LEARNING PURPOSE:
+By studying number base. Students will be able to convert different bases
+LESSON PERIOD: 1
+DURATION: 40 MINS
+LEARNING OBJECTIVE:  By the end of the lesson, students will be able to:
+Define number base
+Decimal number system
+Binary number system
+KEYWORDS: Denary, Decimal
+PREVIOUS LEARNING: The students are familiar with computer language: binary
+INSTRUCTIONAL MATERIALS:
+Interactive board, computer system, Internet
+LEARNING ACTIVITIES IN STEPS:
+Step 1: The teacher marks assignment and makes correction.
+Step 2: The teacher asks questions on previous knowledge
+Step 3: The teacher modifies students’ response and introduces the new topic
+Step 4: Students would be taken through the derailed explanation of the lesson content
+Step 5: Students ask questions on the content of the lesson
+Step 6: Students would be evaluated based on behavioural objectives
+Step 7: Students Assignments are given and notes and marked
+LEARNING TIME FOR EACH STEP:
+Step 1: 3mins
+Step 2: 2mins
+Step 3: 3mins
+Step 4: 20mins
+Step 5: 2mins
+Step 6: 7mins
+Step 7: 3mins
+LEARNING SKILLS:
+Critical thinking, creative thinking, communicating and leadership development
+ACTIVITY
+1.Define number base system
+EVALUATIVE QUESTIONS:
+Define number base system
+Discuss number system
+Discuss binary number system
+ASSIGNMENT
+1.  Discuss the binary number system
+NUMBER BASE SYSTEM
+A number base is the number of digits or a combination of digits that a system of counting uses to represent numbers.
+A base can be any whole number greater than 0. The most used number system is the Decimal system, commonly known as base 10. The base of any number may be written beside the number, for example, 20g is read as 20 base 8.
+The Decimal Numbers System:
+These are numbers in everyday use. They are also called Denary numbers or numbers in base 10, which has the most important role in the development of science and technology. It has 10 symbols, these are: 0,1, 2, 3, 4, 5, 6, 7, 8, 9.
+The position of every digit has a weight which is a power of 10. Each position in the decimal system is 10 times more significant than the previous position i.e. the numeric value of a decimal number is determined by multiplying each digit of the number by the value of the position in which the digit appears and then adding the products.
+For example:
+22 = 2 * 10 ^ 1 + 2 * 10 ^ 0 = 2 * 10 + 2 * 0 = 20 + 2 = 22 10 or 22.
+The Binary Number System:
+The binary number system is a system that makes use of only the digits i.e. O and 1. The two digits are called binary digits or simply bits. It is referred to as a base 2 system. A computer can only understand the "on" and "off" state of a switch which is represented by 1 and 0 respectively. The binary number system uses positional notation but, in this case, each digit is multiplied by the appropriate power of two based on its position.
+For example: convert 223 2 to base 10
+223 2 = 2 * 2 ^ 2 + 2 * 2 ^ 1 + 3 * 2 ^ 0
+= 2 * 4 + 2 * 2 + 3 * 1
+= 8 + 4 + 3 =15 10
+ENGREG HIGH SCHOOL
+24, Bankole Street, Pedro, Shomolu, Lagos
+WEEK: 9FIRST TERMSESSION: 2024/2025
+SUBJECT: COMPUTER STUDIES
+TOPIC: NUMBER BASE II
+CLASS:  JSS 2
+DATE: 4th November - November 8th, 2024
+REFERENCE BOOKS: New Computer Studies for JSS 2 by J.O.E Otuka et al Pages 25 - 30
+WABP ICT for JSS 2 by Vincent Hope et al Pages 30 - 35
+LEARNING PURPOSE: The learners will be able to understand the concept of octal number system hexadecimal number system
+LESSON PERIOD: 2
+DURATION: 40 MINS
+LEARNING OBJECTIVE:  By the end of the lesson, students will be able to:
+1. Discuss octal number system
+2. Discuss Hexadecimal number system
+KEYWORDS: sub script and super script
+PREVIOUS LEARNING: The students are familiar with the components of a computer hardware.
+INSTRUCTIONAL MATERIALS:
+Interactive board, computer system, Internet
+LEARNING ACTIVITIES IN STEPS:
+Step 1: The teacher marks assignment and makes correction.
+Step 2: The teacher asks questions on previous knowledge
+Step 3: The teacher modifies students’ response and introduces the new topic
+Step 4: Students would be taken through the derailed explanation of the lesson content
+Step 5: Students ask questions on the content of the lesson
+Step 6: Students would be evaluated based on behavioural objectives
+Step 7: Students Assignments are given and notes and marked
+LEARNING TIME FOR EACH STEP:
+Step 1: 3mins
+Step 2: 2mins
+Step 3: 3mins
+Step 4: 20mins
+Step 5: 2mins
+Step 6: 7mins
+Step 7: 3mins
+LEARNING SKILLS:
+Critical thinking, creative thinking, communicating and leadership development
+ACTIVITY
+Discuss octal number system
+EVALUATIVE QUESTIONS:
+1. Discuss the octal number system
+2. Discuss the hexadecimal system
+ASSIGNMENT
+Discuss Hexadecimal system
+Hexadecimal Number System:
+This is a system that uses 16 digits i.e. 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, E, F; thus it is also known as the base 16 number system. Each digit position represents the power of 16. As the base is greater than 10, the number system is represented by letters (A-F) as seen above.

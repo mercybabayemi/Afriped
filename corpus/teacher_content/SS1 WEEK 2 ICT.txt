@@ -1,0 +1,128 @@
+ENGREG HIGH SCHOOL
+24, Bankole Street, Pedro, Shomolu, Lagos
+WEEK: 2FIRST TERMSESSION: 2024/2025
+SUBJECT: COMPUTER STUDIES
+TOPIC: OVERVIEW OF COMPUTER SYSTEM
+CLASS:  SS 1
+DATE: 16th – 20th September, 2024
+REFERENCE BOOKS: New Computer Studies for SS 1 by J.O.E Otuka et al Pages 1-9
+Online with computers for SS 1 by Adedapo F. O. et al 1 - 15
+LEARNING PURPOSE: To provide foundational knowledge on the computer and to learn how computers communicate information to the users.
+LESSON PERIOD: 1
+DURATION: 40 MINS
+LEARNING OBJECTIVE:  By the end of the lesson, students will be able to:
+Define Software
+Define Humanware/Peopleware.
+State differences between RAM and ROM
+KEYWORDS:
+Computer, Components, Hardware, Software, ROM, RAM.
+PREVIOUS LEARNING: The students are familiar with the definition of computer and its components.
+INSTRUCTIONAL MATERIALS:
+Interactive board, computer system, Internet
+LEARNING ACTIVITIES IN STEPS:
+Step 1: The teacher marks assignment and makes correction.
+Step 2: The teacher asks questions on previous knowledge
+Step 3: The teacher modifies students’ response and introduces the new topic
+Step 4: Students would be taken through the derailed explanation of the lesson content
+Step 5: Students ask questions on the content of the lesson
+Step 6: Students would be evaluated based on behavioural objectives
+Step 7: Students Assignments are given and notes and marked
+LEARNING TIME FOR EACH STEP:
+Step 1: 3mins
+Step 2: 2mins
+Step 3: 3mins
+Step 4: 20mins
+Step 5: 2mins
+Step 6: 7mins
+Step 7: 3mins
+LEARNING SKILLS:
+Critical thinking, creative thinking, communicating and leadership development
+ACTIVITY
+Define Software
+Define Humanware/Peopleware.
+EVALUATIVE QUESTIONS:
+Define Software
+Define Humanware/Peopleware.
+State five differences between RAM and ROM
+ASSIGNMENT
+State four differences between RAM and ROM
+DIFFERENCES BETWEEN RAM AND ROM
+Random Access Memory (RAM)
+Read-Only Memory (ROM)
+Memory
+Volatile Memory: Loses contents when powered off.
+Non-Volatile Memory: Retains contents when powered off.
+Storage
+Temporary Storage: Stores data and instructions for active tasks
+Permanent Storage: Stores unmodifiable data, typically firmware.
+Speed
+Very fast, allowing quick read/write access.
+Slower than RAM.
+Types
+Includes Static RAM (SRAM) and Dynamic RAM (DRAM), with DRAM being more common.
+Includes PROM, EPROM, and EEPROM.
+Function
+Stores data for running applications and the operating system.
+Contains BIOS for booting and hardware initialization.
+SOFTWARE
+The software is a term used to describe the collection (or set) of programs that can be run on a computer system. A program is a set of instructions that tells the computer what to do, when to do it and how to do it. There are two types of software, these include:
+System software: This software controls the computer hardware and the internal operations of the computer system. Examples include Windows OS, Linux OS, MAC OS etc
+Application software: These are software that enables the user to perform specific operation or task on the computer. Examples include: MS Word, MS Excel,  Corel draw, MS Access, MS PowerPoint, Impress, Prezi, etc,
+Utility Software: Programs that perform maintenance tasks (e.g., antivirus software, disk cleanup tools).
+HUMANWARE/PEOPLEWARE
+Humanware or Peopleware refers to the human aspect of computer systems, encompassing the individuals who design, develop, manage, and use the hardware and software components. This includes: System Analysts, Programmers/Developers, Network Administrators, Database Administrators, IT Support Technicians, etc.
+ENGREG HIGH SCHOOL
+24, Bankole Street, Pedro, Shomolu, Lagos
+WEEK: 2FIRST TERMSESSION: 2024/2025
+SUBJECT: COMPUTER STUDIES
+TOPIC: OVERVIEW OF COMPUTER SYSTEM
+CLASS:  SS 1
+DATE: 16th – 20th September, 2024
+REFERENCE BOOKS: New Computer Studies for SS 1 by J.O.E Otuka et al Pages 1-9
+Online with computers for SS 1 by Adedapo F. O. et al 1 - 15
+LEARNING PURPOSE: To provide foundational knowledge on the computer and to learn how computers communicate information to the users.
+LESSON PERIOD: 2
+DURATION: 40 MINS
+LEARNING OBJECTIVE:  By the end of the lesson, students will be able to:
+Explain the characteristics of a computer.
+KEYWORDS:
+Computer, Components, Hardware, Software, ROM, RAM.
+PREVIOUS LEARNING: The students are familiar with the definition of computer and its components.
+INSTRUCTIONAL MATERIALS:
+Interactive board, computer system, Internet
+LEARNING ACTIVITIES IN STEPS:
+Step 1: The teacher marks assignment and makes correction.
+Step 2: The teacher asks questions on previous knowledge
+Step 3: The teacher modifies students’ response and introduces the new topic
+Step 4: Students would be taken through the derailed explanation of the lesson content
+Step 5: Students ask questions on the content of the lesson
+Step 6: Students would be evaluated based on behavioural objectives
+Step 7: Students Assignments are given and notes and marked
+LEARNING TIME FOR EACH STEP:
+Step 1: 3mins
+Step 2: 2mins
+Step 3: 3mins
+Step 4: 20mins
+Step 5: 2mins
+Step 6: 7mins
+Step 7: 3mins
+LEARNING SKILLS:
+Critical thinking, creative thinking, communicating and leadership development
+ACTIVITY
+State three characteristics of a computer.
+EVALUATIVE QUESTIONS:
+State five characteristics of a computer.
+ASSIGNMENT
+Explain:
+Speed, Reliability, Versatility and Accuracy of a computer.
+CHARACTERISTICS OF A COMPUTER
+Speed: Computers can process data and execute instructions at extremely high speeds, often measured in gigahertz (GHz).
+Accuracy: Computers perform calculations and operations with a high degree of accuracy, reducing human error.
+Versatility: Computers can perform a wide range of tasks, from simple calculations to complex simulations.
+Reliability/Durability: Computers do not get tired like human; they can work continuously for days and weeks without any error.
+Memory and storage: Computers have vast storage capacities, both temporary (RAM) and permanent (HDD).
+Programmable: All tasks and activities performed by a computer are made possible by means of a program.
+Automation: Once programmed, computers can perform tasks automatically without human intervention.
+Diligence: Unlike humans, computers do not suffer from fatigue and can perform repetitive tasks consistently without error.
+Connectivity: Computers can connect to other systems and networks, enabling communication and data exchange.
+Multitasking: Modern computers can run multiple applications simultaneously, making them efficient for various tasks.

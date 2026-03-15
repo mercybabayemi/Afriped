@@ -1,0 +1,31 @@
+{
+  "id": "gen_lesson_plan_REMEMBER_UBEC_PRIMARY_6_Basic_Science_0142",
+  "generated": "LESSON PLAN\nSubject: Basic Science | Class: PRIMARY_6 | Board: UBEC\n\nObjective: By the end of this lesson, students will be able to name the key concepts in Basic Science as specified by the UBEC curriculum.\n\nActivity: Students work in groups of four. Each group receives a scenario card based on a familiar Nigerian context. They must name the relevant concept and present their findings to the class. Names used: Chidi, Fatima, Ngozi, Aminu, Taiwo, Adaeze.\n\nAssessment: Exit quiz of five questions. Students scoring below 40% receive guided practice. Marks allocated per UBEC continuous assessment guidelines.",
+  "reference": "Lesson Plan: Basic Science | UBEC | PRIMARY_6\nObjective: Students will define key concepts in Basic Science.\nActivity: Guided class exercise with Nigerian context examples.\nAssessment: Short quiz to check understanding.",
+  "metadata": {
+    "content_type": "lesson_plan",
+    "bloom_level": "REMEMBER",
+    "board": "UBEC",
+    "education_level": "PRIMARY_6",
+    "subject": "Basic Science",
+    "output_language": "en",
+    "generation_method": "systematic_parameter_variation"
+  },
+  "expected": {
+    "bloom_level": "REMEMBER",
+    "output_language": "en",
+    "skill_tags": [
+      "lesson_planning",
+      "curriculum_design",
+      "pedagogical_structuring"
+    ],
+    "format_markers": [
+      "objective",
+      "activity",
+      "assessment"
+    ]
+  },
+  "spot_check_required": true,
+  "human_validated": false,
+  "annotation_notes": ""
+}

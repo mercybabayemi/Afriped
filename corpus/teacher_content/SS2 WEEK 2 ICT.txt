@@ -1,0 +1,128 @@
+ENGREG HIGH SCHOOL
+24, Bankole Street, Pedro, Shomolu, Lagos
+WEEK: 2FIRST TERMSESSION: 2024/2025
+SUBJECT: COMPUTER STUDIES
+TOPIC: CENTRAL PROCESSING UNIT II
+CLASS:  SS 2
+DATE: 16th – 20th September, 2024
+REFERENCE BOOKS: New Computer Studies for SS 2 by J.O.E Otuka et al Pages 1-9
+Online with computers for SS 2 by Adedapo F. O. et al 1 - 15
+LEARNING PURPOSE: To provide foundational knowledge on the computer and to gain insight into the core processes that enable computing.
+LESSON PERIOD: 1
+DURATION: 40 MINS
+LEARNING OBJECTIVE:  By the end of the lesson, students will be able to:
+List the components of the CPU
+Explain each component of the CPU.
+State the functions of each component.
+KEYWORDS:
+CPU, Computer, Hardware, ALU, Registers.
+PREVIOUS LEARNING: The students are familiar with the CPU, its definition and function.
+INSTRUCTIONAL MATERIALS:
+Interactive board, computer system, Internet
+LEARNING ACTIVITIES IN STEPS:
+Step 1: The teacher marks assignment and makes correction.
+Step 2: The teacher asks questions on previous knowledge
+Step 3: The teacher modifies students’ response and introduces the new topic
+Step 4: Students would be taken through the derailed explanation of the lesson content
+Step 5: Students ask questions on the content of the lesson
+Step 6: Students would be evaluated based on behavioural objectives
+Step 7: Students Assignments are given and notes and marked
+LEARNING TIME FOR EACH STEP:
+Step 1: 3mins
+Step 2: 2mins
+Step 3: 3mins
+Step 4: 20mins
+Step 5: 2mins
+Step 6: 7mins
+Step 7: 3mins
+LEARNING SKILLS:
+Critical thinking, creative thinking, communicating and leadership development
+ACTIVITY
+List the three components of the CPU and explain any two.
+EVALUATIVE QUESTIONS:
+List the components of the CPU
+State the functions of each component.
+ASSIGNMENT
+State two functions of the ALU and control unit.
+COMPONENTS OF THE CPU
+The CPU comprises three main components, each working together to execute its functions:
+Arithmetic Logic Unit: This is the part of the CPU that performs all the arithmetic and logical computations.
+Control Unit: This unit is responsible for executing the results coming out of the ALU. It directs all the operations of the various components that make up the computer system, to ensure that they work together in harmony.
+Memory Unit: This is also called register. It is the storage area for instructions or data within the processor.
+Functions of the Arithmetic Logic Unit (ALU):
+- Executes arithmetic operations (addition, subtraction, multiplication, division).
+- Performs logical operations (AND, OR, NOT, XOR) and comparisons.
+Functions of the Control Unit (CU):
+- Fetches, decodes, and directs instructions.
+- Manages data flow between the CPU, memory, and input/output devices.
+- Oversees the operation of input and output (I/O) devices.
+- Interprets instructions.
+Functions of the Memory Unit (Registers):
+- Stores data and instructions temporarily or permanently.
+- Facilitates quick data access for the CPU.
+ENGREG HIGH SCHOOL
+24, Bankole Street, Pedro, Shomolu, Lagos
+WEEK: 2FIRST TERMSESSION: 2024/2025
+SUBJECT: COMPUTER STUDIES
+TOPIC: CENTRAL PROCESSING UNIT II
+CLASS:  SS 2
+DATE: 16th – 20th September, 2024
+REFERENCE BOOKS: New Computer Studies for SS 2 by J.O.E Otuka et al Pages 1-9
+Online with computers for SS 2 by Adedapo F. O. et al 1 - 15
+LEARNING PURPOSE: To provide foundational knowledge on the computer and to gain insight into the core processes that enable computing.
+LESSON PERIOD: 2
+DURATION: 40 MINS
+LEARNING OBJECTIVE:  By the end of the lesson, students will be able to:
+Identify components of the Memory.
+State the differences between RAM and ROM
+KEYWORDS:
+CPU, Computer, Hardware, ALU, Registers.
+PREVIOUS LEARNING: The students are familiar with the CPU, its definition and function.
+INSTRUCTIONAL MATERIALS:
+Interactive board, computer system, Internet
+LEARNING ACTIVITIES IN STEPS:
+Step 1: The teacher marks assignment and makes correction.
+Step 2: The teacher asks questions on previous knowledge
+Step 3: The teacher modifies students’ response and introduces the new topic
+Step 4: Students would be taken through the derailed explanation of the lesson content
+Step 5: Students ask questions on the content of the lesson
+Step 6: Students would be evaluated based on behavioural objectives
+Step 7: Students Assignments are given and notes and marked
+LEARNING TIME FOR EACH STEP:
+Step 1: 3mins
+Step 2: 2mins
+Step 3: 3mins
+Step 4: 20mins
+Step 5: 2mins
+Step 6: 7mins
+Step 7: 3mins
+LEARNING SKILLS:
+Critical thinking, creative thinking, communicating and leadership development
+ACTIVITY
+List and explain the two kinds of main memory.
+EVALUATIVE QUESTIONS:
+Identify the two components of the Memory.
+State four differences between RAM and ROM
+ASSIGNMENT
+Using Memory and Storage, differentiate between RAM and ROM.
+Main Memory includes:
+Random Access Memory (RAM): Volatile, temporary storage for active tasks.
+Read-Only Memory (ROM): Non-volatile, permanent storage for essential firmware.
+DIFFERENCES BETWEEN RAM AND ROM
+Random Access Memory (RAM)
+Read-Only Memory (ROM)
+Memory
+Volatile Memory: Loses contents when powered off.
+Non-Volatile Memory: Retains contents when powered off.
+Storage
+Temporary Storage: Stores data and instructions for active tasks
+Permanent Storage: Stores unmodifiable data, typically firmware.
+Speed
+Very fast, allowing quick read/write access.
+Slower than RAM.
+Types
+Includes Static RAM (SRAM) and Dynamic RAM (DRAM), with DRAM being more common.
+Includes PROM, EPROM, and EEPROM.
+Function
+Stores data for running applications and the operating system.
+Contains BIOS for booting and hardware initialization.
